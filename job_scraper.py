@@ -11,7 +11,10 @@ from bs4 import BeautifulSoup
 import json
 import os
 import hashlib
-from datetime import datetime
+from datetime import datetime, timezone, timedelta
+
+# Jobs older than this will be filtered out
+MAX_AGE_HOURS = 24
 
 # ─── CONFIG ──────────────────────────────────────────────────────────────────
 
@@ -117,6 +120,24 @@ def is_target_location(text):
 def clean_text(html_text):
     return BeautifulSoup(str(html_text), "html.parser").get_text(separator=" ").strip()
 
+def is_within_24hrs(published_parsed=None, published_str=None):
+    """Returns True if job was posted within last 24 hours"""
+    now = datetime.now(timezone.utc)
+    cutoff = now - timedelta(hours=MAX_AGE_HOURS)
+    try:
+        if published_parsed:
+            dt = datetime(*published_parsed[:6], tzinfo=timezone.utc)
+            return dt >= cutoff
+        if published_str:
+            from email.utils import parsedate_to_datetime
+            dt = parsedate_to_datetime(published_str)
+            if dt.tzinfo is None:
+                dt = dt.replace(tzinfo=timezone.utc)
+            return dt >= cutoff
+    except Exception:
+        pass
+    return True  # If date unparseable, include it
+
 def make_job(title, company, link, location, source, full_text, summary=""):
     return {
         "title": title[:80],
@@ -151,7 +172,7 @@ def scrape_indeed_rss():
     ]
     for query in queries:
         try:
-            url = f"https://www.indeed.com/rss?q={query}&l=United+States&sort=date&fromage=3"
+            url = f"https://www.indeed.com/rss?q={query}&l=United+States&sort=date&fromage=1"
             feed = feedparser.parse(url)
             for entry in feed.entries[:15]:
                 raw_title = entry.get("title", "")
@@ -168,6 +189,11 @@ def scrape_indeed_rss():
                 if is_disqualified(full_text):
                     continue
                 if not is_target_location(f"{location} {summary}"):
+                    continue
+                if not is_within_24hrs(
+                    published_parsed=entry.get("published_parsed"),
+                    published_str=entry.get("published")
+                ):
                     continue
 
                 jobs.append(make_job(title, company, link, location, "Indeed", full_text, summary[:200]))
@@ -195,7 +221,7 @@ def scrape_linkedin_rss():
     ]
     for kw in searches:
         try:
-            url = f"https://www.linkedin.com/jobs/search/?keywords={kw}&location=United+States&f_TPR=r10800&sortBy=DD"
+            url = f"https://www.linkedin.com/jobs/search/?keywords={kw}&location=United+States&f_TPR=r86400&sortBy=DD"
             resp = requests.get(url, headers=HEADERS, timeout=12)
             if resp.status_code != 200:
                 continue
@@ -251,6 +277,13 @@ def scrape_remoteok():
                     continue
                 if is_disqualified(full_text):
                     continue
+                # RemoteOK epoch timestamp filter (24hrs)
+                epoch = item.get("epoch", 0)
+                if epoch:
+                    from datetime import timezone, timedelta
+                    cutoff_epoch = (datetime.now(timezone.utc) - timedelta(hours=MAX_AGE_HOURS)).timestamp()
+                    if epoch < cutoff_epoch:
+                        continue
 
                 jobs.append(make_job(title, company, link, location, "RemoteOK", full_text, description[:200]))
         except Exception as e:
@@ -463,6 +496,13 @@ def scrape_lever_boards():
                     continue
                 if is_disqualified(full_text):
                     continue
+                # Lever createdAt timestamp filter (24hrs)
+                created_at = job.get("createdAt", 0)
+                if created_at:
+                    from datetime import timezone, timedelta
+                    cutoff_ms = (datetime.now(timezone.utc) - timedelta(hours=MAX_AGE_HOURS)).timestamp() * 1000
+                    if created_at < cutoff_ms:
+                        continue
 
                 jobs.append(make_job(title, company_name, link, location,
                                      f"Lever ({company_name})", full_text, description[:200]))
@@ -513,6 +553,178 @@ def scrape_simplify():
         print(f"Simplify error: {e}")
     return jobs
 
+
+
+
+def scrape_google_careers():
+    """Google Careers API — data science and analytics roles"""
+    jobs = []
+    queries = [
+        "data scientist", "machine learning engineer",
+        "data analyst", "ai engineer", "data engineer",
+        "research scientist", "applied scientist", "analytics engineer"
+    ]
+    try:
+        for query in queries:
+            url = f"https://careers.google.com/api/jobs/results/?q={query.replace(' ', '+')}&location=United+States&distance=50&page_size=20&sort_by=date"
+            resp = requests.get(url, headers=HEADERS, timeout=12)
+            if resp.status_code != 200:
+                continue
+            data = resp.json()
+            for job in data.get("jobs", [])[:10]:
+                title = job.get("title", "")
+                link = "https://careers.google.com/jobs/results/" + str(job.get("job_id", ""))
+                locations = job.get("locations", [{}])
+                location = locations[0].get("display", "USA") if locations else "USA"
+                description = clean_text(job.get("description", ""))
+                full_text = f"{title} {description} {location} Google"
+
+                if not is_relevant_title(title):
+                    continue
+                if is_disqualified(full_text):
+                    continue
+
+                # Google posts dates in apply_url or description — include all as Google is cap-subject sponsor
+                jobs.append({
+                    "title": title[:80],
+                    "company": "Google",
+                    "link": link,
+                    "location": location[:60],
+                    "source": "Google Careers",
+                    "h1b_signal": True,  # Google is a top H1B sponsor
+                    "summary": description[:200].strip(),
+                    "found_at": datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC"),
+                })
+    except Exception as e:
+        print(f"Google Careers error: {e}")
+    return jobs
+
+
+def scrape_meta_careers():
+    """Meta Careers API — data science and analytics roles"""
+    jobs = []
+    queries = [
+        "data scientist", "machine learning engineer",
+        "data analyst", "ai engineer", "research scientist"
+    ]
+    try:
+        for query in queries:
+            url = f"https://www.metacareers.com/graphql"
+            payload = {
+                "operationName": "SearchJobsQuery",
+                "variables": {
+                    "search_input": {
+                        "q": query,
+                        "divisions": [],
+                        "offices": [],
+                        "roles": [],
+                        "leadership_levels": [],
+                        "saved_jobs": [],
+                        "saved_searches": [],
+                        "sub_teams": [],
+                        "teams": [],
+                        "is_leadership": False,
+                        "is_remote_only": False,
+                        "sort_by_new": True,
+                    }
+                },
+                "query": "query SearchJobsQuery($search_input: JobSearchInput!) { job_search: job_search(input: $search_input) { jobs { id title location { city state country } post_date } } }"
+            }
+            resp = requests.post(url, json=payload, headers={**HEADERS, "Content-Type": "application/json"}, timeout=12)
+            if resp.status_code != 200:
+                continue
+            data = resp.json()
+            job_list = data.get("data", {}).get("job_search", {}).get("jobs", [])
+            for job in job_list[:10]:
+                title = job.get("title", "")
+                job_id = job.get("id", "")
+                link = f"https://www.metacareers.com/jobs/{job_id}/"
+                loc = job.get("location", {})
+                location = f"{loc.get('city','')}, {loc.get('state','')}" if loc else "USA"
+                full_text = f"{title} {location} Meta"
+
+                if not is_relevant_title(title):
+                    continue
+                if is_disqualified(full_text):
+                    continue
+
+                # Date filter
+                post_date = job.get("post_date", "")
+                if post_date:
+                    try:
+                        from datetime import timezone, timedelta
+                        dt = datetime.fromisoformat(post_date.replace("Z", "+00:00"))
+                        if dt < datetime.now(timezone.utc) - timedelta(hours=MAX_AGE_HOURS):
+                            continue
+                    except Exception:
+                        pass
+
+                jobs.append({
+                    "title": title[:80],
+                    "company": "Meta",
+                    "link": link,
+                    "location": location[:60],
+                    "source": "Meta Careers",
+                    "h1b_signal": True,  # Meta is a top H1B sponsor
+                    "summary": f"Data/ML role at Meta — {location}",
+                    "found_at": datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC"),
+                })
+    except Exception as e:
+        print(f"Meta Careers error: {e}")
+    return jobs
+
+
+def scrape_amazon_careers():
+    """Amazon Jobs API — data science and analytics roles"""
+    jobs = []
+    queries = [
+        "data scientist", "machine learning engineer",
+        "data analyst", "applied scientist", "data engineer"
+    ]
+    try:
+        for query in queries:
+            url = f"https://www.amazon.jobs/en/search.json?base_query={query.replace(' ', '+')}&loc_query=United+States&job_count=10&result_limit=10&sort=recent&category%5B%5D=data-science&category%5B%5D=machine-learning-science"
+            resp = requests.get(url, headers=HEADERS, timeout=12)
+            if resp.status_code != 200:
+                continue
+            data = resp.json()
+            for job in data.get("jobs", [])[:10]:
+                title = job.get("title", "")
+                job_path = job.get("job_path", "")
+                link = f"https://www.amazon.jobs{job_path}"
+                location = job.get("location", "USA")
+                description = clean_text(job.get("description", ""))
+                full_text = f"{title} {description} {location} Amazon"
+                posted_date = job.get("posted_date", "")
+
+                if not is_relevant_title(title):
+                    continue
+                if is_disqualified(full_text):
+                    continue
+
+                # Date filter — Amazon uses "June 24, 2026" format
+                if posted_date:
+                    try:
+                        from datetime import timezone, timedelta
+                        dt = datetime.strptime(posted_date, "%B %d, %Y").replace(tzinfo=timezone.utc)
+                        if dt < datetime.now(timezone.utc) - timedelta(hours=MAX_AGE_HOURS):
+                            continue
+                    except Exception:
+                        pass
+
+                jobs.append({
+                    "title": title[:80],
+                    "company": "Amazon",
+                    "link": link,
+                    "location": location[:60],
+                    "source": "Amazon Careers",
+                    "h1b_signal": True,  # Amazon is top H1B sponsor
+                    "summary": description[:200].strip(),
+                    "found_at": datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC"),
+                })
+    except Exception as e:
+        print(f"Amazon Careers error: {e}")
+    return jobs
 
 # ─── HTML GENERATOR ───────────────────────────────────────────────────────────
 
@@ -697,6 +909,9 @@ def main():
         ("Greenhouse (Direct)", scrape_greenhouse_boards),
         ("Lever (Direct)", scrape_lever_boards),
         ("Simplify", scrape_simplify),
+        ("Google Careers", scrape_google_careers),
+        ("Meta Careers", scrape_meta_careers),
+        ("Amazon Careers", scrape_amazon_careers),
     ]
 
     fresh = []
