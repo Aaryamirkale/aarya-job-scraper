@@ -1,5 +1,275 @@
 [
   {
+    "title": "Data Scientist I",
+    "company": "Esri",
+    "link": "https://www.linkedin.com/jobs/view/data-scientist-i-at-esri-4431891442?position=2&pageNum=0&refId=DlYJ2%2FD%2BYws0LnP%2B5acS9Q%3D%3D&trackingId=vEvOVhq6b2K9eKPI64RXkw%3D%3D",
+    "location": "St Louis, MO",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-06-24 22:23 UTC"
+  },
+  {
+    "title": "Associate Data Scientist, Marketing",
+    "company": "The Home Depot",
+    "link": "https://www.linkedin.com/jobs/view/associate-data-scientist-marketing-at-the-home-depot-4431291469?position=11&pageNum=0&refId=DlYJ2%2FD%2BYws0LnP%2B5acS9Q%3D%3D&trackingId=FyBuHv4Ysj8jkJKnJccp%2Bg%3D%3D",
+    "location": "Atlanta, GA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-06-24 22:23 UTC"
+  },
+  {
+    "title": "AI/ML Engineer ($250k-$400k + Equity) at Known",
+    "company": "Jack & Jill",
+    "link": "https://www.linkedin.com/jobs/view/ai-ml-engineer-%24250k-%24400k-%2B-equity-at-known-at-jack-jill-4431896262?position=6&pageNum=0&refId=DmQNjT0Ly9caG%2BJJZt0WvA%3D%3D&trackingId=cUwAkLcbDrwOP5T4DMN49w%3D%3D",
+    "location": "San Francisco, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-06-24 22:23 UTC"
+  },
+  {
+    "title": "Data Analyst",
+    "company": "IntePros",
+    "link": "https://www.linkedin.com/jobs/view/data-analyst-at-intepros-4432102720?position=2&pageNum=0&refId=t9YrN5EdO8WCACCeh3DEpg%3D%3D&trackingId=dqYMVlBfI7qBi5UES407Vw%3D%3D",
+    "location": "Nashville, TN",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-06-24 22:23 UTC"
+  },
+  {
+    "title": "Data Analyst",
+    "company": "Pop-Up Talent",
+    "link": "https://www.linkedin.com/jobs/view/data-analyst-at-pop-up-talent-4432516785?position=3&pageNum=0&refId=t9YrN5EdO8WCACCeh3DEpg%3D%3D&trackingId=wJ2vkMkzJpUHpQbKFbkEtA%3D%3D",
+    "location": "Los Angeles, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-06-24 22:23 UTC"
+  },
+  {
+    "title": "Petco Love - Data Analyst",
+    "company": "Petco",
+    "link": "https://www.linkedin.com/jobs/view/petco-love-data-analyst-at-petco-4392357648?position=4&pageNum=0&refId=t9YrN5EdO8WCACCeh3DEpg%3D%3D&trackingId=PHxlB%2BGfLL%2FpTGi08rlM7g%3D%3D",
+    "location": "San Diego, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-06-24 22:23 UTC"
+  },
+  {
+    "title": "Data Analyst",
+    "company": "ATC",
+    "link": "https://www.linkedin.com/jobs/view/data-analyst-at-atc-4431853850?position=5&pageNum=0&refId=t9YrN5EdO8WCACCeh3DEpg%3D%3D&trackingId=9majhkqC64HrMyCckxR1SA%3D%3D",
+    "location": "Texas, United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-06-24 22:23 UTC"
+  },
+  {
+    "title": "Data Analyst II",
+    "company": "Bestow",
+    "link": "https://www.linkedin.com/jobs/view/data-analyst-ii-at-bestow-4432479168?position=6&pageNum=0&refId=t9YrN5EdO8WCACCeh3DEpg%3D%3D&trackingId=CIZWgoVEK7ip5TSBqhxrRw%3D%3D",
+    "location": "United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-06-24 22:23 UTC"
+  },
+  {
+    "title": "Data Analyst",
+    "company": "DISH TV",
+    "link": "https://www.linkedin.com/jobs/view/data-analyst-at-dish-tv-4403905174?position=10&pageNum=0&refId=t9YrN5EdO8WCACCeh3DEpg%3D%3D&trackingId=YeG9Uj4zUBxUyqQjlfaTNg%3D%3D",
+    "location": "Englewood, CO",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-06-24 22:23 UTC"
+  },
+  {
+    "title": "Applied Machine Learning Engineer (All Levels)",
+    "company": "Allstate",
+    "link": "https://www.linkedin.com/jobs/view/applied-machine-learning-engineer-all-levels-at-allstate-4432107306?position=6&pageNum=0&refId=IkNoSCYYn%2Bk9Qwne%2BXk9lg%3D%3D&trackingId=1GYX9v2C01j6%2FgZ51lvpaw%3D%3D",
+    "location": "United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-06-24 22:23 UTC"
+  },
+  {
+    "title": "Founding ML Engineer ($180K + 1% Equity) at BehaviorAI",
+    "company": "Jack & Jill",
+    "link": "https://www.linkedin.com/jobs/view/founding-ml-engineer-%24180k-%2B-1%25-equity-at-behaviorai-at-jack-jill-4431879811?position=10&pageNum=0&refId=IkNoSCYYn%2Bk9Qwne%2BXk9lg%3D%3D&trackingId=HbiipN6HI8TnCQzAR5QFuA%3D%3D",
+    "location": "Brooklyn, NY",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-06-24 22:23 UTC"
+  },
+  {
+    "title": "Senior Business Intelligence Analyst",
+    "company": "Quantiphi",
+    "link": "https://www.linkedin.com/jobs/view/senior-business-intelligence-analyst-at-quantiphi-4429863870?position=1&pageNum=0&refId=rGS4UhRQ%2BCuFxoRBrZy1oQ%3D%3D&trackingId=a4sozYRMz%2FmeEcsRCGU%2BNA%3D%3D",
+    "location": "United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-06-24 22:23 UTC"
+  },
+  {
+    "title": "Business Intelligence Analyst",
+    "company": "MetaxurX Technologies",
+    "link": "https://www.linkedin.com/jobs/view/business-intelligence-analyst-at-metaxurx-technologies-4432107348?position=2&pageNum=0&refId=rGS4UhRQ%2BCuFxoRBrZy1oQ%3D%3D&trackingId=h0cNSD3U%2B%2BHjgEW4jykFyw%3D%3D",
+    "location": "Atlanta, GA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-06-24 22:23 UTC"
+  },
+  {
+    "title": "Senior Power BI / Data Analyst",
+    "company": "VC5 Consulting",
+    "link": "https://www.linkedin.com/jobs/view/senior-power-bi-data-analyst-at-vc5-consulting-4432802340?position=3&pageNum=0&refId=rGS4UhRQ%2BCuFxoRBrZy1oQ%3D%3D&trackingId=QFB6YNGvVOdkIlhgZIag5Q%3D%3D",
+    "location": "Houston, TX",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-06-24 22:23 UTC"
+  },
+  {
+    "title": "Reporting & BI Analyst job id: 008",
+    "company": "CEdge Inc.",
+    "link": "https://www.linkedin.com/jobs/view/reporting-bi-analyst-job-id-008-at-cedge-inc-4431875884?position=5&pageNum=0&refId=rGS4UhRQ%2BCuFxoRBrZy1oQ%3D%3D&trackingId=BXJDN5zJq6tu3dUxyG%2Fp4A%3D%3D",
+    "location": "St Louis, MO",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-06-24 22:23 UTC"
+  },
+  {
+    "title": "Power BI Data Analyst (HYBRID/NO C2C)",
+    "company": "Amerit Consulting",
+    "link": "https://www.linkedin.com/jobs/view/power-bi-data-analyst-hybrid-no-c2c-at-amerit-consulting-4432824255?position=8&pageNum=0&refId=rGS4UhRQ%2BCuFxoRBrZy1oQ%3D%3D&trackingId=ZGkzS7rMynuSLVc%2F%2BFkiCQ%3D%3D",
+    "location": "New York, NY",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-06-24 22:23 UTC"
+  },
+  {
+    "title": "BI Analyst",
+    "company": "Haystack",
+    "link": "https://www.linkedin.com/jobs/view/bi-analyst-at-haystack-4432859432?position=11&pageNum=0&refId=rGS4UhRQ%2BCuFxoRBrZy1oQ%3D%3D&trackingId=NKsV%2FMlbB2EmkLz7cuRLFQ%3D%3D",
+    "location": "Fort Worth, TX",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-06-24 22:23 UTC"
+  },
+  {
+    "title": "Business Intelligence Data Engineer",
+    "company": "Golden State Foods",
+    "link": "https://www.linkedin.com/jobs/view/business-intelligence-data-engineer-at-golden-state-foods-4425552641?position=2&pageNum=0&refId=%2BE57C%2FvaNElXVylCynew1Q%3D%3D&trackingId=7KoC1%2BXhhDfCJlQ8fS%2B%2BvA%3D%3D",
+    "location": "Frisco, TX",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-06-24 22:23 UTC"
+  },
+  {
+    "title": "Analytics Engineer 5",
+    "company": "Netflix",
+    "link": "https://www.linkedin.com/jobs/view/analytics-engineer-5-at-netflix-4401909192?position=3&pageNum=0&refId=%2BE57C%2FvaNElXVylCynew1Q%3D%3D&trackingId=3XUvIMoMsY%2F1xr1AiJvQCw%3D%3D",
+    "location": "Los Angeles, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-06-24 22:23 UTC"
+  },
+  {
+    "title": "Analytics Engineer",
+    "company": "Coinbase",
+    "link": "https://www.linkedin.com/jobs/view/analytics-engineer-at-coinbase-4432851493?position=10&pageNum=0&refId=%2BE57C%2FvaNElXVylCynew1Q%3D%3D&trackingId=n%2FzG5JhtJQxVy2xA9lrztg%3D%3D",
+    "location": "San Francisco, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-06-24 22:23 UTC"
+  },
+  {
+    "title": "Data Engineer, Data & Analytics",
+    "company": "Cast & Crew",
+    "link": "https://www.linkedin.com/jobs/view/data-engineer-data-analytics-at-cast-crew-4414491965?position=12&pageNum=0&refId=%2BE57C%2FvaNElXVylCynew1Q%3D%3D&trackingId=7a4WPcK3Maobzc1VDDyXrQ%3D%3D",
+    "location": "United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-06-24 22:23 UTC"
+  },
+  {
+    "title": "Healthcare Quality Data Analyst",
+    "company": "Cuyuna Regional Medical Center",
+    "link": "https://www.linkedin.com/jobs/view/healthcare-quality-data-analyst-at-cuyuna-regional-medical-center-4432840504?position=10&pageNum=0&refId=ewA12bz%2FfLLlv6HONUIVuw%3D%3D&trackingId=Gmho61RxqIkFL4aGSlvexg%3D%3D",
+    "location": "Crosby, MN",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-06-24 22:23 UTC"
+  },
+  {
+    "title": "Data Scientist (AI/ML Focus)",
+    "company": "SoTalent",
+    "link": "https://www.linkedin.com/jobs/view/data-scientist-ai-ml-focus-at-sotalent-4431888527?position=7&pageNum=0&refId=VtLIHUwKF6NeTWLo4DMqPw%3D%3D&trackingId=odSmfvN2G6ptYmFCU5xrEA%3D%3D",
+    "location": "San Antonio, TX",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-06-24 22:23 UTC"
+  },
+  {
+    "title": "Product Analyst Professional",
+    "company": "Freddie Mac",
+    "link": "https://www.linkedin.com/jobs/view/product-analyst-professional-at-freddie-mac-4431438461?position=8&pageNum=0&refId=VrdrLzseSEK0QPx68FyQMw%3D%3D&trackingId=sB%2FbFAfF9O1hOmUSwMD6XA%3D%3D",
+    "location": "McLean, VA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-06-24 22:23 UTC"
+  },
+  {
+    "title": "Research Scientist",
+    "company": "Pulpdent",
+    "link": "https://www.linkedin.com/jobs/view/research-scientist-at-pulpdent-4432830815?position=4&pageNum=0&refId=sVZhWFCR82kVypRtHzXDag%3D%3D&trackingId=G%2F9WRh3bnicQ3KcmXeX3ow%3D%3D",
+    "location": "Watertown, MA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-06-24 22:23 UTC"
+  },
+  {
+    "title": "Research Scientist II; Chemical Development",
+    "company": "Curia",
+    "link": "https://www.linkedin.com/jobs/view/research-scientist-ii-chemical-development-at-curia-4411545339?position=12&pageNum=0&refId=sVZhWFCR82kVypRtHzXDag%3D%3D&trackingId=U9aSJnMSWqrz%2Fc%2BVOV887g%3D%3D",
+    "location": "Albany, NY",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-06-24 22:23 UTC"
+  },
+  {
+    "title": "Applied Scientist II, Perception",
+    "company": "Amazon",
+    "link": "https://www.amazon.jobs/en/jobs/10458322/applied-scientist-ii-perception",
+    "location": "US, CA, San Francisco",
+    "source": "Amazon Careers",
+    "h1b_signal": true,
+    "summary": "Amazon is on a mission to redefine the future of automation \u2014 and we're looking for exceptional talent to help lead the way. We are building the next generation of advanced robotic systems that seamle",
+    "found_at": "2026-06-24 22:24 UTC"
+  },
+  {
     "title": "Business Data Scientist, YouTube Marketing",
     "company": "Google",
     "link": "https://www.linkedin.com/jobs/view/business-data-scientist-youtube-marketing-at-google-4432837910?position=7&pageNum=0&refId=qizKhjzNxClsN2MOOi5Zfw%3D%3D&trackingId=2d6usNUDowQ0nHyZIih0SQ%3D%3D",
