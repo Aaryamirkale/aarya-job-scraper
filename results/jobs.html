@@ -1,0 +1,2351 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <title>Aarya's Job Board — Jun 24 2026</title>
+    <style>
+        * { box-sizing:border-box; }
+        body { font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;
+                background:#f3f4f6;margin:0;padding:16px; }
+        input { width:100%;padding:10px 14px;border:1px solid #d1d5db;border-radius:8px;
+                font-size:14px;margin-bottom:12px;outline:none; }
+        input:focus { border-color:#2563eb;box-shadow:0 0 0 2px rgba(37,99,235,0.15); }
+        .job-row:hover { background:#f8faff; }
+        @media(max-width:600px) { td:nth-child(4),td:nth-child(5),th:nth-child(4),th:nth-child(5) { display:none; } }
+    </style>
+</head>
+<body>
+<div style="max-width:1200px;margin:0 auto;">
+
+    <div style="background:linear-gradient(135deg,#1e3a5f,#1d4ed8);color:white;
+                padding:22px 24px;border-radius:12px;margin-bottom:20px;">
+        <h1 style="margin:0;font-size:22px;">🎯 Aarya's Job Board</h1>
+        <p style="margin:6px 0 0;opacity:0.85;font-size:14px;">
+            107 roles tracked &bull; 12 H1B signal &bull;
+            Updated: Jun 24, 2026 17:00 UTC &bull;
+            Runs every 3 hours via GitHub Actions
+        </p>
+    </div>
+
+    <div style="background:white;padding:16px;border-radius:8px;margin-bottom:16px;
+                box-shadow:0 1px 3px rgba(0,0,0,0.08);">
+        <input type="text" id="search" placeholder="🔍 Search by title, company, location, or source..."
+               oninput="filterJobs()">
+        <div style="display:flex;gap:6px;flex-wrap:wrap;margin-bottom:10px;">
+            <span style="background:#dcfce7;color:#16a34a;padding:4px 12px;border-radius:20px;font-size:13px;font-weight:600;">
+                🟢 12 H1B Signal
+            </span>
+            <span style="background:#fef3c7;color:#d97706;padding:4px 12px;border-radius:20px;font-size:13px;font-weight:600;">
+                🟡 95 Verify Sponsorship
+            </span>
+            <span style="background:#eff6ff;color:#2563eb;padding:4px 12px;border-radius:20px;font-size:13px;font-weight:600;">
+                📋 107 Total
+            </span>
+        </div>
+        <div style="display:flex;gap:4px;flex-wrap:wrap;"><span style="background:#f3f4f6;color:#374151;padding:3px 10px;border-radius:20px;font-size:12px;margin:2px;">LinkedIn: 69</span><span style="background:#f3f4f6;color:#374151;padding:3px 10px;border-radius:20px;font-size:12px;margin:2px;">RemoteOK: 19</span><span style="background:#f3f4f6;color:#374151;padding:3px 10px;border-radius:20px;font-size:12px;margin:2px;">Direct: 12</span><span style="background:#f3f4f6;color:#374151;padding:3px 10px;border-radius:20px;font-size:12px;margin:2px;">HN Who's Hiring: 7</span></div>
+    </div>
+
+    <div id="job-content">
+        
+        <h2 style="color:#16a34a;margin:28px 0 10px;font-size:17px;">🟢 H1B Sponsor Signal (12)</h2>
+        <div style="overflow-x:auto;border-radius:8px;box-shadow:0 1px 3px rgba(0,0,0,0.08);">
+        <table style="width:100%;border-collapse:collapse;background:white;">
+            <thead><tr style="background:#f9fafb;border-bottom:2px solid #e5e7eb;">
+                <th style="padding:9px 8px;text-align:left;font-size:11px;color:#6b7280;text-transform:uppercase;letter-spacing:.05em;">Role</th>
+                <th style="padding:9px 8px;text-align:left;font-size:11px;color:#6b7280;text-transform:uppercase;letter-spacing:.05em;">Company</th>
+                <th style="padding:9px 8px;text-align:left;font-size:11px;color:#6b7280;text-transform:uppercase;letter-spacing:.05em;">Location</th>
+                <th style="padding:9px 8px;text-align:left;font-size:11px;color:#6b7280;text-transform:uppercase;letter-spacing:.05em;">H1B</th>
+                <th style="padding:9px 8px;text-align:left;font-size:11px;color:#6b7280;text-transform:uppercase;letter-spacing:.05em;">Source</th>
+                <th style="padding:9px 8px;text-align:left;font-size:11px;color:#6b7280;text-transform:uppercase;letter-spacing:.05em;">Found</th>
+                <th style="padding:9px 8px;"></th>
+            </tr></thead>
+            <tbody>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://flatiron.com/careers/open-positions/job?gh_jid=7844431" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   Data Engineer, Customer Data Solutions</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;"><p>Reimagine the infrastructure of cancer care within a community that values integrity, inspires gr...</div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">Flatiron Health</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">NY office</td>
+            <td style="padding:12px 8px;">
+                <span style="background:#dcfce7;color:#16a34a;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">✓ H1B</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#16a34a;">Direct (Flatiron Health)</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://flatiron.com/careers/open-positions/job?gh_jid=7844431" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://flatiron.com/careers/open-positions/job?gh_jid=7899311" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   Research Scientist</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;"><p>Reimagine the infrastructure of cancer care within a community that values integrity, inspires gr...</div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">Flatiron Health</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">Durham office</td>
+            <td style="padding:12px 8px;">
+                <span style="background:#dcfce7;color:#16a34a;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">✓ H1B</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#16a34a;">Direct (Flatiron Health)</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://flatiron.com/careers/open-positions/job?gh_jid=7899311" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://flatiron.com/careers/open-positions/job?gh_jid=7967320" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   Senior Applied AI Data Scientist</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;"><p>Reimagine the infrastructure of cancer care within a community that values integrity, inspires gr...</div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">Flatiron Health</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">NY office</td>
+            <td style="padding:12px 8px;">
+                <span style="background:#dcfce7;color:#16a34a;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">✓ H1B</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#16a34a;">Direct (Flatiron Health)</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://flatiron.com/careers/open-positions/job?gh_jid=7967320" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://flatiron.com/careers/open-positions/job?gh_jid=8013378" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   Senior Data Scientist (12 months Fixed Term)</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;"><p>We’re looking for a Senior Data Scientist <strong>for</strong> <strong>12 months</strong> to help...</div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">Flatiron Health</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">London office</td>
+            <td style="padding:12px 8px;">
+                <span style="background:#dcfce7;color:#16a34a;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">✓ H1B</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#16a34a;">Direct (Flatiron Health)</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://flatiron.com/careers/open-positions/job?gh_jid=8013378" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://flatiron.com/careers/open-positions/job?gh_jid=7899298" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   Senior Research Scientist (RWE) - Custom Solutions and Services</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;"><p>Reimagine the infrastructure of cancer care within a community that values integrity, inspires gr...</div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">Flatiron Health</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">Durham office</td>
+            <td style="padding:12px 8px;">
+                <span style="background:#dcfce7;color:#16a34a;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">✓ H1B</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#16a34a;">Direct (Flatiron Health)</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://flatiron.com/careers/open-positions/job?gh_jid=7899298" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://job-boards.greenhouse.io/gumgum/jobs/7703520003" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   Data Scientist I</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;"><div class="content-intro"><p>GumGum is The Mindset Company™ transforming advertising. We’re an adve...</div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">GumGum</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">Santa Monica, California, United States</td>
+            <td style="padding:12px 8px;">
+                <span style="background:#dcfce7;color:#16a34a;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">✓ H1B</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#16a34a;">Direct (GumGum)</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://job-boards.greenhouse.io/gumgum/jobs/7703520003" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://www.fanduel.careers/open-positions?gh_jid=7684414" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   Commercial Data Analyst, Poker</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;"><p><strong>THE POSITION<br></strong>Our roster has an opening with your name on it</p>
+<p>We are loo...</div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">FanDuel</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">New York City</td>
+            <td style="padding:12px 8px;">
+                <span style="background:#dcfce7;color:#16a34a;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">✓ H1B</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#16a34a;">Direct (FanDuel)</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://www.fanduel.careers/open-positions?gh_jid=7684414" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://www.fanduel.careers/open-positions?gh_jid=7798466" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   Data Engineer</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;"><p><strong>THE POSITION<br></strong>Our roster has an opening with your name on it</p>
+<p>We are loo...</div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">FanDuel</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">New York City</td>
+            <td style="padding:12px 8px;">
+                <span style="background:#dcfce7;color:#16a34a;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">✓ H1B</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#16a34a;">Direct (FanDuel)</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://www.fanduel.careers/open-positions?gh_jid=7798466" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://job-boards.greenhouse.io/upgrade/jobs/4706312005" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   Junior Business & Data Analyst</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;"><div class="content-intro"><p><span style="color: rgb(58, 59, 65);"><em><span style="font-size: 10pt...</div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">Upgrade</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">United States (Remote)</td>
+            <td style="padding:12px 8px;">
+                <span style="background:#dcfce7;color:#16a34a;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">✓ H1B</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#16a34a;">Direct (Upgrade)</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://job-boards.greenhouse.io/upgrade/jobs/4706312005" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://job-boards.greenhouse.io/upgrade/jobs/4706311005" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   Senior Business & Data Analyst</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;"><div class="content-intro"><p><span style="color: rgb(58, 59, 65);"><em><span style="font-size: 10pt...</div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">Upgrade</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">United States (Remote)</td>
+            <td style="padding:12px 8px;">
+                <span style="background:#dcfce7;color:#16a34a;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">✓ H1B</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#16a34a;">Direct (Upgrade)</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://job-boards.greenhouse.io/upgrade/jobs/4706311005" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://job-boards.greenhouse.io/bandwidth/jobs/7951507" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   AI Engineer (Research & Development)</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;"><p><strong>Who We Are:</strong></p>
+<div>
+<p><strong>Bandwidth</strong>, a prior “Best of EC” award ...</div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">Bandwidth</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">Raleigh, NC</td>
+            <td style="padding:12px 8px;">
+                <span style="background:#dcfce7;color:#16a34a;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">✓ H1B</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#16a34a;">Direct (Bandwidth)</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://job-boards.greenhouse.io/bandwidth/jobs/7951507" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://job-boards.greenhouse.io/bandwidth/jobs/8001620" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   Applied AI Engineer</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;"><p><strong>Who We Are:</strong></p>
+<div>
+<p><strong>Bandwidth</strong>, a prior “Best of EC” award ...</div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">Bandwidth</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">Raleigh, NC</td>
+            <td style="padding:12px 8px;">
+                <span style="background:#dcfce7;color:#16a34a;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">✓ H1B</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#16a34a;">Direct (Bandwidth)</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://job-boards.greenhouse.io/bandwidth/jobs/8001620" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr></tbody>
+        </table></div>
+        
+        <h2 style="color:#d97706;margin:28px 0 10px;font-size:17px;">🟡 Verify Sponsorship Directly (95)</h2>
+        <div style="overflow-x:auto;border-radius:8px;box-shadow:0 1px 3px rgba(0,0,0,0.08);">
+        <table style="width:100%;border-collapse:collapse;background:white;">
+            <thead><tr style="background:#f9fafb;border-bottom:2px solid #e5e7eb;">
+                <th style="padding:9px 8px;text-align:left;font-size:11px;color:#6b7280;text-transform:uppercase;letter-spacing:.05em;">Role</th>
+                <th style="padding:9px 8px;text-align:left;font-size:11px;color:#6b7280;text-transform:uppercase;letter-spacing:.05em;">Company</th>
+                <th style="padding:9px 8px;text-align:left;font-size:11px;color:#6b7280;text-transform:uppercase;letter-spacing:.05em;">Location</th>
+                <th style="padding:9px 8px;text-align:left;font-size:11px;color:#6b7280;text-transform:uppercase;letter-spacing:.05em;">H1B</th>
+                <th style="padding:9px 8px;text-align:left;font-size:11px;color:#6b7280;text-transform:uppercase;letter-spacing:.05em;">Source</th>
+                <th style="padding:9px 8px;text-align:left;font-size:11px;color:#6b7280;text-transform:uppercase;letter-spacing:.05em;">Found</th>
+                <th style="padding:9px 8px;"></th>
+            </tr></thead>
+            <tbody>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/data-scientist-new-grad-at-sentilink-4405203620?position=1&pageNum=0&refId=zcf6dgObh3qioleSl%2FxW4w%3D%3D&trackingId=8niTRKW%2FEHY1H4ZMtVB%2BWA%3D%3D" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   Data Scientist, New Grad</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;"></div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">SentiLink</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">Chicago, IL</td>
+            <td style="padding:12px 8px;">
+                <span style="background:#fef3c7;color:#d97706;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">? Verify</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#0a66c2;">LinkedIn</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/data-scientist-new-grad-at-sentilink-4405203620?position=1&pageNum=0&refId=zcf6dgObh3qioleSl%2FxW4w%3D%3D&trackingId=8niTRKW%2FEHY1H4ZMtVB%2BWA%3D%3D" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/data-scientist-ai-ml-at-mesavita-engineering-llc-4432809591?position=2&pageNum=0&refId=zcf6dgObh3qioleSl%2FxW4w%3D%3D&trackingId=ih4yW5lhhSbuMY5gumL7rw%3D%3D" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   Data Scientist AI/ML</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;"></div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">Mesavita Engineering, LLC</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">Annapolis Junction, MD</td>
+            <td style="padding:12px 8px;">
+                <span style="background:#fef3c7;color:#d97706;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">? Verify</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#0a66c2;">LinkedIn</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/data-scientist-ai-ml-at-mesavita-engineering-llc-4432809591?position=2&pageNum=0&refId=zcf6dgObh3qioleSl%2FxW4w%3D%3D&trackingId=ih4yW5lhhSbuMY5gumL7rw%3D%3D" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/senior-data-scientist-ai-engineer-3878-at-navarro-research-and-engineering-4429869056?position=3&pageNum=0&refId=zcf6dgObh3qioleSl%2FxW4w%3D%3D&trackingId=H3kUA2cH789GNH3hmbL4OQ%3D%3D" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   Senior Data Scientist / AI Engineer (3878)</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;"></div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">Navarro Research and Engineering</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">Oak Ridge, TN</td>
+            <td style="padding:12px 8px;">
+                <span style="background:#fef3c7;color:#d97706;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">? Verify</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#0a66c2;">LinkedIn</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/senior-data-scientist-ai-engineer-3878-at-navarro-research-and-engineering-4429869056?position=3&pageNum=0&refId=zcf6dgObh3qioleSl%2FxW4w%3D%3D&trackingId=H3kUA2cH789GNH3hmbL4OQ%3D%3D" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/machine-learning-engineer-at-fetchjobs-co-4431861349?position=4&pageNum=0&refId=zcf6dgObh3qioleSl%2FxW4w%3D%3D&trackingId=BrEDzzwzO%2BPCHCxRzWwE%2BA%3D%3D" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   Machine Learning Engineer</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;"></div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">FetchJobs.co</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">United States</td>
+            <td style="padding:12px 8px;">
+                <span style="background:#fef3c7;color:#d97706;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">? Verify</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#0a66c2;">LinkedIn</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/machine-learning-engineer-at-fetchjobs-co-4431861349?position=4&pageNum=0&refId=zcf6dgObh3qioleSl%2FxW4w%3D%3D&trackingId=BrEDzzwzO%2BPCHCxRzWwE%2BA%3D%3D" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/data-scientist-at-hirepower-staffing-solution-4429884473?position=5&pageNum=0&refId=zcf6dgObh3qioleSl%2FxW4w%3D%3D&trackingId=F8WHrtNS8pHrwr4SC%2BsxbA%3D%3D" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   Data Scientist</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;"></div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">HirePower Staffing Solution</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">Denver, CO</td>
+            <td style="padding:12px 8px;">
+                <span style="background:#fef3c7;color:#d97706;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">? Verify</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#0a66c2;">LinkedIn</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/data-scientist-at-hirepower-staffing-solution-4429884473?position=5&pageNum=0&refId=zcf6dgObh3qioleSl%2FxW4w%3D%3D&trackingId=F8WHrtNS8pHrwr4SC%2BsxbA%3D%3D" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/machine-learning-engineer-ii-at-tinder-4423983801?position=6&pageNum=0&refId=zcf6dgObh3qioleSl%2FxW4w%3D%3D&trackingId=iqcV6gIISXu8HOVC5SGUeA%3D%3D" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   Machine Learning Engineer II</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;"></div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">Tinder</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">Palo Alto, CA</td>
+            <td style="padding:12px 8px;">
+                <span style="background:#fef3c7;color:#d97706;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">? Verify</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#0a66c2;">LinkedIn</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/machine-learning-engineer-ii-at-tinder-4423983801?position=6&pageNum=0&refId=zcf6dgObh3qioleSl%2FxW4w%3D%3D&trackingId=iqcV6gIISXu8HOVC5SGUeA%3D%3D" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/jr-data-scientist-at-tech-consulting-4432241711?position=7&pageNum=0&refId=zcf6dgObh3qioleSl%2FxW4w%3D%3D&trackingId=LLOAiZHGVKFUYPH6op7naA%3D%3D" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   Jr Data Scientist</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;"></div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">Tech Consulting</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">Maryland, United States</td>
+            <td style="padding:12px 8px;">
+                <span style="background:#fef3c7;color:#d97706;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">? Verify</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#0a66c2;">LinkedIn</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/jr-data-scientist-at-tech-consulting-4432241711?position=7&pageNum=0&refId=zcf6dgObh3qioleSl%2FxW4w%3D%3D&trackingId=LLOAiZHGVKFUYPH6op7naA%3D%3D" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/sr-research-data-scientist-at-roku-4432803508?position=8&pageNum=0&refId=zcf6dgObh3qioleSl%2FxW4w%3D%3D&trackingId=FFGBJ%2BTUP1sDZPjRz8J0gw%3D%3D" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   Sr. Research Data Scientist</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;"></div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">Roku</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">San Jose, CA</td>
+            <td style="padding:12px 8px;">
+                <span style="background:#fef3c7;color:#d97706;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">? Verify</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#0a66c2;">LinkedIn</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/sr-research-data-scientist-at-roku-4432803508?position=8&pageNum=0&refId=zcf6dgObh3qioleSl%2FxW4w%3D%3D&trackingId=FFGBJ%2BTUP1sDZPjRz8J0gw%3D%3D" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/data-scientist-at-pinterest-4422633483?position=9&pageNum=0&refId=zcf6dgObh3qioleSl%2FxW4w%3D%3D&trackingId=AwCF94ot3Y%2F8yURS2mCMYA%3D%3D" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   Data Scientist</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;"></div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">Pinterest</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">California, United States</td>
+            <td style="padding:12px 8px;">
+                <span style="background:#fef3c7;color:#d97706;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">? Verify</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#0a66c2;">LinkedIn</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/data-scientist-at-pinterest-4422633483?position=9&pageNum=0&refId=zcf6dgObh3qioleSl%2FxW4w%3D%3D&trackingId=AwCF94ot3Y%2F8yURS2mCMYA%3D%3D" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/data-scientist-at-agile-defense-4421986311?position=10&pageNum=0&refId=zcf6dgObh3qioleSl%2FxW4w%3D%3D&trackingId=B2ICfS03DRMHBHoQn3lqSg%3D%3D" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   Data Scientist</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;"></div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">Agile Defense</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">Doral, FL</td>
+            <td style="padding:12px 8px;">
+                <span style="background:#fef3c7;color:#d97706;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">? Verify</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#0a66c2;">LinkedIn</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/data-scientist-at-agile-defense-4421986311?position=10&pageNum=0&refId=zcf6dgObh3qioleSl%2FxW4w%3D%3D&trackingId=B2ICfS03DRMHBHoQn3lqSg%3D%3D" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/data-scientist-product-analytics-at-whatnot-4327121744?position=12&pageNum=0&refId=zcf6dgObh3qioleSl%2FxW4w%3D%3D&trackingId=XqvQo5rIo6Fps7Dn75iwEg%3D%3D" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   Data Scientist, Product Analytics</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;"></div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">Whatnot</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">New York, NY</td>
+            <td style="padding:12px 8px;">
+                <span style="background:#fef3c7;color:#d97706;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">? Verify</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#0a66c2;">LinkedIn</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/data-scientist-product-analytics-at-whatnot-4327121744?position=12&pageNum=0&refId=zcf6dgObh3qioleSl%2FxW4w%3D%3D&trackingId=XqvQo5rIo6Fps7Dn75iwEg%3D%3D" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/machine-learning-engineer-python-pytorch-distributed-training-optimisation-gpu-hybrid-san-jose-ca-at-enigma-4431876337?position=1&pageNum=0&refId=AftH%2BbG6UbsoAdYR8IgeLQ%3D%3D&trackingId=fjwke46AP2EApbWAU5Frow%3D%3D" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   Machine Learning Engineer | Python | Pytorch | Distributed Training | Optimisati</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;"></div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">Enigma</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">San Jose, CA</td>
+            <td style="padding:12px 8px;">
+                <span style="background:#fef3c7;color:#d97706;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">? Verify</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#0a66c2;">LinkedIn</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/machine-learning-engineer-python-pytorch-distributed-training-optimisation-gpu-hybrid-san-jose-ca-at-enigma-4431876337?position=1&pageNum=0&refId=AftH%2BbG6UbsoAdYR8IgeLQ%3D%3D&trackingId=fjwke46AP2EApbWAU5Frow%3D%3D" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/ai-ml-engineer-at-accenture-federal-services-4312341768?position=2&pageNum=0&refId=AftH%2BbG6UbsoAdYR8IgeLQ%3D%3D&trackingId=osv9xW%2FaUYfJbjFJq6XvDw%3D%3D" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   AI/ML Engineer</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;"></div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">Accenture Federal Services</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">Washington, DC</td>
+            <td style="padding:12px 8px;">
+                <span style="background:#fef3c7;color:#d97706;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">? Verify</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#0a66c2;">LinkedIn</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/ai-ml-engineer-at-accenture-federal-services-4312341768?position=2&pageNum=0&refId=AftH%2BbG6UbsoAdYR8IgeLQ%3D%3D&trackingId=osv9xW%2FaUYfJbjFJq6XvDw%3D%3D" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/ai-ml-engineer-at-morgan-stanley-4431872420?position=3&pageNum=0&refId=AftH%2BbG6UbsoAdYR8IgeLQ%3D%3D&trackingId=Aqz6TG1djahNQUT1qCiY6g%3D%3D" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   AI / ML Engineer</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;"></div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">Morgan Stanley</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">New York, NY</td>
+            <td style="padding:12px 8px;">
+                <span style="background:#fef3c7;color:#d97706;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">? Verify</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#0a66c2;">LinkedIn</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/ai-ml-engineer-at-morgan-stanley-4431872420?position=3&pageNum=0&refId=AftH%2BbG6UbsoAdYR8IgeLQ%3D%3D&trackingId=Aqz6TG1djahNQUT1qCiY6g%3D%3D" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/machine-learning-engineer-at-harvard-medical-school-4392942717?position=4&pageNum=0&refId=AftH%2BbG6UbsoAdYR8IgeLQ%3D%3D&trackingId=k134la2ms%2FAS37rknD%2BPJA%3D%3D" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   Machine Learning Engineer</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;"></div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">Harvard Medical School</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">Boston, MA</td>
+            <td style="padding:12px 8px;">
+                <span style="background:#fef3c7;color:#d97706;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">? Verify</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#0a66c2;">LinkedIn</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/machine-learning-engineer-at-harvard-medical-school-4392942717?position=4&pageNum=0&refId=AftH%2BbG6UbsoAdYR8IgeLQ%3D%3D&trackingId=k134la2ms%2FAS37rknD%2BPJA%3D%3D" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/open-source-machine-learning-engineer-us-remote-at-mozilla-ventures-4432800444?position=5&pageNum=0&refId=AftH%2BbG6UbsoAdYR8IgeLQ%3D%3D&trackingId=zZKi9LucxtYBtGFLXcBVBw%3D%3D" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   Open-Source Machine Learning Engineer - US Remote</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;"></div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">Mozilla Ventures</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">New York, NY</td>
+            <td style="padding:12px 8px;">
+                <span style="background:#fef3c7;color:#d97706;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">? Verify</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#0a66c2;">LinkedIn</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/open-source-machine-learning-engineer-us-remote-at-mozilla-ventures-4432800444?position=5&pageNum=0&refId=AftH%2BbG6UbsoAdYR8IgeLQ%3D%3D&trackingId=zZKi9LucxtYBtGFLXcBVBw%3D%3D" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/cleared-ai-ml-engineer-at-accenture-federal-services-4413995766?position=6&pageNum=0&refId=AftH%2BbG6UbsoAdYR8IgeLQ%3D%3D&trackingId=UwVBxxMgLoIwq91jNLxEAQ%3D%3D" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   Cleared AI/ML Engineer</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;"></div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">Accenture Federal Services</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">Tampa, FL</td>
+            <td style="padding:12px 8px;">
+                <span style="background:#fef3c7;color:#d97706;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">? Verify</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#0a66c2;">LinkedIn</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/cleared-ai-ml-engineer-at-accenture-federal-services-4413995766?position=6&pageNum=0&refId=AftH%2BbG6UbsoAdYR8IgeLQ%3D%3D&trackingId=UwVBxxMgLoIwq91jNLxEAQ%3D%3D" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/ai-engineer-enterprise-at-trinity-technology-solutions-llc-4431854168?position=7&pageNum=0&refId=AftH%2BbG6UbsoAdYR8IgeLQ%3D%3D&trackingId=4IGFwf7ZhzDcFncPgqV%2Bdg%3D%3D" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   AI ENGINEER-ENTERPRISE</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;"></div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">Trinity Technology Solutions LLC</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">New York, United States</td>
+            <td style="padding:12px 8px;">
+                <span style="background:#fef3c7;color:#d97706;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">? Verify</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#0a66c2;">LinkedIn</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/ai-engineer-enterprise-at-trinity-technology-solutions-llc-4431854168?position=7&pageNum=0&refId=AftH%2BbG6UbsoAdYR8IgeLQ%3D%3D&trackingId=4IGFwf7ZhzDcFncPgqV%2Bdg%3D%3D" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/machine-learning-engineer-at-confie-4431868036?position=9&pageNum=0&refId=AftH%2BbG6UbsoAdYR8IgeLQ%3D%3D&trackingId=idemHMq9rGpXO46lChkPCw%3D%3D" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   Machine Learning Engineer</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;"></div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">Confie</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">Texas, United States</td>
+            <td style="padding:12px 8px;">
+                <span style="background:#fef3c7;color:#d97706;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">? Verify</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#0a66c2;">LinkedIn</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/machine-learning-engineer-at-confie-4431868036?position=9&pageNum=0&refId=AftH%2BbG6UbsoAdYR8IgeLQ%3D%3D&trackingId=idemHMq9rGpXO46lChkPCw%3D%3D" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/machine-learning-engineer-r126-at-expedition-technology-4413151004?position=10&pageNum=0&refId=AftH%2BbG6UbsoAdYR8IgeLQ%3D%3D&trackingId=rdt348Zs58OuOXlQfyE9Fw%3D%3D" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   Machine Learning Engineer - R126</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;"></div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">Expedition Technology</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">Herndon, VA</td>
+            <td style="padding:12px 8px;">
+                <span style="background:#fef3c7;color:#d97706;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">? Verify</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#0a66c2;">LinkedIn</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/machine-learning-engineer-r126-at-expedition-technology-4413151004?position=10&pageNum=0&refId=AftH%2BbG6UbsoAdYR8IgeLQ%3D%3D&trackingId=rdt348Zs58OuOXlQfyE9Fw%3D%3D" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/software-engineer-ai-ml-engineering-at-mondrian-alpha-4428952258?position=12&pageNum=0&refId=AftH%2BbG6UbsoAdYR8IgeLQ%3D%3D&trackingId=bT9U43eScWqFJsByigTtmw%3D%3D" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   Software Engineer, AI/ML Engineering</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;"></div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">Mondrian Alpha</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">New York City Metropolitan Area</td>
+            <td style="padding:12px 8px;">
+                <span style="background:#fef3c7;color:#d97706;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">? Verify</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#0a66c2;">LinkedIn</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/software-engineer-ai-ml-engineering-at-mondrian-alpha-4428952258?position=12&pageNum=0&refId=AftH%2BbG6UbsoAdYR8IgeLQ%3D%3D&trackingId=bT9U43eScWqFJsByigTtmw%3D%3D" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/data-analyst-at-merakey-4432809207?position=1&pageNum=0&refId=faOZOI%2BFPdlAtVczds7nSg%3D%3D&trackingId=rs%2Bn1yfNCbJAht8w8sq8fw%3D%3D" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   Data Analyst</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;"></div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">Merakey</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">Lafayette, Louisiana Metropolitan Area</td>
+            <td style="padding:12px 8px;">
+                <span style="background:#fef3c7;color:#d97706;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">? Verify</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#0a66c2;">LinkedIn</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/data-analyst-at-merakey-4432809207?position=1&pageNum=0&refId=faOZOI%2BFPdlAtVczds7nSg%3D%3D&trackingId=rs%2Bn1yfNCbJAht8w8sq8fw%3D%3D" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/data-analyst-at-swooped-4431837721?position=2&pageNum=0&refId=faOZOI%2BFPdlAtVczds7nSg%3D%3D&trackingId=7vyaRlSqKx2vTfXI64BLeg%3D%3D" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   Data Analyst</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;"></div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">Swooped</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">United States</td>
+            <td style="padding:12px 8px;">
+                <span style="background:#fef3c7;color:#d97706;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">? Verify</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#0a66c2;">LinkedIn</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/data-analyst-at-swooped-4431837721?position=2&pageNum=0&refId=faOZOI%2BFPdlAtVczds7nSg%3D%3D&trackingId=7vyaRlSqKx2vTfXI64BLeg%3D%3D" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/data-analyst-at-aaratech-4431841362?position=3&pageNum=0&refId=faOZOI%2BFPdlAtVczds7nSg%3D%3D&trackingId=NmiYqp%2BLxgogw%2Fj6UesCgQ%3D%3D" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   Data Analyst</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;"></div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">AARATECH</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">Dallas-Fort Worth Metroplex</td>
+            <td style="padding:12px 8px;">
+                <span style="background:#fef3c7;color:#d97706;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">? Verify</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#0a66c2;">LinkedIn</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/data-analyst-at-aaratech-4431841362?position=3&pageNum=0&refId=faOZOI%2BFPdlAtVczds7nSg%3D%3D&trackingId=NmiYqp%2BLxgogw%2Fj6UesCgQ%3D%3D" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/data-analyst-at-russell-tobin-4431851371?position=4&pageNum=0&refId=faOZOI%2BFPdlAtVczds7nSg%3D%3D&trackingId=T9Abyf2EAZAGG%2B%2BXUGm%2B9A%3D%3D" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   Data Analyst</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;"></div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">Russell Tobin</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">United States</td>
+            <td style="padding:12px 8px;">
+                <span style="background:#fef3c7;color:#d97706;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">? Verify</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#0a66c2;">LinkedIn</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/data-analyst-at-russell-tobin-4431851371?position=4&pageNum=0&refId=faOZOI%2BFPdlAtVczds7nSg%3D%3D&trackingId=T9Abyf2EAZAGG%2B%2BXUGm%2B9A%3D%3D" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/data-analyst-at-synchrony-systems-inc-4432807979?position=12&pageNum=0&refId=faOZOI%2BFPdlAtVczds7nSg%3D%3D&trackingId=cMaSM%2BDfqqdDxxrwVOV3pQ%3D%3D" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   Data Analyst</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;"></div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">Synchrony Systems, Inc.</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">Atlanta, GA</td>
+            <td style="padding:12px 8px;">
+                <span style="background:#fef3c7;color:#d97706;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">? Verify</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#0a66c2;">LinkedIn</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/data-analyst-at-synchrony-systems-inc-4432807979?position=12&pageNum=0&refId=faOZOI%2BFPdlAtVczds7nSg%3D%3D&trackingId=cMaSM%2BDfqqdDxxrwVOV3pQ%3D%3D" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/machine-learning-engineer-at-terranox-ai-at-jack-jill-4431852286?position=3&pageNum=0&refId=7H3uQkmATOSoHAD7agCLnQ%3D%3D&trackingId=pTPA%2F8z3MXOCgc4Rh4%2BABg%3D%3D" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   Machine Learning Engineer at Terranox AI</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;"></div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">Jack & Jill</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">San Francisco, CA</td>
+            <td style="padding:12px 8px;">
+                <span style="background:#fef3c7;color:#d97706;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">? Verify</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#0a66c2;">LinkedIn</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/machine-learning-engineer-at-terranox-ai-at-jack-jill-4431852286?position=3&pageNum=0&refId=7H3uQkmATOSoHAD7agCLnQ%3D%3D&trackingId=pTPA%2F8z3MXOCgc4Rh4%2BABg%3D%3D" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/founding-machine-learning-engineer-%24180k-%24220k-%2B-equity-at-withshepherd-at-jack-jill-4431833443?position=6&pageNum=0&refId=7H3uQkmATOSoHAD7agCLnQ%3D%3D&trackingId=BsV42TmEATnDjQdCneBbtw%3D%3D" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   Founding Machine Learning Engineer ($180k-$220k + Equity) at Withshepherd</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;"></div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">Jack & Jill</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">San Francisco, CA</td>
+            <td style="padding:12px 8px;">
+                <span style="background:#fef3c7;color:#d97706;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">? Verify</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#0a66c2;">LinkedIn</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/founding-machine-learning-engineer-%24180k-%24220k-%2B-equity-at-withshepherd-at-jack-jill-4431833443?position=6&pageNum=0&refId=7H3uQkmATOSoHAD7agCLnQ%3D%3D&trackingId=BsV42TmEATnDjQdCneBbtw%3D%3D" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/machine-learning-engineer-remote-at-codegeniusrecruit-4431833779?position=9&pageNum=0&refId=7H3uQkmATOSoHAD7agCLnQ%3D%3D&trackingId=%2FFnQrOAj8yJwe0a44x95Jg%3D%3D" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   Machine Learning Engineer | Remote</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;"></div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">CodeGeniusRecruit</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">United States</td>
+            <td style="padding:12px 8px;">
+                <span style="background:#fef3c7;color:#d97706;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">? Verify</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#0a66c2;">LinkedIn</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/machine-learning-engineer-remote-at-codegeniusrecruit-4431833779?position=9&pageNum=0&refId=7H3uQkmATOSoHAD7agCLnQ%3D%3D&trackingId=%2FFnQrOAj8yJwe0a44x95Jg%3D%3D" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/senior-machine-learning-engineer-%24250k-%2B-%24100k-equity-at-omen-ai-at-jack-jill-4431834435?position=11&pageNum=0&refId=7H3uQkmATOSoHAD7agCLnQ%3D%3D&trackingId=AJ%2Fxg9Ys%2ByKIVTDwzaGvoQ%3D%3D" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   Senior Machine Learning Engineer ($250k + $100k Equity) at Omen AI</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;"></div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">Jack & Jill</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">San Francisco, CA</td>
+            <td style="padding:12px 8px;">
+                <span style="background:#fef3c7;color:#d97706;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">? Verify</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#0a66c2;">LinkedIn</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/senior-machine-learning-engineer-%24250k-%2B-%24100k-equity-at-omen-ai-at-jack-jill-4431834435?position=11&pageNum=0&refId=7H3uQkmATOSoHAD7agCLnQ%3D%3D&trackingId=AJ%2Fxg9Ys%2ByKIVTDwzaGvoQ%3D%3D" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/jr-data-engineer-at-gennte-technologies-4429877430?position=1&pageNum=0&refId=4bs89PHgmsVNs267MzFrPA%3D%3D&trackingId=b1cPNQrebTVKDz8CJBr%2BPQ%3D%3D" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   Jr Data Engineer</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;"></div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">GENNTE Technologies</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">Pittsburgh, PA</td>
+            <td style="padding:12px 8px;">
+                <span style="background:#fef3c7;color:#d97706;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">? Verify</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#0a66c2;">LinkedIn</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/jr-data-engineer-at-gennte-technologies-4429877430?position=1&pageNum=0&refId=4bs89PHgmsVNs267MzFrPA%3D%3D&trackingId=b1cPNQrebTVKDz8CJBr%2BPQ%3D%3D" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/data-engineer-at-figma-3970356046?position=2&pageNum=0&refId=4bs89PHgmsVNs267MzFrPA%3D%3D&trackingId=kItag8%2FPTioYlKpmd4VhDA%3D%3D" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   Data Engineer</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;"></div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">Figma</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">United States</td>
+            <td style="padding:12px 8px;">
+                <span style="background:#fef3c7;color:#d97706;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">? Verify</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#0a66c2;">LinkedIn</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/data-engineer-at-figma-3970356046?position=2&pageNum=0&refId=4bs89PHgmsVNs267MzFrPA%3D%3D&trackingId=kItag8%2FPTioYlKpmd4VhDA%3D%3D" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/junior-data-engineer-at-beaconfire-inc-4429865959?position=3&pageNum=0&refId=4bs89PHgmsVNs267MzFrPA%3D%3D&trackingId=r3HYJuTBus1zUot7IcVc7w%3D%3D" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   Junior Data Engineer</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;"></div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">BeaconFire Inc.</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">New York, United States</td>
+            <td style="padding:12px 8px;">
+                <span style="background:#fef3c7;color:#d97706;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">? Verify</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#0a66c2;">LinkedIn</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/junior-data-engineer-at-beaconfire-inc-4429865959?position=3&pageNum=0&refId=4bs89PHgmsVNs267MzFrPA%3D%3D&trackingId=r3HYJuTBus1zUot7IcVc7w%3D%3D" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/data-engineer-at-beaconfire-inc-4429881168?position=4&pageNum=0&refId=4bs89PHgmsVNs267MzFrPA%3D%3D&trackingId=WhCK8oqunVq%2FqxXTCDQlzA%3D%3D" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   Data Engineer</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;"></div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">BeaconFire Inc.</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">Florida, United States</td>
+            <td style="padding:12px 8px;">
+                <span style="background:#fef3c7;color:#d97706;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">? Verify</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#0a66c2;">LinkedIn</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/data-engineer-at-beaconfire-inc-4429881168?position=4&pageNum=0&refId=4bs89PHgmsVNs267MzFrPA%3D%3D&trackingId=WhCK8oqunVq%2FqxXTCDQlzA%3D%3D" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/data-engineer-at-aaratech-4431839431?position=6&pageNum=0&refId=4bs89PHgmsVNs267MzFrPA%3D%3D&trackingId=mGF9gndU9J%2FHm3V6QOXJXg%3D%3D" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   Data Engineer</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;"></div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">AARATECH</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">Dallas-Fort Worth Metroplex</td>
+            <td style="padding:12px 8px;">
+                <span style="background:#fef3c7;color:#d97706;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">? Verify</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#0a66c2;">LinkedIn</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/data-engineer-at-aaratech-4431839431?position=6&pageNum=0&refId=4bs89PHgmsVNs267MzFrPA%3D%3D&trackingId=mGF9gndU9J%2FHm3V6QOXJXg%3D%3D" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/data-engineer-at-juniqe-for-business-4432590773?position=9&pageNum=0&refId=4bs89PHgmsVNs267MzFrPA%3D%3D&trackingId=exxIODA%2B2fILeUFizyGU7w%3D%3D" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   DATA ENGINEER</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;"></div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">JUNIQE for Business</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">Lake County, IN</td>
+            <td style="padding:12px 8px;">
+                <span style="background:#fef3c7;color:#d97706;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">? Verify</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#0a66c2;">LinkedIn</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/data-engineer-at-juniqe-for-business-4432590773?position=9&pageNum=0&refId=4bs89PHgmsVNs267MzFrPA%3D%3D&trackingId=exxIODA%2B2fILeUFizyGU7w%3D%3D" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/data-engineer-at-careerus-solutions-4429882633?position=11&pageNum=0&refId=4bs89PHgmsVNs267MzFrPA%3D%3D&trackingId=zoTbz3QKrENZZh6u83dBEA%3D%3D" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   Data Engineer</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;"></div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">CareerUS Solutions</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">United States</td>
+            <td style="padding:12px 8px;">
+                <span style="background:#fef3c7;color:#d97706;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">? Verify</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#0a66c2;">LinkedIn</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/data-engineer-at-careerus-solutions-4429882633?position=11&pageNum=0&refId=4bs89PHgmsVNs267MzFrPA%3D%3D&trackingId=zoTbz3QKrENZZh6u83dBEA%3D%3D" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/senior-business-intelligence-analyst-at-waymo-4424035153?position=1&pageNum=0&refId=b99ZRLU7yT%2BRZWpQN7D8Cw%3D%3D&trackingId=kX0dymjlpwlKMqzLrVk68Q%3D%3D" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   Senior Business Intelligence Analyst</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;"></div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">Waymo</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">Mountain View, CA</td>
+            <td style="padding:12px 8px;">
+                <span style="background:#fef3c7;color:#d97706;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">? Verify</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#0a66c2;">LinkedIn</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/senior-business-intelligence-analyst-at-waymo-4424035153?position=1&pageNum=0&refId=b99ZRLU7yT%2BRZWpQN7D8Cw%3D%3D&trackingId=kX0dymjlpwlKMqzLrVk68Q%3D%3D" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/bi-analyst-at-qa-ltd-4432803537?position=2&pageNum=0&refId=b99ZRLU7yT%2BRZWpQN7D8Cw%3D%3D&trackingId=fcegqtKTrODOS4tmBSCAow%3D%3D" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   BI Analyst</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;"></div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">QA Ltd</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">Home, KS</td>
+            <td style="padding:12px 8px;">
+                <span style="background:#fef3c7;color:#d97706;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">? Verify</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#0a66c2;">LinkedIn</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/bi-analyst-at-qa-ltd-4432803537?position=2&pageNum=0&refId=b99ZRLU7yT%2BRZWpQN7D8Cw%3D%3D&trackingId=fcegqtKTrODOS4tmBSCAow%3D%3D" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/business-analyst-data-analyst-at-clevanoo-llc-4431869318?position=3&pageNum=0&refId=b99ZRLU7yT%2BRZWpQN7D8Cw%3D%3D&trackingId=tMBhGY%2BmFZQlKwhVl3YfMQ%3D%3D" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   Business Analyst / Data Analyst</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;"></div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">Clevanoo LLC</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">Minneapolis, MN</td>
+            <td style="padding:12px 8px;">
+                <span style="background:#fef3c7;color:#d97706;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">? Verify</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#0a66c2;">LinkedIn</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/business-analyst-data-analyst-at-clevanoo-llc-4431869318?position=3&pageNum=0&refId=b99ZRLU7yT%2BRZWpQN7D8Cw%3D%3D&trackingId=tMBhGY%2BmFZQlKwhVl3YfMQ%3D%3D" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/applied-ai-infrastructure-engineer-at-pairwise-4413832475?position=2&pageNum=0&refId=AzLD0%2Bdns06wSf96sLvMWA%3D%3D&trackingId=QoWM0J%2BTr1Y7elx7%2BU4Fng%3D%3D" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   Applied AI & Infrastructure Engineer</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;"></div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">Pairwise</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">Menlo Park, CA</td>
+            <td style="padding:12px 8px;">
+                <span style="background:#fef3c7;color:#d97706;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">? Verify</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#0a66c2;">LinkedIn</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/applied-ai-infrastructure-engineer-at-pairwise-4413832475?position=2&pageNum=0&refId=AzLD0%2Bdns06wSf96sLvMWA%3D%3D&trackingId=QoWM0J%2BTr1Y7elx7%2BU4Fng%3D%3D" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/ai-ml-engineer-hybrid-at-cisco-4413234717?position=3&pageNum=0&refId=AzLD0%2Bdns06wSf96sLvMWA%3D%3D&trackingId=Ufv2SSTkbSYiGkWwmvCEFQ%3D%3D" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   AI/ML Engineer (Hybrid)</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;"></div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">Cisco</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">San Jose, CA</td>
+            <td style="padding:12px 8px;">
+                <span style="background:#fef3c7;color:#d97706;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">? Verify</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#0a66c2;">LinkedIn</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/ai-ml-engineer-hybrid-at-cisco-4413234717?position=3&pageNum=0&refId=AzLD0%2Bdns06wSf96sLvMWA%3D%3D&trackingId=Ufv2SSTkbSYiGkWwmvCEFQ%3D%3D" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/lead-ai-engineering-at-scout-motors-inc-4414375460?position=11&pageNum=0&refId=AzLD0%2Bdns06wSf96sLvMWA%3D%3D&trackingId=N1ZF0pOuLgijlR0owUJeWA%3D%3D" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   Lead, AI Engineering</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;"></div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">Scout Motors Inc.</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">Charlotte, NC</td>
+            <td style="padding:12px 8px;">
+                <span style="background:#fef3c7;color:#d97706;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">? Verify</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#0a66c2;">LinkedIn</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/lead-ai-engineering-at-scout-motors-inc-4414375460?position=11&pageNum=0&refId=AzLD0%2Bdns06wSf96sLvMWA%3D%3D&trackingId=N1ZF0pOuLgijlR0owUJeWA%3D%3D" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/analytics-engineer-ii-at-home-chef-4414165011?position=1&pageNum=0&refId=j53U%2F%2BEB%2FydXtoG6o0fn6g%3D%3D&trackingId=6zdCzYdWRCMyRUzhPsNovg%3D%3D" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   Analytics Engineer II</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;"></div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">Home Chef</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">Chicago, IL</td>
+            <td style="padding:12px 8px;">
+                <span style="background:#fef3c7;color:#d97706;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">? Verify</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#0a66c2;">LinkedIn</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/analytics-engineer-ii-at-home-chef-4414165011?position=1&pageNum=0&refId=j53U%2F%2BEB%2FydXtoG6o0fn6g%3D%3D&trackingId=6zdCzYdWRCMyRUzhPsNovg%3D%3D" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/senior-analytics-engineer-at-ironclad-4422637644?position=3&pageNum=0&refId=j53U%2F%2BEB%2FydXtoG6o0fn6g%3D%3D&trackingId=4emIH6VSN0C4lJ3KNpHgdw%3D%3D" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   Senior Analytics Engineer</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;"></div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">Ironclad</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">New York, NY</td>
+            <td style="padding:12px 8px;">
+                <span style="background:#fef3c7;color:#d97706;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">? Verify</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#0a66c2;">LinkedIn</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/senior-analytics-engineer-at-ironclad-4422637644?position=3&pageNum=0&refId=j53U%2F%2BEB%2FydXtoG6o0fn6g%3D%3D&trackingId=4emIH6VSN0C4lJ3KNpHgdw%3D%3D" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/senior-analytics-engineer-crypto-and-payments-at-moonpay-4413086917?position=4&pageNum=0&refId=j53U%2F%2BEB%2FydXtoG6o0fn6g%3D%3D&trackingId=VV4D6C%2BNxf2cOj1f3EKRRg%3D%3D" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   Senior Analytics Engineer - Crypto and Payments</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;"></div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">MoonPay</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">New York, NY</td>
+            <td style="padding:12px 8px;">
+                <span style="background:#fef3c7;color:#d97706;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">? Verify</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#0a66c2;">LinkedIn</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/senior-analytics-engineer-crypto-and-payments-at-moonpay-4413086917?position=4&pageNum=0&refId=j53U%2F%2BEB%2FydXtoG6o0fn6g%3D%3D&trackingId=VV4D6C%2BNxf2cOj1f3EKRRg%3D%3D" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/data-engineer-ii-amz26527-1-at-amazon-4404938769?position=5&pageNum=0&refId=j53U%2F%2BEB%2FydXtoG6o0fn6g%3D%3D&trackingId=tTHNT4Tp0%2BmUKwGyfJ7MNQ%3D%3D" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   Data Engineer II - AMZ26527.1</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;"></div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">Amazon</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">Santa Clara, CA</td>
+            <td style="padding:12px 8px;">
+                <span style="background:#fef3c7;color:#d97706;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">? Verify</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#0a66c2;">LinkedIn</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/data-engineer-ii-amz26527-1-at-amazon-4404938769?position=5&pageNum=0&refId=j53U%2F%2BEB%2FydXtoG6o0fn6g%3D%3D&trackingId=tTHNT4Tp0%2BmUKwGyfJ7MNQ%3D%3D" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/senior-analytics-engineer-at-harnham-4432803807?position=6&pageNum=0&refId=j53U%2F%2BEB%2FydXtoG6o0fn6g%3D%3D&trackingId=TdcxXhKomMZ560uwz5YaLQ%3D%3D" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   Senior Analytics Engineer</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;"></div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">Harnham</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">Costa Mesa, CA</td>
+            <td style="padding:12px 8px;">
+                <span style="background:#fef3c7;color:#d97706;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">? Verify</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#0a66c2;">LinkedIn</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/senior-analytics-engineer-at-harnham-4432803807?position=6&pageNum=0&refId=j53U%2F%2BEB%2FydXtoG6o0fn6g%3D%3D&trackingId=TdcxXhKomMZ560uwz5YaLQ%3D%3D" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/power-bi-developer-at-freshdirect-4404888249?position=7&pageNum=0&refId=j53U%2F%2BEB%2FydXtoG6o0fn6g%3D%3D&trackingId=hwf1%2F7AAQOiVgUktsHu6CQ%3D%3D" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   Power BI Developer</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;"></div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">FreshDirect</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">Woodbridge, NJ</td>
+            <td style="padding:12px 8px;">
+                <span style="background:#fef3c7;color:#d97706;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">? Verify</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#0a66c2;">LinkedIn</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/power-bi-developer-at-freshdirect-4404888249?position=7&pageNum=0&refId=j53U%2F%2BEB%2FydXtoG6o0fn6g%3D%3D&trackingId=hwf1%2F7AAQOiVgUktsHu6CQ%3D%3D" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/senior-data-analyst-at-k2-space-corporation-4429885490?position=8&pageNum=0&refId=j53U%2F%2BEB%2FydXtoG6o0fn6g%3D%3D&trackingId=7EmX3WsbIk4eshwzT4%2FLsA%3D%3D" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   Senior Data Analyst</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;"></div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">K2 Space Corporation</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">Los Angeles, CA</td>
+            <td style="padding:12px 8px;">
+                <span style="background:#fef3c7;color:#d97706;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">? Verify</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#0a66c2;">LinkedIn</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/senior-data-analyst-at-k2-space-corporation-4429885490?position=8&pageNum=0&refId=j53U%2F%2BEB%2FydXtoG6o0fn6g%3D%3D&trackingId=7EmX3WsbIk4eshwzT4%2FLsA%3D%3D" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/data-engineer-ii-analytics-delivery-services-ads-at-amazon-4413955995?position=9&pageNum=0&refId=j53U%2F%2BEB%2FydXtoG6o0fn6g%3D%3D&trackingId=c41Jw5RtY2w1mtVZ7F3PVQ%3D%3D" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   Data Engineer II, Analytics Delivery Services (ADS)</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;"></div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">Amazon</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">Dallas, TX</td>
+            <td style="padding:12px 8px;">
+                <span style="background:#fef3c7;color:#d97706;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">? Verify</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#0a66c2;">LinkedIn</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/data-engineer-ii-analytics-delivery-services-ads-at-amazon-4413955995?position=9&pageNum=0&refId=j53U%2F%2BEB%2FydXtoG6o0fn6g%3D%3D&trackingId=c41Jw5RtY2w1mtVZ7F3PVQ%3D%3D" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/senior-financial-data-analyst-at-insight-global-4431843593?position=2&pageNum=0&refId=zJNRsVe32bGhgqHDlkMIWQ%3D%3D&trackingId=My4fzvJn3cvpQAErlUun7w%3D%3D" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   Senior Financial Data Analyst</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;"></div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">Insight Global</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">Phoenix, AZ</td>
+            <td style="padding:12px 8px;">
+                <span style="background:#fef3c7;color:#d97706;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">? Verify</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#0a66c2;">LinkedIn</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/senior-financial-data-analyst-at-insight-global-4431843593?position=2&pageNum=0&refId=zJNRsVe32bGhgqHDlkMIWQ%3D%3D&trackingId=My4fzvJn3cvpQAErlUun7w%3D%3D" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/senior-business-intelligence-analyst-at-deepintent-4429402704?position=5&pageNum=0&refId=zJNRsVe32bGhgqHDlkMIWQ%3D%3D&trackingId=k43iG%2FnibZskjaCJYp3sfw%3D%3D" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   Senior Business Intelligence Analyst</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;"></div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">DeepIntent</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">New York, NY</td>
+            <td style="padding:12px 8px;">
+                <span style="background:#fef3c7;color:#d97706;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">? Verify</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#0a66c2;">LinkedIn</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/senior-business-intelligence-analyst-at-deepintent-4429402704?position=5&pageNum=0&refId=zJNRsVe32bGhgqHDlkMIWQ%3D%3D&trackingId=k43iG%2FnibZskjaCJYp3sfw%3D%3D" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/senior-tech-lead-clinical-data-engineering-data-platforms%C2%A0-at-sj-mobilita-4432598824?position=7&pageNum=0&refId=zJNRsVe32bGhgqHDlkMIWQ%3D%3D&trackingId=6SvhxVDqcnf89rqheHhQ3g%3D%3D" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   Senior Tech Lead - Clinical Data Engineering/ Data Platforms</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;"></div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">SJ Mobilita</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">Alameda, CA</td>
+            <td style="padding:12px 8px;">
+                <span style="background:#fef3c7;color:#d97706;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">? Verify</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#0a66c2;">LinkedIn</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/senior-tech-lead-clinical-data-engineering-data-platforms%C2%A0-at-sj-mobilita-4432598824?position=7&pageNum=0&refId=zJNRsVe32bGhgqHDlkMIWQ%3D%3D&trackingId=6SvhxVDqcnf89rqheHhQ3g%3D%3D" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/senior-data-scientist-at-elephas-4431855788?position=2&pageNum=0&refId=xVVtX7831VVUQAhYjg764g%3D%3D&trackingId=x7FIBJLI4em8VVbCkfr7Uw%3D%3D" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   Senior Data Scientist</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;"></div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">Elephas</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">Madison, WI</td>
+            <td style="padding:12px 8px;">
+                <span style="background:#fef3c7;color:#d97706;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">? Verify</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#0a66c2;">LinkedIn</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/senior-data-scientist-at-elephas-4431855788?position=2&pageNum=0&refId=xVVtX7831VVUQAhYjg764g%3D%3D&trackingId=x7FIBJLI4em8VVbCkfr7Uw%3D%3D" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/senior-data-scientist-special-projects-at-amazon-4412932490?position=3&pageNum=0&refId=xVVtX7831VVUQAhYjg764g%3D%3D&trackingId=keHQlfxLSHdswtjHbb%2BlWA%3D%3D" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   Senior Data Scientist, Special Projects</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;"></div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">Amazon</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">Seattle, WA</td>
+            <td style="padding:12px 8px;">
+                <span style="background:#fef3c7;color:#d97706;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">? Verify</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#0a66c2;">LinkedIn</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/senior-data-scientist-special-projects-at-amazon-4412932490?position=3&pageNum=0&refId=xVVtX7831VVUQAhYjg764g%3D%3D&trackingId=keHQlfxLSHdswtjHbb%2BlWA%3D%3D" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/sr-data-scientist-translational-research-at-tempus-ai-4413092836?position=6&pageNum=0&refId=xVVtX7831VVUQAhYjg764g%3D%3D&trackingId=Rfz0wwjM2RUa8AKBgW58gg%3D%3D" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   Sr. Data Scientist, Translational Research</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;"></div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">Tempus AI</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">Redwood City, CA</td>
+            <td style="padding:12px 8px;">
+                <span style="background:#fef3c7;color:#d97706;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">? Verify</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#0a66c2;">LinkedIn</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/sr-data-scientist-translational-research-at-tempus-ai-4413092836?position=6&pageNum=0&refId=xVVtX7831VVUQAhYjg764g%3D%3D&trackingId=Rfz0wwjM2RUa8AKBgW58gg%3D%3D" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/data-scientist-commercial-analytics-at-stellantis-4422434437?position=7&pageNum=0&refId=xVVtX7831VVUQAhYjg764g%3D%3D&trackingId=QRWaZ7GDJsoXdoLfms%2FDzQ%3D%3D" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   Data Scientist - Commercial Analytics</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;"></div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">Stellantis</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">Auburn Hills, MI</td>
+            <td style="padding:12px 8px;">
+                <span style="background:#fef3c7;color:#d97706;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">? Verify</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#0a66c2;">LinkedIn</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/data-scientist-commercial-analytics-at-stellantis-4422434437?position=7&pageNum=0&refId=xVVtX7831VVUQAhYjg764g%3D%3D&trackingId=QRWaZ7GDJsoXdoLfms%2FDzQ%3D%3D" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/data-scientist-at-fetchjobs-co-4431863363?position=8&pageNum=0&refId=xVVtX7831VVUQAhYjg764g%3D%3D&trackingId=dZXDe2%2Bi7M0CQzxmLpU%2Fdw%3D%3D" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   Data Scientist</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;"></div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">FetchJobs.co</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">United States</td>
+            <td style="padding:12px 8px;">
+                <span style="background:#fef3c7;color:#d97706;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">? Verify</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#0a66c2;">LinkedIn</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/data-scientist-at-fetchjobs-co-4431863363?position=8&pageNum=0&refId=xVVtX7831VVUQAhYjg764g%3D%3D&trackingId=dZXDe2%2Bi7M0CQzxmLpU%2Fdw%3D%3D" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/senior-data-scientist-at-reinsurance-group-of-america-incorporated-4422667902?position=10&pageNum=0&refId=xVVtX7831VVUQAhYjg764g%3D%3D&trackingId=l0i%2Fi7WRaTl%2FoOP1GGTEzA%3D%3D" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   Senior Data Scientist</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;"></div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">Reinsurance Group of America, Incorporated</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">Chesterfield, MO</td>
+            <td style="padding:12px 8px;">
+                <span style="background:#fef3c7;color:#d97706;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">? Verify</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#0a66c2;">LinkedIn</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/senior-data-scientist-at-reinsurance-group-of-america-incorporated-4422667902?position=10&pageNum=0&refId=xVVtX7831VVUQAhYjg764g%3D%3D&trackingId=l0i%2Fi7WRaTl%2FoOP1GGTEzA%3D%3D" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/warranty-data-analyst-data-scientist-at-stellantis-4422430511?position=11&pageNum=0&refId=xVVtX7831VVUQAhYjg764g%3D%3D&trackingId=TltzTWuwrfK0%2FgWGHyKfLw%3D%3D" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   Warranty Data Analyst / Data Scientist</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;"></div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">Stellantis</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">Auburn Hills, MI</td>
+            <td style="padding:12px 8px;">
+                <span style="background:#fef3c7;color:#d97706;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">? Verify</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#0a66c2;">LinkedIn</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/warranty-data-analyst-data-scientist-at-stellantis-4422430511?position=11&pageNum=0&refId=xVVtX7831VVUQAhYjg764g%3D%3D&trackingId=TltzTWuwrfK0%2FgWGHyKfLw%3D%3D" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/data-product-analyst-at-practovate-4431873256?position=1&pageNum=0&refId=%2FOyGQdbUdK0FsnujU%2F%2FiGw%3D%3D&trackingId=e2oiO4W94dcUJW%2B%2Bhtjpkg%3D%3D" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   Data Product Analyst</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;"></div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">Practovate</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">New York, NY</td>
+            <td style="padding:12px 8px;">
+                <span style="background:#fef3c7;color:#d97706;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">? Verify</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#0a66c2;">LinkedIn</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/data-product-analyst-at-practovate-4431873256?position=1&pageNum=0&refId=%2FOyGQdbUdK0FsnujU%2F%2FiGw%3D%3D&trackingId=e2oiO4W94dcUJW%2B%2Bhtjpkg%3D%3D" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/product-analyst-at-avis-budget-group-4413560924?position=2&pageNum=0&refId=%2FOyGQdbUdK0FsnujU%2F%2FiGw%3D%3D&trackingId=vSvf3lSv5WCFFSlL21IqBA%3D%3D" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   Product Analyst</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;"></div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">Avis Budget Group</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">Parsippany, NJ</td>
+            <td style="padding:12px 8px;">
+                <span style="background:#fef3c7;color:#d97706;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">? Verify</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#0a66c2;">LinkedIn</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/product-analyst-at-avis-budget-group-4413560924?position=2&pageNum=0&refId=%2FOyGQdbUdK0FsnujU%2F%2FiGw%3D%3D&trackingId=vSvf3lSv5WCFFSlL21IqBA%3D%3D" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/lead-digital-product-analyst-at-bombas-4422651086?position=6&pageNum=0&refId=%2FOyGQdbUdK0FsnujU%2F%2FiGw%3D%3D&trackingId=%2BBhgRz7rLs%2FgqoqdCA2AfA%3D%3D" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   Lead Digital Product Analyst</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;"></div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">Bombas</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">New York, NY</td>
+            <td style="padding:12px 8px;">
+                <span style="background:#fef3c7;color:#d97706;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">? Verify</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#0a66c2;">LinkedIn</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/lead-digital-product-analyst-at-bombas-4422651086?position=6&pageNum=0&refId=%2FOyGQdbUdK0FsnujU%2F%2FiGw%3D%3D&trackingId=%2BBhgRz7rLs%2FgqoqdCA2AfA%3D%3D" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/product-analyst-at-seneca-resources-4432596475?position=7&pageNum=0&refId=%2FOyGQdbUdK0FsnujU%2F%2FiGw%3D%3D&trackingId=9%2FHbu39RkTpVS%2BnyILgO5A%3D%3D" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   Product Analyst</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;"></div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">Seneca Resources</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">New York, NY</td>
+            <td style="padding:12px 8px;">
+                <span style="background:#fef3c7;color:#d97706;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">? Verify</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#0a66c2;">LinkedIn</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/product-analyst-at-seneca-resources-4432596475?position=7&pageNum=0&refId=%2FOyGQdbUdK0FsnujU%2F%2FiGw%3D%3D&trackingId=9%2FHbu39RkTpVS%2BnyILgO5A%3D%3D" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/senior-data-analyst-product-at-rocket-money-4419081910?position=9&pageNum=0&refId=%2FOyGQdbUdK0FsnujU%2F%2FiGw%3D%3D&trackingId=par3n0Usv2HD4zc1wmN6Mg%3D%3D" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   Senior Data Analyst, Product</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;"></div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">Rocket Money</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">Miami, FL</td>
+            <td style="padding:12px 8px;">
+                <span style="background:#fef3c7;color:#d97706;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">? Verify</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#0a66c2;">LinkedIn</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/senior-data-analyst-product-at-rocket-money-4419081910?position=9&pageNum=0&refId=%2FOyGQdbUdK0FsnujU%2F%2FiGw%3D%3D&trackingId=par3n0Usv2HD4zc1wmN6Mg%3D%3D" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/commercial-lines-product-analyst-hybrid-webster-or-boston-at-mapfre-4417797228?position=12&pageNum=0&refId=%2FOyGQdbUdK0FsnujU%2F%2FiGw%3D%3D&trackingId=XuL1RzYdoyaEa6x5PNZBfg%3D%3D" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   Commercial Lines Product Analyst (Hybrid - Webster or Boston)</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;"></div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">Mapfre</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">Webster, MA</td>
+            <td style="padding:12px 8px;">
+                <span style="background:#fef3c7;color:#d97706;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">? Verify</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#0a66c2;">LinkedIn</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/commercial-lines-product-analyst-hybrid-webster-or-boston-at-mapfre-4417797228?position=12&pageNum=0&refId=%2FOyGQdbUdK0FsnujU%2F%2FiGw%3D%3D&trackingId=XuL1RzYdoyaEa6x5PNZBfg%3D%3D" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/research-scientist-ii-at-georgia-institute-of-technology-4432829063?position=1&pageNum=0&refId=Zhkew%2FtRk05KKUZisSzzEg%3D%3D&trackingId=jF%2B93f%2B0TDixBUCy580hnQ%3D%3D" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   Research Scientist II</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;"></div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">Georgia Institute of Technology</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">Atlanta Metropolitan Area</td>
+            <td style="padding:12px 8px;">
+                <span style="background:#fef3c7;color:#d97706;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">? Verify</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#0a66c2;">LinkedIn</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/research-scientist-ii-at-georgia-institute-of-technology-4432829063?position=1&pageNum=0&refId=Zhkew%2FtRk05KKUZisSzzEg%3D%3D&trackingId=jF%2B93f%2B0TDixBUCy580hnQ%3D%3D" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/research-scientist-at-valvoline-global-operations-4393903270?position=10&pageNum=0&refId=Zhkew%2FtRk05KKUZisSzzEg%3D%3D&trackingId=lRvnCkysVon8ICbm8mFRMQ%3D%3D" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   Research Scientist</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;"></div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">Valvoline Global Operations</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">Lexington, KY</td>
+            <td style="padding:12px 8px;">
+                <span style="background:#fef3c7;color:#d97706;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">? Verify</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#0a66c2;">LinkedIn</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://www.linkedin.com/jobs/view/research-scientist-at-valvoline-global-operations-4393903270?position=10&pageNum=0&refId=Zhkew%2FtRk05KKUZisSzzEg%3D%3D&trackingId=lRvnCkysVon8ICbm8mFRMQ%3D%3D" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://remoteOK.com/remote-jobs/remote-junior-data-analyst-caterpillar-inc-1134008" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   Junior Data Analyst</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;">Job Title: Junior Data Analyst Location:  Remote / Onsite (as applicable)   Employment Type:  Full-T...</div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">Caterpillar Inc.</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">Houston, Houston, Texas, United States</td>
+            <td style="padding:12px 8px;">
+                <span style="background:#fef3c7;color:#d97706;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">? Verify</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#7c3aed;">RemoteOK</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://remoteOK.com/remote-jobs/remote-junior-data-analyst-caterpillar-inc-1134008" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://remoteOK.com/remote-jobs/remote-data-analyst-excel-yo-it-consulting-1134019" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   Data Analyst Excel</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;">Job Description Job Title:  Data Analyst Excel Job Type:  Contract Location:  Remote Job Summary:  I...</div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">YO IT Consulting</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">Sydney, Sydney, New South Wales, Australia</td>
+            <td style="padding:12px 8px;">
+                <span style="background:#fef3c7;color:#d97706;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">? Verify</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#7c3aed;">RemoteOK</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://remoteOK.com/remote-jobs/remote-data-analyst-excel-yo-it-consulting-1134019" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://remoteOK.com/remote-jobs/remote-data-analyst-yo-hr-consultancy-1133880" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   Data Analyst</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;">Posted 6:57:09 AM. Job Title: Data Analyst (Excel)Job Type: ContractorLocation: RemoteJob Summary: I...</div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">YO HR Consultancy</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">USA</td>
+            <td style="padding:12px 8px;">
+                <span style="background:#fef3c7;color:#d97706;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">? Verify</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#7c3aed;">RemoteOK</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://remoteOK.com/remote-jobs/remote-data-analyst-yo-hr-consultancy-1133880" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://remoteOK.com/remote-jobs/remote-data-analyst-iconsultera-1133846" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   Data Analyst</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;">Job Summary:We are seeking a detail-oriented and analytical Data Analyst to join our remote teamâ¦S...</div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">iConsultera</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">USA</td>
+            <td style="padding:12px 8px;">
+                <span style="background:#fef3c7;color:#d97706;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">? Verify</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#7c3aed;">RemoteOK</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://remoteOK.com/remote-jobs/remote-data-analyst-iconsultera-1133846" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://remoteOK.com/remote-jobs/remote-data-analyst-data-warehouse-analytics-and-bi-owl-services-1133828" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   Data Analyst Data Warehouse Analytics and BI</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;">Who We Are OWL Services is the premier sales, installation, program management and service provider ...</div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">OWL Services</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">Dallas-Fort Worth Metroplex, </td>
+            <td style="padding:12px 8px;">
+                <span style="background:#fef3c7;color:#d97706;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">? Verify</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#7c3aed;">RemoteOK</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://remoteOK.com/remote-jobs/remote-data-analyst-data-warehouse-analytics-and-bi-owl-services-1133828" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://remoteOK.com/remote-jobs/remote-junior-data-analyst-haystack-1133663" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   Junior Data Analyst</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;">Are you ready to launch a high-impact career in data analysis? We are collaborating with a leading t...</div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">Haystack</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">London, London, England, United Kingdom</td>
+            <td style="padding:12px 8px;">
+                <span style="background:#fef3c7;color:#d97706;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">? Verify</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#7c3aed;">RemoteOK</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://remoteOK.com/remote-jobs/remote-junior-data-analyst-haystack-1133663" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://remoteOK.com/remote-jobs/remote-junior-data-scientist-why-hiring-1133570" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   Junior Data Scientist</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;">Posted 7:00:09 AM. At Why Hiring, we believe in the power of connecting talented individuals with in...</div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">Why Hiring</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">Canada, </td>
+            <td style="padding:12px 8px;">
+                <span style="background:#fef3c7;color:#d97706;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">? Verify</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#7c3aed;">RemoteOK</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://remoteOK.com/remote-jobs/remote-junior-data-scientist-why-hiring-1133570" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://remoteOK.com/remote-jobs/remote-junior-data-analyst-data-scientist-awisee-1133504" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   Junior Data Analyst Data Scientist</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;">This is a remote position.  Overview  We are looking for a motivated Junior Data Analyst / Dataâ¦ P...</div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">AWISEE</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">Serbia, </td>
+            <td style="padding:12px 8px;">
+                <span style="background:#fef3c7;color:#d97706;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">? Verify</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#7c3aed;">RemoteOK</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://remoteOK.com/remote-jobs/remote-junior-data-analyst-data-scientist-awisee-1133504" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://remoteOK.com/remote-jobs/remote-member-of-technical-staff-applied-ml-recsys-liquid-ai-1131627" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   Member of Technical Staff Applied ML RecSys</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;">About Liquid AI Spun out of MIT CSAIL, we build general-purpose AI systems that run efficiently acro...</div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">Liquid AI</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">Cambridge</td>
+            <td style="padding:12px 8px;">
+                <span style="background:#fef3c7;color:#d97706;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">? Verify</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#7c3aed;">RemoteOK</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://remoteOK.com/remote-jobs/remote-member-of-technical-staff-applied-ml-recsys-liquid-ai-1131627" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://remoteOK.com/remote-jobs/remote-data-scientist-yo-it-consulting-1131888" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   Data Scientist</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;">Job Title: Data Scientist Job Type: Contractor Location: Remote Job Summary Join our customer team a...</div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">YO IT Consulting</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">Melbourne, Melbourne, Victoria, Australia</td>
+            <td style="padding:12px 8px;">
+                <span style="background:#fef3c7;color:#d97706;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">? Verify</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#7c3aed;">RemoteOK</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://remoteOK.com/remote-jobs/remote-data-scientist-yo-it-consulting-1131888" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://remoteOK.com/remote-jobs/remote-ml-engineer-trunk-tools-inc-1131329" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   ML Engineer</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;">At Trunk Tools, weâre the leading AI company revolutionizing construction, the second-largest indu...</div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">Trunk Tools, Inc.</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">USA</td>
+            <td style="padding:12px 8px;">
+                <span style="background:#fef3c7;color:#d97706;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">? Verify</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#7c3aed;">RemoteOK</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://remoteOK.com/remote-jobs/remote-ml-engineer-trunk-tools-inc-1131329" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://remoteOK.com/remote-jobs/remote-data-scientist-junction-1131265" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   Data Scientist</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;">Healthcare is in crisis and the people behind the results deserve better. With more and more data co...</div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">Junction</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">USA</td>
+            <td style="padding:12px 8px;">
+                <span style="background:#fef3c7;color:#d97706;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">? Verify</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#7c3aed;">RemoteOK</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://remoteOK.com/remote-jobs/remote-data-scientist-junction-1131265" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://remoteOK.com/remote-jobs/remote-senior-lead-applied-data-scientist-styleseat-1131253" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   Senior Lead Applied Data Scientist</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;">Senior / Lead Applied Data Scientist 
+ 100% Remote (U.S. Based Only, Select States - See Below) 
+   ...</div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">StyleSeat</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">USA</td>
+            <td style="padding:12px 8px;">
+                <span style="background:#fef3c7;color:#d97706;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">? Verify</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#7c3aed;">RemoteOK</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://remoteOK.com/remote-jobs/remote-senior-lead-applied-data-scientist-styleseat-1131253" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://remoteOK.com/remote-jobs/remote-senior-product-manager-applied-ai-smartsheet-1131233" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   Senior Product Manager Applied AI</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;">For over 20 years, Smartsheet has helped people and teams achieveâwell, anything. From seamless wo...</div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">Smartsheet</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">USA</td>
+            <td style="padding:12px 8px;">
+                <span style="background:#fef3c7;color:#d97706;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">? Verify</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#7c3aed;">RemoteOK</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://remoteOK.com/remote-jobs/remote-senior-product-manager-applied-ai-smartsheet-1131233" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ii-applied-ai-and-evaluations-smartsheet-1131095" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   Senior Software Engineer II Applied AI and Evaluations</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;">For over 20 years, Smartsheet has helped people and teams achieveâwell, anything. From seamless wo...</div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">Smartsheet</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">USA</td>
+            <td style="padding:12px 8px;">
+                <span style="background:#fef3c7;color:#d97706;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">? Verify</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#7c3aed;">RemoteOK</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ii-applied-ai-and-evaluations-smartsheet-1131095" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://remoteOK.com/remote-jobs/remote-staff-machine-learning-engineer-fullscript-1130924" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   Staff Machine Learning Engineer</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;">About Fullscript Weâre an industry-leading health technology company on a mission to help people g...</div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">Fullscript</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">USA</td>
+            <td style="padding:12px 8px;">
+                <span style="background:#fef3c7;color:#d97706;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">? Verify</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#7c3aed;">RemoteOK</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://remoteOK.com/remote-jobs/remote-staff-machine-learning-engineer-fullscript-1130924" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://remoteOK.com/remote-jobs/remote-senior-staff-data-engineer-smithrx-1130914" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   Senior Staff Data Engineer</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;">Who We Are: 
+ SmithRx is a rapidly growing, venture-backed Health-Tech company.  Our mission is to d...</div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">SmithRx</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">Remote</td>
+            <td style="padding:12px 8px;">
+                <span style="background:#fef3c7;color:#d97706;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">? Verify</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#7c3aed;">RemoteOK</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://remoteOK.com/remote-jobs/remote-senior-staff-data-engineer-smithrx-1130914" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://remoteOK.com/remote-jobs/remote-principal-machine-learning-engineer-attentive-1130826" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   Principal Machine Learning Engineer</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;">AttentiveÂ® is the AI marketing platform for 1:1 personalization redefining the way brands and peopl...</div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">Attentive</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">United States</td>
+            <td style="padding:12px 8px;">
+                <span style="background:#fef3c7;color:#d97706;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">? Verify</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#7c3aed;">RemoteOK</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://remoteOK.com/remote-jobs/remote-principal-machine-learning-engineer-attentive-1130826" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://remoteOK.com/remote-jobs/remote-forward-deployed-ai-architect-tribe-ai-1130777" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   Forward Deployed AI Architect</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;">About Tribe AI: At Tribe, weâre on a mission to help enterprises realize the value of AI for their...</div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">Tribe AI</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">United States</td>
+            <td style="padding:12px 8px;">
+                <span style="background:#fef3c7;color:#d97706;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">? Verify</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#7c3aed;">RemoteOK</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://remoteOK.com/remote-jobs/remote-forward-deployed-ai-architect-tribe-ai-1130777" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://news.ycombinator.com/item?id=22765970" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   Data/ML Role</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;">Machine Learning Engineer -  https://jobs.apple.com/en-us/details/200154882/ise-proactive... Have yo...</div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">Machine Learning Engineer -  https://jobs.apple.com/en-us/de</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">See listing</td>
+            <td style="padding:12px 8px;">
+                <span style="background:#fef3c7;color:#d97706;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">? Verify</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#ea580c;">HN Who's Hiring</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://news.ycombinator.com/item?id=22765970" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://news.ycombinator.com/item?id=22749090" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   Data Engineer</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;">IOMED | Data Engineer | Barcelona, Spain | Full Time | Onsite Are you looking for a job with a direc...</div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">IOMED</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">Barcelona, Spain</td>
+            <td style="padding:12px 8px;">
+                <span style="background:#fef3c7;color:#d97706;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">? Verify</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#ea580c;">HN Who's Hiring</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://news.ycombinator.com/item?id=22749090" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://news.ycombinator.com/item?id=22697878" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   Engineers, Data Scientist, Data Analyst</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;">SemanticBits | Engineers, Data Scientist, Data Analyst| Full-Time | REMOTE, VISA |  https://semantic...</div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">SemanticBits</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">Full-Time</td>
+            <td style="padding:12px 8px;">
+                <span style="background:#fef3c7;color:#d97706;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">? Verify</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#ea580c;">HN Who's Hiring</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://news.ycombinator.com/item?id=22697878" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://news.ycombinator.com/item?id=22691499" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   Europe, REMOTE</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;">Holmusk | Europe, REMOTE | Haskell Backend | Full-time | send your cv to [careers@holmusk.com](mailt...</div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">Holmusk</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">Haskell Backend</td>
+            <td style="padding:12px 8px;">
+                <span style="background:#fef3c7;color:#d97706;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">? Verify</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#ea580c;">HN Who's Hiring</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://news.ycombinator.com/item?id=22691499" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://news.ycombinator.com/item?id=22684807" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   Berlin, NYC, REMOTE</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;">Artsy | Berlin, NYC, REMOTE | Engineers + PM + Data Analyst Artsy is the leading marketplace for art...</div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">Artsy</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">Engineers + PM + Data Analyst Artsy is the leading marketpla</td>
+            <td style="padding:12px 8px;">
+                <span style="background:#fef3c7;color:#d97706;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">? Verify</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#ea580c;">HN Who's Hiring</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://news.ycombinator.com/item?id=22684807" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://news.ycombinator.com/item?id=22683057" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   Python Engineer</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;">causaLens |Python Engineer | Data Scientist (Commercial) | Data Scientist (Research) | Full-time | L...</div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">causaLens</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">Data Scientist (Commercial)</td>
+            <td style="padding:12px 8px;">
+                <span style="background:#fef3c7;color:#d97706;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">? Verify</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#ea580c;">HN Who's Hiring</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://news.ycombinator.com/item?id=22683057" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr>
+        <tr class="job-row" style="border-bottom:1px solid #f3f4f6;">
+            <td style="padding:12px 8px;">
+                <a href="https://news.ycombinator.com/item?id=22682224" target="_blank"
+                   style="font-weight:600;color:#1d4ed8;text-decoration:none;font-size:13px;">
+                   Sr Full-stack Engineer, Sr Data Engineer, Data Scientist, Machine Learning Engin</a>
+                <div style="font-size:11px;color:#9ca3af;margin-top:2px;">Instacart | Sr Full-stack Engineer, Sr Data Engineer, Data Scientist, Machine Learning Engineer, Sr ...</div>
+            </td>
+            <td style="padding:12px 8px;font-size:13px;color:#374151;">Instacart</td>
+            <td style="padding:12px 8px;font-size:12px;color:#6b7280;">See listing</td>
+            <td style="padding:12px 8px;">
+                <span style="background:#fef3c7;color:#d97706;padding:3px 8px;
+                             border-radius:20px;font-size:11px;font-weight:700;">? Verify</span>
+            </td>
+            <td style="padding:12px 8px;font-size:11px;color:#ea580c;">HN Who's Hiring</td>
+            <td style="padding:12px 8px;font-size:11px;color:#9ca3af;white-space:nowrap;">2026-06-24</td>
+            <td style="padding:12px 8px;">
+                <a href="https://news.ycombinator.com/item?id=22682224" target="_blank"
+                   style="background:#1d4ed8;color:white;padding:5px 10px;border-radius:6px;
+                          text-decoration:none;font-size:11px;white-space:nowrap;">Apply →</a>
+            </td>
+        </tr></tbody>
+        </table></div>
+    </div>
+
+    <p style="text-align:center;color:#9ca3af;font-size:12px;margin-top:24px;">
+        Auto-updated every 3 hours. Always verify H1B sponsorship directly with the employer before applying.
+    </p>
+</div>
+
+<script>
+function filterJobs() {
+    const q = document.getElementById('search').value.toLowerCase();
+    document.querySelectorAll('.job-row').forEach(row => {
+        row.style.display = row.textContent.toLowerCase().includes(q) ? '' : 'none';
+    });
+}
+</script>
+</body></html>
