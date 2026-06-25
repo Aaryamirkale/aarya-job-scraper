@@ -1,5 +1,295 @@
 [
   {
+    "title": "Applied Data Scientist - AI Enablement (Transportation)",
+    "company": "HDR",
+    "link": "https://www.linkedin.com/jobs/view/applied-data-scientist-ai-enablement-transportation-at-hdr-4431887076?position=8&pageNum=0&refId=wv%2FHFm2qOt3fAHExhHC3OA%3D%3D&trackingId=TpmKqyNc6lY3DWKVpNLgKA%3D%3D",
+    "location": "Columbia, SC",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-06-25 17:19 UTC"
+  },
+  {
+    "title": "Data Scientist",
+    "company": "Raptive",
+    "link": "https://www.linkedin.com/jobs/view/data-scientist-at-raptive-4433333595?position=9&pageNum=0&refId=wv%2FHFm2qOt3fAHExhHC3OA%3D%3D&trackingId=sp2cxtfOsbni1%2Buyyl7Yxw%3D%3D",
+    "location": "United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-06-25 17:19 UTC"
+  },
+  {
+    "title": "Data Scientist",
+    "company": "Dropbox",
+    "link": "https://www.linkedin.com/jobs/view/data-scientist-at-dropbox-4393915774?position=12&pageNum=0&refId=wv%2FHFm2qOt3fAHExhHC3OA%3D%3D&trackingId=blN4Y%2BBvNAcosdGy%2B7AAMg%3D%3D",
+    "location": "United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-06-25 17:19 UTC"
+  },
+  {
+    "title": "Senior AI/ML Engineer",
+    "company": "SIRITECH SOLUTIONS CORP",
+    "link": "https://www.linkedin.com/jobs/view/senior-ai-ml-engineer-at-siritech-solutions-corp-4433040316?position=3&pageNum=0&refId=zp4sb4yffW%2BNAQHb2917Uw%3D%3D&trackingId=6eh%2Frw7RZgInNHTVQHZ6jA%3D%3D",
+    "location": "Austin, TX",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-06-25 17:19 UTC"
+  },
+  {
+    "title": "Data Analyst, Delivery Operations",
+    "company": "Gopuff",
+    "link": "https://www.linkedin.com/jobs/view/data-analyst-delivery-operations-at-gopuff-4388586050?position=10&pageNum=0&refId=YnDNwqHL10uLUzAEz9hwBw%3D%3D&trackingId=tNGOJlrAv406I9SnaNxNaA%3D%3D",
+    "location": "Philadelphia, PA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-06-25 17:19 UTC"
+  },
+  {
+    "title": "Human Data Analyst | $55/hr Remote",
+    "company": "Crossing Hurdles",
+    "link": "https://www.linkedin.com/jobs/view/human-data-analyst-%2455-hr-remote-at-crossing-hurdles-4424091495?position=12&pageNum=0&refId=YnDNwqHL10uLUzAEz9hwBw%3D%3D&trackingId=8YJH4O1KggYjy4iCBIQUjg%3D%3D",
+    "location": "United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-06-25 17:19 UTC"
+  },
+  {
+    "title": "Software Engineer, Applied AI",
+    "company": "Google",
+    "link": "https://www.linkedin.com/jobs/view/software-engineer-applied-ai-at-google-4432675036?position=12&pageNum=0&refId=yNT%2BkactFqotSvlZOXULCw%3D%3D&trackingId=Bvl41xE9i9O3llWEVvJaHw%3D%3D",
+    "location": "Sunnyvale, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-06-25 17:19 UTC"
+  },
+  {
+    "title": "Data Engineer",
+    "company": "BrickRed Systems",
+    "link": "https://www.linkedin.com/jobs/view/data-engineer-at-brickred-systems-4433347468?position=7&pageNum=0&refId=DB2%2FZ9vEBLY8DiSl%2BAHQYQ%3D%3D&trackingId=uO7m0oX1TrVXQzA%2FtHt0NQ%3D%3D",
+    "location": "Bellevue, WA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-06-25 17:19 UTC"
+  },
+  {
+    "title": "Sr Data Engineer",
+    "company": "Innorev Technologies Inc",
+    "link": "https://www.linkedin.com/jobs/view/sr-data-engineer-at-innorev-technologies-inc-4432663172?position=11&pageNum=0&refId=DB2%2FZ9vEBLY8DiSl%2BAHQYQ%3D%3D&trackingId=vdLhfI58BeDmP7Q3cfAMew%3D%3D",
+    "location": "Dallas, TX",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-06-25 17:19 UTC"
+  },
+  {
+    "title": "Senior BI Analyst",
+    "company": "Walker & Dunlop",
+    "link": "https://www.linkedin.com/jobs/view/senior-bi-analyst-at-walker-dunlop-4423012461?position=3&pageNum=0&refId=%2BXDsAfFIEefY882Qwc2Yxg%3D%3D&trackingId=mFVbCx%2FpGblzHWNwjpvwXg%3D%3D",
+    "location": "United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-06-25 17:19 UTC"
+  },
+  {
+    "title": "Business Intelligence Analyst",
+    "company": "Centennial Bank",
+    "link": "https://www.linkedin.com/jobs/view/business-intelligence-analyst-at-centennial-bank-4432658555?position=7&pageNum=0&refId=%2BXDsAfFIEefY882Qwc2Yxg%3D%3D&trackingId=p2nyqru9meu88eCBFI7ZNw%3D%3D",
+    "location": "Maitland, FL",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-06-25 17:19 UTC"
+  },
+  {
+    "title": "Senior Data Analyst - Power Bi & DAX",
+    "company": "Kforce Inc",
+    "link": "https://www.linkedin.com/jobs/view/senior-data-analyst-power-bi-dax-at-kforce-inc-4433356061?position=9&pageNum=0&refId=%2BXDsAfFIEefY882Qwc2Yxg%3D%3D&trackingId=Aqm%2FusiexgA8324vFW5U8A%3D%3D",
+    "location": "Spring, TX",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-06-25 17:19 UTC"
+  },
+  {
+    "title": "Senior Business Intelligence Analyst",
+    "company": "FTSi.Tech",
+    "link": "https://www.linkedin.com/jobs/view/senior-business-intelligence-analyst-at-ftsi-tech-4430222767?position=10&pageNum=0&refId=%2BXDsAfFIEefY882Qwc2Yxg%3D%3D&trackingId=MICukIREOq4kSljqEvChXg%3D%3D",
+    "location": "Memphis, TN",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-06-25 17:19 UTC"
+  },
+  {
+    "title": "Business Data Analyst",
+    "company": "System One",
+    "link": "https://www.linkedin.com/jobs/view/business-data-analyst-at-system-one-4432848719?position=12&pageNum=0&refId=%2BXDsAfFIEefY882Qwc2Yxg%3D%3D&trackingId=TLbDnlcXzNEQq6zQvNT1Lg%3D%3D",
+    "location": "Plano, TX",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-06-25 17:19 UTC"
+  },
+  {
+    "title": "AI Engineer",
+    "company": "Provenir",
+    "link": "https://www.linkedin.com/jobs/view/ai-engineer-at-provenir-4337407786?position=2&pageNum=0&refId=ZvndwXAjep5xS8uiSW9hGA%3D%3D&trackingId=%2F15EQVZPxnLtLGV%2Fz1Ixpw%3D%3D",
+    "location": "New York, NY",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-06-25 17:19 UTC"
+  },
+  {
+    "title": "Machine Learning Engineer/Senior Machine Learning Engineer - Devops, AI for Drug",
+    "company": "Genentech",
+    "link": "https://www.linkedin.com/jobs/view/machine-learning-engineer-senior-machine-learning-engineer-devops-ai-for-drug-discovery-at-genentech-4402030797?position=7&pageNum=0&refId=ZvndwXAjep5xS8uiSW9hGA%3D%3D&trackingId=JVN16mLxp7%2FPMLUlURR9UA%3D%3D",
+    "location": "New York, NY",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-06-25 17:19 UTC"
+  },
+  {
+    "title": "Machine Learning Engineer",
+    "company": "Octave-X",
+    "link": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-octave-x-4432653722?position=10&pageNum=0&refId=ZvndwXAjep5xS8uiSW9hGA%3D%3D&trackingId=nhypRkkr03T5QWe5qblBBw%3D%3D",
+    "location": "Chicago, IL",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-06-25 17:19 UTC"
+  },
+  {
+    "title": "Senior Analytics Engineer",
+    "company": "Connie Health",
+    "link": "https://www.linkedin.com/jobs/view/senior-analytics-engineer-at-connie-health-4423059593?position=6&pageNum=0&refId=t49LGffzBBPIigxo1kh3nQ%3D%3D&trackingId=kS1fZui6ksGLhLZoE0Bqzg%3D%3D",
+    "location": "Boston, MA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-06-25 17:19 UTC"
+  },
+  {
+    "title": "Data Engineer, Synthetic Data Generation",
+    "company": "Humana",
+    "link": "https://www.linkedin.com/jobs/view/data-engineer-synthetic-data-generation-at-humana-4430201721?position=10&pageNum=0&refId=t49LGffzBBPIigxo1kh3nQ%3D%3D&trackingId=O5OGHMlfihaTr%2FGhjdH9CA%3D%3D",
+    "location": "Texas, United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-06-25 17:19 UTC"
+  },
+  {
+    "title": "Power BI Developer",
+    "company": "FetchJobs.co",
+    "link": "https://www.linkedin.com/jobs/view/power-bi-developer-at-fetchjobs-co-4432660336?position=11&pageNum=0&refId=vIjn2VpABjvCezeWg8uiDQ%3D%3D&trackingId=1YPtFfgZ1k8sCDG8MAyiBQ%3D%3D",
+    "location": "United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-06-25 17:19 UTC"
+  },
+  {
+    "title": "Senior Technical Lead \u2013 Clinical Data Engineering & Data Platforms",
+    "company": "SJ Mobilita",
+    "link": "https://www.linkedin.com/jobs/view/senior-technical-lead-%E2%80%93-clinical-data-engineering-data-platforms-at-sj-mobilita-4433077383?position=12&pageNum=0&refId=vIjn2VpABjvCezeWg8uiDQ%3D%3D&trackingId=EhflPy6lgfNP9BATfRQm0Q%3D%3D",
+    "location": "Alameda, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-06-25 17:19 UTC"
+  },
+  {
+    "title": "Data Science Specialist",
+    "company": "Tech Consulting",
+    "link": "https://www.linkedin.com/jobs/view/data-science-specialist-at-tech-consulting-4430214356?position=10&pageNum=0&refId=GHQu3VG9%2BvN3rfYqhmUswg%3D%3D&trackingId=BVf06GBmWpVn1wIXXyonsQ%3D%3D",
+    "location": "New York City Metropolitan Area",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-06-25 17:19 UTC"
+  },
+  {
+    "title": "Senior Data Scientist",
+    "company": "Atria Health and Research Institute",
+    "link": "https://www.linkedin.com/jobs/view/senior-data-scientist-at-atria-health-and-research-institute-4433325641?position=12&pageNum=0&refId=GHQu3VG9%2BvN3rfYqhmUswg%3D%3D&trackingId=uCbn%2FVg5zoBbKxpiuZWwTA%3D%3D",
+    "location": "United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-06-25 17:19 UTC"
+  },
+  {
+    "title": "Lead Product Analyst, Pinner Engagement",
+    "company": "Pinterest",
+    "link": "https://www.linkedin.com/jobs/view/lead-product-analyst-pinner-engagement-at-pinterest-4414501566?position=2&pageNum=0&refId=RaP0xgunvER5iUO6vzOrRw%3D%3D&trackingId=R3Lm50ay4RZamc%2FQD%2B%2Bc4A%3D%3D",
+    "location": "New York, NY",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-06-25 17:19 UTC"
+  },
+  {
+    "title": "Product Analyst",
+    "company": "David Joseph & Company",
+    "link": "https://www.linkedin.com/jobs/view/product-analyst-at-david-joseph-company-4432646616?position=8&pageNum=0&refId=RaP0xgunvER5iUO6vzOrRw%3D%3D&trackingId=DBGdhJZg7f931cDJX5Jptg%3D%3D",
+    "location": "San Francisco, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-06-25 17:19 UTC"
+  },
+  {
+    "title": "Research Scientist, Rodent Neural Imaging",
+    "company": "Nudge",
+    "link": "https://www.linkedin.com/jobs/view/research-scientist-rodent-neural-imaging-at-nudge-4432869338?position=4&pageNum=0&refId=xZRvnvKxYQduo9eteoCSQg%3D%3D&trackingId=Jt2Nyonrr6ol9fOxEq%2B8oA%3D%3D",
+    "location": "San Francisco, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-06-25 17:19 UTC"
+  },
+  {
+    "title": "Machine Learning Research Scientist/Engineer",
+    "company": "COX-LITTLE & COMPANY",
+    "link": "https://www.linkedin.com/jobs/view/machine-learning-research-scientist-engineer-at-cox-little-company-4432649287?position=12&pageNum=0&refId=xZRvnvKxYQduo9eteoCSQg%3D%3D&trackingId=tpXRQyRJpodW8rF%2FQ5H%2FFQ%3D%3D",
+    "location": "Princeton, NJ",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-06-25 17:19 UTC"
+  },
+  {
+    "title": "Applied Scientist, Trustworthy Shopping Experience (TSE)",
+    "company": "Amazon",
+    "link": "https://www.amazon.jobs/en/jobs/10459025/applied-scientist-trustworthy-shopping-experience-tse",
+    "location": "IN, KA, Bengaluru",
+    "source": "Amazon Careers",
+    "h1b_signal": true,
+    "summary": "Are you passionate about solving complex business problems at scale through Generative AI? Do you want to help build intelligent systems that reason, act, and learn from minimal supervision? If so, we",
+    "found_at": "2026-06-25 17:20 UTC"
+  },
+  {
+    "title": "Data Engineer, WW Ops Finance S&A ",
+    "company": "Amazon",
+    "link": "https://www.amazon.jobs/en/jobs/10458880/data-engineer-ww-ops-finance-s-a",
+    "location": "LU, Luxembourg",
+    "source": "Amazon Careers",
+    "h1b_signal": true,
+    "summary": "Are you passionate about standardizing data platforms and automating data engineering to drive analytics and reporting? Do you excel in dynamic, fast-paced environments and find joy in converting data",
+    "found_at": "2026-06-25 17:20 UTC"
+  },
+  {
     "title": "Data Scientist, Proprietary Research",
     "company": "Point72",
     "link": "https://www.linkedin.com/jobs/view/data-scientist-proprietary-research-at-point72-4191961576?position=4&pageNum=0&refId=p%2BBj3Ierda5K2iKmzrm9ow%3D%3D&trackingId=ZKHLv%2FKMPA7BWKO2Y4Z01A%3D%3D",
@@ -2708,295 +2998,5 @@
     "h1b_signal": false,
     "summary": "",
     "found_at": "2026-06-24 16:59 UTC"
-  },
-  {
-    "title": "Junior Data Analyst",
-    "company": "Caterpillar Inc.",
-    "link": "https://remoteOK.com/remote-jobs/remote-junior-data-analyst-caterpillar-inc-1134008",
-    "location": "Houston, Houston, Texas, United States",
-    "source": "RemoteOK",
-    "h1b_signal": false,
-    "summary": "Job Title: Junior Data Analyst Location:  Remote / Onsite (as applicable)   Employment Type:  Full-Time Job Summary We are seeking a detail-oriented and analytical Junior Data Analyst to join our team",
-    "found_at": "2026-06-24 16:59 UTC"
-  },
-  {
-    "title": "Data Analyst Excel",
-    "company": "YO IT Consulting",
-    "link": "https://remoteOK.com/remote-jobs/remote-data-analyst-excel-yo-it-consulting-1134019",
-    "location": "Sydney, Sydney, New South Wales, Australia",
-    "source": "RemoteOK",
-    "h1b_signal": false,
-    "summary": "Job Description Job Title:  Data Analyst Excel Job Type:  Contract Location:  Remote Job Summary:  In this role, you'll apply your expertise to help train next-generation AI systems. Your work will sh",
-    "found_at": "2026-06-24 16:59 UTC"
-  },
-  {
-    "title": "Data Analyst",
-    "company": "YO HR Consultancy",
-    "link": "https://remoteOK.com/remote-jobs/remote-data-analyst-yo-hr-consultancy-1133880",
-    "location": "USA",
-    "source": "RemoteOK",
-    "h1b_signal": false,
-    "summary": "Posted 6:57:09 AM. Job Title: Data Analyst (Excel)Job Type: ContractorLocation: RemoteJob Summary: In this role\u00e2\u0080\u00a6See this and similar jobs on LinkedIn. Please mention the word **ENJOYS** and tag RNTI",
-    "found_at": "2026-06-24 16:59 UTC"
-  },
-  {
-    "title": "Data Analyst",
-    "company": "iConsultera",
-    "link": "https://remoteOK.com/remote-jobs/remote-data-analyst-iconsultera-1133846",
-    "location": "USA",
-    "source": "RemoteOK",
-    "h1b_signal": false,
-    "summary": "Job Summary:We are seeking a detail-oriented and analytical Data Analyst to join our remote team\u00e2\u0080\u00a6See this and similar jobs on LinkedIn. Please mention the word **EFFECTUAL** and tag RNTIuMjI0LjI0Ny4",
-    "found_at": "2026-06-24 16:59 UTC"
-  },
-  {
-    "title": "Data Analyst Data Warehouse Analytics and BI",
-    "company": "OWL Services",
-    "link": "https://remoteOK.com/remote-jobs/remote-data-analyst-data-warehouse-analytics-and-bi-owl-services-1133828",
-    "location": "Dallas-Fort Worth Metroplex, ",
-    "source": "RemoteOK",
-    "h1b_signal": false,
-    "summary": "Who We Are OWL Services is the premier sales, installation, program management and service provider to retail, commercial, fleet, aviation and marine, and emergency power generation companies across t",
-    "found_at": "2026-06-24 16:59 UTC"
-  },
-  {
-    "title": "Junior Data Analyst",
-    "company": "Haystack",
-    "link": "https://remoteOK.com/remote-jobs/remote-junior-data-analyst-haystack-1133663",
-    "location": "London, London, England, United Kingdom",
-    "source": "RemoteOK",
-    "h1b_signal": false,
-    "summary": "Are you ready to launch a high-impact career in data analysis? We are collaborating with a leading training provider that is transforming individuals into highly sought-after data professionals, equip",
-    "found_at": "2026-06-24 16:59 UTC"
-  },
-  {
-    "title": "Junior Data Scientist",
-    "company": "Why Hiring",
-    "link": "https://remoteOK.com/remote-jobs/remote-junior-data-scientist-why-hiring-1133570",
-    "location": "Canada, ",
-    "source": "RemoteOK",
-    "h1b_signal": false,
-    "summary": "Posted 7:00:09 AM. At Why Hiring, we believe in the power of connecting talented individuals with incredible remote\u00e2\u0080\u00a6See this and similar jobs on LinkedIn. Please mention the word **MAGIC** and tag R",
-    "found_at": "2026-06-24 16:59 UTC"
-  },
-  {
-    "title": "Junior Data Analyst Data Scientist",
-    "company": "AWISEE",
-    "link": "https://remoteOK.com/remote-jobs/remote-junior-data-analyst-data-scientist-awisee-1133504",
-    "location": "Serbia, ",
-    "source": "RemoteOK",
-    "h1b_signal": false,
-    "summary": "This is a remote position.  Overview  We are looking for a motivated Junior Data Analyst / Data\u00e2\u0080\u00a6 Please mention the word **CATCHY** and tag RNTIuMjI0LjI0Ny4xNjc= when applying to show you read the j",
-    "found_at": "2026-06-24 16:59 UTC"
-  },
-  {
-    "title": "Member of Technical Staff Applied ML RecSys",
-    "company": "Liquid AI",
-    "link": "https://remoteOK.com/remote-jobs/remote-member-of-technical-staff-applied-ml-recsys-liquid-ai-1131627",
-    "location": "Cambridge",
-    "source": "RemoteOK",
-    "h1b_signal": false,
-    "summary": "About Liquid AI Spun out of MIT CSAIL, we build general-purpose AI systems that run efficiently across deployment targets, from data center accelerators to on-device hardware, ensuring low latency, mi",
-    "found_at": "2026-06-24 16:59 UTC"
-  },
-  {
-    "title": "Data Scientist",
-    "company": "YO IT Consulting",
-    "link": "https://remoteOK.com/remote-jobs/remote-data-scientist-yo-it-consulting-1131888",
-    "location": "Melbourne, Melbourne, Victoria, Australia",
-    "source": "RemoteOK",
-    "h1b_signal": false,
-    "summary": "Job Title: Data Scientist Job Type: Contractor Location: Remote Job Summary Join our customer team as a Data Scientist and play a pivotal role in transforming data into actionable insights that drive",
-    "found_at": "2026-06-24 16:59 UTC"
-  },
-  {
-    "title": "ML Engineer",
-    "company": "Trunk Tools, Inc.",
-    "link": "https://remoteOK.com/remote-jobs/remote-ml-engineer-trunk-tools-inc-1131329",
-    "location": "USA",
-    "source": "RemoteOK",
-    "h1b_signal": false,
-    "summary": "At Trunk Tools, we\u00e2\u0080\u0099re the leading AI company revolutionizing construction, the second-largest industry on earth. We recently raised a $40M Series B led by Insight Partners, bringing our total fundin",
-    "found_at": "2026-06-24 16:59 UTC"
-  },
-  {
-    "title": "Data Scientist",
-    "company": "Junction",
-    "link": "https://remoteOK.com/remote-jobs/remote-data-scientist-junction-1131265",
-    "location": "USA",
-    "source": "RemoteOK",
-    "h1b_signal": false,
-    "summary": "Healthcare is in crisis and the people behind the results deserve better. With more and more data coming from wearables, lab tests, and patient\u00e2\u0080\u0093doctor interactions, we\u00e2\u0080\u0099re entering an era where dat",
-    "found_at": "2026-06-24 16:59 UTC"
-  },
-  {
-    "title": "Senior Lead Applied Data Scientist",
-    "company": "StyleSeat",
-    "link": "https://remoteOK.com/remote-jobs/remote-senior-lead-applied-data-scientist-styleseat-1131253",
-    "location": "USA",
-    "source": "RemoteOK",
-    "h1b_signal": false,
-    "summary": "Senior / Lead Applied Data Scientist \n 100% Remote (U.S. Based Only, Select States - See Below) \n \u00a0 \n About the role \n We\u00e2\u0080\u0099re looking for a  product-minded, AI-native Data Scientist  who operates lik",
-    "found_at": "2026-06-24 16:59 UTC"
-  },
-  {
-    "title": "Senior Product Manager Applied AI",
-    "company": "Smartsheet",
-    "link": "https://remoteOK.com/remote-jobs/remote-senior-product-manager-applied-ai-smartsheet-1131233",
-    "location": "USA",
-    "source": "RemoteOK",
-    "h1b_signal": false,
-    "summary": "For over 20 years, Smartsheet has helped people and teams achieve\u00e2\u0080\u0093well, anything. From seamless work management to smart, scalable solutions, we've always worked with flow. We're building tools that",
-    "found_at": "2026-06-24 16:59 UTC"
-  },
-  {
-    "title": "Senior Software Engineer II Applied AI and Evaluations",
-    "company": "Smartsheet",
-    "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ii-applied-ai-and-evaluations-smartsheet-1131095",
-    "location": "USA",
-    "source": "RemoteOK",
-    "h1b_signal": false,
-    "summary": "For over 20 years, Smartsheet has helped people and teams achieve\u00e2\u0080\u0093well, anything. From seamless work management to smart, scalable solutions, we've always worked with flow. We're building tools that",
-    "found_at": "2026-06-24 16:59 UTC"
-  },
-  {
-    "title": "Staff Machine Learning Engineer",
-    "company": "Fullscript",
-    "link": "https://remoteOK.com/remote-jobs/remote-staff-machine-learning-engineer-fullscript-1130924",
-    "location": "USA",
-    "source": "RemoteOK",
-    "h1b_signal": false,
-    "summary": "About Fullscript We\u00e2\u0080\u0099re an industry-leading health technology company on a mission to help people get better. We started in 2011 with one simple idea. Make it easier for practitioners to access the p",
-    "found_at": "2026-06-24 16:59 UTC"
-  },
-  {
-    "title": "Senior Staff Data Engineer",
-    "company": "SmithRx",
-    "link": "https://remoteOK.com/remote-jobs/remote-senior-staff-data-engineer-smithrx-1130914",
-    "location": "Remote",
-    "source": "RemoteOK",
-    "h1b_signal": false,
-    "summary": "Who We Are: \n SmithRx is a rapidly growing, venture-backed Health-Tech company.\u00a0 Our mission is to disrupt the expensive and inefficient Pharmacy Benefit Management (PBM) sector by building a next-gen",
-    "found_at": "2026-06-24 16:59 UTC"
-  },
-  {
-    "title": "Principal Machine Learning Engineer",
-    "company": "Attentive",
-    "link": "https://remoteOK.com/remote-jobs/remote-principal-machine-learning-engineer-attentive-1130826",
-    "location": "United States",
-    "source": "RemoteOK",
-    "h1b_signal": false,
-    "summary": "Attentive\u00c2\u00ae is the AI marketing platform for 1:1 personalization redefining the way brands and people connect. We're the only marketing platform that combines powerful technology with human expertise",
-    "found_at": "2026-06-24 16:59 UTC"
-  },
-  {
-    "title": "Forward Deployed AI Architect",
-    "company": "Tribe AI",
-    "link": "https://remoteOK.com/remote-jobs/remote-forward-deployed-ai-architect-tribe-ai-1130777",
-    "location": "United States",
-    "source": "RemoteOK",
-    "h1b_signal": false,
-    "summary": "About Tribe AI: At Tribe, we\u00e2\u0080\u0099re on a mission to help enterprises realize the value of AI for their business. Every large enterprise wants to use AI to transform how they operate \u00e2\u0080\u0094 but many don\u00e2\u0080\u0099t",
-    "found_at": "2026-06-24 16:59 UTC"
-  },
-  {
-    "title": "Data/ML Role",
-    "company": "Machine Learning Engineer -  https://jobs.apple.com/en-us/de",
-    "link": "https://news.ycombinator.com/item?id=22765970",
-    "location": "See listing",
-    "source": "HN Who's Hiring",
-    "h1b_signal": false,
-    "summary": "Machine Learning Engineer -  https://jobs.apple.com/en-us/details/200154882/ise-proactive... Have you ever scheduled a virtual meeting and received a suggestion to call into it at the right moment? Ha",
-    "found_at": "2026-06-24 17:00 UTC"
-  },
-  {
-    "title": "Data Engineer",
-    "company": "IOMED",
-    "link": "https://news.ycombinator.com/item?id=22749090",
-    "location": "Barcelona, Spain",
-    "source": "HN Who's Hiring",
-    "h1b_signal": false,
-    "summary": "IOMED | Data Engineer | Barcelona, Spain | Full Time | Onsite Are you looking for a job with a direct impact on healthcare?\n* Problem: Clinical data is messy and makes research slow. * Mission: To str",
-    "found_at": "2026-06-24 17:00 UTC"
-  },
-  {
-    "title": "Engineers, Data Scientist, Data Analyst",
-    "company": "SemanticBits",
-    "link": "https://news.ycombinator.com/item?id=22697878",
-    "location": "Full-Time",
-    "source": "HN Who's Hiring",
-    "h1b_signal": false,
-    "summary": "SemanticBits | Engineers, Data Scientist, Data Analyst| Full-Time | REMOTE, VISA |  https://semanticbits.com/ SemanticBits specializes in the design and development of digital health services. We deve",
-    "found_at": "2026-06-24 17:00 UTC"
-  },
-  {
-    "title": "Europe, REMOTE",
-    "company": "Holmusk",
-    "link": "https://news.ycombinator.com/item?id=22691499",
-    "location": "Haskell Backend",
-    "source": "HN Who's Hiring",
-    "h1b_signal": false,
-    "summary": "Holmusk | Europe, REMOTE | Haskell Backend | Full-time | send your cv to [careers@holmusk.com](mailto:careers@holmusk.com) We ([ https://holmusk.com/](https://holmusk.com/) ) leverage technology & dat",
-    "found_at": "2026-06-24 17:00 UTC"
-  },
-  {
-    "title": "Berlin, NYC, REMOTE",
-    "company": "Artsy",
-    "link": "https://news.ycombinator.com/item?id=22684807",
-    "location": "Engineers + PM + Data Analyst Artsy is the leading marketpla",
-    "source": "HN Who's Hiring",
-    "h1b_signal": false,
-    "summary": "Artsy | Berlin, NYC, REMOTE | Engineers + PM + Data Analyst Artsy is the leading marketplace for art. We're hiring across the board, see list of roles here:  https://www.artsy.net/jobs Top priority ar",
-    "found_at": "2026-06-24 17:00 UTC"
-  },
-  {
-    "title": "Python Engineer",
-    "company": "causaLens",
-    "link": "https://news.ycombinator.com/item?id=22683057",
-    "location": "Data Scientist (Commercial)",
-    "source": "HN Who's Hiring",
-    "h1b_signal": false,
-    "summary": "causaLens |Python Engineer | Data Scientist (Commercial) | Data Scientist (Research) | Full-time | London | www.causalens.com We are looking for a motivated and high-achieving Data Scientists, and Pyt",
-    "found_at": "2026-06-24 17:00 UTC"
-  },
-  {
-    "title": "Sr Full-stack Engineer, Sr Data Engineer, Data Scientist, Machine Learning Engin",
-    "company": "Instacart",
-    "link": "https://news.ycombinator.com/item?id=22682224",
-    "location": "See listing",
-    "source": "HN Who's Hiring",
-    "h1b_signal": false,
-    "summary": "Instacart | Sr Full-stack Engineer, Sr Data Engineer, Data Scientist, Machine Learning Engineer, Sr iOS/Android Engineer | onsite in San Francisco |  https://instacart.com Instacart (YC S12) is buildi",
-    "found_at": "2026-06-24 17:00 UTC"
-  },
-  {
-    "title": "Data Engineer, Customer Data Solutions",
-    "company": "Flatiron Health",
-    "link": "https://flatiron.com/careers/open-positions/job?gh_jid=7844431",
-    "location": "NY office",
-    "source": "Direct (Flatiron Health)",
-    "h1b_signal": true,
-    "summary": "<p>Reimagine the infrastructure of cancer care within a community that values integrity, inspires growth, and is uniquely positioned to create a more modern, connected oncology ecosystem.&nbsp;</p>\n<p",
-    "found_at": "2026-06-24 17:00 UTC"
-  },
-  {
-    "title": "Research Scientist",
-    "company": "Flatiron Health",
-    "link": "https://flatiron.com/careers/open-positions/job?gh_jid=7899311",
-    "location": "Durham office",
-    "source": "Direct (Flatiron Health)",
-    "h1b_signal": true,
-    "summary": "<p>Reimagine the infrastructure of cancer care within a community that values integrity, inspires growth, and is uniquely positioned to create a more modern, connected oncology ecosystem.&nbsp;</p>\n<p",
-    "found_at": "2026-06-24 17:00 UTC"
-  },
-  {
-    "title": "Senior Applied AI Data Scientist",
-    "company": "Flatiron Health",
-    "link": "https://flatiron.com/careers/open-positions/job?gh_jid=7967320",
-    "location": "NY office",
-    "source": "Direct (Flatiron Health)",
-    "h1b_signal": true,
-    "summary": "<p>Reimagine the infrastructure of cancer care within a community that values integrity, inspires growth, and is uniquely positioned to create a more modern, connected oncology ecosystem.</p>\n<p>We\u2019re",
-    "found_at": "2026-06-24 17:00 UTC"
   }
 ]
