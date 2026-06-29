@@ -1,5 +1,125 @@
 [
   {
+    "title": "Data Scientist - Algorithms, Community Support",
+    "company": "Airbnb",
+    "link": "https://www.linkedin.com/jobs/view/data-scientist-algorithms-community-support-at-airbnb-4434291898?position=9&pageNum=0&refId=qJ6PG1W5jDeES%2BfaPAfN1Q%3D%3D&trackingId=zoEuwOsPqAVbswoc39z2Kg%3D%3D",
+    "location": "United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-06-29 04:48 UTC"
+  },
+  {
+    "title": "AI/ML Engineer, Global Banking & Markets, Investment Banking",
+    "company": "Goldman Sachs",
+    "link": "https://www.linkedin.com/jobs/view/ai-ml-engineer-global-banking-markets-investment-banking-at-goldman-sachs-4373079780?position=5&pageNum=0&refId=iO9HVzft3cT%2BAYKCHilFQA%3D%3D&trackingId=5gHRwlXNBo92CqwYXJE8Tg%3D%3D",
+    "location": "Dallas, TX",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-06-29 04:48 UTC"
+  },
+  {
+    "title": "Senior Machine Learning Engineer",
+    "company": "kadence",
+    "link": "https://www.linkedin.com/jobs/view/senior-machine-learning-engineer-at-kadence-4430145507?position=10&pageNum=0&refId=iO9HVzft3cT%2BAYKCHilFQA%3D%3D&trackingId=WyFRvuGdTaFKGt%2FKhh7jPA%3D%3D",
+    "location": "San Francisco Bay Area",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-06-29 04:48 UTC"
+  },
+  {
+    "title": "Senior AI/ML Engineer",
+    "company": "Cylestio",
+    "link": "https://www.linkedin.com/jobs/view/senior-ai-ml-engineer-at-cylestio-4433629285?position=12&pageNum=0&refId=iO9HVzft3cT%2BAYKCHilFQA%3D%3D&trackingId=RPLugAxLwHBrAgiqALiIJg%3D%3D",
+    "location": "Israel, OH",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-06-29 04:48 UTC"
+  },
+  {
+    "title": "Data Analyst (W2 only)",
+    "company": "Innovatech Staffing",
+    "link": "https://www.linkedin.com/jobs/view/data-analyst-w2-only-at-innovatech-staffing-4431206551?position=3&pageNum=0&refId=BiE4XuZv00TuDe4BArQs2A%3D%3D&trackingId=cWo6Sg3joB6Kcvvwu9paMQ%3D%3D",
+    "location": "United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-06-29 04:48 UTC"
+  },
+  {
+    "title": "Data Analyst",
+    "company": "Atlas NextWave",
+    "link": "https://www.linkedin.com/jobs/view/data-analyst-at-atlas-nextwave-4434406676?position=7&pageNum=0&refId=BiE4XuZv00TuDe4BArQs2A%3D%3D&trackingId=q33fN3GBM%2BOBOUc3nlV%2B3w%3D%3D",
+    "location": "United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-06-29 04:48 UTC"
+  },
+  {
+    "title": "Data Analyst",
+    "company": "Finstock, Inc.",
+    "link": "https://www.linkedin.com/jobs/view/data-analyst-at-finstock-inc-4433617993?position=10&pageNum=0&refId=BiE4XuZv00TuDe4BArQs2A%3D%3D&trackingId=yxz41KCp4yPTmgu2Z%2BQ0Fw%3D%3D",
+    "location": "United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-06-29 04:48 UTC"
+  },
+  {
+    "title": "Data Analyst",
+    "company": "Alarm.com",
+    "link": "https://www.linkedin.com/jobs/view/data-analyst-at-alarm-com-4404104987?position=11&pageNum=0&refId=BiE4XuZv00TuDe4BArQs2A%3D%3D&trackingId=Li20FEPAYuKu%2Bub7E%2FpTsg%3D%3D",
+    "location": "Tysons Corner, VA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-06-29 04:48 UTC"
+  },
+  {
+    "title": "junior Bi Analyst//Data Engineer",
+    "company": "SynergisticIT",
+    "link": "https://www.linkedin.com/jobs/view/junior-bi-analyst-data-engineer-at-synergisticit-4433630524?position=6&pageNum=0&refId=5poNO32nuTNK8JHEY0igSQ%3D%3D&trackingId=A76vW4KD3hU03Qks3J41eA%3D%3D",
+    "location": "Phoenix, AZ",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-06-29 04:48 UTC"
+  },
+  {
+    "title": "Senior, ML Engineer - ML Ops Framework",
+    "company": "Torc Robotics",
+    "link": "https://www.linkedin.com/jobs/view/senior-ml-engineer-ml-ops-framework-at-torc-robotics-4324348886?position=6&pageNum=0&refId=JSQnagfsfyimCHFu3taeiw%3D%3D&trackingId=UbKuakpb39tzhtSjcoPN2w%3D%3D",
+    "location": "Ann Arbor, MI",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-06-29 04:48 UTC"
+  },
+  {
+    "title": "Forward Deployed Engineer - AI Engineer",
+    "company": "Reflection",
+    "link": "https://www.linkedin.com/jobs/view/forward-deployed-engineer-ai-engineer-at-reflection-4344631994?position=8&pageNum=0&refId=JSQnagfsfyimCHFu3taeiw%3D%3D&trackingId=CYELy0q0NBVmZO724EkG9g%3D%3D",
+    "location": "San Francisco, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-06-29 04:48 UTC"
+  },
+  {
+    "title": "Rust, AI Engineer, Director",
+    "company": "BlackRock",
+    "link": "https://www.linkedin.com/jobs/view/rust-ai-engineer-director-at-blackrock-4425144206?position=9&pageNum=0&refId=JSQnagfsfyimCHFu3taeiw%3D%3D&trackingId=jqnfsyli6n2u%2FjK4oi1VGA%3D%3D",
+    "location": "New York, NY",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-06-29 04:48 UTC"
+  },
+  {
     "title": "Data Scientist - Inference, Community Support",
     "company": "Airbnb",
     "link": "https://www.linkedin.com/jobs/view/data-scientist-inference-community-support-at-airbnb-4434292840?position=5&pageNum=0&refId=De6cUgzehpU6NjhygIpVAQ%3D%3D&trackingId=eMOGq8odyst5D9rBPfJzog%3D%3D",
@@ -2874,126 +2994,6 @@
     "company": "Flint Hills Resources",
     "link": "https://www.linkedin.com/jobs/view/product-analyst-data-analyst-at-flint-hills-resources-4430279677?position=11&pageNum=0&refId=Tm0WG%2B37Wkz3Vl1f%2FRawzg%3D%3D&trackingId=qH5E739iDpdi%2Fsy4sNra3A%3D%3D",
     "location": "Wichita, KS",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-06-26 20:00 UTC"
-  },
-  {
-    "title": "Data Analyst",
-    "company": "Methodic",
-    "link": "https://www.linkedin.com/jobs/view/data-analyst-at-methodic-4433872099?position=12&pageNum=0&refId=Tm0WG%2B37Wkz3Vl1f%2FRawzg%3D%3D&trackingId=OUWZrSwJi4G0tqL%2BCx4yBg%3D%3D",
-    "location": "San Francisco, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-06-26 20:00 UTC"
-  },
-  {
-    "title": "AI Engineer",
-    "company": "Viking",
-    "link": "https://www.linkedin.com/jobs/view/ai-engineer-at-viking-4411153562?position=1&pageNum=0&refId=YnQj7wbLd0K0SP9HR02aNw%3D%3D&trackingId=Z%2BPgRRcayKDfsbjeve9ecA%3D%3D",
-    "location": "Los Angeles Metropolitan Area",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-06-26 20:00 UTC"
-  },
-  {
-    "title": "Applied AI Engineer",
-    "company": "A1",
-    "link": "https://www.linkedin.com/jobs/view/applied-ai-engineer-at-a1-4433224660?position=4&pageNum=0&refId=YnQj7wbLd0K0SP9HR02aNw%3D%3D&trackingId=OxisABriEGCFwkKbe9%2BRrg%3D%3D",
-    "location": "Palo Alto, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-06-26 20:00 UTC"
-  },
-  {
-    "title": "IT AI ENGINEER",
-    "company": "Sally Beauty",
-    "link": "https://www.linkedin.com/jobs/view/it-ai-engineer-at-sally-beauty-4424504133?position=6&pageNum=0&refId=YnQj7wbLd0K0SP9HR02aNw%3D%3D&trackingId=XLC%2F2H%2FEcoYWnqUrz6KgDQ%3D%3D",
-    "location": "Plano, TX",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-06-26 20:00 UTC"
-  },
-  {
-    "title": "AI Engineer",
-    "company": "Haystack",
-    "link": "https://www.linkedin.com/jobs/view/ai-engineer-at-haystack-4433251137?position=8&pageNum=0&refId=YnQj7wbLd0K0SP9HR02aNw%3D%3D&trackingId=ZkLmJ4eQ6s31%2B8vh3kwNrQ%3D%3D",
-    "location": "San Francisco Bay Area",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-06-26 20:00 UTC"
-  },
-  {
-    "title": "AI/ML Engineer",
-    "company": "LogicMonitor",
-    "link": "https://www.linkedin.com/jobs/view/ai-ml-engineer-at-logicmonitor-4430621785?position=9&pageNum=0&refId=YnQj7wbLd0K0SP9HR02aNw%3D%3D&trackingId=norch7y2Fp4f%2F0FliPZNhg%3D%3D",
-    "location": "San Francisco, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-06-26 20:00 UTC"
-  },
-  {
-    "title": "IT AI ENGINEER",
-    "company": "CosmoProf Beauty",
-    "link": "https://www.linkedin.com/jobs/view/it-ai-engineer-at-cosmoprof-beauty-4424109378?position=11&pageNum=0&refId=YnQj7wbLd0K0SP9HR02aNw%3D%3D&trackingId=7PmBoaScX%2Bo%2FeZUJB63OUg%3D%3D",
-    "location": "Plano, TX",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-06-26 20:00 UTC"
-  },
-  {
-    "title": "AI Engineer",
-    "company": "UMATR",
-    "link": "https://www.linkedin.com/jobs/view/ai-engineer-at-umatr-4428221718?position=12&pageNum=0&refId=YnQj7wbLd0K0SP9HR02aNw%3D%3D&trackingId=Yt4IHzaTSTn0qyyqcue5Pw%3D%3D",
-    "location": "San Francisco Bay Area",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-06-26 20:00 UTC"
-  },
-  {
-    "title": "Databricks Platform & Data Engineer (CoE)",
-    "company": "Saransh Inc",
-    "link": "https://www.linkedin.com/jobs/view/databricks-platform-data-engineer-coe-at-saransh-inc-4433891174?position=12&pageNum=0&refId=Nj91CGgAD4hL%2B2At7VNfxw%3D%3D&trackingId=IuCscwNDWsPzVdYrh1lhoQ%3D%3D",
-    "location": "Plano, TX",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-06-26 20:00 UTC"
-  },
-  {
-    "title": "Business Intelligence Analyst 5",
-    "company": "TALENT Software Services",
-    "link": "https://www.linkedin.com/jobs/view/business-intelligence-analyst-5-at-talent-software-services-4430631808?position=8&pageNum=0&refId=wK15sD49h0ynYRDvbAWvCQ%3D%3D&trackingId=8QC626MSKTIRAxNY7txjMA%3D%3D",
-    "location": "Redmond, WA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-06-26 20:00 UTC"
-  },
-  {
-    "title": "Junior Business Intelligence Analyst",
-    "company": "Emerald Resource Group",
-    "link": "https://www.linkedin.com/jobs/view/junior-business-intelligence-analyst-at-emerald-resource-group-4415554394?position=10&pageNum=0&refId=wK15sD49h0ynYRDvbAWvCQ%3D%3D&trackingId=aMhWa4v%2BTcnxplmWJ0x5IQ%3D%3D",
-    "location": "Broadview Heights, OH",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-06-26 20:00 UTC"
-  },
-  {
-    "title": "BI Data Analyst III",
-    "company": "Credible",
-    "link": "https://www.linkedin.com/jobs/view/bi-data-analyst-iii-at-credible-4382485814?position=11&pageNum=0&refId=wK15sD49h0ynYRDvbAWvCQ%3D%3D&trackingId=MzclQnwZoyNFeKOyHHFJbQ%3D%3D",
-    "location": "United States",
     "source": "LinkedIn",
     "h1b_signal": false,
     "summary": "",
