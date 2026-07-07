@@ -1,6 +1,106 @@
 [
   {
     "title": "Data Scientist",
+    "company": "Bear River Mutual",
+    "link": "https://www.linkedin.com/jobs/view/data-scientist-at-bear-river-mutual-4437752346?position=3&pageNum=0&refId=pYUuW06fUBCqQtZv3KnaMg%3D%3D&trackingId=WzPBWgLXGg4AffrlRYd3jA%3D%3D",
+    "location": "Salt Lake City, UT",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-07 09:55 UTC"
+  },
+  {
+    "title": "Machine Learning Engineer",
+    "company": "CoreViva",
+    "link": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-coreviva-4436268384?position=12&pageNum=0&refId=dWP4%2BGvdf%2Bp0anEWjknk9g%3D%3D&trackingId=ArqfOHYpXUYVVcOli4ycWQ%3D%3D",
+    "location": "Cupertino, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-07 09:55 UTC"
+  },
+  {
+    "title": "Data Analyst",
+    "company": "Advance Auto Parts",
+    "link": "https://www.linkedin.com/jobs/view/data-analyst-at-advance-auto-parts-4436288942?position=5&pageNum=0&refId=JXavfxH7a9WBoWFbGIVlYA%3D%3D&trackingId=qctG8H6azm7R3KKQQcqEgw%3D%3D",
+    "location": "Raleigh, NC",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-07 09:55 UTC"
+  },
+  {
+    "title": "Machine Learning Engineer",
+    "company": "CarNow",
+    "link": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-carnow-4436239066?position=11&pageNum=0&refId=U%2Bizu5X9MPgrxCVFHrCgfA%3D%3D&trackingId=o1NZuz3BfYMY1JFkq%2B2v5A%3D%3D",
+    "location": "Raleigh, NC",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-07 09:55 UTC"
+  },
+  {
+    "title": "Data Engineer",
+    "company": "SearchWorks",
+    "link": "https://www.linkedin.com/jobs/view/data-engineer-at-searchworks-4437751483?position=2&pageNum=0&refId=KELZbRf64K%2F7qofzQLRenw%3D%3D&trackingId=P09VNVswbRDj%2BoGIDZQn4Q%3D%3D",
+    "location": "New York, United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-07 09:55 UTC"
+  },
+  {
+    "title": "BI Data Engineer",
+    "company": "Crane ChemPharma & Energy",
+    "link": "https://www.linkedin.com/jobs/view/bi-data-engineer-at-crane-chempharma-energy-4381057540?position=8&pageNum=0&refId=2VeTrANpWnY1dFvWNTpQGA%3D%3D&trackingId=qeQukZsH3xN54z0JezaCvg%3D%3D",
+    "location": "The Woodlands, TX",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-07 09:55 UTC"
+  },
+  {
+    "title": "Data Engineer I",
+    "company": "Ann & Robert H. Lurie Children's Hospital of Chicago",
+    "link": "https://www.linkedin.com/jobs/view/data-engineer-i-at-ann-robert-h-lurie-children-s-hospital-of-chicago-4437746363?position=11&pageNum=0&refId=2VeTrANpWnY1dFvWNTpQGA%3D%3D&trackingId=xPakWtM5UXiwnD%2Fnk1fv4g%3D%3D",
+    "location": "Streeterville, IL",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-07 09:55 UTC"
+  },
+  {
+    "title": "Research Scientist I - E&L",
+    "company": "Vantive",
+    "link": "https://www.linkedin.com/jobs/view/research-scientist-i-e-l-at-vantive-4436261759?position=4&pageNum=0&refId=3g1EE%2BJizsyWsBDc2GOxvw%3D%3D&trackingId=AX794tlkDNGhPqDRn7u8%2BQ%3D%3D",
+    "location": "Oakdale, MN",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-07 09:55 UTC"
+  },
+  {
+    "title": "Research Scientist 3 - Sr Research Scientist 1",
+    "company": "Promega Corporation",
+    "link": "https://www.linkedin.com/jobs/view/research-scientist-3-sr-research-scientist-1-at-promega-corporation-4437446195?position=7&pageNum=0&refId=3g1EE%2BJizsyWsBDc2GOxvw%3D%3D&trackingId=gasHnjIFXiViEQ6O60%2FbeA%3D%3D",
+    "location": "Madison, WI",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-07 09:55 UTC"
+  },
+  {
+    "title": "AI Research Scientist, FAIR Chemistry",
+    "company": "Meta",
+    "link": "https://www.linkedin.com/jobs/view/ai-research-scientist-fair-chemistry-at-meta-4434525240?position=8&pageNum=0&refId=3g1EE%2BJizsyWsBDc2GOxvw%3D%3D&trackingId=5JTJ0jQNnwIFKEt8U6H6%2BA%3D%3D",
+    "location": "New York, NY",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-07 09:55 UTC"
+  },
+  {
+    "title": "Data Scientist",
     "company": "Tanisha Systems, Inc",
     "link": "https://www.linkedin.com/jobs/view/data-scientist-at-tanisha-systems-inc-4433991075?position=1&pageNum=0&refId=d2ipgWWp6hgTjsHITabbbg%3D%3D&trackingId=Ag2Evp6K5%2Bua8J35MeHZ9g%3D%3D",
     "location": "Dallas, TX",
@@ -2898,105 +2998,5 @@
     "h1b_signal": false,
     "summary": "",
     "found_at": "2026-07-04 22:04 UTC"
-  },
-  {
-    "title": "Business Intelligence Analyst",
-    "company": "CodeVertex Innovations",
-    "link": "https://www.linkedin.com/jobs/view/business-intelligence-analyst-at-codevertex-innovations-4433738776?position=3&pageNum=0&refId=CufQhlugNtRM5883H7aSdg%3D%3D&trackingId=FElynZxWA2sSGIRTuLUweg%3D%3D",
-    "location": "United States",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-04 22:04 UTC"
-  },
-  {
-    "title": "Business Intelligence Analyst",
-    "company": "CodeVertex Careers",
-    "link": "https://www.linkedin.com/jobs/view/business-intelligence-analyst-at-codevertex-careers-4433738777?position=6&pageNum=0&refId=CufQhlugNtRM5883H7aSdg%3D%3D&trackingId=fWCvYIAtpUwjTvvK4j%2BB9Q%3D%3D",
-    "location": "United States",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-04 22:04 UTC"
-  },
-  {
-    "title": "Analytics Engineer",
-    "company": "TradeEngage",
-    "link": "https://www.linkedin.com/jobs/view/analytics-engineer-at-tradeengage-4436969114?position=5&pageNum=0&refId=WXUaLlllKMOE0aycEzGjvQ%3D%3D&trackingId=v8k1RH5cmc2c1QPPO1xpwQ%3D%3D",
-    "location": "United States",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-04 22:04 UTC"
-  },
-  {
-    "title": "Analytics Engineer",
-    "company": "EquipmentShare",
-    "link": "https://www.linkedin.com/jobs/view/analytics-engineer-at-equipmentshare-4428146774?position=8&pageNum=0&refId=WXUaLlllKMOE0aycEzGjvQ%3D%3D&trackingId=6a2Jt1u6bYpgSv6skCHDAw%3D%3D",
-    "location": "Columbia, MO",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-04 22:04 UTC"
-  },
-  {
-    "title": "ML Engineer",
-    "company": "Solventum",
-    "link": "https://www.linkedin.com/jobs/view/ml-engineer-at-solventum-4388362925?position=1&pageNum=0&refId=OZeChcncPtfVH7OhOhwqmw%3D%3D&trackingId=yhsmwETs1y3AAi8ecs47kg%3D%3D",
-    "location": "Linden, PA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-04 19:24 UTC"
-  },
-  {
-    "title": "Machine Learning Engineer, Zillow Shopping AI",
-    "company": "Zillow",
-    "link": "https://www.linkedin.com/jobs/view/machine-learning-engineer-zillow-shopping-ai-at-zillow-4341008321?position=9&pageNum=0&refId=OZeChcncPtfVH7OhOhwqmw%3D%3D&trackingId=JP%2FV2VYF%2FY6in%2FayrzJELA%3D%3D",
-    "location": "United States",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-04 19:24 UTC"
-  },
-  {
-    "title": "Machine Learning Engineer -4 \u2013 Agentic AI & Personalization",
-    "company": "Adobe",
-    "link": "https://www.linkedin.com/jobs/view/machine-learning-engineer-4-%E2%80%93-agentic-ai-personalization%C2%A0-at-adobe-4416733324?position=11&pageNum=0&refId=OZeChcncPtfVH7OhOhwqmw%3D%3D&trackingId=hMm%2BA%2BvNJSBj0A22z7LPUA%3D%3D",
-    "location": "San Jose, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-04 19:24 UTC"
-  },
-  {
-    "title": "AI & ML Engineer",
-    "company": "Jobgether",
-    "link": "https://www.linkedin.com/jobs/view/ai-ml-engineer-at-jobgether-4435464415?position=12&pageNum=0&refId=OZeChcncPtfVH7OhOhwqmw%3D%3D&trackingId=q2EH5uP0mlDJ0TCdmkkgjQ%3D%3D",
-    "location": "United States",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-04 19:24 UTC"
-  },
-  {
-    "title": "AI Engineer",
-    "company": "Siemens Energy",
-    "link": "https://www.linkedin.com/jobs/view/ai-engineer-at-siemens-energy-4385943793?position=1&pageNum=0&refId=Vn%2B3ZbF6O4tkM5l8iPgOQA%3D%3D&trackingId=d5UjfNLqRY4Fmf%2FPLmkRwQ%3D%3D",
-    "location": "Orlando, FL",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-04 19:25 UTC"
-  },
-  {
-    "title": "Applied AI Engineer, Codex Core Agent",
-    "company": "OpenAI",
-    "link": "https://www.linkedin.com/jobs/view/applied-ai-engineer-codex-core-agent-at-openai-4416739416?position=2&pageNum=0&refId=Vn%2B3ZbF6O4tkM5l8iPgOQA%3D%3D&trackingId=%2FNhvUhuzxo7gyyJECXPlZA%3D%3D",
-    "location": "New York, NY",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-04 19:25 UTC"
   }
 ]
