@@ -1,5 +1,115 @@
 [
   {
+    "title": "Jr. Data Scientist",
+    "company": "Why Hiring",
+    "link": "https://www.linkedin.com/jobs/view/jr-data-scientist-at-why-hiring-4434820548?position=1&pageNum=0&refId=MiYC6kR3Egxydvjm6UR5VA%3D%3D&trackingId=sSGzb0yMNrn%2BGPCtxDmzrw%3D%3D",
+    "location": "United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-08 08:40 UTC"
+  },
+  {
+    "title": "Data Analyst",
+    "company": "Technology Ventures",
+    "link": "https://www.linkedin.com/jobs/view/data-analyst-at-technology-ventures-4434801865?position=4&pageNum=0&refId=xr3gZtqguO0q8L9ibtotGg%3D%3D&trackingId=QZH69oH9NmL5Iq%2FQb%2FCpkg%3D%3D",
+    "location": "Reston, VA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-08 08:40 UTC"
+  },
+  {
+    "title": "AI Engineer",
+    "company": "ON.energy",
+    "link": "https://www.linkedin.com/jobs/view/ai-engineer-at-on-energy-4437844499?position=11&pageNum=0&refId=sfsxWr7DtZwZ%2FlIi2nbCDA%3D%3D&trackingId=4oMWQx98DxC2yKZgdTl8oQ%3D%3D",
+    "location": "Houston, TX",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-08 08:40 UTC"
+  },
+  {
+    "title": "Data Engineer",
+    "company": "Accelint",
+    "link": "https://www.linkedin.com/jobs/view/data-engineer-at-accelint-4436846394?position=12&pageNum=0&refId=cwJc0e6K5SUsljPbBs6xnQ%3D%3D&trackingId=WLpqgEN9tOg%2FOd54smGYAw%3D%3D",
+    "location": "St Paul, MN",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-08 08:40 UTC"
+  },
+  {
+    "title": "Analytics Engineer with Databricks & Power BI (3 days in office)",
+    "company": "Access Search, Inc.",
+    "link": "https://www.linkedin.com/jobs/view/analytics-engineer-with-databricks-power-bi-3-days-in-office-at-access-search-inc-4438110273?position=5&pageNum=0&refId=j0KOj4oBsfvIxnDRH82bPw%3D%3D&trackingId=%2BzFIf4ou4spJiJ%2Fs0CzHGg%3D%3D",
+    "location": "Scottsdale, AZ",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-08 08:40 UTC"
+  },
+  {
+    "title": "Analytics Engineer",
+    "company": "Merit America",
+    "link": "https://www.linkedin.com/jobs/view/analytics-engineer-at-merit-america-4437874445?position=7&pageNum=0&refId=j0KOj4oBsfvIxnDRH82bPw%3D%3D&trackingId=vwxg36s8KSbAWIoBaBJT1A%3D%3D",
+    "location": "Washington, DC",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-08 08:40 UTC"
+  },
+  {
+    "title": "Healthcare Supply Chain Data Analyst (Remote Available)",
+    "company": "Vanderbilt University Medical Center",
+    "link": "https://www.linkedin.com/jobs/view/healthcare-supply-chain-data-analyst-remote-available-at-vanderbilt-university-medical-center-4434810622?position=4&pageNum=0&refId=c3mGQ9fq%2FBP1IrqA083znA%3D%3D&trackingId=9xtDpI0fQgqBHYHpAXqrnA%3D%3D",
+    "location": "Mount Juliet, TN",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-08 08:40 UTC"
+  },
+  {
+    "title": "Senior Data Scientist #4887",
+    "company": "GRAIL",
+    "link": "https://www.linkedin.com/jobs/view/senior-data-scientist-%234887-at-grail-4436860892?position=5&pageNum=0&refId=kFUHFf%2B76fbYh2e7vR4Iwg%3D%3D&trackingId=QZX0X9HzhN4GWRWXgmEd3g%3D%3D",
+    "location": "Menlo Park, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-08 08:40 UTC"
+  },
+  {
+    "title": "Product Data Analyst",
+    "company": "Turo",
+    "link": "https://www.linkedin.com/jobs/view/product-data-analyst-at-turo-4438152056?position=5&pageNum=0&refId=R9g5remDzcsQSoMlyujAzg%3D%3D&trackingId=%2FcosaL01yhXGfwtOy2jTtw%3D%3D",
+    "location": "San Francisco, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-08 08:40 UTC"
+  },
+  {
+    "title": "US Wealth Product Analyst",
+    "company": "Nomura",
+    "link": "https://www.linkedin.com/jobs/view/us-wealth-product-analyst-at-nomura-4436886752?position=10&pageNum=0&refId=R9g5remDzcsQSoMlyujAzg%3D%3D&trackingId=s385SETjv0uJCn2z8rpGTg%3D%3D",
+    "location": "Philadelphia, PA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-08 08:40 UTC"
+  },
+  {
+    "title": "Senior Applied Scientist",
+    "company": "Siemens",
+    "link": "https://www.linkedin.com/jobs/view/senior-applied-scientist-at-siemens-4436888845?position=10&pageNum=0&refId=Ggjk6eAo3ZcPIYhZAD9ROg%3D%3D&trackingId=IIllzxj75TPZFzrw%2FbvN9w%3D%3D",
+    "location": "New York, NY",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-08 08:40 UTC"
+  },
+  {
     "title": "Associate Data Scientist",
     "company": "Paramount",
     "link": "https://www.linkedin.com/jobs/view/associate-data-scientist-at-paramount-4438127343?position=2&pageNum=0&refId=n5dOFb4U44lQPFSBeEM8mQ%3D%3D&trackingId=ydxLmGDBvNxO6W5FM9GjSg%3D%3D",
@@ -2888,115 +2998,5 @@
     "h1b_signal": false,
     "summary": "",
     "found_at": "2026-07-06 10:53 UTC"
-  },
-  {
-    "title": "Clinical Trial Research Scientist",
-    "company": "Alignerr",
-    "link": "https://www.linkedin.com/jobs/view/clinical-trial-research-scientist-at-alignerr-4437124662?position=7&pageNum=0&refId=gYFwjDgRXiNsqdv%2Fw34woA%3D%3D&trackingId=9Pedc5QAkc2Gw5g%2FLlO0zQ%3D%3D",
-    "location": "Seattle, WA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-06 10:53 UTC"
-  },
-  {
-    "title": "Associate Research Scientist",
-    "company": "SLAS (Society for Laboratory Automation and Screening)",
-    "link": "https://www.linkedin.com/jobs/view/associate-research-scientist-at-slas-society-for-laboratory-automation-and-screening-4436086543?position=9&pageNum=0&refId=gYFwjDgRXiNsqdv%2Fw34woA%3D%3D&trackingId=IoOFEjaTnQMFPxQkEDhZ8w%3D%3D",
-    "location": "Wallingford, CT",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-06 10:53 UTC"
-  },
-  {
-    "title": "Research Scientist, Materials Synthesis",
-    "company": "SLAS (Society for Laboratory Automation and Screening)",
-    "link": "https://www.linkedin.com/jobs/view/research-scientist-materials-synthesis-at-slas-society-for-laboratory-automation-and-screening-4436078952?position=10&pageNum=0&refId=gYFwjDgRXiNsqdv%2Fw34woA%3D%3D&trackingId=SxwY4kyXq2mVhXwi%2BXiF4w%3D%3D",
-    "location": "Menlo Park, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-06 10:53 UTC"
-  },
-  {
-    "title": "Lead Research Scientist",
-    "company": "Croda",
-    "link": "https://www.linkedin.com/jobs/view/lead-research-scientist-at-croda-4433909622?position=12&pageNum=0&refId=gYFwjDgRXiNsqdv%2Fw34woA%3D%3D&trackingId=yAkAEQ6dLFv2OGoGFJ27dA%3D%3D",
-    "location": "Plainsboro, NJ",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-06 10:53 UTC"
-  },
-  {
-    "title": "Data Scientist, Infrastructure",
-    "company": "OpenAI",
-    "link": "https://www.linkedin.com/jobs/view/data-scientist-infrastructure-at-openai-4417169183?position=1&pageNum=0&refId=kvEmxJMUm3EGx4A7CBeRqg%3D%3D&trackingId=EsUXSkaP%2FaalZu0i%2FQgnkg%3D%3D",
-    "location": "San Francisco, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-06 04:16 UTC"
-  },
-  {
-    "title": "Data Scientist (AI/ML Modeling, Forecasting and Algorithms)",
-    "company": "Yum! Brands",
-    "link": "https://www.linkedin.com/jobs/view/data-scientist-ai-ml-modeling-forecasting-and-algorithms-at-yum%21-brands-4406742420?position=2&pageNum=0&refId=kvEmxJMUm3EGx4A7CBeRqg%3D%3D&trackingId=vHW6J1ITyzCa0NPHSpQx6w%3D%3D",
-    "location": "Louisville, KY",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-06 04:16 UTC"
-  },
-  {
-    "title": "Data Scientist",
-    "company": "Total Quality Logistics",
-    "link": "https://www.linkedin.com/jobs/view/data-scientist-at-total-quality-logistics-4412752716?position=9&pageNum=0&refId=kvEmxJMUm3EGx4A7CBeRqg%3D%3D&trackingId=Efic7FhqRnOa5TyYO2yr3g%3D%3D",
-    "location": "Cincinnati, OH",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-06 04:16 UTC"
-  },
-  {
-    "title": "Data Scientist (Austin)",
-    "company": "Texas Workforce Commission",
-    "link": "https://www.linkedin.com/jobs/view/data-scientist-austin-at-texas-workforce-commission-4436025785?position=12&pageNum=0&refId=kvEmxJMUm3EGx4A7CBeRqg%3D%3D&trackingId=j7%2FZEn1MU6KinCGtqdIBEg%3D%3D",
-    "location": "Austin, TX",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-06 04:16 UTC"
-  },
-  {
-    "title": "Senior Machine Learning Engineer - Foundation Model",
-    "company": "XPENG",
-    "link": "https://www.linkedin.com/jobs/view/senior-machine-learning-engineer-foundation-model-at-xpeng-4437116668?position=11&pageNum=0&refId=P9WVemZykRGNxKBOSjVAyA%3D%3D&trackingId=3UZTHFeLk5lvY3FTzQy5eQ%3D%3D",
-    "location": "Santa Clara, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-06 04:16 UTC"
-  },
-  {
-    "title": "Data Analyst",
-    "company": "Jobgether",
-    "link": "https://www.linkedin.com/jobs/view/data-analyst-at-jobgether-4436069069?position=11&pageNum=0&refId=UJ1R%2BlCzRdbLfiEZPV68Fg%3D%3D&trackingId=1TMTzN9Ocp6CgcvN2xxQNQ%3D%3D",
-    "location": "United States",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-06 04:16 UTC"
-  },
-  {
-    "title": "Data Analyst",
-    "company": "Netrolynx AI",
-    "link": "https://www.linkedin.com/jobs/view/data-analyst-at-netrolynx-ai-4437122216?position=12&pageNum=0&refId=UJ1R%2BlCzRdbLfiEZPV68Fg%3D%3D&trackingId=Ak713z9uGifYUhI3Ph6t0w%3D%3D",
-    "location": "United States",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-06 04:16 UTC"
   }
 ]
