@@ -1,5 +1,85 @@
 [
   {
+    "title": "Data Scientist",
+    "company": "Quantifind",
+    "link": "https://www.linkedin.com/jobs/view/data-scientist-at-quantifind-4327200798?position=3&pageNum=0&refId=ha3BWM8IVAdU60LtL6N%2BFw%3D%3D&trackingId=hnKQkGmQIXdvhfTb3REqEg%3D%3D",
+    "location": "Palo Alto, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-15 10:57 UTC"
+  },
+  {
+    "title": "Data Scientist",
+    "company": "SAIC",
+    "link": "https://www.linkedin.com/jobs/view/data-scientist-at-saic-4440208105?position=9&pageNum=0&refId=ha3BWM8IVAdU60LtL6N%2BFw%3D%3D&trackingId=%2BogCRWW45be3nvvT9p49fw%3D%3D",
+    "location": "Washington, DC",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-15 10:57 UTC"
+  },
+  {
+    "title": "Data Analyst",
+    "company": "Kani Solutions Inc",
+    "link": "https://www.linkedin.com/jobs/view/data-analyst-at-kani-solutions-inc-4440940848?position=5&pageNum=0&refId=kYFV3Tq4M5Dlvxn%2FKh%2FTYw%3D%3D&trackingId=BDZSicUdK0HXZG4YY9ofWQ%3D%3D",
+    "location": "San Francisco, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-15 10:57 UTC"
+  },
+  {
+    "title": "Machine Learning Engineer",
+    "company": "Wanderboat AI",
+    "link": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-wanderboat-ai-4440211058?position=7&pageNum=0&refId=KeqLBkukCcF42L7ORrbjLw%3D%3D&trackingId=DDj6dWOGNEbaFVYB3ZGfdw%3D%3D",
+    "location": "Sunnyvale, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-15 10:57 UTC"
+  },
+  {
+    "title": "Business Intelligence Analyst",
+    "company": "Applied Medical",
+    "link": "https://www.linkedin.com/jobs/view/business-intelligence-analyst-at-applied-medical-4438056551?position=6&pageNum=0&refId=g%2BY56krU0xSGTYuVtVHzxw%3D%3D&trackingId=fyigwESn56FNxCsu3uUWfQ%3D%3D",
+    "location": "Rancho Santa Margarita, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-15 10:57 UTC"
+  },
+  {
+    "title": "Machine Learning Engineer - Platforms",
+    "company": "UT MD Anderson",
+    "link": "https://www.linkedin.com/jobs/view/machine-learning-engineer-platforms-at-ut-md-anderson-4440919709?position=11&pageNum=0&refId=V%2FtRDdsASE9t6gpv5XavMQ%3D%3D&trackingId=uf6dw%2FGR%2FdXLdiDzaH4qDA%3D%3D",
+    "location": "Houston, TX",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-15 10:57 UTC"
+  },
+  {
+    "title": "Director, Applied AI",
+    "company": "Denali Therapeutics",
+    "link": "https://www.linkedin.com/jobs/view/director-applied-ai-at-denali-therapeutics-4432432594?position=2&pageNum=0&refId=ylz25gFU7nvuP4bXDAlktg%3D%3D&trackingId=1pwL%2B399D2Wh3CNY8928EQ%3D%3D",
+    "location": "South San Francisco, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-15 10:57 UTC"
+  },
+  {
+    "title": "Sr. Data Scientist \u2013 Demand Forecasting, O9 Platform",
+    "company": "Helen of Troy",
+    "link": "https://www.linkedin.com/jobs/view/sr-data-scientist-%E2%80%93-demand-forecasting-o9-platform-at-helen-of-troy-4431280885?position=8&pageNum=0&refId=ylz25gFU7nvuP4bXDAlktg%3D%3D&trackingId=WpduwiHV1X2oShEJpPDZNQ%3D%3D",
+    "location": "Marlborough, MA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-15 10:57 UTC"
+  },
+  {
     "title": "AI/ML Engineering or Data Scientist",
     "company": "ADARA Networks",
     "link": "https://www.linkedin.com/jobs/view/ai-ml-engineering-or-data-scientist-at-adara-networks-4439948572?position=12&pageNum=0&refId=S%2Bn0nnWEjNe9StpsLOzxgw%3D%3D&trackingId=8lQIPv7hCXvGKXYfLX3iKQ%3D%3D",
@@ -2914,86 +2994,6 @@
     "company": "Attentive",
     "link": "https://www.linkedin.com/jobs/view/senior-machine-learning-engineer-at-attentive-4372110325?position=11&pageNum=0&refId=ye7v0%2F05TSU0g41jLYmXHg%3D%3D&trackingId=qa6udKjbdXwjSKn4eq3T2g%3D%3D",
     "location": "San Francisco, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-12 19:15 UTC"
-  },
-  {
-    "title": "Staff ML Engineer, Fine Tuning - Slack",
-    "company": "Slack",
-    "link": "https://www.linkedin.com/jobs/view/staff-ml-engineer-fine-tuning-slack-at-slack-4420986388?position=12&pageNum=0&refId=ye7v0%2F05TSU0g41jLYmXHg%3D%3D&trackingId=0nzwpbrZZE3wF42kyWsS7g%3D%3D",
-    "location": "San Francisco, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-12 19:15 UTC"
-  },
-  {
-    "title": "AI Engineer",
-    "company": "Ursus, Inc.",
-    "link": "https://www.linkedin.com/jobs/view/ai-engineer-at-ursus-inc-4437215673?position=1&pageNum=0&refId=uKDamUk50WH%2BLXOArC56cg%3D%3D&trackingId=9QTY020gVRZgviMrpX9a4g%3D%3D",
-    "location": "Foster City, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-12 19:15 UTC"
-  },
-  {
-    "title": "Expert Consultant, Coro, AI Engineer",
-    "company": "Bain & Company",
-    "link": "https://www.linkedin.com/jobs/view/expert-consultant-coro-ai-engineer-at-bain-company-4430139090?position=11&pageNum=0&refId=uKDamUk50WH%2BLXOArC56cg%3D%3D&trackingId=SNT60PULjHCwrYWSHxhGtA%3D%3D",
-    "location": "Los Angeles, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-12 19:15 UTC"
-  },
-  {
-    "title": "Data Engineer (AWS, Snowflake, Pyspark, SQL)",
-    "company": "Tata Consultancy Services",
-    "link": "https://www.linkedin.com/jobs/view/data-engineer-aws-snowflake-pyspark-sql-at-tata-consultancy-services-4430093310?position=2&pageNum=0&refId=6T0D6WlFaoni%2BKrlPSNS5Q%3D%3D&trackingId=Iw3wGWHMC2UOO3fbzHprCA%3D%3D",
-    "location": "Auburn Hills, MI",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-12 19:15 UTC"
-  },
-  {
-    "title": "Sr. Data Engineer",
-    "company": "Fabletics",
-    "link": "https://www.linkedin.com/jobs/view/sr-data-engineer-at-fabletics-4421276108?position=11&pageNum=0&refId=6T0D6WlFaoni%2BKrlPSNS5Q%3D%3D&trackingId=uputisfPlV8LOdJNYuwF4Q%3D%3D",
-    "location": "El Segundo, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-12 19:15 UTC"
-  },
-  {
-    "title": "Cloud Data Engineer (AWS / Snowflake / ETL)",
-    "company": "Odyssey Information Services",
-    "link": "https://www.linkedin.com/jobs/view/cloud-data-engineer-aws-snowflake-etl-at-odyssey-information-services-4437904077?position=12&pageNum=0&refId=6T0D6WlFaoni%2BKrlPSNS5Q%3D%3D&trackingId=wqFSrOx3lA9UO4NBFwOePQ%3D%3D",
-    "location": "United States",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-12 19:15 UTC"
-  },
-  {
-    "title": "Business Intelligence Analyst - Pharmacovigilance Specialist",
-    "company": "Global Technical Talent, an Inc. 5000 Company",
-    "link": "https://www.linkedin.com/jobs/view/business-intelligence-analyst-pharmacovigilance-specialist-at-global-technical-talent-an-inc-5000-company-4437222648?position=12&pageNum=0&refId=frbUZ3Xr%2FCM3MMejVQHmDA%3D%3D&trackingId=vdSm9uOv1rF2Mkpy7xJ8yA%3D%3D",
-    "location": "Lawrenceville, NJ",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-12 19:15 UTC"
-  },
-  {
-    "title": "Principal ML Engineer",
-    "company": "ZeroDrift",
-    "link": "https://www.linkedin.com/jobs/view/principal-ml-engineer-at-zerodrift-4438978952?position=12&pageNum=0&refId=3xJpsoO8gxOENHEjJ0rC%2FA%3D%3D&trackingId=NK5uZKNQo3Z4L2VXBJKHAg%3D%3D",
-    "location": "New York City Metropolitan Area",
     "source": "LinkedIn",
     "h1b_signal": false,
     "summary": "",
