@@ -1,6 +1,126 @@
 [
   {
     "title": "Data Scientist",
+    "company": "Nestl\u00e9 Purina North America",
+    "link": "https://www.linkedin.com/jobs/view/data-scientist-at-nestl%C3%A9-purina-north-america-4441277872?position=2&pageNum=0&refId=mRFRuAVxDpFGLrRFlKbTTw%3D%3D&trackingId=xC1CQDTo%2BKV%2FDrBTpE6T6Q%3D%3D",
+    "location": "St Louis, MO",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-16 08:25 UTC"
+  },
+  {
+    "title": "Data Scientist",
+    "company": "Vigil",
+    "link": "https://www.linkedin.com/jobs/view/data-scientist-at-vigil-4440671090?position=9&pageNum=0&refId=mRFRuAVxDpFGLrRFlKbTTw%3D%3D&trackingId=gnK6MdfR8VLCDfRdxaJppg%3D%3D",
+    "location": "New York, NY",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-16 08:25 UTC"
+  },
+  {
+    "title": "Data Analyst",
+    "company": "ITbility",
+    "link": "https://www.linkedin.com/jobs/view/data-analyst-at-itbility-4439826304?position=3&pageNum=0&refId=ixcq93TLEooW2TiQ23qetQ%3D%3D&trackingId=DVJzY6J9pItP2GktPck%2FRg%3D%3D",
+    "location": "Sunnyvale, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-16 08:25 UTC"
+  },
+  {
+    "title": "Data Engineer",
+    "company": "Five Star Franchising",
+    "link": "https://www.linkedin.com/jobs/view/data-engineer-at-five-star-franchising-4441437354?position=5&pageNum=0&refId=ET8rNhA9a1P98oSR%2F3mGFQ%3D%3D&trackingId=ieZXWW15rXjGTC1bINt4Aw%3D%3D",
+    "location": "Springville, UT",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-16 08:25 UTC"
+  },
+  {
+    "title": "Senior Software Data Engineer (Python, SQL, Tableau)",
+    "company": "Gambit Technologies",
+    "link": "https://www.linkedin.com/jobs/view/senior-software-data-engineer-python-sql-tableau-at-gambit-technologies-4438423826?position=6&pageNum=0&refId=ET8rNhA9a1P98oSR%2F3mGFQ%3D%3D&trackingId=WplNbddjQofL8gMrJVGtzw%3D%3D",
+    "location": "New York, NY",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-16 08:25 UTC"
+  },
+  {
+    "title": "Analytics Engineer",
+    "company": "Fanatics",
+    "link": "https://www.linkedin.com/jobs/view/analytics-engineer-at-fanatics-4441420798?position=8&pageNum=0&refId=ET8rNhA9a1P98oSR%2F3mGFQ%3D%3D&trackingId=JXAtCuAvVFCN7bI76GDT6g%3D%3D",
+    "location": "New York, NY",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-16 08:25 UTC"
+  },
+  {
+    "title": "Power Bi Analyst",
+    "company": "Atlantic Vision Partners",
+    "link": "https://www.linkedin.com/jobs/view/power-bi-analyst-at-atlantic-vision-partners-4441403877?position=2&pageNum=0&refId=IL1b78Rp36uBRbsJBuwVDQ%3D%3D&trackingId=TsJcPPX0txA4NohjRjmsIQ%3D%3D",
+    "location": "Vienna, VA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-16 08:25 UTC"
+  },
+  {
+    "title": "Business Intelligence Analyst",
+    "company": "MASA",
+    "link": "https://www.linkedin.com/jobs/view/business-intelligence-analyst-at-masa-4438439618?position=4&pageNum=0&refId=IL1b78Rp36uBRbsJBuwVDQ%3D%3D&trackingId=16%2BUO90N%2F7Qoh%2FKJGCfsQQ%3D%3D",
+    "location": "United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-16 08:25 UTC"
+  },
+  {
+    "title": "Senior BI Analyst",
+    "company": "WeTravel",
+    "link": "https://www.linkedin.com/jobs/view/senior-bi-analyst-at-wetravel-4441412423?position=5&pageNum=0&refId=IL1b78Rp36uBRbsJBuwVDQ%3D%3D&trackingId=JZGZB2LZWPelIdBoqGNIXA%3D%3D",
+    "location": "United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-16 08:25 UTC"
+  },
+  {
+    "title": "Business Intelligence Analyst - Mission Pet Health",
+    "company": "Mission Pet Health",
+    "link": "https://www.linkedin.com/jobs/view/business-intelligence-analyst-mission-pet-health-at-mission-pet-health-4440290816?position=12&pageNum=0&refId=IL1b78Rp36uBRbsJBuwVDQ%3D%3D&trackingId=i42bfC3mTyv2Jhq78Wz59w%3D%3D",
+    "location": "Birmingham, AL",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-16 08:25 UTC"
+  },
+  {
+    "title": "Data Engineer, People Analytics",
+    "company": "action.",
+    "link": "https://www.linkedin.com/jobs/view/data-engineer-people-analytics-at-action-4441420665?position=3&pageNum=0&refId=c5eSQza0%2BnBasVx3%2FC2kPQ%3D%3D&trackingId=WAES31X5poMxq%2Bo3UG88Cw%3D%3D",
+    "location": "San Francisco, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-16 08:25 UTC"
+  },
+  {
+    "title": "Data Engineer, People Analytics",
+    "company": "Pat Kelly Engineering",
+    "link": "https://www.linkedin.com/jobs/view/data-engineer-people-analytics-at-pat-kelly-engineering-4440632495?position=4&pageNum=0&refId=c5eSQza0%2BnBasVx3%2FC2kPQ%3D%3D&trackingId=%2BGf0pQDSKYmjVs6%2Btwlq%2FQ%3D%3D",
+    "location": "San Francisco, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-16 08:25 UTC"
+  },
+  {
+    "title": "Data Scientist",
     "company": "SBS Creatix",
     "link": "https://www.linkedin.com/jobs/view/data-scientist-at-sbs-creatix-4441248378?position=6&pageNum=0&refId=oiExY1qag%2Fp80Q95IDe%2FDA%3D%3D&trackingId=nodeMiVF16JukwftdFiGXQ%3D%3D",
     "location": "United States",
@@ -2878,125 +2998,5 @@
     "h1b_signal": false,
     "summary": "",
     "found_at": "2026-07-13 22:01 UTC"
-  },
-  {
-    "title": "Data Analyst",
-    "company": "TBK Bank, SSB",
-    "link": "https://www.linkedin.com/jobs/view/data-analyst-at-tbk-bank-ssb-4440067936?position=7&pageNum=0&refId=HAPu4vzviFKa8LFllm5h3w%3D%3D&trackingId=S9VrPGQVH38DuMNjy1Z4Vg%3D%3D",
-    "location": "Dallas, TX",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-13 22:01 UTC"
-  },
-  {
-    "title": "Sr Data Analyst",
-    "company": "Crash Champions",
-    "link": "https://www.linkedin.com/jobs/view/sr-data-analyst-at-crash-champions-4439453350?position=8&pageNum=0&refId=HAPu4vzviFKa8LFllm5h3w%3D%3D&trackingId=g%2F0qvaUvVbAkKdxShxaWmA%3D%3D",
-    "location": "Richardson, TX",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-13 22:01 UTC"
-  },
-  {
-    "title": "Data Analyst",
-    "company": "Triumph",
-    "link": "https://www.linkedin.com/jobs/view/data-analyst-at-triumph-4437299328?position=11&pageNum=0&refId=HAPu4vzviFKa8LFllm5h3w%3D%3D&trackingId=h%2Fq1644cPUfMCzWJ%2FW%2Bwyg%3D%3D",
-    "location": "Dallas, TX",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-13 22:01 UTC"
-  },
-  {
-    "title": "Software Developer, Business Intelligence Analyst",
-    "company": "Tata Consultancy Services",
-    "link": "https://www.linkedin.com/jobs/view/software-developer-business-intelligence-analyst-at-tata-consultancy-services-4439440305?position=12&pageNum=0&refId=HAPu4vzviFKa8LFllm5h3w%3D%3D&trackingId=MfIRL3Sf%2FpUFEBRLRvBT7g%3D%3D",
-    "location": "Triangle, NC",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-13 22:01 UTC"
-  },
-  {
-    "title": "Data Scientist \u2013 SG",
-    "company": "PulseSync Pte Ltd",
-    "link": "https://www.linkedin.com/jobs/view/data-scientist-%E2%80%93-sg-at-pulsesync-pte-ltd-4439163866?position=12&pageNum=0&refId=aAjIcokkkNn5FxrdbnvmrQ%3D%3D&trackingId=vaMWra%2B4IhKURKS6BxDxzg%3D%3D",
-    "location": "Indiana, United States",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-13 22:01 UTC"
-  },
-  {
-    "title": "Applied AI Data Scientist - Product AI Team",
-    "company": "Flatiron Health",
-    "link": "https://flatiron.com/careers/open-positions/job?gh_jid=8010590",
-    "location": "NY office",
-    "source": "Direct (Flatiron Health)",
-    "h1b_signal": true,
-    "summary": "<p>Reimagine the infrastructure of cancer care within a community that values integrity, inspires growth, and is uniquely positioned to create a more modern, connected oncology ecosystem.&nbsp;</p>\n<p",
-    "found_at": "2026-07-13 22:02 UTC"
-  },
-  {
-    "title": "Applied Scientist II, Grocery, Retail & In-Store Experience (GRAISE)",
-    "company": "Amazon",
-    "link": "https://www.amazon.jobs/en/jobs/10473135/applied-scientist-ii-grocery-retail-in-store-experience-graise",
-    "location": "IN, KA, Bengaluru",
-    "source": "Amazon Careers",
-    "h1b_signal": true,
-    "summary": "We are looking for a talented Applied Scientist to join our team. In this role, you will design, develop, and deploy machine learning and computer vision models that solve real-world problems at scale",
-    "found_at": "2026-07-13 22:02 UTC"
-  },
-  {
-    "title": "Gen AI Data Scientist",
-    "company": "Themesoft Inc.",
-    "link": "https://www.linkedin.com/jobs/view/gen-ai-data-scientist-at-themesoft-inc-4440067663?position=2&pageNum=0&refId=5jyWvS8UtTt9PwP1MCYt%2Bg%3D%3D&trackingId=%2BNSAqy8WrGoORQtCHV8Upw%3D%3D",
-    "location": "San Jose, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-13 19:39 UTC"
-  },
-  {
-    "title": "Member of Technical Staff (Data Scientist/Engineer, Online Metrics)",
-    "company": "Perplexity",
-    "link": "https://www.linkedin.com/jobs/view/member-of-technical-staff-data-scientist-engineer-online-metrics-at-perplexity-4372003249?position=3&pageNum=0&refId=5jyWvS8UtTt9PwP1MCYt%2Bg%3D%3D&trackingId=V5rsV8fyqrKZ7UGBtzKlYw%3D%3D",
-    "location": "New York, NY",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-13 19:39 UTC"
-  },
-  {
-    "title": "Data Science Specialist",
-    "company": "NLB Services",
-    "link": "https://www.linkedin.com/jobs/view/data-science-specialist-at-nlb-services-4439428957?position=5&pageNum=0&refId=5jyWvS8UtTt9PwP1MCYt%2Bg%3D%3D&trackingId=QXE3HxSPE1vpNDWQWJEAmg%3D%3D",
-    "location": "New York City Metropolitan Area",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-13 19:39 UTC"
-  },
-  {
-    "title": "Data Analyst",
-    "company": "Spark Life Solutions Inc",
-    "link": "https://www.linkedin.com/jobs/view/data-analyst-at-spark-life-solutions-inc-4439416775?position=8&pageNum=0&refId=97%2B5AmN0gNyi3BTbrLbmdA%3D%3D&trackingId=V8xt2071K%2FU0rTJcEciG%2Bg%3D%3D",
-    "location": "California, United States",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-13 19:39 UTC"
-  },
-  {
-    "title": "Operations Data Analyst",
-    "company": "Entegris",
-    "link": "https://www.linkedin.com/jobs/view/operations-data-analyst-at-entegris-4382335020?position=10&pageNum=0&refId=97%2B5AmN0gNyi3BTbrLbmdA%3D%3D&trackingId=wSEOTsEIZVl3%2BYYqi1%2BLhA%3D%3D",
-    "location": "Aurora, IL",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-13 19:39 UTC"
   }
 ]
