@@ -1,5 +1,95 @@
 [
   {
+    "title": "Machine Learning Engineer",
+    "company": "Bridge",
+    "link": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-bridge-4438709328?position=4&pageNum=0&refId=zqjuO9LEFej2zkqD4pIxvQ%3D%3D&trackingId=Tz5iYnGVtsnVlO%2B8T7Dlqg%3D%3D",
+    "location": "Indiana, United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-16 16:23 UTC"
+  },
+  {
+    "title": "Machine Learning Engineer, Data Mining",
+    "company": "RemoteHunter",
+    "link": "https://www.linkedin.com/jobs/view/machine-learning-engineer-data-mining-at-remotehunter-4440756520?position=10&pageNum=0&refId=zqjuO9LEFej2zkqD4pIxvQ%3D%3D&trackingId=%2BKSNBL52GaheImN5pkaIZw%3D%3D",
+    "location": "United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-16 16:23 UTC"
+  },
+  {
+    "title": "Machine Learning Engineer, Radar",
+    "company": "Stripe",
+    "link": "https://www.linkedin.com/jobs/view/machine-learning-engineer-radar-at-stripe-4441494446?position=11&pageNum=0&refId=zqjuO9LEFej2zkqD4pIxvQ%3D%3D&trackingId=li9HXQA3NTmjViUDdZ7w%2BQ%3D%3D",
+    "location": "San Francisco, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-16 16:23 UTC"
+  },
+  {
+    "title": "Data Analyst",
+    "company": "INSPYR Solutions",
+    "link": "https://www.linkedin.com/jobs/view/data-analyst-at-inspyr-solutions-4441486155?position=9&pageNum=0&refId=%2F%2FLpfqUCfZiU1rHxFYi4DQ%3D%3D&trackingId=fzsGLsvwu8R%2F5cZotvX21g%3D%3D",
+    "location": "Orlando, FL",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-16 16:23 UTC"
+  },
+  {
+    "title": "Machine Learning Engineer",
+    "company": "Schmidt Marine Technology Partners",
+    "link": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-schmidt-marine-technology-partners-4441499152?position=10&pageNum=0&refId=ExuYCs%2BrNWo0%2Bdpg9Xr4ow%3D%3D&trackingId=6OCskU0y7lb9jwID%2B%2FMkEA%3D%3D",
+    "location": "College Park, MD",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-16 16:23 UTC"
+  },
+  {
+    "title": "Data Engineer",
+    "company": "SynapOne",
+    "link": "https://www.linkedin.com/jobs/view/data-engineer-at-synapone-4441492692?position=10&pageNum=0&refId=SBA6lJEzaMr%2BH9npQP6imA%3D%3D&trackingId=cZLh2d3OUImn%2FKBJ92xwnw%3D%3D",
+    "location": "Raleigh, NC",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-16 16:23 UTC"
+  },
+  {
+    "title": "Business Intelligence Analyst",
+    "company": "Boeing",
+    "link": "https://www.linkedin.com/jobs/view/business-intelligence-analyst-at-boeing-4438737271?position=5&pageNum=0&refId=BKkt6vg2z0Kw%2F5MW9eqArA%3D%3D&trackingId=RYY60cjUJbnkZwLLSwo2WQ%3D%3D",
+    "location": "Auburn, WA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-16 16:23 UTC"
+  },
+  {
+    "title": "Data Analyst",
+    "company": "Commercial Contracting Corporation",
+    "link": "https://www.linkedin.com/jobs/view/data-analyst-at-commercial-contracting-corporation-4441486573?position=6&pageNum=0&refId=BKkt6vg2z0Kw%2F5MW9eqArA%3D%3D&trackingId=BxAhJGRz%2Bfifgf7wNVXKoA%3D%3D",
+    "location": "Auburn Hills, MI",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-16 16:23 UTC"
+  },
+  {
+    "title": "Data Engineer, Time and Pay Innovation",
+    "company": "Amazon",
+    "link": "https://www.amazon.jobs/en/jobs/10476378/data-engineer-time-and-pay-innovation",
+    "location": "IN, TS, Hyderabad",
+    "source": "Amazon Careers",
+    "h1b_signal": true,
+    "summary": "Are you passionate about data and code? Does the prospect of dealing with massive volumes of data excite you? Do you want to build data engineering solutions that process billions of records and suppo",
+    "found_at": "2026-07-16 16:24 UTC"
+  },
+  {
     "title": "Data Scientist",
     "company": "Ramp",
     "link": "https://www.linkedin.com/jobs/view/data-scientist-at-ramp-4423035779?position=6&pageNum=0&refId=cnAhqwH1QNJGxmPAOJUSGw%3D%3D&trackingId=3yz%2BQj%2FAAN5mR0MeB4g%2BCg%3D%3D",
@@ -2904,96 +2994,6 @@
     "company": "PepsiCo",
     "link": "https://www.linkedin.com/jobs/view/data-scientist-at-pepsico-4437619863?position=4&pageNum=0&refId=vEmWfQ20BAZwmxuFsUEljQ%3D%3D&trackingId=9eYTLwN%2BBzi0%2FI%2B3lBlhDw%3D%3D",
     "location": "Plano, TX",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-14 03:15 UTC"
-  },
-  {
-    "title": "Data Scientist",
-    "company": "U.S. Bank",
-    "link": "https://www.linkedin.com/jobs/view/data-scientist-at-u-s-bank-4440362801?position=10&pageNum=0&refId=vEmWfQ20BAZwmxuFsUEljQ%3D%3D&trackingId=PxdNTmGlyAYLpIFOhAlocg%3D%3D",
-    "location": "Earth City, MO",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-14 03:15 UTC"
-  },
-  {
-    "title": "Senior Data Scientist, Voice of the Customer - GeForce NOW",
-    "company": "NVIDIA",
-    "link": "https://www.linkedin.com/jobs/view/senior-data-scientist-voice-of-the-customer-geforce-now-at-nvidia-4439495088?position=11&pageNum=0&refId=vEmWfQ20BAZwmxuFsUEljQ%3D%3D&trackingId=%2F1l94Ykjwj3X2ddKnmUMMA%3D%3D",
-    "location": "Santa Clara, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-14 03:15 UTC"
-  },
-  {
-    "title": "AI/ML Engineer",
-    "company": "Ello",
-    "link": "https://www.linkedin.com/jobs/view/ai-ml-engineer-at-ello-4439495375?position=2&pageNum=0&refId=MW2HBKaULx3fFbCOfKx6dQ%3D%3D&trackingId=G9c31P1ojrfA7FQSUrCOqg%3D%3D",
-    "location": "San Francisco, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-14 03:15 UTC"
-  },
-  {
-    "title": "Data Scientist",
-    "company": "Earnest",
-    "link": "https://www.linkedin.com/jobs/view/data-scientist-at-earnest-4440369951?position=11&pageNum=0&refId=MW2HBKaULx3fFbCOfKx6dQ%3D%3D&trackingId=tX6z8s1xcPUp2ehDgBXasg%3D%3D",
-    "location": "San Francisco, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-14 03:15 UTC"
-  },
-  {
-    "title": "Data Analyst",
-    "company": "Morgan Stanley",
-    "link": "https://www.linkedin.com/jobs/view/data-analyst-at-morgan-stanley-4439462937?position=1&pageNum=0&refId=mr8kv7BdPTT4E4HFjwSZwg%3D%3D&trackingId=iT8nOuMxdd2AxT2e4Wcmgg%3D%3D",
-    "location": "Dallas, TX",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-14 03:15 UTC"
-  },
-  {
-    "title": "Data Analyst",
-    "company": "BravoTECH",
-    "link": "https://www.linkedin.com/jobs/view/data-analyst-at-bravotech-4440072597?position=6&pageNum=0&refId=mr8kv7BdPTT4E4HFjwSZwg%3D%3D&trackingId=rY8mNTHIP2UErRXj%2F8fa3w%3D%3D",
-    "location": "Richardson, TX",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-14 03:15 UTC"
-  },
-  {
-    "title": "Data Analyst",
-    "company": "KGS Technology Group, Inc",
-    "link": "https://www.linkedin.com/jobs/view/data-analyst-at-kgs-technology-group-inc-4439460528?position=9&pageNum=0&refId=mr8kv7BdPTT4E4HFjwSZwg%3D%3D&trackingId=bNSVX9RRmGTN5YwpVKXM%2BA%3D%3D",
-    "location": "United States",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-14 03:15 UTC"
-  },
-  {
-    "title": "Machine Learning Engineer I",
-    "company": "FOX Tech",
-    "link": "https://www.linkedin.com/jobs/view/machine-learning-engineer-i-at-fox-tech-4440365735?position=8&pageNum=0&refId=YttppSdnTzHT2YGN7%2Fistw%3D%3D&trackingId=uK42GaU10HTlFtZxM3y4eQ%3D%3D",
-    "location": "New York, NY",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-14 03:15 UTC"
-  },
-  {
-    "title": "Applied AI Engineer",
-    "company": "KelAI",
-    "link": "https://www.linkedin.com/jobs/view/applied-ai-engineer-at-kelai-4439499204?position=10&pageNum=0&refId=YttppSdnTzHT2YGN7%2Fistw%3D%3D&trackingId=bNaQVboe0lNO9n15NJJiSA%3D%3D",
-    "location": "New York, NY",
     "source": "LinkedIn",
     "h1b_signal": false,
     "summary": "",
