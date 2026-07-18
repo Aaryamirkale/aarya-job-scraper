@@ -1,5 +1,125 @@
 [
   {
+    "title": "data scientist, Data & Analytics (Seattle, WA)",
+    "company": "Starbucks",
+    "link": "https://www.linkedin.com/jobs/view/data-scientist-data-analytics-seattle-wa-at-starbucks-4441738317?position=1&pageNum=0&refId=DRt4cZcZ44H3n0wqyU3zWw%3D%3D&trackingId=ntzWtGlanr0VJvH%2FftY%2Fxw%3D%3D",
+    "location": "Seattle, WA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-18 19:14 UTC"
+  },
+  {
+    "title": "Sr. Machine Learning Engineer",
+    "company": "PayPal",
+    "link": "https://www.linkedin.com/jobs/view/sr-machine-learning-engineer-at-paypal-4442420423?position=11&pageNum=0&refId=mGqYz0mhXs1G8zbNksjJNw%3D%3D&trackingId=9Vr%2B0UzUX%2BBkpZCE73EE%2FA%3D%3D",
+    "location": "San Jose, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-18 19:14 UTC"
+  },
+  {
+    "title": "Data Analyst - Marvel Strike Force",
+    "company": "RemoteHunter",
+    "link": "https://www.linkedin.com/jobs/view/data-analyst-marvel-strike-force-at-remotehunter-4441733051?position=9&pageNum=0&refId=dUCklfsgtilPKcwTPui%2BDw%3D%3D&trackingId=afQ2zeSdUOeYDS1ht5nR5w%3D%3D",
+    "location": "United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-18 19:14 UTC"
+  },
+  {
+    "title": "Data Analyst",
+    "company": "Abacus Service Corporation",
+    "link": "https://www.linkedin.com/jobs/view/data-analyst-at-abacus-service-corporation-4441347760?position=10&pageNum=0&refId=dUCklfsgtilPKcwTPui%2BDw%3D%3D&trackingId=wkoFu8am9I%2BA8nigp7zfZg%3D%3D",
+    "location": "Juno Beach, FL",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-18 19:14 UTC"
+  },
+  {
+    "title": "Data Analyst",
+    "company": "ABM Industries",
+    "link": "https://www.linkedin.com/jobs/view/data-analyst-at-abm-industries-4442157432?position=11&pageNum=0&refId=dUCklfsgtilPKcwTPui%2BDw%3D%3D&trackingId=ALMzhPGizDwWa0zrAQ29ZQ%3D%3D",
+    "location": "Phoenix, AZ",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-18 19:14 UTC"
+  },
+  {
+    "title": "MACHINE LEARNING ENGINEER",
+    "company": "Data Maverick",
+    "link": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-data-maverick-4439607667?position=11&pageNum=0&refId=KV%2B2SZBPcFAWvjn8GWq70Q%3D%3D&trackingId=agzgboITSLI1kILfT5v4jg%3D%3D",
+    "location": "United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-18 19:14 UTC"
+  },
+  {
+    "title": "Data Engineer",
+    "company": "Kharon",
+    "link": "https://www.linkedin.com/jobs/view/data-engineer-at-kharon-4427862634?position=10&pageNum=0&refId=zB630V3qH%2FzQKanSvgY%2B8w%3D%3D&trackingId=d4QAIkbEbx4CnHcNhd3Beg%3D%3D",
+    "location": "Denver, CO",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-18 19:14 UTC"
+  },
+  {
+    "title": "Strategic Data Analyst, Growth & Placement",
+    "company": "Acrisure",
+    "link": "https://www.linkedin.com/jobs/view/strategic-data-analyst-growth-placement-at-acrisure-4442180025?position=10&pageNum=0&refId=TbgsFWAaXCjMoJrli4ZGMA%3D%3D&trackingId=Nopc%2BgEU31CsqgEfSghBZQ%3D%3D",
+    "location": "Grand Rapids, MI",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-18 19:14 UTC"
+  },
+  {
+    "title": "Machine Learning Engineer (AWS)",
+    "company": "CCT",
+    "link": "https://www.linkedin.com/jobs/view/machine-learning-engineer-aws-at-cct-4442198176?position=8&pageNum=0&refId=5A9HeA8Zjaf8UAu1%2Bv4fAw%3D%3D&trackingId=5efO1zLoJ0SUMIJQYl6iJA%3D%3D",
+    "location": "Tulsa, OK",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-18 19:14 UTC"
+  },
+  {
+    "title": "Senior Machine Learning Engineer",
+    "company": "Bollinger Shipyards",
+    "link": "https://www.linkedin.com/jobs/view/senior-machine-learning-engineer-at-bollinger-shipyards-4442156159?position=12&pageNum=0&refId=5A9HeA8Zjaf8UAu1%2Bv4fAw%3D%3D&trackingId=PkBrTWIrod31epoGIMMDEg%3D%3D",
+    "location": "Raceland, LA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-18 19:14 UTC"
+  },
+  {
+    "title": "Senior Data Engineer - Consumer Subscriptions",
+    "company": "SpaceXAI",
+    "link": "https://www.linkedin.com/jobs/view/senior-data-engineer-consumer-subscriptions-at-spacexai-4433898109?position=10&pageNum=0&refId=gvNz93nlQcD9SxkVnwupPw%3D%3D&trackingId=hAt22bRlddN1RV%2FGXn2SjA%3D%3D",
+    "location": "Palo Alto, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-18 19:14 UTC"
+  },
+  {
+    "title": "Senior Data Scientist",
+    "company": "NewYork-Presbyterian Hospital",
+    "link": "https://www.linkedin.com/jobs/view/senior-data-scientist-at-newyork-presbyterian-hospital-4442478333?position=5&pageNum=0&refId=4nkc1doq8cZvo30Ym70%2Ftw%3D%3D&trackingId=Vw5d1QxlN4vNOnZgvcZC7g%3D%3D",
+    "location": "New York, NY",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-18 19:14 UTC"
+  },
+  {
     "title": "Machine Learning Engineer, AI for Chemistry project",
     "company": "X, The Moonshot Factory",
     "link": "https://www.linkedin.com/jobs/view/machine-learning-engineer-ai-for-chemistry-project-at-x-the-moonshot-factory-4417861622?position=10&pageNum=0&refId=bwDEWUb1DOgfTZ6ifS9a4g%3D%3D&trackingId=lIad%2BaGjgfJTaHQRciJfcg%3D%3D",
@@ -2878,125 +2998,5 @@
     "h1b_signal": false,
     "summary": "",
     "found_at": "2026-07-15 22:08 UTC"
-  },
-  {
-    "title": "Data Analytics Engineer",
-    "company": "Akkodis",
-    "link": "https://www.linkedin.com/jobs/view/data-analytics-engineer-at-akkodis-4430299568?position=7&pageNum=0&refId=PxSgSIxjFQ0I8oo2WS9lCg%3D%3D&trackingId=tC5rgyYGEy61VQBVcInMHQ%3D%3D",
-    "location": "Newton, MA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-15 22:08 UTC"
-  },
-  {
-    "title": "Senior Data Engineer",
-    "company": "Robert Half",
-    "link": "https://www.linkedin.com/jobs/view/senior-data-engineer-at-robert-half-4440254281?position=8&pageNum=0&refId=PxSgSIxjFQ0I8oo2WS9lCg%3D%3D&trackingId=170m%2BRGg1esTrxa2WLkuSA%3D%3D",
-    "location": "Santa Monica, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-15 22:08 UTC"
-  },
-  {
-    "title": "Analytics Engineer Sr - Remote",
-    "company": "Prime Therapeutics",
-    "link": "https://www.linkedin.com/jobs/view/analytics-engineer-sr-remote-at-prime-therapeutics-4441277031?position=11&pageNum=0&refId=PxSgSIxjFQ0I8oo2WS9lCg%3D%3D&trackingId=0nMC%2BOU2F3Qm8R6nf6woWA%3D%3D",
-    "location": "Minneapolis, MN",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-15 22:08 UTC"
-  },
-  {
-    "title": "Research Data Analyst",
-    "company": "Columbia University Irving Medical Center",
-    "link": "https://www.linkedin.com/jobs/view/research-data-analyst-at-columbia-university-irving-medical-center-4438096868?position=11&pageNum=0&refId=%2FwZo1dYIlpOWJSIwYCJ9Cg%3D%3D&trackingId=4zEfe2wG6SdJo2kYk28fBg%3D%3D",
-    "location": "New York, NY",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-15 22:08 UTC"
-  },
-  {
-    "title": "Senior Data Scientist",
-    "company": "Jobgether",
-    "link": "https://www.linkedin.com/jobs/view/senior-data-scientist-at-jobgether-4439979218?position=12&pageNum=0&refId=wE1uoV0vrfHMs1D%2Bun3UFw%3D%3D&trackingId=s7tBjlbHOYVId4nS3AXvzg%3D%3D",
-    "location": "United States",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-15 22:08 UTC"
-  },
-  {
-    "title": "Product Analyst - $43.27 - $62.50 per hour",
-    "company": "7Seventy Recruiting",
-    "link": "https://www.linkedin.com/jobs/view/product-analyst-%2443-27-%2462-50-per-hour-at-7seventy-recruiting-4431930061?position=1&pageNum=0&refId=W3WKw3Gof6%2Bf3dlh787VDQ%3D%3D&trackingId=oVTpprjXKA%2F6lpkpsk9cyg%3D%3D",
-    "location": "United States",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-15 22:08 UTC"
-  },
-  {
-    "title": "Product Analyst",
-    "company": "Multisorb",
-    "link": "https://www.linkedin.com/jobs/view/product-analyst-at-multisorb-4440264154?position=8&pageNum=0&refId=W3WKw3Gof6%2Bf3dlh787VDQ%3D%3D&trackingId=V24yZplpMhS3r3dSqA4rTg%3D%3D",
-    "location": "Buffalo, NY",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-15 22:08 UTC"
-  },
-  {
-    "title": "Senior BI Analyst",
-    "company": "RealWork",
-    "link": "https://www.linkedin.com/jobs/view/senior-bi-analyst-at-realwork-4440249269?position=10&pageNum=0&refId=W3WKw3Gof6%2Bf3dlh787VDQ%3D%3D&trackingId=3Ks4gPNMJfy%2FdLDiyF58HA%3D%3D",
-    "location": "Austin, TX",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-15 22:08 UTC"
-  },
-  {
-    "title": "Data Analyst - Evidence Solutions",
-    "company": "Flatiron Health",
-    "link": "https://flatiron.com/careers/open-positions/job?gh_jid=7834645",
-    "location": "Durham office",
-    "source": "Direct (Flatiron Health)",
-    "h1b_signal": true,
-    "summary": "<p>Reimagine the infrastructure of cancer care within a community that values integrity, inspires growth, and is uniquely positioned to create a more modern, connected oncology ecosystem. We\u2019re lookin",
-    "found_at": "2026-07-15 22:08 UTC"
-  },
-  {
-    "title": " Data Scientist II, Rapid & Rural Logistics (R2L) Science & AI",
-    "company": "Amazon",
-    "link": "https://www.amazon.jobs/en/jobs/10475806/data-scientist-ii-rapid-rural-logistics-r2l-science-ai",
-    "location": "US, WA, Bellevue",
-    "source": "Amazon Careers",
-    "h1b_signal": true,
-    "summary": "The R2L team is responsible for building the next generation supply chain for Amazon\u2019s world-class ultra-fast customer experiences including Amazon Fresh groceries, Sub-Same Day, Amazon Now, and other",
-    "found_at": "2026-07-15 22:08 UTC"
-  },
-  {
-    "title": "AI Platform Data Engineer, Ring Agent Platform Org",
-    "company": "Amazon",
-    "link": "https://www.amazon.jobs/en/jobs/10475695/ai-platform-data-engineer-ring-agent-platform-org",
-    "location": "US, CA, Hawthorne",
-    "source": "Amazon Careers",
-    "h1b_signal": true,
-    "summary": "We are seeking a Platform Builder\u2014a Data Engineer focused on developing platforms and scalable data solutions\u2014with strong technical, analytical, communication, and stakeholder management skills. This",
-    "found_at": "2026-07-15 22:08 UTC"
-  },
-  {
-    "title": "Machine Learning Engineer Expert",
-    "company": "Crossing Hurdles",
-    "link": "https://www.linkedin.com/jobs/view/machine-learning-engineer-expert-at-crossing-hurdles-4432236938?position=3&pageNum=0&refId=o2yYeWqvnkXoWp%2Bqyz8MNA%3D%3D&trackingId=KJIU0hZWWu4KW4YZVSVYqw%3D%3D",
-    "location": "United States",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-15 19:22 UTC"
   }
 ]
