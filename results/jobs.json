@@ -1,5 +1,105 @@
 [
   {
+    "title": "Forward Deployment AI Engineer",
+    "company": "Millennium",
+    "link": "https://www.linkedin.com/jobs/view/forward-deployment-ai-engineer-at-millennium-4441355849?position=5&pageNum=0&refId=dHFtwYdo8GUll4%2BKwk6vVg%3D%3D&trackingId=wETsAlLwJHWD%2BfzeH5QBjA%3D%3D",
+    "location": "New York, NY",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-18 08:03 UTC"
+  },
+  {
+    "title": "Data Analyst 2 - 88073",
+    "company": "New York State Department of Health",
+    "link": "https://www.linkedin.com/jobs/view/data-analyst-2-88073-at-new-york-state-department-of-health-4442187240?position=9&pageNum=0&refId=aikAx9Jo41%2FgedykERMuWg%3D%3D&trackingId=aGDiSvMu96pXI0zDBeL4RQ%3D%3D",
+    "location": "Albany, NY",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-18 08:03 UTC"
+  },
+  {
+    "title": "Databricks Data Engineer II",
+    "company": "Deloitte",
+    "link": "https://www.linkedin.com/jobs/view/databricks-data-engineer-ii-at-deloitte-4442198426?position=1&pageNum=0&refId=7h%2B%2BGMC6jxkcChUTHwv3%2FQ%3D%3D&trackingId=YLA9Ob6HZd%2BePwVQNFPYww%3D%3D",
+    "location": "San Jose, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-18 08:03 UTC"
+  },
+  {
+    "title": "Data Engineer",
+    "company": "Fluidstack",
+    "link": "https://www.linkedin.com/jobs/view/data-engineer-at-fluidstack-4441385267?position=4&pageNum=0&refId=7h%2B%2BGMC6jxkcChUTHwv3%2FQ%3D%3D&trackingId=kYsSYtLfZNwkwxFQNZ1pbw%3D%3D",
+    "location": "San Francisco, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-18 08:03 UTC"
+  },
+  {
+    "title": "Data Engineer",
+    "company": "The Exchange",
+    "link": "https://www.linkedin.com/jobs/view/data-engineer-at-the-exchange-4442407323?position=6&pageNum=0&refId=7h%2B%2BGMC6jxkcChUTHwv3%2FQ%3D%3D&trackingId=IaK3ttSGDi2cNk4CxhVbYQ%3D%3D",
+    "location": "Dallas, TX",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-18 08:03 UTC"
+  },
+  {
+    "title": "Business Intelligence Analyst - Full time - Detroit",
+    "company": "Henry Ford Health",
+    "link": "https://www.linkedin.com/jobs/view/business-intelligence-analyst-full-time-detroit-at-henry-ford-health-4442187419?position=4&pageNum=0&refId=jdo23d3WrkFeEwjTJ%2FxLRA%3D%3D&trackingId=JRqzYRIWofENAolg%2FQbJJg%3D%3D",
+    "location": "Detroit, MI",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-18 08:03 UTC"
+  },
+  {
+    "title": "Data Scientist Intern",
+    "company": "Ensemble Health Partners",
+    "link": "https://www.linkedin.com/jobs/view/data-scientist-intern-at-ensemble-health-partners-4441369974?position=3&pageNum=0&refId=BP6UStan5Y0Nd%2FuV7sW%2BdA%3D%3D&trackingId=RUvLUa1iLpSJ7I44Tx3KAQ%3D%3D",
+    "location": "United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-18 08:03 UTC"
+  },
+  {
+    "title": "Clinical Data Analyst - Dosimetrist",
+    "company": "Radformation",
+    "link": "https://www.linkedin.com/jobs/view/clinical-data-analyst-dosimetrist-at-radformation-4439261180?position=8&pageNum=0&refId=BP6UStan5Y0Nd%2FuV7sW%2BdA%3D%3D&trackingId=Rez7uixKZw7wFD442cmVQA%3D%3D",
+    "location": "United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-18 08:03 UTC"
+  },
+  {
+    "title": "Healthcare Research Scientist",
+    "company": "Joint Commission",
+    "link": "https://www.linkedin.com/jobs/view/healthcare-research-scientist-at-joint-commission-4441343600?position=10&pageNum=0&refId=BP6UStan5Y0Nd%2FuV7sW%2BdA%3D%3D&trackingId=lyxcANb83qs3oQiUxoEg6g%3D%3D",
+    "location": "United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-18 08:03 UTC"
+  },
+  {
+    "title": "Product Analyst",
+    "company": "Tata Consultancy Services",
+    "link": "https://www.linkedin.com/jobs/view/product-analyst-at-tata-consultancy-services-4441364514?position=8&pageNum=0&refId=N4erOc2MR5wyKkTHgQNBaQ%3D%3D&trackingId=oi8peM00baYlLQ3M9RTPsw%3D%3D",
+    "location": "Raleigh, NC",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-18 08:03 UTC"
+  },
+  {
     "title": "AI Data Scientist",
     "company": "The Exchange",
     "link": "https://www.linkedin.com/jobs/view/ai-data-scientist-at-the-exchange-4442409220?position=3&pageNum=0&refId=7nTFLI3hnLiy5d7wVHRJSQ%3D%3D&trackingId=bwgq8Kk5YIBvoPG6kCjkYQ%3D%3D",
@@ -2898,105 +2998,5 @@
     "h1b_signal": true,
     "summary": "<p>We\u2019re looking for a Senior Data Scientist to help us accomplish our mission to improve and extend lives by learning from the experience of every person with cancer. Are you ready to be the next cha",
     "found_at": "2026-07-15 16:39 UTC"
-  },
-  {
-    "title": "Applied Scientist II, Alexa Ads",
-    "company": "Amazon",
-    "link": "https://www.amazon.jobs/en/jobs/10475352/applied-scientist-ii-alexa-ads",
-    "location": "IN, KA, Bengaluru",
-    "source": "Amazon Careers",
-    "h1b_signal": true,
-    "summary": "Alexa+ is the world\u2019s best Generative AI powered personal assistant / agent for consumers, and is becoming the conversational AI interface for Amazon services with the launch of Alexa for Shopping on",
-    "found_at": "2026-07-15 16:39 UTC"
-  },
-  {
-    "title": "Data Scientist with Python and LLM experience",
-    "company": "Tata Consultancy Services",
-    "link": "https://www.linkedin.com/jobs/view/data-scientist-with-python-and-llm-experience-at-tata-consultancy-services-4431433614?position=11&pageNum=0&refId=lokUNoTDo6D4%2B91jO01prQ%3D%3D&trackingId=WavGlsLOSYRoT3gMOsIy9Q%3D%3D",
-    "location": "Plano, TX",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-15 13:59 UTC"
-  },
-  {
-    "title": "Machine Learning Engineer",
-    "company": "Otter.ai",
-    "link": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-otter-ai-4373097237?position=12&pageNum=0&refId=ed0rqYDZKaxUVHmzvDEdmA%3D%3D&trackingId=hubDq6IIFg7RsvLuX2aCIw%3D%3D",
-    "location": "Mountain View, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-15 13:59 UTC"
-  },
-  {
-    "title": "Applied AI Engineer",
-    "company": "Rowspace",
-    "link": "https://www.linkedin.com/jobs/view/applied-ai-engineer-at-rowspace-4402767461?position=10&pageNum=0&refId=hQoNwVAgzTdJnwCXhudJcQ%3D%3D&trackingId=JljNY5XncrditZjqBhvtRw%3D%3D",
-    "location": "San Francisco, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-15 13:59 UTC"
-  },
-  {
-    "title": "Senior Data Engineer",
-    "company": "Kai",
-    "link": "https://www.linkedin.com/jobs/view/senior-data-engineer-at-kai-4419230340?position=9&pageNum=0&refId=X9G4jjDpSGoKiau1r0IqDA%3D%3D&trackingId=lvEq31LGwosi8R%2FbjHrI%2FQ%3D%3D",
-    "location": "San Jose, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-15 13:59 UTC"
-  },
-  {
-    "title": "Business Intelligence (BI) Developer / SQL Server BI Developer",
-    "company": "Mindfore Technologies",
-    "link": "https://www.linkedin.com/jobs/view/business-intelligence-bi-developer-sql-server-bi-developer-at-mindfore-technologies-4440981828?position=8&pageNum=0&refId=q%2BUPL0IyjKgndcsmccxaZg%3D%3D&trackingId=DKbduSrU2Ag8%2F5iQ%2BVJQrg%3D%3D",
-    "location": "Tampa, FL",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-15 13:59 UTC"
-  },
-  {
-    "title": "Staff Data Engineer",
-    "company": "The Hershey Company",
-    "link": "https://www.linkedin.com/jobs/view/staff-data-engineer-at-the-hershey-company-4431410193?position=8&pageNum=0&refId=CanacgqSDlN0rf2NpupUYw%3D%3D&trackingId=3fnWqoAubGxDsa132bKRqw%3D%3D",
-    "location": "Dallas, TX",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-15 13:59 UTC"
-  },
-  {
-    "title": "Associate Data Engineer",
-    "company": "New York Power Authority",
-    "link": "https://www.linkedin.com/jobs/view/associate-data-engineer-at-new-york-power-authority-4432294543?position=5&pageNum=0&refId=6X5oUO%2FUSZkUXxM%2BYcJHng%3D%3D&trackingId=HzKsyw8NCMzRF3LJ2H%2BGvw%3D%3D",
-    "location": "White Plains, NY",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-15 13:59 UTC"
-  },
-  {
-    "title": "Data Engineer \u2013 Power BI",
-    "company": "Envision Technology Solutions",
-    "link": "https://www.linkedin.com/jobs/view/data-engineer-%E2%80%93-power-bi-at-envision-technology-solutions-4439924099?position=6&pageNum=0&refId=6X5oUO%2FUSZkUXxM%2BYcJHng%3D%3D&trackingId=To5wAMlaQGN3kouEzCLZ5A%3D%3D",
-    "location": "United States",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-15 13:59 UTC"
-  },
-  {
-    "title": "JUNIOR DATA ENGINEER",
-    "company": "VeriiPro",
-    "link": "https://www.linkedin.com/jobs/view/junior-data-engineer-at-veriipro-4438066171?position=9&pageNum=0&refId=6X5oUO%2FUSZkUXxM%2BYcJHng%3D%3D&trackingId=Urw0WJ0KacdWnABUQ3AURw%3D%3D",
-    "location": "Plano, TX",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-15 13:59 UTC"
   }
 ]
