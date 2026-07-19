@@ -1,5 +1,55 @@
 [
   {
+    "title": "Data Scientist, Finance",
+    "company": "MoldShield",
+    "link": "https://www.linkedin.com/jobs/view/data-scientist-finance-at-moldshield-4441780337?position=11&pageNum=0&refId=kUPFeIap0YAGP22Jcvfu7w%3D%3D&trackingId=sa%2B5Bu5VMMaxXYBMz7%2FXyA%3D%3D",
+    "location": "Albany, New York Metropolitan Area",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-19 21:59 UTC"
+  },
+  {
+    "title": "Data Analyst",
+    "company": "JobMint AI",
+    "link": "https://www.linkedin.com/jobs/view/data-analyst-at-jobmint-ai-4439680506?position=3&pageNum=0&refId=6s4yfhLjl1aBiBIKb80qbw%3D%3D&trackingId=Ej9OVky2NZVUebl9LLxAEQ%3D%3D",
+    "location": "Seattle, WA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-19 21:59 UTC"
+  },
+  {
+    "title": "Data Analyst",
+    "company": "FetchJobs.co",
+    "link": "https://www.linkedin.com/jobs/view/data-analyst-at-fetchjobs-co-4441777635?position=8&pageNum=0&refId=6s4yfhLjl1aBiBIKb80qbw%3D%3D&trackingId=yAeHC4nCvJGlFBIsGAzl8g%3D%3D",
+    "location": "United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-19 21:59 UTC"
+  },
+  {
+    "title": "Staff Data Engineer",
+    "company": "Tessera Data",
+    "link": "https://www.linkedin.com/jobs/view/staff-data-engineer-at-tessera-data-4442493246?position=12&pageNum=0&refId=THXmwAirfK9atTSU3tDUYA%3D%3D&trackingId=aPQ3x0gEtEikDjUunPfBGQ%3D%3D",
+    "location": "San Francisco Bay Area",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-19 21:59 UTC"
+  },
+  {
+    "title": "Market Data Engineer",
+    "company": "Goldman Lloyds",
+    "link": "https://www.linkedin.com/jobs/view/market-data-engineer-at-goldman-lloyds-4439669838?position=11&pageNum=0&refId=%2BjpuyFdFsKAnzWch7i0sTw%3D%3D&trackingId=bT4CBgNidVTwEygmxSvB6w%3D%3D",
+    "location": "New York City Metropolitan Area",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-19 21:59 UTC"
+  },
+  {
     "title": "Data Science Analyst",
     "company": "Quadax, Inc.",
     "link": "https://www.linkedin.com/jobs/view/data-science-analyst-at-quadax-inc-4441794200?position=6&pageNum=0&refId=nJ7qJlRGpMvKVTSsPKHU8w%3D%3D&trackingId=9YaKNAUn%2BJtMYohgI8%2BjiA%3D%3D",
@@ -2948,55 +2998,5 @@
     "h1b_signal": false,
     "summary": "",
     "found_at": "2026-07-16 16:23 UTC"
-  },
-  {
-    "title": "Data Engineer, Time and Pay Innovation",
-    "company": "Amazon",
-    "link": "https://www.amazon.jobs/en/jobs/10476378/data-engineer-time-and-pay-innovation",
-    "location": "IN, TS, Hyderabad",
-    "source": "Amazon Careers",
-    "h1b_signal": true,
-    "summary": "Are you passionate about data and code? Does the prospect of dealing with massive volumes of data excite you? Do you want to build data engineering solutions that process billions of records and suppo",
-    "found_at": "2026-07-16 16:24 UTC"
-  },
-  {
-    "title": "Data Scientist",
-    "company": "Ramp",
-    "link": "https://www.linkedin.com/jobs/view/data-scientist-at-ramp-4423035779?position=6&pageNum=0&refId=cnAhqwH1QNJGxmPAOJUSGw%3D%3D&trackingId=3yz%2BQj%2FAAN5mR0MeB4g%2BCg%3D%3D",
-    "location": "United States",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-16 14:10 UTC"
-  },
-  {
-    "title": "Machine Learning Engineer",
-    "company": "Eragon",
-    "link": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-eragon-4438490888?position=9&pageNum=0&refId=cnAhqwH1QNJGxmPAOJUSGw%3D%3D&trackingId=WyZXTkj8n6r3zeIK4F6kvQ%3D%3D",
-    "location": "San Francisco, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-16 14:10 UTC"
-  },
-  {
-    "title": "Data Scientist, Full Service Demand Planning",
-    "company": "Intuit",
-    "link": "https://www.linkedin.com/jobs/view/data-scientist-full-service-demand-planning-at-intuit-4441456373?position=12&pageNum=0&refId=cnAhqwH1QNJGxmPAOJUSGw%3D%3D&trackingId=yC6OXr5PMuZcPm%2F63hOLSw%3D%3D",
-    "location": "San Diego, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-16 14:10 UTC"
-  },
-  {
-    "title": "Machine Learning Engineer",
-    "company": "Valar Labs",
-    "link": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-valar-labs-4441458538?position=8&pageNum=0&refId=nzTlqb68U939O%2BPSyqwTGA%3D%3D&trackingId=EmLXnYDaZq2AX5jkloP71Q%3D%3D",
-    "location": "Palo Alto, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-16 14:10 UTC"
   }
 ]
