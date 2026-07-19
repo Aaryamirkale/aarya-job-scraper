@@ -1,5 +1,85 @@
 [
   {
+    "title": "Machine Learning Engineer",
+    "company": "Fabled Sky Research",
+    "link": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-fabled-sky-research-4442499840?position=3&pageNum=0&refId=pNVh3GNGve3cx0rGkFGf5g%3D%3D&trackingId=tnojuoIdMf72S6xieV0HZA%3D%3D",
+    "location": "Los Angeles Metropolitan Area",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-19 08:28 UTC"
+  },
+  {
+    "title": "Entry-Level Data Analyst",
+    "company": "Emma of Torre.ai",
+    "link": "https://www.linkedin.com/jobs/view/entry-level-data-analyst-at-emma-of-torre-ai-4442464437?position=7&pageNum=0&refId=wxBz68vrjBmywyDgBN%2F5Zg%3D%3D&trackingId=7MiGPvwJCLHAGnbsKNlwrw%3D%3D",
+    "location": "United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-19 08:29 UTC"
+  },
+  {
+    "title": "Data Analyst  (Remote)",
+    "company": "Torentify",
+    "link": "https://www.linkedin.com/jobs/view/data-analyst-remote-at-torentify-4442473726?position=9&pageNum=0&refId=wxBz68vrjBmywyDgBN%2F5Zg%3D%3D&trackingId=t%2FhLNtfeC199nX7MVq3iSQ%3D%3D",
+    "location": "Cincinnati Metropolitan Area",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-19 08:29 UTC"
+  },
+  {
+    "title": "Product Data Analyst",
+    "company": "BetMGM",
+    "link": "https://www.linkedin.com/jobs/view/product-data-analyst-at-betmgm-4423565444?position=10&pageNum=0&refId=wxBz68vrjBmywyDgBN%2F5Zg%3D%3D&trackingId=Ds6bWna6EmCEBXfxktV1uA%3D%3D",
+    "location": "New Jersey, United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-19 08:29 UTC"
+  },
+  {
+    "title": "Data Analyst",
+    "company": "Fabled Sky Research",
+    "link": "https://www.linkedin.com/jobs/view/data-analyst-at-fabled-sky-research-4442494930?position=11&pageNum=0&refId=wxBz68vrjBmywyDgBN%2F5Zg%3D%3D&trackingId=k0SCU9ciboOGkAaxUPQrVA%3D%3D",
+    "location": "California, United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-19 08:29 UTC"
+  },
+  {
+    "title": "Data Engineer",
+    "company": "McKesson",
+    "link": "https://www.linkedin.com/jobs/view/data-engineer-at-mckesson-4442480217?position=11&pageNum=0&refId=ULUR%2FPOk1%2FUtU1FQyyL45Q%3D%3D&trackingId=fHewLCH4%2FlO%2F3xfHjdk3LQ%3D%3D",
+    "location": "Columbus, OH",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-19 08:29 UTC"
+  },
+  {
+    "title": "Data Engineer, People Analytics",
+    "company": "Fast Forward Rewind",
+    "link": "https://www.linkedin.com/jobs/view/data-engineer-people-analytics-at-fast-forward-rewind-4442494281?position=3&pageNum=0&refId=mGZ2GlIw%2FjDuTicN%2B5%2FmMw%3D%3D&trackingId=utM3QVpIdwi%2Fz%2FpC2mxC%2BQ%3D%3D",
+    "location": "San Francisco, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-19 08:29 UTC"
+  },
+  {
+    "title": "Data Engineer, People Analytics",
+    "company": "Purpose Bits",
+    "link": "https://www.linkedin.com/jobs/view/data-engineer-people-analytics-at-purpose-bits-4442508200?position=7&pageNum=0&refId=mGZ2GlIw%2FjDuTicN%2B5%2FmMw%3D%3D&trackingId=P6CcJMym9PMDdxEKzoHs3Q%3D%3D",
+    "location": "San Francisco, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-19 08:29 UTC"
+  },
+  {
     "title": "Data Scientist",
     "company": "PPG",
     "link": "https://www.linkedin.com/jobs/view/data-scientist-at-ppg-4434044423?position=5&pageNum=0&refId=XpMBpCfmxAfyfon8ahQLrQ%3D%3D&trackingId=e2RcN23AikWXSkUmQLfXEA%3D%3D",
@@ -2914,86 +2994,6 @@
     "company": "Vanguard",
     "link": "https://www.linkedin.com/jobs/view/data-engineer-specialist-at-vanguard-4441275079?position=4&pageNum=0&refId=IqEt1CDViNyAaEI2MtsJOg%3D%3D&trackingId=EFopw7Qyu6HcYGHvkdHBjQ%3D%3D",
     "location": "Dallas, TX",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-16 03:22 UTC"
-  },
-  {
-    "title": "Senior Data Engineer",
-    "company": "Wells Fargo",
-    "link": "https://www.linkedin.com/jobs/view/senior-data-engineer-at-wells-fargo-4429034712?position=10&pageNum=0&refId=IqEt1CDViNyAaEI2MtsJOg%3D%3D&trackingId=0pD2dQtjF7GpU1ceHrNkfg%3D%3D",
-    "location": "Irving, TX",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-16 03:22 UTC"
-  },
-  {
-    "title": "Senior Data Engineer",
-    "company": "AMD",
-    "link": "https://www.linkedin.com/jobs/view/senior-data-engineer-at-amd-4438462052?position=12&pageNum=0&refId=IqEt1CDViNyAaEI2MtsJOg%3D%3D&trackingId=FtbqD12tKLD3wCwiV6TsCg%3D%3D",
-    "location": "Austin, TX",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-16 03:22 UTC"
-  },
-  {
-    "title": "Business Intelligence Analyst",
-    "company": "Regions Bank",
-    "link": "https://www.linkedin.com/jobs/view/business-intelligence-analyst-at-regions-bank-4441266723?position=8&pageNum=0&refId=86EgZn0hlxx6imp1Gfx43g%3D%3D&trackingId=aCMg5zhAwSqu1AakQb4KAg%3D%3D",
-    "location": "Birmingham, AL",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-16 03:22 UTC"
-  },
-  {
-    "title": "AI/ML Technical Lead / Senior Data Scientist",
-    "company": "ChatGPT Jobs",
-    "link": "https://www.linkedin.com/jobs/view/ai-ml-technical-lead-senior-data-scientist-at-chatgpt-jobs-4438446133?position=11&pageNum=0&refId=ZLf06VInaVKff0IS2hMZZw%3D%3D&trackingId=NgwSy3ockB%2F65lMgJOf%2FwA%3D%3D",
-    "location": "St Louis, MO",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-16 03:22 UTC"
-  },
-  {
-    "title": "Analytics & Data Engineering (Lead or Head)",
-    "company": "Outsiders Fund",
-    "link": "https://www.linkedin.com/jobs/view/analytics-data-engineering-lead-or-head-at-outsiders-fund-4441427076?position=4&pageNum=0&refId=HyyfmFIl88%2BXGR2GuFrJkQ%3D%3D&trackingId=adjyZ3Yo1IiBQ1UW%2FGUNnA%3D%3D",
-    "location": "New York, NY",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-16 03:22 UTC"
-  },
-  {
-    "title": "Data Engineer",
-    "company": "David",
-    "link": "https://www.linkedin.com/jobs/view/data-engineer-at-david-4441275831?position=5&pageNum=0&refId=HyyfmFIl88%2BXGR2GuFrJkQ%3D%3D&trackingId=VFoDPmd%2FDONPNXXmLwptJQ%3D%3D",
-    "location": "New York, NY",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-16 03:22 UTC"
-  },
-  {
-    "title": "Data Engineer",
-    "company": "MeeBoss",
-    "link": "https://www.linkedin.com/jobs/view/data-engineer-at-meeboss-4441287129?position=12&pageNum=0&refId=HyyfmFIl88%2BXGR2GuFrJkQ%3D%3D&trackingId=wJzDuct%2Bme4U5njhdpZZfw%3D%3D",
-    "location": "Greater Seattle Area",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-16 03:22 UTC"
-  },
-  {
-    "title": "Research Data Scientist",
-    "company": "Covered California",
-    "link": "https://www.linkedin.com/jobs/view/research-data-scientist-at-covered-california-4440251645?position=12&pageNum=0&refId=L%2Fvc4v0lpHKmlek9XskSTA%3D%3D&trackingId=3B%2BnrOHzWWT0jjdkpvELog%3D%3D",
-    "location": "Sacramento County, CA",
     "source": "LinkedIn",
     "h1b_signal": false,
     "summary": "",
