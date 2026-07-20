@@ -1,5 +1,95 @@
 [
   {
+    "title": "Data Scientist",
+    "company": "InterEx Group",
+    "link": "https://www.linkedin.com/jobs/view/data-scientist-at-interex-group-4440102074?position=3&pageNum=0&refId=p4qowtm6rEsU07IuKXX2Lg%3D%3D&trackingId=cPfNYyTLD9As5Dyhxu4Mew%3D%3D",
+    "location": "United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-20 03:49 UTC"
+  },
+  {
+    "title": "Healthcare Data Scientist",
+    "company": "patpow",
+    "link": "https://www.linkedin.com/jobs/view/healthcare-data-scientist-at-patpow-4442551906?position=11&pageNum=0&refId=p4qowtm6rEsU07IuKXX2Lg%3D%3D&trackingId=lzlLttB1zUAbHW8sauFSPA%3D%3D",
+    "location": "Boston, MA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-20 03:49 UTC"
+  },
+  {
+    "title": "Data Scientist",
+    "company": "DC Department of Human Resources",
+    "link": "https://www.linkedin.com/jobs/view/data-scientist-at-dc-department-of-human-resources-4442541481?position=12&pageNum=0&refId=p4qowtm6rEsU07IuKXX2Lg%3D%3D&trackingId=t6DNekH6OC17io%2B4fF4A4Q%3D%3D",
+    "location": "Washington, DC",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-20 03:49 UTC"
+  },
+  {
+    "title": "Machine Learning Engineer",
+    "company": "BioRender",
+    "link": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-biorender-4405035829?position=13&pageNum=0&refId=i0vKM7Sf3Azk3q7nc5mofg%3D%3D&trackingId=i%2BocQtW9%2Bw8CL2e9xFKucQ%3D%3D",
+    "location": "United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-20 03:49 UTC"
+  },
+  {
+    "title": "Big Data Engineer",
+    "company": "Randstad Digital Americas",
+    "link": "https://www.linkedin.com/jobs/view/big-data-engineer-at-randstad-digital-americas-4441792491?position=13&pageNum=0&refId=Mdd5czTXgIxQBZTJGqtt%2Bw%3D%3D&trackingId=NIdLtq0j%2Bf9H2FHEnD%2Bpog%3D%3D",
+    "location": "Malvern, PA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-20 03:49 UTC"
+  },
+  {
+    "title": "Senior Research Scientist",
+    "company": "Ghost",
+    "link": "https://www.linkedin.com/jobs/view/senior-research-scientist-at-ghost-4439684781?position=3&pageNum=0&refId=ZN2SvG1wOi0CVblVmh7e3w%3D%3D&trackingId=paxiyOUr2sg1rj0Z5o0VDQ%3D%3D",
+    "location": "San Francisco Bay Area",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-20 03:49 UTC"
+  },
+  {
+    "title": "Research Scientist, AI Controls and Monitoring",
+    "company": "Scale AI",
+    "link": "https://www.linkedin.com/jobs/view/research-scientist-ai-controls-and-monitoring-at-scale-ai-4385767949?position=8&pageNum=0&refId=ZN2SvG1wOi0CVblVmh7e3w%3D%3D&trackingId=SzUVjmJ6dFSvnYXLKpx3fw%3D%3D",
+    "location": "New York City Metropolitan Area",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-20 03:49 UTC"
+  },
+  {
+    "title": "Applied Research Scientist",
+    "company": "AppLovin",
+    "link": "https://www.linkedin.com/jobs/view/applied-research-scientist-at-applovin-4233410731?position=12&pageNum=0&refId=ZN2SvG1wOi0CVblVmh7e3w%3D%3D&trackingId=yrs6QrfUgPhMwcS7RNhcDg%3D%3D",
+    "location": "Palo Alto, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-20 03:49 UTC"
+  },
+  {
+    "title": "Associate Research Scientist",
+    "company": "ETS",
+    "link": "https://www.linkedin.com/jobs/view/associate-research-scientist-at-ets-4385315617?position=13&pageNum=0&refId=ZN2SvG1wOi0CVblVmh7e3w%3D%3D&trackingId=%2BIA5F18WX3SgroGrOC042w%3D%3D",
+    "location": "Princeton, NJ",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-20 03:49 UTC"
+  },
+  {
     "title": "Data Scientist, Finance",
     "company": "MoldShield",
     "link": "https://www.linkedin.com/jobs/view/data-scientist-finance-at-moldshield-4441780337?position=11&pageNum=0&refId=kUPFeIap0YAGP22Jcvfu7w%3D%3D&trackingId=sa%2B5Bu5VMMaxXYBMz7%2FXyA%3D%3D",
@@ -2908,95 +2998,5 @@
     "h1b_signal": false,
     "summary": "",
     "found_at": "2026-07-16 19:23 UTC"
-  },
-  {
-    "title": "Data Scientist II, Rapid & Rural Logistics (R2L) Analytics",
-    "company": "Amazon",
-    "link": "https://www.amazon.jobs/en/jobs/10476538/data-scientist-ii-rapid-rural-logistics-r2l-analytics",
-    "location": "US, WA, Bellevue",
-    "source": "Amazon Careers",
-    "h1b_signal": true,
-    "summary": "The R2L team is responsible for building the next generation supply chain for Amazon\u2019s world-class ultra-fast customer experiences including Amazon Fresh groceries, Sub-Same Day, Amazon Now, and other",
-    "found_at": "2026-07-16 19:24 UTC"
-  },
-  {
-    "title": "Machine Learning Engineer",
-    "company": "Bridge",
-    "link": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-bridge-4438709328?position=4&pageNum=0&refId=zqjuO9LEFej2zkqD4pIxvQ%3D%3D&trackingId=Tz5iYnGVtsnVlO%2B8T7Dlqg%3D%3D",
-    "location": "Indiana, United States",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-16 16:23 UTC"
-  },
-  {
-    "title": "Machine Learning Engineer, Data Mining",
-    "company": "RemoteHunter",
-    "link": "https://www.linkedin.com/jobs/view/machine-learning-engineer-data-mining-at-remotehunter-4440756520?position=10&pageNum=0&refId=zqjuO9LEFej2zkqD4pIxvQ%3D%3D&trackingId=%2BKSNBL52GaheImN5pkaIZw%3D%3D",
-    "location": "United States",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-16 16:23 UTC"
-  },
-  {
-    "title": "Machine Learning Engineer, Radar",
-    "company": "Stripe",
-    "link": "https://www.linkedin.com/jobs/view/machine-learning-engineer-radar-at-stripe-4441494446?position=11&pageNum=0&refId=zqjuO9LEFej2zkqD4pIxvQ%3D%3D&trackingId=li9HXQA3NTmjViUDdZ7w%2BQ%3D%3D",
-    "location": "San Francisco, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-16 16:23 UTC"
-  },
-  {
-    "title": "Data Analyst",
-    "company": "INSPYR Solutions",
-    "link": "https://www.linkedin.com/jobs/view/data-analyst-at-inspyr-solutions-4441486155?position=9&pageNum=0&refId=%2F%2FLpfqUCfZiU1rHxFYi4DQ%3D%3D&trackingId=fzsGLsvwu8R%2F5cZotvX21g%3D%3D",
-    "location": "Orlando, FL",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-16 16:23 UTC"
-  },
-  {
-    "title": "Machine Learning Engineer",
-    "company": "Schmidt Marine Technology Partners",
-    "link": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-schmidt-marine-technology-partners-4441499152?position=10&pageNum=0&refId=ExuYCs%2BrNWo0%2Bdpg9Xr4ow%3D%3D&trackingId=6OCskU0y7lb9jwID%2B%2FMkEA%3D%3D",
-    "location": "College Park, MD",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-16 16:23 UTC"
-  },
-  {
-    "title": "Data Engineer",
-    "company": "SynapOne",
-    "link": "https://www.linkedin.com/jobs/view/data-engineer-at-synapone-4441492692?position=10&pageNum=0&refId=SBA6lJEzaMr%2BH9npQP6imA%3D%3D&trackingId=cZLh2d3OUImn%2FKBJ92xwnw%3D%3D",
-    "location": "Raleigh, NC",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-16 16:23 UTC"
-  },
-  {
-    "title": "Business Intelligence Analyst",
-    "company": "Boeing",
-    "link": "https://www.linkedin.com/jobs/view/business-intelligence-analyst-at-boeing-4438737271?position=5&pageNum=0&refId=BKkt6vg2z0Kw%2F5MW9eqArA%3D%3D&trackingId=RYY60cjUJbnkZwLLSwo2WQ%3D%3D",
-    "location": "Auburn, WA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-16 16:23 UTC"
-  },
-  {
-    "title": "Data Analyst",
-    "company": "Commercial Contracting Corporation",
-    "link": "https://www.linkedin.com/jobs/view/data-analyst-at-commercial-contracting-corporation-4441486573?position=6&pageNum=0&refId=BKkt6vg2z0Kw%2F5MW9eqArA%3D%3D&trackingId=BxAhJGRz%2Bfifgf7wNVXKoA%3D%3D",
-    "location": "Auburn Hills, MI",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-16 16:23 UTC"
   }
 ]
