@@ -1,5 +1,65 @@
 [
   {
+    "title": "Data Scientist",
+    "company": "Ford Motor Company",
+    "link": "https://www.linkedin.com/jobs/view/data-scientist-at-ford-motor-company-4443349202?position=9&pageNum=0&refId=1dff%2FZdoxZBlHnzRz2t3Bw%3D%3D&trackingId=w%2BEAhK0ZTidsW%2B7yRoXy1g%3D%3D",
+    "location": "Dearborn, MI",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-21 11:13 UTC"
+  },
+  {
+    "title": "Machine Learning Engineer at Wanderboat AI",
+    "company": "Berkeley Industrial Engineering & Operations Research",
+    "link": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-wanderboat-ai-at-berkeley-industrial-engineering-operations-research-4442630148?position=6&pageNum=0&refId=WNvabuN7RAT2dYUr7LWM0Q%3D%3D&trackingId=NrycudWuowtK4j1mFTReXg%3D%3D",
+    "location": "Indiana, United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-21 11:13 UTC"
+  },
+  {
+    "title": "Machine Learning Engineer, Marketplace Optimization",
+    "company": "DoorDash",
+    "link": "https://www.linkedin.com/jobs/view/machine-learning-engineer-marketplace-optimization-at-doordash-4356682801?position=12&pageNum=0&refId=WNvabuN7RAT2dYUr7LWM0Q%3D%3D&trackingId=VrYTyi5jVXbu%2FCkRkJcShw%3D%3D",
+    "location": "San Francisco, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-21 11:13 UTC"
+  },
+  {
+    "title": "Data Engineer II - (Remote)",
+    "company": "Fanatics",
+    "link": "https://www.linkedin.com/jobs/view/data-engineer-ii-remote-at-fanatics-4440199979?position=2&pageNum=0&refId=zCCcR3kycbzI6Tr5SO2UJQ%3D%3D&trackingId=XBPfzaGno497%2BXmrptWOqw%3D%3D",
+    "location": "New York, NY",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-21 11:13 UTC"
+  },
+  {
+    "title": "Business Intelligence Analyst",
+    "company": "Damoov",
+    "link": "https://www.linkedin.com/jobs/view/business-intelligence-analyst-at-damoov-4443337826?position=3&pageNum=0&refId=2%2BlNqc1dgnjNNw5R6hwV7w%3D%3D&trackingId=ThftrscxMqyLP9f6rhoZlQ%3D%3D",
+    "location": "United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-21 11:13 UTC"
+  },
+  {
+    "title": "Senior Data Engineer, Amazon Global Selling -AIT",
+    "company": "Amazon",
+    "link": "https://www.amazon.jobs/en/jobs/10479781/senior-data-engineer-amazon-global-selling-ait",
+    "location": "CN, 31, Shanghai",
+    "source": "Amazon Careers",
+    "h1b_signal": true,
+    "summary": "Worldwide Global Selling has been helping individuals and businesses increase sales and reach new customers around the globe. Today, more than 50% of Amazon's total unit sales come from third-party se",
+    "found_at": "2026-07-21 11:13 UTC"
+  },
+  {
     "title": "Data Engineer II",
     "company": "MetLife",
     "link": "https://www.linkedin.com/jobs/view/data-engineer-ii-at-metlife-4442258688?position=2&pageNum=0&refId=C49js9%2FdyeJdtPeD5W%2BVYQ%3D%3D&trackingId=a400l8pV6gGUkSjDSLXB%2Fw%3D%3D",
@@ -2934,66 +2994,6 @@
     "company": "Eli Lilly and Company",
     "link": "https://www.linkedin.com/jobs/view/data-engineer-lilly-medicine-foundry-at-eli-lilly-and-company-4442160791?position=11&pageNum=0&refId=ndXqgU6EbmsfWX%2FkoFfMJg%3D%3D&trackingId=gdgIJjo4%2FUDRL0TdMHCnqg%3D%3D",
     "location": "Indianapolis, IN",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-17 21:59 UTC"
-  },
-  {
-    "title": "Junior Business Intelligence Analyst",
-    "company": "The Baldwin Group",
-    "link": "https://www.linkedin.com/jobs/view/junior-business-intelligence-analyst-at-the-baldwin-group-4442143379?position=3&pageNum=0&refId=hsIRlMDaofkYw1M1rJqb%2FQ%3D%3D&trackingId=RABc%2FPnR5EIOEFgfPsCmXg%3D%3D",
-    "location": "Charlotte, NC",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-17 21:59 UTC"
-  },
-  {
-    "title": "Senior Business Intelligence Analyst",
-    "company": "System One",
-    "link": "https://www.linkedin.com/jobs/view/senior-business-intelligence-analyst-at-system-one-4441219052?position=5&pageNum=0&refId=hsIRlMDaofkYw1M1rJqb%2FQ%3D%3D&trackingId=BfNafDoHzNOQYv%2FJHity%2Bw%3D%3D",
-    "location": "Irvine, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-17 21:59 UTC"
-  },
-  {
-    "title": "Business Intelligence Analyst",
-    "company": "EquipmentShare",
-    "link": "https://www.linkedin.com/jobs/view/business-intelligence-analyst-at-equipmentshare-4442173323?position=6&pageNum=0&refId=hsIRlMDaofkYw1M1rJqb%2FQ%3D%3D&trackingId=7NLuRQ0fkXe4aWIilUz5oQ%3D%3D",
-    "location": "Columbia, MO",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-17 21:59 UTC"
-  },
-  {
-    "title": "Business Data Analyst",
-    "company": "Wesley Mingledorff Talent Partners",
-    "link": "https://www.linkedin.com/jobs/view/business-data-analyst-at-wesley-mingledorff-talent-partners-4439248847?position=10&pageNum=0&refId=hsIRlMDaofkYw1M1rJqb%2FQ%3D%3D&trackingId=5jMkezZGnHV2urrqpMAcjw%3D%3D",
-    "location": "Greater Savannah Area",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-17 21:59 UTC"
-  },
-  {
-    "title": "Senior Business / Data Analyst - Alteryx",
-    "company": "Lenmar Consulting Inc",
-    "link": "https://www.linkedin.com/jobs/view/senior-business-data-analyst-alteryx-at-lenmar-consulting-inc-4441353010?position=12&pageNum=0&refId=hsIRlMDaofkYw1M1rJqb%2FQ%3D%3D&trackingId=FntB%2ByjBxOOUxYL7Q3Q%2BEQ%3D%3D",
-    "location": "New York, United States",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-17 21:59 UTC"
-  },
-  {
-    "title": "MLOps Engineer",
-    "company": "Fractal",
-    "link": "https://www.linkedin.com/jobs/view/mlops-engineer-at-fractal-4441357320?position=2&pageNum=0&refId=WnKkRTtSpceYVer9q4AR0g%3D%3D&trackingId=tikSI9Zy3hC1HEhCYT3PUw%3D%3D",
-    "location": "New York, United States",
     "source": "LinkedIn",
     "h1b_signal": false,
     "summary": "",
