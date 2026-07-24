@@ -1,5 +1,105 @@
 [
   {
+    "title": "Machine Learning Engineer, Ads Personalization",
+    "company": "Paramount",
+    "link": "https://www.linkedin.com/jobs/view/machine-learning-engineer-ads-personalization-at-paramount-4408503712?position=10&pageNum=0&refId=Q%2BJFKOOcx2AJjcM0LOochw%3D%3D&trackingId=WLxGxycLFCQLRoiKfPivvA%3D%3D",
+    "location": "New York, NY",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-24 11:07 UTC"
+  },
+  {
+    "title": "Data Engineer",
+    "company": "Aristocrat",
+    "link": "https://www.linkedin.com/jobs/view/data-engineer-at-aristocrat-4444329366?position=10&pageNum=0&refId=wynZVHBfIj0rEELAw%2BbJRg%3D%3D&trackingId=NuBRkqWILQRsohJInw8pTw%3D%3D",
+    "location": "Austin, TX",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-24 11:07 UTC"
+  },
+  {
+    "title": "Business Intelligence Analyst",
+    "company": "Aroha Technologies, Inc",
+    "link": "https://www.linkedin.com/jobs/view/business-intelligence-analyst-at-aroha-technologies-inc-4444019735?position=1&pageNum=0&refId=%2FO1MfrDHcIHrYUquylWqLQ%3D%3D&trackingId=D%2BeJYBDPY65gVNX9YHy1dg%3D%3D",
+    "location": "United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-24 11:07 UTC"
+  },
+  {
+    "title": "Senior Business Intelligence Analyst",
+    "company": "Jobgether",
+    "link": "https://www.linkedin.com/jobs/view/senior-business-intelligence-analyst-at-jobgether-4444334237?position=3&pageNum=0&refId=%2FO1MfrDHcIHrYUquylWqLQ%3D%3D&trackingId=AVLUTtFncwfTXDGKZc%2FsxA%3D%3D",
+    "location": "United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-24 11:07 UTC"
+  },
+  {
+    "title": "Business Intelligence Analyst",
+    "company": "SailPoint",
+    "link": "https://www.linkedin.com/jobs/view/business-intelligence-analyst-at-sailpoint-4444774706?position=9&pageNum=0&refId=%2FO1MfrDHcIHrYUquylWqLQ%3D%3D&trackingId=xIquY5a1vrmJSuFrl4v3aQ%3D%3D",
+    "location": "Austin, TX",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-24 11:07 UTC"
+  },
+  {
+    "title": "Business Intelligence Analyst (Remote)",
+    "company": "WCG",
+    "link": "https://www.linkedin.com/jobs/view/business-intelligence-analyst-remote-at-wcg-4444770664?position=10&pageNum=0&refId=%2FO1MfrDHcIHrYUquylWqLQ%3D%3D&trackingId=b2LeXgtaZS3qe36FdEBkwA%3D%3D",
+    "location": "Cary, NC",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-24 11:07 UTC"
+  },
+  {
+    "title": "Analytics Engineer",
+    "company": "Teli Labs",
+    "link": "https://www.linkedin.com/jobs/view/analytics-engineer-at-teli-labs-4444329470?position=7&pageNum=0&refId=UeGiNhDo5Zx1q6ggGi00DA%3D%3D&trackingId=lgWS1XJ4FkCLZnwGbxiUhQ%3D%3D",
+    "location": "New York, NY",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-24 11:07 UTC"
+  },
+  {
+    "title": "Data Scientist",
+    "company": "Aditi Consulting",
+    "link": "https://www.linkedin.com/jobs/view/data-scientist-at-aditi-consulting-4444725111?position=3&pageNum=0&refId=YvD%2Bob6MLx5uEQ1Lhgipqg%3D%3D&trackingId=kmbgE94T5c0iNN8jLhozGQ%3D%3D",
+    "location": "Thousand Oaks, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-24 11:07 UTC"
+  },
+  {
+    "title": "Data Scientist \u2013 Healthcare Analytics & AI",
+    "company": "Burtch Works",
+    "link": "https://www.linkedin.com/jobs/view/data-scientist-%E2%80%93-healthcare-analytics-ai-at-burtch-works-4436425985?position=9&pageNum=0&refId=YvD%2Bob6MLx5uEQ1Lhgipqg%3D%3D&trackingId=nIJko2tcYpVmdmsZKC7sVg%3D%3D",
+    "location": "United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-24 11:07 UTC"
+  },
+  {
+    "title": "Research Scientist",
+    "company": "Galvanize",
+    "link": "https://www.linkedin.com/jobs/view/research-scientist-at-galvanize-4444954122?position=12&pageNum=0&refId=ieeqPwdMtUkRPO324eh8aQ%3D%3D&trackingId=OxmNLE%2BBFA%2Fd0fO3fR5Yqw%3D%3D",
+    "location": "Redwood City, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-24 11:07 UTC"
+  },
+  {
     "title": "Machine Learning Engineer-Neural networks experince",
     "company": "Trilyon, Inc.",
     "link": "https://www.linkedin.com/jobs/view/machine-learning-engineer-neural-networks-experince-at-trilyon-inc-4444029962?position=1&pageNum=0&refId=d8Y%2FgJRPsQhXK1e%2BEWbU3w%3D%3D&trackingId=7dChuvERXqrFG2ZrTRIuxQ%3D%3D",
@@ -2898,105 +2998,5 @@
     "h1b_signal": false,
     "summary": "",
     "found_at": "2026-07-21 16:27 UTC"
-  },
-  {
-    "title": "Senior MLOps Engineer | 110/hr Remote",
-    "company": "CodeGeniusRecruit",
-    "link": "https://www.linkedin.com/jobs/view/senior-mlops-engineer-110-hr-remote-at-codegeniusrecruit-4442634904?position=3&pageNum=0&refId=4%2BLQyKT2WkWWBrbbCXKY5g%3D%3D&trackingId=NnC5zkLwhr8IlmrlkHTz2w%3D%3D",
-    "location": "United States",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-21 16:27 UTC"
-  },
-  {
-    "title": "Data Scientist Analyst",
-    "company": "Elevance Health",
-    "link": "https://www.linkedin.com/jobs/view/data-scientist-analyst-at-elevance-health-4443323804?position=4&pageNum=0&refId=mei9r2sSiDLKuYSAX0R1KQ%3D%3D&trackingId=dsHW%2F8Di%2BVHda1OspSugyA%3D%3D",
-    "location": "Indianapolis, IN",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-21 16:27 UTC"
-  },
-  {
-    "title": "Computational Data Scientist II",
-    "company": "University of Pittsburgh",
-    "link": "https://www.linkedin.com/jobs/view/computational-data-scientist-ii-at-university-of-pittsburgh-4443506334?position=6&pageNum=0&refId=mei9r2sSiDLKuYSAX0R1KQ%3D%3D&trackingId=zSK5mEdeJGHz94qsOm%2BVYA%3D%3D",
-    "location": "Pittsburgh, PA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-21 16:27 UTC"
-  },
-  {
-    "title": "Limited Tenure Data Science Analyst - Acosta Program",
-    "company": "Mayo Clinic",
-    "link": "https://www.linkedin.com/jobs/view/limited-tenure-data-science-analyst-acosta-program-at-mayo-clinic-4443305388?position=9&pageNum=0&refId=mei9r2sSiDLKuYSAX0R1KQ%3D%3D&trackingId=QYV6Ry1v5ve8f7p0DVeFHw%3D%3D",
-    "location": "Rochester, MN",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-21 16:27 UTC"
-  },
-  {
-    "title": "Product Analyst, Global Product Quality",
-    "company": "Meta",
-    "link": "https://www.linkedin.com/jobs/view/product-analyst-global-product-quality-at-meta-4440424999?position=3&pageNum=0&refId=CNb4tpTpMCX5StVWB10e5g%3D%3D&trackingId=1voiDxbZBUQMus0WGXNFrA%3D%3D",
-    "location": "Menlo Park, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-21 16:27 UTC"
-  },
-  {
-    "title": "Product Analyst",
-    "company": "Responsible Business Alliance",
-    "link": "https://www.linkedin.com/jobs/view/product-analyst-at-responsible-business-alliance-4443357669?position=10&pageNum=0&refId=CNb4tpTpMCX5StVWB10e5g%3D%3D&trackingId=iVZ1qaLQxi6vY%2FzJxtrm1w%3D%3D",
-    "location": "Alexandria, VA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-21 16:27 UTC"
-  },
-  {
-    "title": "Research Scientist",
-    "company": "Zero Carbon Systems",
-    "link": "https://www.linkedin.com/jobs/view/research-scientist-at-zero-carbon-systems-4443392918?position=2&pageNum=0&refId=hQnR6UcLEoO8VOe%2FXSIf9A%3D%3D&trackingId=6zph%2FA7Sncx4OdYZM2%2FrLA%3D%3D",
-    "location": "Brighton, CO",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-21 16:27 UTC"
-  },
-  {
-    "title": "Data Scientist, Region Flexibility",
-    "company": "Amazon",
-    "link": "https://www.linkedin.com/jobs/view/data-scientist-region-flexibility-at-amazon-4443353879?position=8&pageNum=0&refId=fmcLN%2BvDco82dfu0ey7jeg%3D%3D&trackingId=2962Hw0Qgw1pzV4UoiPdRQ%3D%3D",
-    "location": "Sunnyvale, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-21 14:09 UTC"
-  },
-  {
-    "title": "W2 only - Data Scientist",
-    "company": "GAC Solutions",
-    "link": "https://www.linkedin.com/jobs/view/w2-only-data-scientist-at-gac-solutions-4442649135?position=11&pageNum=0&refId=fmcLN%2BvDco82dfu0ey7jeg%3D%3D&trackingId=XLk9CpH8cE%2BDVOur8ZAlVw%3D%3D",
-    "location": "Raleigh, NC",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-21 14:09 UTC"
-  },
-  {
-    "title": "Marketing Data Scientist, Measurement & Experimentation",
-    "company": "LinkedIn",
-    "link": "https://www.linkedin.com/jobs/view/marketing-data-scientist-measurement-experimentation-at-linkedin-4443011652?position=3&pageNum=0&refId=l6CJz53XdfXA7O1n0WCWbA%3D%3D&trackingId=KN%2FIU6wzerN8lFfdVfYZUw%3D%3D",
-    "location": "New York, NY",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-21 14:09 UTC"
   }
 ]
