@@ -1,5 +1,55 @@
 [
   {
+    "title": "Data Engineer",
+    "company": "GamblingCareers.com",
+    "link": "https://www.linkedin.com/jobs/view/data-engineer-at-gamblingcareers-com-4445286038?position=8&pageNum=0&refId=8DdK9tXnntruSt%2FZk2KEFg%3D%3D&trackingId=1%2BbMeYwCSh1wJpXHjM6fqA%3D%3D",
+    "location": "Austin, TX",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-25 22:01 UTC"
+  },
+  {
+    "title": "Data Engineer",
+    "company": "Willsfly Technologies Inc",
+    "link": "https://www.linkedin.com/jobs/view/data-engineer-at-willsfly-technologies-inc-4444676189?position=12&pageNum=0&refId=8DdK9tXnntruSt%2FZk2KEFg%3D%3D&trackingId=LLdZ2st%2FOjD9Gf6h2KZCdQ%3D%3D",
+    "location": "Texas, United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-25 22:01 UTC"
+  },
+  {
+    "title": "Data Analyst - Transportation BI",
+    "company": "The Home Depot",
+    "link": "https://www.linkedin.com/jobs/view/data-analyst-transportation-bi-at-the-home-depot-4444691835?position=7&pageNum=0&refId=UWNxhgRswe7I3CYFjKrZnA%3D%3D&trackingId=pCimosdf95dGSVH1jaBvDw%3D%3D",
+    "location": "Atlanta, GA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-25 22:01 UTC"
+  },
+  {
+    "title": "Analytics Engineer (Finance/GTM)",
+    "company": "Opiniion Inc.",
+    "link": "https://www.linkedin.com/jobs/view/analytics-engineer-finance-gtm-at-opiniion-inc-4445315353?position=8&pageNum=0&refId=TSvwzJGRhaNJdVnn10sI%2BQ%3D%3D&trackingId=MPjAcSV5hd%2B8siPpRFNp5g%3D%3D",
+    "location": "Lehi, UT",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-25 22:01 UTC"
+  },
+  {
+    "title": "Senior Product Analyst-Agile",
+    "company": "Truist",
+    "link": "https://www.linkedin.com/jobs/view/senior-product-analyst-agile-at-truist-4445282293?position=12&pageNum=0&refId=AoyYGh4gRM6bmxFxjlFeRw%3D%3D&trackingId=h9vmmqJbLWbWdaTHt5fHEg%3D%3D",
+    "location": "Charlotte, NC",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-25 22:01 UTC"
+  },
+  {
     "title": "Data Scientist",
     "company": "Women of the Vine & Spirits",
     "link": "https://www.linkedin.com/jobs/view/data-scientist-at-women-of-the-vine-spirits-4445346646?position=9&pageNum=0&refId=j%2FXJ5aMMsIwoyQf7%2Fsrgzw%3D%3D&trackingId=n%2FlQKuFPqfdp8fsV2C%2FjxA%3D%3D",
@@ -2948,55 +2998,5 @@
     "h1b_signal": false,
     "summary": "",
     "found_at": "2026-07-22 22:11 UTC"
-  },
-  {
-    "title": "Sr. Data Analyst",
-    "company": "Sagetap",
-    "link": "https://www.linkedin.com/jobs/view/sr-data-analyst-at-sagetap-4443193840?position=9&pageNum=0&refId=y8aJODWbM6MmLOxwfgQUaw%3D%3D&trackingId=QLZkdhpvMItMNVdYDWAdUg%3D%3D",
-    "location": "San Francisco Bay Area",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-22 22:11 UTC"
-  },
-  {
-    "title": "Research Scientist",
-    "company": "BASF",
-    "link": "https://www.linkedin.com/jobs/view/research-scientist-at-basf-4441074313?position=12&pageNum=0&refId=SoaXzIYebtMstKKOnTGuLg%3D%3D&trackingId=QyxUbm4z57CrbVLHS4noLg%3D%3D",
-    "location": "Wyandotte, MI",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-22 22:11 UTC"
-  },
-  {
-    "title": "Data Scientist",
-    "company": "Bowden Brown",
-    "link": "https://www.linkedin.com/jobs/view/data-scientist-at-bowden-brown-4443945177?position=7&pageNum=0&refId=fmzG3skkOIVBbhlH662ndQ%3D%3D&trackingId=W0RZQbCpDLWLWrN2oopvtA%3D%3D",
-    "location": "New York City Metropolitan Area",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-22 19:37 UTC"
-  },
-  {
-    "title": "Data Scientist",
-    "company": "Opsium",
-    "link": "https://www.linkedin.com/jobs/view/data-scientist-at-opsium-4443929262?position=9&pageNum=0&refId=fmzG3skkOIVBbhlH662ndQ%3D%3D&trackingId=VPjGIxqEzHQQ8kYjCxzZDw%3D%3D",
-    "location": "Pasadena, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-22 19:37 UTC"
-  },
-  {
-    "title": "Data Scientist",
-    "company": "Envision Technology Solutions",
-    "link": "https://www.linkedin.com/jobs/view/data-scientist-at-envision-technology-solutions-4435211931?position=12&pageNum=0&refId=fmzG3skkOIVBbhlH662ndQ%3D%3D&trackingId=%2FsNb0Eh2fA34g0x3%2Fz18WQ%3D%3D",
-    "location": "Washington DC-Baltimore Area",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-22 19:37 UTC"
   }
 ]
