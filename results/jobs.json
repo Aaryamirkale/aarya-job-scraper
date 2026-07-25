@@ -1,5 +1,55 @@
 [
   {
+    "title": "Data Scientist",
+    "company": "Walgreens",
+    "link": "https://www.linkedin.com/jobs/view/data-scientist-at-walgreens-4445329960?position=7&pageNum=0&refId=%2FSBIkjtGo1Q5XrQDC%2BQzwg%3D%3D&trackingId=YIu1xgePRczBXu3OWvC%2BLg%3D%3D",
+    "location": "Deerfield, IL",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-25 16:08 UTC"
+  },
+  {
+    "title": "Jr. Analytics Engineer",
+    "company": "CIBC US",
+    "link": "https://www.linkedin.com/jobs/view/jr-analytics-engineer-at-cibc-us-4445262223?position=5&pageNum=0&refId=yffPwzTed9nK9dC2lW83gw%3D%3D&trackingId=ks3CoynL92xti%2BqCaDkH1w%3D%3D",
+    "location": "Chicago, IL",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-25 16:09 UTC"
+  },
+  {
+    "title": "Data Analytics Engineer",
+    "company": "IDR, Inc.",
+    "link": "https://www.linkedin.com/jobs/view/data-analytics-engineer-at-idr-inc-4445204444?position=10&pageNum=0&refId=yffPwzTed9nK9dC2lW83gw%3D%3D&trackingId=UntE3RcFrRwxDRrj%2B5eAxw%3D%3D",
+    "location": "Dallas, TX",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-25 16:09 UTC"
+  },
+  {
+    "title": "Product Analyst, Digital Health",
+    "company": "Evio",
+    "link": "https://www.linkedin.com/jobs/view/product-analyst-digital-health-at-evio-4444682653?position=7&pageNum=0&refId=jSs5JJwW7U7BPdunSGxKew%3D%3D&trackingId=z8nV9ngaNKpE0ejxOWHu7w%3D%3D",
+    "location": "United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-25 16:09 UTC"
+  },
+  {
+    "title": "Senior Data Analyst, Product Analytics",
+    "company": "ShopMy",
+    "link": "https://www.linkedin.com/jobs/view/senior-data-analyst-product-analytics-at-shopmy-4444659057?position=12&pageNum=0&refId=jSs5JJwW7U7BPdunSGxKew%3D%3D&trackingId=YJEs8obVtVIBg0WqRStTyg%3D%3D",
+    "location": "New York, United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-25 16:09 UTC"
+  },
+  {
     "title": "Data Scientist, GTM",
     "company": "OpenAI",
     "link": "https://www.linkedin.com/jobs/view/data-scientist-gtm-at-openai-4444398981?position=5&pageNum=0&refId=nv1qDlrfAILYt5mrdiTl0g%3D%3D&trackingId=IAQzpWSE4jiSGq9E1rqW8A%3D%3D",
@@ -2947,56 +2997,6 @@
     "source": "LinkedIn",
     "h1b_signal": false,
     "summary": "",
-    "found_at": "2026-07-22 19:37 UTC"
-  },
-  {
-    "title": "Senior Product Analyst, GenAI, DeepMind",
-    "company": "Google DeepMind",
-    "link": "https://www.linkedin.com/jobs/view/senior-product-analyst-genai-deepmind-at-google-deepmind-4443158950?position=3&pageNum=0&refId=znrzClp9ISfrIW8YdeU0UQ%3D%3D&trackingId=iAWTdjyayKyekVNetHmO0w%3D%3D",
-    "location": "Mountain View, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-22 19:37 UTC"
-  },
-  {
-    "title": "Product Analyst - Data Analytics",
-    "company": "Request Technology, LLC",
-    "link": "https://www.linkedin.com/jobs/view/product-analyst-data-analytics-at-request-technology-llc-4437557431?position=6&pageNum=0&refId=znrzClp9ISfrIW8YdeU0UQ%3D%3D&trackingId=h%2BYgWFes6R6G8pBHOo8fEg%3D%3D",
-    "location": "Bloomington, IL",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-22 19:37 UTC"
-  },
-  {
-    "title": "Corporate Finance - Data Science Product Associate",
-    "company": "JPMorganChase",
-    "link": "https://www.linkedin.com/jobs/view/corporate-finance-data-science-product-associate-at-jpmorganchase-4381404665?position=10&pageNum=0&refId=znrzClp9ISfrIW8YdeU0UQ%3D%3D&trackingId=UgGum%2B4uWSj0OHImAozSag%3D%3D",
-    "location": "Newark, DE",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-22 19:37 UTC"
-  },
-  {
-    "title": "Research Scientist I (Plant Scientist)",
-    "company": "Orion Mining Inc",
-    "link": "https://www.linkedin.com/jobs/view/research-scientist-i-plant-scientist-at-orion-mining-inc-4442954347?position=9&pageNum=0&refId=YKgZurFVHgaFgBPMPrB%2Bbg%3D%3D&trackingId=ibHKpcrt0LGk0RwhVzo6pQ%3D%3D",
-    "location": "Durham, NC",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-22 19:37 UTC"
-  },
-  {
-    "title": "Sr. Applied Scientist - Perception (SLAM/VIO), Fauna",
-    "company": "Amazon",
-    "link": "https://www.amazon.jobs/en/jobs/10481505/sr-applied-scientist-perception-slam-vio-fauna",
-    "location": "US, NY, New York",
-    "source": "Amazon Careers",
-    "h1b_signal": true,
-    "summary": "We are seeking a Sr. Applied Scientist to develop and optimize Visual Inertial Odometry (VIO) and sensor fusion systems for our intelligent robots. In this role, you will design, implement, and deploy",
     "found_at": "2026-07-22 19:37 UTC"
   }
 ]
