@@ -1,5 +1,105 @@
 [
   {
+    "title": "ML/AI Engineer",
+    "company": "Pride Global",
+    "link": "https://www.linkedin.com/jobs/view/ml-ai-engineer-at-pride-global-4445239811?position=11&pageNum=0&refId=DYrwXs53vbHWTVxGEwgQnQ%3D%3D&trackingId=TQ6VnUFnCz20N7bzM2gQjA%3D%3D",
+    "location": "Redmond, WA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-25 03:26 UTC"
+  },
+  {
+    "title": "Data Engineer",
+    "company": "Pomeroy",
+    "link": "https://www.linkedin.com/jobs/view/data-engineer-at-pomeroy-4444982810?position=12&pageNum=0&refId=k8w7ymfdIz88Cu2RgRpd7A%3D%3D&trackingId=7qSxO0WcK1ssUlPTIQbP%2Fw%3D%3D",
+    "location": "Dallas-Fort Worth Metroplex",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-25 03:26 UTC"
+  },
+  {
+    "title": "Lead MLOps Engineer - AI Platform & Strategy",
+    "company": "Tharp Consulting",
+    "link": "https://www.linkedin.com/jobs/view/lead-mlops-engineer-ai-platform-strategy-at-tharp-consulting-4444661174?position=5&pageNum=0&refId=wGTDlKM%2BN4xKpbPrdYFRAw%3D%3D&trackingId=9wPAEi8Tljey0zUkh5%2BMXA%3D%3D",
+    "location": "Tempe, AZ",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-25 03:26 UTC"
+  },
+  {
+    "title": "AI Engineer",
+    "company": "The Judge Group",
+    "link": "https://www.linkedin.com/jobs/view/ai-engineer-at-the-judge-group-4441818803?position=6&pageNum=0&refId=wGTDlKM%2BN4xKpbPrdYFRAw%3D%3D&trackingId=G6BKRM6bNRsKcLZVg61J0w%3D%3D",
+    "location": "United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-25 03:26 UTC"
+  },
+  {
+    "title": "Senior Machine Learning Engineer",
+    "company": "Siemens",
+    "link": "https://www.linkedin.com/jobs/view/senior-machine-learning-engineer-at-siemens-4444373474?position=9&pageNum=0&refId=wGTDlKM%2BN4xKpbPrdYFRAw%3D%3D&trackingId=opqS2yY9qcvPUklUKW2wQg%3D%3D",
+    "location": "Raleigh, NC",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-25 03:26 UTC"
+  },
+  {
+    "title": "Forward Deployed Engineer, Applied AI",
+    "company": "Snowflake",
+    "link": "https://www.linkedin.com/jobs/view/forward-deployed-engineer-applied-ai-at-snowflake-4418071451?position=10&pageNum=0&refId=wGTDlKM%2BN4xKpbPrdYFRAw%3D%3D&trackingId=TICzwYt6%2BVylp3lLvvRUNw%3D%3D",
+    "location": "Menlo Park, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-25 03:26 UTC"
+  },
+  {
+    "title": "Senior AI Engineer",
+    "company": "Mastercard",
+    "link": "https://www.linkedin.com/jobs/view/senior-ai-engineer-at-mastercard-4441833105?position=11&pageNum=0&refId=wGTDlKM%2BN4xKpbPrdYFRAw%3D%3D&trackingId=cNJlMbiojByYXb2ox9yWvg%3D%3D",
+    "location": "O'Fallon, MO",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-25 03:26 UTC"
+  },
+  {
+    "title": "Research Data Analyst - Hematological Malignancies",
+    "company": "Stanford University",
+    "link": "https://www.linkedin.com/jobs/view/research-data-analyst-hematological-malignancies-at-stanford-university-4445246674?position=11&pageNum=0&refId=2ItKK%2FhJEXmLoE3qXtiwAg%3D%3D&trackingId=JSCgM%2FZkUTgknwnAs02q6g%3D%3D",
+    "location": "Stanford, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-25 03:26 UTC"
+  },
+  {
+    "title": "Data Scientist",
+    "company": "Net2Source (N2S)",
+    "link": "https://www.linkedin.com/jobs/view/data-scientist-at-net2source-n2s-4441828513?position=9&pageNum=0&refId=BG2JshgEINspisR8q5POTw%3D%3D&trackingId=guOAV90%2BtN4ZQNnrhiPVpQ%3D%3D",
+    "location": "Indianapolis, IN",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-25 03:26 UTC"
+  },
+  {
+    "title": "Research Scientist, Takeoff Intel",
+    "company": "Anthropic",
+    "link": "https://www.linkedin.com/jobs/view/research-scientist-takeoff-intel-at-anthropic-4444658215?position=9&pageNum=0&refId=awWnUPlgcSz181bEWl%2F%2Ffw%3D%3D&trackingId=6O%2FCCWYa9F%2BAUAlbN1yqUQ%3D%3D",
+    "location": "New York, NY",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-25 03:26 UTC"
+  },
+  {
     "title": "Data Scientist",
     "company": "Capgemini",
     "link": "https://www.linkedin.com/jobs/view/data-scientist-at-capgemini-4444396001?position=4&pageNum=0&refId=lfaYffkI8k4gmW8yqYr6yQ%3D%3D&trackingId=ub4SOQXn7q%2F3OqN9cWn1jA%3D%3D",
@@ -2898,105 +2998,5 @@
     "h1b_signal": false,
     "summary": "",
     "found_at": "2026-07-22 11:14 UTC"
-  },
-  {
-    "title": "Business Intelligence Analyst",
-    "company": "MUZOM TRANSPORTATION INC",
-    "link": "https://www.linkedin.com/jobs/view/business-intelligence-analyst-at-muzom-transportation-inc-4443723640?position=3&pageNum=0&refId=CrKecSqkyrbqJYNbjG0ssA%3D%3D&trackingId=Pqyp%2BS3XKZXHWJDzO3vvqA%3D%3D",
-    "location": "Orlando, FL",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-22 11:14 UTC"
-  },
-  {
-    "title": "Business Intelligence Analyst",
-    "company": "Romac Industries, Inc.",
-    "link": "https://www.linkedin.com/jobs/view/business-intelligence-analyst-at-romac-industries-inc-4443703467?position=5&pageNum=0&refId=CrKecSqkyrbqJYNbjG0ssA%3D%3D&trackingId=NhdTe00rB11LXeh%2FH2k0kQ%3D%3D",
-    "location": "Bothell, WA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-22 11:14 UTC"
-  },
-  {
-    "title": "Senior Business Intelligence Analyst",
-    "company": "SambaSafety",
-    "link": "https://www.linkedin.com/jobs/view/senior-business-intelligence-analyst-at-sambasafety-4442905637?position=8&pageNum=0&refId=CrKecSqkyrbqJYNbjG0ssA%3D%3D&trackingId=ywYrRHZdgNsF8eKg9EzzQw%3D%3D",
-    "location": "United States",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-22 11:14 UTC"
-  },
-  {
-    "title": "Business Intelligence Analyst",
-    "company": "Sulzer",
-    "link": "https://www.linkedin.com/jobs/view/business-intelligence-analyst-at-sulzer-4442912399?position=11&pageNum=0&refId=CrKecSqkyrbqJYNbjG0ssA%3D%3D&trackingId=etp5%2BgAWMTHcKIeuFP8r%2FA%3D%3D",
-    "location": "Pasadena, TX",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-22 11:14 UTC"
-  },
-  {
-    "title": "Analytics Engineer",
-    "company": "Tiro Partners Limited",
-    "link": "https://www.linkedin.com/jobs/view/analytics-engineer-at-tiro-partners-limited-4443799349?position=7&pageNum=0&refId=%2BxTb%2FfIbSEtX%2BXudZpOpig%3D%3D&trackingId=Nug4tdslsV%2BPzMJyXs6Cbw%3D%3D",
-    "location": "New York, United States",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-22 11:14 UTC"
-  },
-  {
-    "title": "Data Scientist (Pharma & Clinical AI)",
-    "company": "Innovatix Technology Partners",
-    "link": "https://www.linkedin.com/jobs/view/data-scientist-pharma-clinical-ai-at-innovatix-technology-partners-4440453880?position=7&pageNum=0&refId=a4BigvbThLY52zjqjKVxMQ%3D%3D&trackingId=98zNA5dk8iMYrPrh1iPRUw%3D%3D",
-    "location": "United States",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-22 11:14 UTC"
-  },
-  {
-    "title": "Data Scientist",
-    "company": "RELX",
-    "link": "https://www.linkedin.com/jobs/view/data-scientist-at-relx-4442993742?position=2&pageNum=0&refId=Yx9J0h0dhZZ4jdqYiXXXgQ%3D%3D&trackingId=3XqoP766jMuQBbg6vQ0jYA%3D%3D",
-    "location": "Home, MN",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-22 08:39 UTC"
-  },
-  {
-    "title": "Data Scientist, Region Flexibility",
-    "company": "Amazon Science",
-    "link": "https://www.linkedin.com/jobs/view/data-scientist-region-flexibility-at-amazon-science-4441004914?position=7&pageNum=0&refId=Yx9J0h0dhZZ4jdqYiXXXgQ%3D%3D&trackingId=zaC1NDegE6R07%2BAmMrDvTw%3D%3D",
-    "location": "Sunnyvale, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-22 08:39 UTC"
-  },
-  {
-    "title": "Data Scientist",
-    "company": "OneMagnify",
-    "link": "https://www.linkedin.com/jobs/view/data-scientist-at-onemagnify-4441025004?position=8&pageNum=0&refId=Yx9J0h0dhZZ4jdqYiXXXgQ%3D%3D&trackingId=p73rc%2FPsgG470TiZd2Z3Fw%3D%3D",
-    "location": "Detroit, MI",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-22 08:39 UTC"
-  },
-  {
-    "title": "ML Engineer",
-    "company": "DevExplore",
-    "link": "https://www.linkedin.com/jobs/view/ml-engineer-at-devexplore-4443739528?position=4&pageNum=0&refId=uKYTwDJzu7Io6FerWBmkCw%3D%3D&trackingId=UqSYF%2Bu%2FVXPqa1hqLgpkIg%3D%3D",
-    "location": "San Francisco, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-22 08:39 UTC"
   }
 ]
