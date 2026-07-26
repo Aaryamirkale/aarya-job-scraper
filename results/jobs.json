@@ -1,5 +1,35 @@
 [
   {
+    "title": "Machine Learning Engineer",
+    "company": "Sundayy",
+    "link": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-sundayy-4445324612?position=7&pageNum=0&refId=SHaQ06qbl2CK5GZIv1SHHA%3D%3D&trackingId=370rVjENmdr%2F76zJmDc4sg%3D%3D",
+    "location": "United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-26 13:44 UTC"
+  },
+  {
+    "title": "Data Scientist, Associate",
+    "company": "Sundayy",
+    "link": "https://www.linkedin.com/jobs/view/data-scientist-associate-at-sundayy-4445618008?position=4&pageNum=0&refId=i1UdrNrixoBZroXGMHPcZQ%3D%3D&trackingId=WXmeJVv5XvTJVIW%2Btg1YWQ%3D%3D",
+    "location": "United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-26 13:44 UTC"
+  },
+  {
+    "title": "Associate Data Scientist",
+    "company": "Netrolynx AI",
+    "link": "https://www.linkedin.com/jobs/view/associate-data-scientist-at-netrolynx-ai-4445606473?position=7&pageNum=0&refId=i1UdrNrixoBZroXGMHPcZQ%3D%3D&trackingId=cieZexIkvhlg0GpuAU4q1A%3D%3D",
+    "location": "United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-26 13:44 UTC"
+  },
+  {
     "title": "Data Scientist",
     "company": "A42 Labs, Inc.",
     "link": "https://www.linkedin.com/jobs/view/data-scientist-at-a42-labs-inc-4445388737?position=5&pageNum=0&refId=LeZ7MueHAK4Jzwj99BnKvg%3D%3D&trackingId=3Viy4crmiNlZXXp%2Fvv2DYA%3D%3D",
@@ -2968,35 +2998,5 @@
     "h1b_signal": false,
     "summary": "",
     "found_at": "2026-07-23 11:16 UTC"
-  },
-  {
-    "title": "Machine Learning Engineer",
-    "company": "Stellantis",
-    "link": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-stellantis-4444279595?position=6&pageNum=0&refId=w5%2Bgp9EURx9LzaKZ%2BU%2FJvA%3D%3D&trackingId=dDp70RBxxq6CuqWLx1cm3A%3D%3D",
-    "location": "Auburn Hills, MI",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-23 08:41 UTC"
-  },
-  {
-    "title": "Junior Machine Learning Engineer",
-    "company": "Matricstek Inc.",
-    "link": "https://www.linkedin.com/jobs/view/junior-machine-learning-engineer-at-matricstek-inc-4443419319?position=11&pageNum=0&refId=McL6nmx2cTsmuZ7%2B%2FVDNGA%3D%3D&trackingId=7nvQYj5vn5ZQoMpCJ%2FrMtw%3D%3D",
-    "location": "Tennessee, United States",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-23 08:41 UTC"
-  },
-  {
-    "title": "Data Engineer",
-    "company": "Blue Orange Digital",
-    "link": "https://www.linkedin.com/jobs/view/data-engineer-at-blue-orange-digital-4444409003?position=3&pageNum=0&refId=09L0CM1vnWFmdEZwRCLLTg%3D%3D&trackingId=NUhm%2BULo7v6%2BxZVSi54J3A%3D%3D",
-    "location": "New York, NY",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-23 08:41 UTC"
   }
 ]
