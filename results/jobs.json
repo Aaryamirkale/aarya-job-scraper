@@ -1,5 +1,105 @@
 [
   {
+    "title": "Data Scientist",
+    "company": "That Startup Job",
+    "link": "https://www.linkedin.com/jobs/view/data-scientist-at-that-startup-job-4442370917?position=1&pageNum=0&refId=PWuDbyzxfEXNIIxtNpDquw%3D%3D&trackingId=W3MfgeTi4cchIlbuNaFYdg%3D%3D",
+    "location": "New York, NY",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-27 03:49 UTC"
+  },
+  {
+    "title": "AI/ML Engineer",
+    "company": "Dunedain",
+    "link": "https://www.linkedin.com/jobs/view/ai-ml-engineer-at-dunedain-4444871308?position=10&pageNum=0&refId=QAbijgdZHa7Yu%2BjVbCPcUw%3D%3D&trackingId=B45bydSSB7WcHaQNcjN51w%3D%3D",
+    "location": "Austin, Texas Metropolitan Area",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-27 03:49 UTC"
+  },
+  {
+    "title": "Business data Analyst",
+    "company": "ImpetusIT",
+    "link": "https://www.linkedin.com/jobs/view/business-data-analyst-at-impetusit-4444856464?position=11&pageNum=0&refId=%2FWCkA1OnWMVSwoARqg8QJw%3D%3D&trackingId=LvgU1aneXjgfaYKwAoNLDA%3D%3D",
+    "location": "Boston, MA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-27 03:49 UTC"
+  },
+  {
+    "title": "Generative AI Engineer",
+    "company": "Veridic Solutions",
+    "link": "https://www.linkedin.com/jobs/view/generative-ai-engineer-at-veridic-solutions-4444847215?position=6&pageNum=0&refId=07oiWcBdjAbPCbATN4lXyA%3D%3D&trackingId=2HL3qJ8ehivaevNOg%2FFBbg%3D%3D",
+    "location": "Mason, OH",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-27 03:49 UTC"
+  },
+  {
+    "title": "AI Forward Deployed Engineer",
+    "company": "Arlo",
+    "link": "https://www.linkedin.com/jobs/view/ai-forward-deployed-engineer-at-arlo-4415694227?position=7&pageNum=0&refId=07oiWcBdjAbPCbATN4lXyA%3D%3D&trackingId=GQv2G3qklaG%2Big94gKC%2Bsw%3D%3D",
+    "location": "New York, NY",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-27 03:49 UTC"
+  },
+  {
+    "title": "BUSINESS INTELLIGENCE ANALYST",
+    "company": "Human, Inc.",
+    "link": "https://www.linkedin.com/jobs/view/business-intelligence-analyst-at-human-inc-4445629939?position=5&pageNum=0&refId=3CSjzVoXvbsTk0EMWOUnNg%3D%3D&trackingId=b2beJeqF6iWLJvEW3uZngw%3D%3D",
+    "location": "Chicago, IL",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-27 03:49 UTC"
+  },
+  {
+    "title": "Business Intelligence Analyst II (Remote)",
+    "company": "Vitu",
+    "link": "https://www.linkedin.com/jobs/view/business-intelligence-analyst-ii-remote-at-vitu-4445664451?position=8&pageNum=0&refId=3CSjzVoXvbsTk0EMWOUnNg%3D%3D&trackingId=%2BiAXpYYvoODblx47aZCdEg%3D%3D",
+    "location": "United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-27 03:49 UTC"
+  },
+  {
+    "title": "Data Analyst - Business (Remote)",
+    "company": "Jobs Ai",
+    "link": "https://www.linkedin.com/jobs/view/data-analyst-business-remote-at-jobs-ai-4445623372?position=11&pageNum=0&refId=3CSjzVoXvbsTk0EMWOUnNg%3D%3D&trackingId=gWmSbTdUZTL3MEvrW8byvA%3D%3D",
+    "location": "United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-27 03:49 UTC"
+  },
+  {
+    "title": "Data Engineer, People Analytics",
+    "company": "Andrew & Brothers, Inc.",
+    "link": "https://www.linkedin.com/jobs/view/data-engineer-people-analytics-at-andrew-brothers-inc-4445666633?position=3&pageNum=0&refId=5SeOkjuy%2FXk62hhLTUMHUg%3D%3D&trackingId=VGZ1rQG0HkIRZQHf4gsdjw%3D%3D",
+    "location": "San Francisco, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-27 03:49 UTC"
+  },
+  {
+    "title": "Senior Data Product Analyst",
+    "company": "YipitData",
+    "link": "https://www.linkedin.com/jobs/view/senior-data-product-analyst-at-yipitdata-4428109564?position=9&pageNum=0&refId=Wy0MWFu0zHwgD1hwDt%2BULw%3D%3D&trackingId=CW7R1j0YH3wxfCHhDRwAOg%3D%3D",
+    "location": "United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-27 03:49 UTC"
+  },
+  {
     "title": "Generative AI Engineer  or Principal Software Engineer \u2013 AI/LLM",
     "company": "Droisys",
     "link": "https://www.linkedin.com/jobs/view/generative-ai-engineer-or-principal-software-engineer-%E2%80%93-ai-llm-at-droisys-4442214758?position=9&pageNum=0&refId=wAdbgm%2BpX6D8a2yI8m7vaA%3D%3D&trackingId=F6p6hRsdkYs51GUg3NH45Q%3D%3D",
@@ -2897,106 +2997,6 @@
     "source": "LinkedIn",
     "h1b_signal": false,
     "summary": "",
-    "found_at": "2026-07-23 16:40 UTC"
-  },
-  {
-    "title": "FIELD BUSINESS INTELLIGENCE ANALYST (Retail Store Operations)",
-    "company": "Sally Beauty",
-    "link": "https://www.linkedin.com/jobs/view/field-business-intelligence-analyst-retail-store-operations-at-sally-beauty-4435013804?position=8&pageNum=0&refId=UpmGVMYfrK3XxYh4bGhj8A%3D%3D&trackingId=Drt5S8e2wze1KGQxUTBUxg%3D%3D",
-    "location": "Plano, TX",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-23 16:40 UTC"
-  },
-  {
-    "title": "Data Analyst II",
-    "company": "GM Financial",
-    "link": "https://www.linkedin.com/jobs/view/data-analyst-ii-at-gm-financial-4444241679?position=10&pageNum=0&refId=UpmGVMYfrK3XxYh4bGhj8A%3D%3D&trackingId=7hWWvhyilPPsAGegbmPRMA%3D%3D",
-    "location": "Detroit, MI",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-23 16:40 UTC"
-  },
-  {
-    "title": "Data Engineer, People Analytics",
-    "company": "Develawpers",
-    "link": "https://www.linkedin.com/jobs/view/data-engineer-people-analytics-at-develawpers-4443959510?position=9&pageNum=0&refId=Qb2pZXluGZOysENjAvUroA%3D%3D&trackingId=gTzGhl8IVWyjbnNRTXF8WQ%3D%3D",
-    "location": "San Francisco, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-23 16:40 UTC"
-  },
-  {
-    "title": "Data Analyst, Financial Data Engineering",
-    "company": "Stripe",
-    "link": "https://www.linkedin.com/jobs/view/data-analyst-financial-data-engineering-at-stripe-4444202126?position=11&pageNum=0&refId=Qb2pZXluGZOysENjAvUroA%3D%3D&trackingId=yTXwkZSZ2F8FSgOJ98IlJg%3D%3D",
-    "location": "New York, United States",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-23 16:40 UTC"
-  },
-  {
-    "title": "Product Data Analyst III",
-    "company": "Fanatics",
-    "link": "https://www.linkedin.com/jobs/view/product-data-analyst-iii-at-fanatics-4444487060?position=1&pageNum=0&refId=4dJZS8BElzeyrf7UWqObEA%3D%3D&trackingId=yYSjkbiEAPrPtUqFJWy7bQ%3D%3D",
-    "location": "New York, NY",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-23 16:40 UTC"
-  },
-  {
-    "title": "Principal Research Scientist",
-    "company": "Aequor",
-    "link": "https://www.linkedin.com/jobs/view/principal-research-scientist-at-aequor-4443866432?position=6&pageNum=0&refId=I1jsnM498DzaBl%2FIclg%2Bqg%3D%3D&trackingId=G1wdqufJqzEkh796hqyP8Q%3D%3D",
-    "location": "Jacksonville, FL",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-23 16:40 UTC"
-  },
-  {
-    "title": "Assistant Research Scientist",
-    "company": "Research Foundation for Mental Hygiene, Inc.",
-    "link": "https://www.linkedin.com/jobs/view/assistant-research-scientist-at-research-foundation-for-mental-hygiene-inc-4443877985?position=9&pageNum=0&refId=I1jsnM498DzaBl%2FIclg%2Bqg%3D%3D&trackingId=97NXohI%2F6gKLhdbgNk2Udw%3D%3D",
-    "location": "New York, NY",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-23 16:40 UTC"
-  },
-  {
-    "title": " Data Engineering Manager",
-    "company": "FanDuel",
-    "link": "https://www.fanduel.careers/open-positions?gh_jid=8081571",
-    "location": "New York City",
-    "source": "Direct (FanDuel)",
-    "h1b_signal": true,
-    "summary": "<p><strong>THE POSITION<br></strong>Our roster has an opening with your name on it</p>\n<p>We are seeking a&nbsp;<strong>Data Engineering Manager</strong>&nbsp;to lead a team of data engineers in build",
-    "found_at": "2026-07-23 16:40 UTC"
-  },
-  {
-    "title": "Applied Scientist II, Amazon Shipping",
-    "company": "Amazon",
-    "link": "https://www.amazon.jobs/en/jobs/10482608/applied-scientist-ii-amazon-shipping",
-    "location": "IN, HR, Gurugram",
-    "source": "Amazon Careers",
-    "h1b_signal": true,
-    "summary": "Work on ML teams building large-scale forecasting and optimization systems that power Amazon\u2019s global transportation network and directly impact customer experience and cost. As an Applied Scientist I",
-    "found_at": "2026-07-23 16:40 UTC"
-  },
-  {
-    "title": "Senior Applied Scientist, Special Projects",
-    "company": "Amazon",
-    "link": "https://www.amazon.jobs/en/jobs/10482441/senior-applied-scientist-special-projects",
-    "location": "US, WA, Seattle",
-    "source": "Amazon Careers",
-    "h1b_signal": true,
-    "summary": "Innovators wanted! Are you an entrepreneur? A builder? A dreamer? This role is part of an Amazon Special Projects team that takes the company\u2019s Think Big leadership principle to the limits. If you\u2019re",
     "found_at": "2026-07-23 16:40 UTC"
   }
 ]
