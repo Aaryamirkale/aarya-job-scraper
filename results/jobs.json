@@ -1,6 +1,96 @@
 [
   {
     "title": "Data Scientist",
+    "company": "HSB - Hartford Steam Boiler",
+    "link": "https://www.linkedin.com/jobs/view/data-scientist-at-hsb-hartford-steam-boiler-4446192691?position=9&pageNum=0&refId=yNxgaG7%2F1fj%2BzEnAt7kOag%3D%3D&trackingId=5odmNWUIQ2lho%2FIOXCBMcQ%3D%3D",
+    "location": "Hartford, CT",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-28 16:45 UTC"
+  },
+  {
+    "title": "Data Analyst (Excel) - Remote",
+    "company": "YO AI Labs",
+    "link": "https://www.linkedin.com/jobs/view/data-analyst-excel-remote-at-yo-ai-labs-4445441379?position=12&pageNum=0&refId=%2FJsOMm%2F4vYpibXxaLFQTDg%3D%3D&trackingId=zjXb2M8puYDngbfJQ2y3QQ%3D%3D",
+    "location": "San Francisco, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-28 16:45 UTC"
+  },
+  {
+    "title": "Data Analyst",
+    "company": "Global Connect Technologies",
+    "link": "https://www.linkedin.com/jobs/view/data-analyst-at-global-connect-technologies-4446302908?position=1&pageNum=0&refId=wkTPRv1pg%2BPvpHrjVmod6g%3D%3D&trackingId=9Ey%2BrIhaaR0TNOCb%2FSwBdQ%3D%3D",
+    "location": "Michigan, United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-28 16:45 UTC"
+  },
+  {
+    "title": "Business Intelligence Analyst",
+    "company": "Kwik Trip, Inc.",
+    "link": "https://www.linkedin.com/jobs/view/business-intelligence-analyst-at-kwik-trip-inc-4446308628?position=8&pageNum=0&refId=wkTPRv1pg%2BPvpHrjVmod6g%3D%3D&trackingId=YUH1cSK6VIaMmiC0MV%2F0kA%3D%3D",
+    "location": "La Crosse, WI",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-28 16:45 UTC"
+  },
+  {
+    "title": "MLOps Engineer / Unicorn Startup / Remote",
+    "company": "Motion Recruitment",
+    "link": "https://www.linkedin.com/jobs/view/mlops-engineer-unicorn-startup-remote-at-motion-recruitment-4446323418?position=12&pageNum=0&refId=Gi%2BLn1Cfh4YhWrfo5o0ZBw%3D%3D&trackingId=T20uhAPw0Ye7ZXqEB1K1oA%3D%3D",
+    "location": "New York, NY",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-28 16:45 UTC"
+  },
+  {
+    "title": "Data Engineer, Analytics (Ranking, AI)",
+    "company": "Meta",
+    "link": "https://www.linkedin.com/jobs/view/data-engineer-analytics-ranking-ai-at-meta-4443604326?position=9&pageNum=0&refId=Wk150q2KA1j3w4ZqFNL13A%3D%3D&trackingId=1h%2BNP5ukWOHfH6k1NhuyTA%3D%3D",
+    "location": "Menlo Park, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-28 16:45 UTC"
+  },
+  {
+    "title": "Data Scientist II, Amazon Fulfillment Technology (AFT) Science",
+    "company": "Amazon",
+    "link": "https://www.amazon.jobs/en/jobs/10486122/data-scientist-ii-amazon-fulfillment-technology-aft-science",
+    "location": "US, WA, Bellevue",
+    "source": "Amazon Careers",
+    "h1b_signal": true,
+    "summary": "The Amazon Fulfillment Technologies (AFT) Science team is looking for an exceptional Data Scientist, with strong analytical skills and understanding of optimization, to partner with scientists, engine",
+    "found_at": "2026-07-28 16:46 UTC"
+  },
+  {
+    "title": "Applied Scientist, Safe RL, Robotics, SAF Lab",
+    "company": "Amazon",
+    "link": "https://www.amazon.jobs/en/jobs/10486011/applied-scientist-safe-rl-robotics-saf-lab",
+    "location": "US, CA, Pasadena",
+    "source": "Amazon Careers",
+    "h1b_signal": true,
+    "summary": "We are seeking an Applied Scientist to join the SAF Lab. In this role, you will lead the effort in safe reinforcement learning (RL) including the development of legged locomotion algorithms that inter",
+    "found_at": "2026-07-28 16:46 UTC"
+  },
+  {
+    "title": "Applied Scientist, Linear Personalization Experience Team (LPEX)",
+    "company": "Amazon",
+    "link": "https://www.amazon.jobs/en/jobs/10486003/applied-scientist-linear-personalization-experience-team-lpex",
+    "location": "US, WA, Seattle",
+    "source": "Amazon Careers",
+    "h1b_signal": true,
+    "summary": "Prime Video is a first-stop entertainment destination offering customers a vast collection of premium programming in one app available across thousands of devices. Prime members can customize their vi",
+    "found_at": "2026-07-28 16:46 UTC"
+  },
+  {
+    "title": "Data Scientist",
     "company": "Galaxi Consulting Group",
     "link": "https://www.linkedin.com/jobs/view/data-scientist-at-galaxi-consulting-group-4445465782?position=12&pageNum=0&refId=4Ov50k9h%2FpNw4Icu4FMHHg%3D%3D&trackingId=XtyPfEdKAHhWJqdZORqsDA%3D%3D",
     "location": "Seattle, WA",
@@ -2904,96 +2994,6 @@
     "company": "Lightspeed",
     "link": "https://www.linkedin.com/jobs/view/ai-machine-learning-engineer-at-lightspeed-4445231538?position=12&pageNum=0&refId=bT35Ts6STNBZ%2BXBOHT%2BXhA%3D%3D&trackingId=dVMf9doUj08RrZ96BEQcFQ%3D%3D",
     "location": "Northbrook, IL",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-24 22:11 UTC"
-  },
-  {
-    "title": "Data Engineer",
-    "company": "Stefanini Group",
-    "link": "https://www.linkedin.com/jobs/view/data-engineer-at-stefanini-group-4445228445?position=1&pageNum=0&refId=6HH2CqkVuqRbw2rcIctblw%3D%3D&trackingId=WEZR2cygR%2BY%2FzBh66n9RlA%3D%3D",
-    "location": "San Francisco, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-24 22:11 UTC"
-  },
-  {
-    "title": "Data Engineer with Databricks",
-    "company": "Veridian Tech Solutions, Inc.",
-    "link": "https://www.linkedin.com/jobs/view/data-engineer-with-databricks-at-veridian-tech-solutions-inc-4444606637?position=10&pageNum=0&refId=6HH2CqkVuqRbw2rcIctblw%3D%3D&trackingId=Z%2B2oUnN2qCaSob86bFyDCQ%3D%3D",
-    "location": "Richardson, TX",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-24 22:11 UTC"
-  },
-  {
-    "title": "BI Developer/ Analyst",
-    "company": "Diversified Energy Company",
-    "link": "https://www.linkedin.com/jobs/view/bi-developer-analyst-at-diversified-energy-company-4444018737?position=12&pageNum=0&refId=0AXIuHxntfGNzwOMA%2BYZhg%3D%3D&trackingId=scHGPszIQNfDuZtskH5bog%3D%3D",
-    "location": "Birmingham, AL",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-24 22:11 UTC"
-  },
-  {
-    "title": "Sr. MLOPS Engineer",
-    "company": "E-Solutions",
-    "link": "https://www.linkedin.com/jobs/view/sr-mlops-engineer-at-e-solutions-4445229701?position=8&pageNum=0&refId=%2B5Vft4HK%2FpYw7Kk0C0wmEg%3D%3D&trackingId=5SKANhyfvHdUFnPIAeRa2g%3D%3D",
-    "location": "Scottsdale, AZ",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-24 22:11 UTC"
-  },
-  {
-    "title": "AI Engineer",
-    "company": "University of Utah Health Research",
-    "link": "https://www.linkedin.com/jobs/view/ai-engineer-at-university-of-utah-health-research-4444769314?position=11&pageNum=0&refId=%2B5Vft4HK%2FpYw7Kk0C0wmEg%3D%3D&trackingId=0SfVZo4MIZxfBXDtkaASXw%3D%3D",
-    "location": "Salt Lake City, UT",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-24 22:11 UTC"
-  },
-  {
-    "title": "Data Analytics Engineer",
-    "company": "InterEx Group",
-    "link": "https://www.linkedin.com/jobs/view/data-analytics-engineer-at-interex-group-4441848323?position=10&pageNum=0&refId=7ZSD68DOJVI0ganuJdsaJw%3D%3D&trackingId=qQQlTPk1it5pQ9SSVYJ2og%3D%3D",
-    "location": "United States",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-24 22:11 UTC"
-  },
-  {
-    "title": "Senior Data Analyst - Data Capture Content Management",
-    "company": "Medical College of Wisconsin",
-    "link": "https://www.linkedin.com/jobs/view/senior-data-analyst-data-capture-content-management-at-medical-college-of-wisconsin-4445228442?position=5&pageNum=0&refId=yDO%2FxPt3V7dfBYABv5IZ8g%3D%3D&trackingId=3dI6m4xEfVhUimz6rmCDmQ%3D%3D",
-    "location": "Milwaukee, WI",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-24 22:11 UTC"
-  },
-  {
-    "title": "Data Analyst I or II",
-    "company": "Brigham and Women's Hospital",
-    "link": "https://www.linkedin.com/jobs/view/data-analyst-i-or-ii-at-brigham-and-women-s-hospital-4445214664?position=12&pageNum=0&refId=yDO%2FxPt3V7dfBYABv5IZ8g%3D%3D&trackingId=TrSo719QI4b36j1NYHg5pQ%3D%3D",
-    "location": "Boston, MA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-24 22:11 UTC"
-  },
-  {
-    "title": "Sr. Data Scientist",
-    "company": "bioM\u00e9rieux",
-    "link": "https://www.linkedin.com/jobs/view/sr-data-scientist-at-biom%C3%A9rieux-4444349989?position=10&pageNum=0&refId=cMktxETufzs87gvGBR4Q6Q%3D%3D&trackingId=mKDZXMQbUV48XUfg7r3z1Q%3D%3D",
-    "location": "Hazelwood, MO",
     "source": "LinkedIn",
     "h1b_signal": false,
     "summary": "",
