@@ -1,6 +1,76 @@
 [
   {
     "title": "Data Scientist",
+    "company": "Mission.dev",
+    "link": "https://www.linkedin.com/jobs/view/data-scientist-at-mission-dev-4444130461?position=8&pageNum=0&refId=UIunR9Gip9ayEn%2B2JuLniA%3D%3D&trackingId=U%2B8fgXNVY%2BHsNh838R5a0A%3D%3D",
+    "location": "United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-29 16:26 UTC"
+  },
+  {
+    "title": "Data Analyst (Hybrid)",
+    "company": "Cisco",
+    "link": "https://www.linkedin.com/jobs/view/data-analyst-hybrid-at-cisco-4446817458?position=9&pageNum=0&refId=apXGXJPGlyD%2FWfZJzKH5Fg%3D%3D&trackingId=%2FwQmhU26uO2OjgdpjGs8lw%3D%3D",
+    "location": "Durham, NC",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-29 16:26 UTC"
+  },
+  {
+    "title": "Healthcare Advanced Analytics & BI Analyst I",
+    "company": "Wholesum Billing",
+    "link": "https://www.linkedin.com/jobs/view/healthcare-advanced-analytics-bi-analyst-i-at-wholesum-billing-4446400163?position=8&pageNum=0&refId=q7Cc040alnZoVh%2BvJ%2FDMhw%3D%3D&trackingId=fN2uDQfu0IjLwm3sVQXYaQ%3D%3D",
+    "location": "United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-29 16:26 UTC"
+  },
+  {
+    "title": "Enterprise Clinical Documentation Improvement Clinical Data Analyst",
+    "company": "Jefferson Health",
+    "link": "https://www.linkedin.com/jobs/view/enterprise-clinical-documentation-improvement-clinical-data-analyst-at-jefferson-health-4446412464?position=9&pageNum=0&refId=46t9QQjWJasRyWt5CH2M2w%3D%3D&trackingId=JJGUgdJP2VDMMrUP8z6Ixg%3D%3D",
+    "location": "Philadelphia, PA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-29 16:26 UTC"
+  },
+  {
+    "title": "Associate Research Scientist - Vaccines",
+    "company": "Thermo Fisher Scientific",
+    "link": "https://www.linkedin.com/jobs/view/associate-research-scientist-vaccines-at-thermo-fisher-scientific-4443678315?position=5&pageNum=0&refId=povz7NpVEC%2F6KDz%2FX2KLnQ%3D%3D&trackingId=3UL6R%2BopqTLO88psK4PP1Q%3D%3D",
+    "location": "Richmond, VA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-29 16:26 UTC"
+  },
+  {
+    "title": "Research Scientists (PhD)",
+    "company": "University of Utah Health Research",
+    "link": "https://www.linkedin.com/jobs/view/research-scientists-phd-at-university-of-utah-health-research-4446394856?position=7&pageNum=0&refId=povz7NpVEC%2F6KDz%2FX2KLnQ%3D%3D&trackingId=y8oinGQuRdsnV046p9S7wA%3D%3D",
+    "location": "Salt Lake City, UT",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-29 16:26 UTC"
+  },
+  {
+    "title": "Sr. Applied Scientist, MAPLE",
+    "company": "Amazon",
+    "link": "https://www.amazon.jobs/en/jobs/10487345/sr-applied-scientist-maple",
+    "location": "IN, KA, Bengaluru",
+    "source": "Amazon Careers",
+    "h1b_signal": true,
+    "summary": "Are you excited by the idea of developing personalized experiences for Amazon customers as they shop? Are you looking for new challenges and to solve hard science problems while applying state-of-the-",
+    "found_at": "2026-07-29 16:27 UTC"
+  },
+  {
+    "title": "Data Scientist",
     "company": "MaC Venture Capital",
     "link": "https://www.linkedin.com/jobs/view/data-scientist-at-mac-venture-capital-4446539751?position=5&pageNum=0&refId=fTVXH%2FJ1MsLs%2BHyvBkLtQg%3D%3D&trackingId=K7AcfPKparzbUF5JSDKyGA%3D%3D",
     "location": "Alexandria, VA",
@@ -2928,75 +2998,5 @@
     "h1b_signal": false,
     "summary": "",
     "found_at": "2026-07-26 10:47 UTC"
-  },
-  {
-    "title": "Data Scientist 2",
-    "company": "GRVTY",
-    "link": "https://www.linkedin.com/jobs/view/data-scientist-2-at-grvty-4400275053?position=9&pageNum=0&refId=kGz7SDjJa3JNYJVZ%2F9Nfug%3D%3D&trackingId=MYc%2Bj22fzsTQqf8449kRDw%3D%3D",
-    "location": "Annapolis Junction, MD",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-26 10:47 UTC"
-  },
-  {
-    "title": "Data Scientist (Direct Relief) \u2022 CrisisReady",
-    "company": "CrisisReady",
-    "link": "https://www.linkedin.com/jobs/view/data-scientist-direct-relief-%E2%80%A2-crisisready-at-crisisready-4444695908?position=10&pageNum=0&refId=kGz7SDjJa3JNYJVZ%2F9Nfug%3D%3D&trackingId=vZ8gSVLKrGgT7oCvZmsZxw%3D%3D",
-    "location": "Indiana, United States",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-26 10:47 UTC"
-  },
-  {
-    "title": "Senior Applied Scientist",
-    "company": "Adobe",
-    "link": "https://www.linkedin.com/jobs/view/senior-applied-scientist-at-adobe-4417505649?position=6&pageNum=0&refId=%2FFgfplyV%2F%2FmpuuR7MaEqAA%3D%3D&trackingId=qIxQd00u5cwOBpSFz2XYiA%3D%3D",
-    "location": "San Jose, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-26 10:47 UTC"
-  },
-  {
-    "title": "AI Research Scientist, CoreML - Monetization",
-    "company": "Meta",
-    "link": "https://www.linkedin.com/jobs/view/ai-research-scientist-coreml-monetization-at-meta-4406426858?position=11&pageNum=0&refId=%2FFgfplyV%2F%2FmpuuR7MaEqAA%3D%3D&trackingId=4YwuMYZzsmHhIjY1vGY0XA%3D%3D",
-    "location": "New York, NY",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-26 10:47 UTC"
-  },
-  {
-    "title": "Data Scientist - TikTok Social and Creation (San Jose)",
-    "company": "TikTok",
-    "link": "https://www.linkedin.com/jobs/view/data-scientist-tiktok-social-and-creation-san-jose-at-tiktok-4444675929?position=10&pageNum=0&refId=k4NizDN095iCjaH%2BKUrRDg%3D%3D&trackingId=8qCqP6IOGh9v2CMTYDLESw%3D%3D",
-    "location": "San Jose, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-26 08:35 UTC"
-  },
-  {
-    "title": "Machine Learning Engineer",
-    "company": "Chefman & CHEF iQ",
-    "link": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-chefman-chef-iq-4435836134?position=10&pageNum=0&refId=JThgUhV9W5uuK0DOVWYMnA%3D%3D&trackingId=OIEYLXGn2ao4mYylBOEiRw%3D%3D",
-    "location": "Mahwah, NJ",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-26 08:35 UTC"
-  },
-  {
-    "title": "Senior Data Engineer \u2013 Engineering Analytics",
-    "company": "Delta Air Lines",
-    "link": "https://www.linkedin.com/jobs/view/senior-data-engineer-%E2%80%93-engineering-analytics-at-delta-air-lines-4402174910?position=11&pageNum=0&refId=XURxyo4o48%2BaWbJV3mzKxw%3D%3D&trackingId=qITRe7VHIwby6e9RcPYTcA%3D%3D",
-    "location": "Atlanta, GA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-26 08:36 UTC"
   }
 ]
