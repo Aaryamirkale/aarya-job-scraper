@@ -1,5 +1,55 @@
 [
   {
+    "title": "Data analyst (H/F)",
+    "company": "Silverline Partners",
+    "link": "https://www.linkedin.com/jobs/view/data-analyst-h-f-at-silverline-partners-4445021348?position=3&pageNum=0&refId=Bco3hz6Klp1Cncr1Wh5b%2FQ%3D%3D&trackingId=nS%2FA3xF4YdMqIkIQIc9dWA%3D%3D",
+    "location": "California, United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-30 16:41 UTC"
+  },
+  {
+    "title": "Machine Learning Engineer",
+    "company": "Amgen",
+    "link": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-amgen-4447026155?position=4&pageNum=0&refId=KMBld6d1rTmTK4ofSuGR6Q%3D%3D&trackingId=V9TDXzou0L0UaU48oE3yTw%3D%3D",
+    "location": "United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-30 16:41 UTC"
+  },
+  {
+    "title": "Senior MLOps Engineer",
+    "company": "EBSCO Information Services",
+    "link": "https://www.linkedin.com/jobs/view/senior-mlops-engineer-at-ebsco-information-services-4447043214?position=6&pageNum=0&refId=n6TIDLQ0TR1KlZk2HfRvIQ%3D%3D&trackingId=z3AK4LkoChDsC%2BASB6Y9lw%3D%3D",
+    "location": "Massachusetts, United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-30 16:41 UTC"
+  },
+  {
+    "title": "Senior Data Engineer, Reporting & Analytics",
+    "company": "Drata",
+    "link": "https://www.linkedin.com/jobs/view/senior-data-engineer-reporting-analytics-at-drata-4419432853?position=8&pageNum=0&refId=FESpIWEdrGFQadJa20nUtg%3D%3D&trackingId=oIO%2Fi29qX1AmZ1HR9OrU%2FA%3D%3D",
+    "location": "San Francisco, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-30 16:41 UTC"
+  },
+  {
+    "title": "Data Engineer, Global Planning, Amazon Leo",
+    "company": "Amazon",
+    "link": "https://www.amazon.jobs/en/jobs/10488417/data-engineer-global-planning-amazon-leo",
+    "location": "US, WA, Bellevue",
+    "source": "Amazon Careers",
+    "h1b_signal": true,
+    "summary": "Amazon Leo is Amazon's low Earth orbit satellite network. Our mission is to deliver fast, reliable broadband connectivity to customers beyond the reach of existing networks. From households to small b",
+    "found_at": "2026-07-30 16:42 UTC"
+  },
+  {
     "title": "AI/ML Engineer/ AI Ops Engineer",
     "company": "Tata Consultancy Services",
     "link": "https://www.linkedin.com/jobs/view/ai-ml-engineer-ai-ops-engineer-at-tata-consultancy-services-4428073016?position=11&pageNum=0&refId=y5jRm0SPExwfTGcW1NYvgA%3D%3D&trackingId=cd2FtIMHuVpiANXHlikAXQ%3D%3D",
@@ -2948,55 +2998,5 @@
     "h1b_signal": false,
     "summary": "",
     "found_at": "2026-07-27 19:45 UTC"
-  },
-  {
-    "title": "Data Scientist",
-    "company": "ISITE TECHNOLOGIES",
-    "link": "https://www.linkedin.com/jobs/view/data-scientist-at-isite-technologies-4445958430?position=2&pageNum=0&refId=W7eXThKafZFidQtIKIRo1Q%3D%3D&trackingId=wEAr09wPeuI4jl397CIegA%3D%3D",
-    "location": "Buffalo, NY",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-27 17:03 UTC"
-  },
-  {
-    "title": "Data Scientist, Inference Capacity Optimization",
-    "company": "OpenAI",
-    "link": "https://www.linkedin.com/jobs/view/data-scientist-inference-capacity-optimization-at-openai-4445148841?position=6&pageNum=0&refId=W7eXThKafZFidQtIKIRo1Q%3D%3D&trackingId=stJzcqDYLuk3MyEs9WgNOQ%3D%3D",
-    "location": "San Francisco, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-27 17:03 UTC"
-  },
-  {
-    "title": "Senior Data Scientist",
-    "company": "ServiceNow",
-    "link": "https://www.linkedin.com/jobs/view/senior-data-scientist-at-servicenow-4444769523?position=9&pageNum=0&refId=W7eXThKafZFidQtIKIRo1Q%3D%3D&trackingId=hleW13H%2B5xn%2B3AxFalW2HA%3D%3D",
-    "location": "Mountain View, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-27 17:03 UTC"
-  },
-  {
-    "title": "Data Scientist",
-    "company": "ALPFA Baltimore Chapter",
-    "link": "https://www.linkedin.com/jobs/view/data-scientist-at-alpfa-baltimore-chapter-4444877057?position=10&pageNum=0&refId=W7eXThKafZFidQtIKIRo1Q%3D%3D&trackingId=Nw0Mzdoo1OpLZkkXdL0KZA%3D%3D",
-    "location": "Peoria, IL",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-27 17:03 UTC"
-  },
-  {
-    "title": "Data Scientist - Wireline",
-    "company": "Weatherford",
-    "link": "https://www.linkedin.com/jobs/view/data-scientist-wireline-at-weatherford-4445975124?position=12&pageNum=0&refId=W7eXThKafZFidQtIKIRo1Q%3D%3D&trackingId=YUtmOwu1Phmwke5kPH1sfA%3D%3D",
-    "location": "Houston, TX",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-27 17:03 UTC"
   }
 ]
