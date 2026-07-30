@@ -1,5 +1,75 @@
 [
   {
+    "title": "Machine Learning Engineer",
+    "company": "Dow",
+    "link": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-dow-4445041796?position=3&pageNum=0&refId=3Klx0udz3S8ACNRKI9mn4A%3D%3D&trackingId=xQYFoOnqkpktvSonsOHMDA%3D%3D",
+    "location": "Illinois, United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-30 22:13 UTC"
+  },
+  {
+    "title": "Cybersecurity Data Analyst",
+    "company": "RemoteHunter",
+    "link": "https://www.linkedin.com/jobs/view/cybersecurity-data-analyst-at-remotehunter-4446923403?position=11&pageNum=0&refId=nicweWB%2ByTKb1RoVsxUOcA%3D%3D&trackingId=VsN3MJ4wYnPjy4DzFaYj%2Bw%3D%3D",
+    "location": "United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-30 22:13 UTC"
+  },
+  {
+    "title": "Machine Learning Data Engineer (DataOps), Materra",
+    "company": "X, The Moonshot Factory",
+    "link": "https://www.linkedin.com/jobs/view/machine-learning-data-engineer-dataops-materra-at-x-the-moonshot-factory-4444588395?position=11&pageNum=0&refId=m7NxNcC0eX0hEdDZ%2F1WnXA%3D%3D&trackingId=XvsnT112yMDBNlYbmd2%2BnQ%3D%3D",
+    "location": "Mountain View, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-30 22:13 UTC"
+  },
+  {
+    "title": "Data Engineer - Data Platform",
+    "company": "TikTok",
+    "link": "https://www.linkedin.com/jobs/view/data-engineer-data-platform-at-tiktok-4446914236?position=1&pageNum=0&refId=AruZCpt2D7Unt98U%2F1ayIQ%3D%3D&trackingId=%2F4QlIgUAdUMU%2BVUySjiJ1Q%3D%3D",
+    "location": "San Jose, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-30 22:13 UTC"
+  },
+  {
+    "title": "Data Engineer III",
+    "company": "Pride Global",
+    "link": "https://www.linkedin.com/jobs/view/data-engineer-iii-at-pride-global-4447068976?position=6&pageNum=0&refId=AruZCpt2D7Unt98U%2F1ayIQ%3D%3D&trackingId=xx%2B9QrMQnDksNPP3hHDAFA%3D%3D",
+    "location": "Menlo Park, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-30 22:13 UTC"
+  },
+  {
+    "title": " Human-Robot Interaction Applied Scientist , Fauna",
+    "company": "Amazon",
+    "link": "https://www.amazon.jobs/en/jobs/10488686/human-robot-interaction-applied-scientist-fauna",
+    "location": "US, NY, New York",
+    "source": "Amazon Careers",
+    "h1b_signal": true,
+    "summary": "We are seeking a Human-Robot Interaction (HRI) Applied Scientist to develop cutting-edge interactions that make robots feel alive, personal, and fun. In this role, you will focus on verbal and non-ver",
+    "found_at": "2026-07-30 22:13 UTC"
+  },
+  {
+    "title": "Senior Applied Scientist, Traffic Quality",
+    "company": "Amazon",
+    "link": "https://www.amazon.jobs/en/jobs/10488669/senior-applied-scientist-traffic-quality",
+    "location": "IN, KA, Bengaluru",
+    "source": "Amazon Careers",
+    "h1b_signal": true,
+    "summary": "Amazon Ads is a multi-billion dollar global business that delivers advertising experiences across Amazon's owned-and-operated properties (including Prime Video, Twitch, Fire TV, and Amazon.com), third",
+    "found_at": "2026-07-30 22:13 UTC"
+  },
+  {
     "title": "Data Scientist",
     "company": "SmartRent",
     "link": "https://www.linkedin.com/jobs/view/data-scientist-at-smartrent-4447024596?position=1&pageNum=0&refId=t%2Bk9XhEFy6AZ4CZAivFe6g%3D%3D&trackingId=%2FVh%2BnPiPOaguYdab9%2BAD7Q%3D%3D",
@@ -2928,75 +2998,5 @@
     "h1b_signal": false,
     "summary": "",
     "found_at": "2026-07-27 22:12 UTC"
-  },
-  {
-    "title": "Data Scientist, Actuarial",
-    "company": "Sprinter Health",
-    "link": "https://www.linkedin.com/jobs/view/data-scientist-actuarial-at-sprinter-health-4442881350?position=5&pageNum=0&refId=BxdiiCZYpgrZZCktafuZUQ%3D%3D&trackingId=T4gaHPfFzAfsz%2F61lSCy8g%3D%3D",
-    "location": "San Francisco, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-27 22:12 UTC"
-  },
-  {
-    "title": "Data Scientist",
-    "company": "CirrusLabs",
-    "link": "https://www.linkedin.com/jobs/view/data-scientist-at-cirruslabs-4445992696?position=4&pageNum=0&refId=eriQ1Rgm5eKgxbNRsMay7A%3D%3D&trackingId=RT1YpZqkUPrWf%2Bqr7IxU6Q%3D%3D",
-    "location": "Alpharetta, GA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-27 19:45 UTC"
-  },
-  {
-    "title": "AI/ML Engineer",
-    "company": "Optum",
-    "link": "https://www.linkedin.com/jobs/view/ai-ml-engineer-at-optum-4445183048?position=7&pageNum=0&refId=%2B8YCnYMclBT0rCpYa%2FENtA%3D%3D&trackingId=n9LzoqRo4lRfPhny3zx1RQ%3D%3D",
-    "location": "Minnesota, United States",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-27 19:45 UTC"
-  },
-  {
-    "title": "AI Engineer in ML Data",
-    "company": "Logical Intelligence",
-    "link": "https://www.linkedin.com/jobs/view/ai-engineer-in-ml-data-at-logical-intelligence-4445987286?position=9&pageNum=0&refId=%2B8YCnYMclBT0rCpYa%2FENtA%3D%3D&trackingId=QXdMHAlWPylM89ZJ%2Fda%2FAQ%3D%3D",
-    "location": "Lane County, OR",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-27 19:45 UTC"
-  },
-  {
-    "title": "Data Analyst",
-    "company": "Signature IT World Inc",
-    "link": "https://www.linkedin.com/jobs/view/data-analyst-at-signature-it-world-inc-4442861207?position=1&pageNum=0&refId=zHNp2vkrDQF9PBZE1HdcKw%3D%3D&trackingId=%2BJ5iqdH3jYNSnF39kqnj8A%3D%3D",
-    "location": "Phoenix, AZ",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-27 19:45 UTC"
-  },
-  {
-    "title": "Pricing Data Analyst",
-    "company": "Rogue Fitness",
-    "link": "https://www.linkedin.com/jobs/view/pricing-data-analyst-at-rogue-fitness-4446103783?position=5&pageNum=0&refId=zHNp2vkrDQF9PBZE1HdcKw%3D%3D&trackingId=Tq2ivrR5yXnDdzoL166dgw%3D%3D",
-    "location": "Columbus, OH",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-27 19:45 UTC"
-  },
-  {
-    "title": "Data Analyst",
-    "company": "National Association of REALTORS\u00ae",
-    "link": "https://www.linkedin.com/jobs/view/data-analyst-at-national-association-of-realtors%C2%AE-4445999561?position=10&pageNum=0&refId=zHNp2vkrDQF9PBZE1HdcKw%3D%3D&trackingId=qk3Dm%2BHDE4zeBi%2BQFVBpUg%3D%3D",
-    "location": "Chicago, IL",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-27 19:45 UTC"
   }
 ]
