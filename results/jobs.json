@@ -1,5 +1,55 @@
 [
   {
+    "title": "Senior Business Intelligence Analyst",
+    "company": "Vagaro",
+    "link": "https://www.linkedin.com/jobs/view/senior-business-intelligence-analyst-at-vagaro-4444188459?position=11&pageNum=0&refId=RheIJ1BQopG4gA2kCaqnEQ%3D%3D&trackingId=bSi%2F9pjg8pfZsi4pL68QHQ%3D%3D",
+    "location": "Pleasanton, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-30 08:40 UTC"
+  },
+  {
+    "title": "Senior Data Engineer",
+    "company": "Thumbtack",
+    "link": "https://www.linkedin.com/jobs/view/senior-data-engineer-at-thumbtack-4446878336?position=12&pageNum=0&refId=IcjsCSqnmDiftV%2Bo2UrPsw%3D%3D&trackingId=nF2K%2B%2BwqX%2F8vHJQeL3qYRQ%3D%3D",
+    "location": "San Francisco, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-30 08:40 UTC"
+  },
+  {
+    "title": "Data Analyst I-AIDS Center-Greenwich Village-Mount Sinai Hospital-Full Time-Days",
+    "company": "Mount Sinai Health System",
+    "link": "https://www.linkedin.com/jobs/view/data-analyst-i-aids-center-greenwich-village-mount-sinai-hospital-full-time-days-at-mount-sinai-health-system-4446471289?position=12&pageNum=0&refId=6cgaUK6N3YPhWV7%2Fp3NQVA%3D%3D&trackingId=3q0zEoueuU0QBTemYAt5mA%3D%3D",
+    "location": "New York, NY",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-30 08:40 UTC"
+  },
+  {
+    "title": "Applied Scientist, RBS Tech",
+    "company": "Amazon",
+    "link": "https://www.amazon.jobs/en/jobs/10488096/applied-scientist-rbs-tech",
+    "location": "IN, KA, Bengaluru",
+    "source": "Amazon Careers",
+    "h1b_signal": true,
+    "summary": "RBS (Retail Business Services) Tech team works towards enhancing the customer experience (CX) and their trust in product data by providing technologies to find and fix Amazon CX defects at scale. Our",
+    "found_at": "2026-07-30 08:41 UTC"
+  },
+  {
+    "title": "Data Engineer I, Data Engineer I",
+    "company": "Amazon",
+    "link": "https://www.amazon.jobs/en/jobs/10488071/data-engineer-i-data-engineer-i",
+    "location": "IN, KA, Bengaluru",
+    "source": "Amazon Careers",
+    "h1b_signal": true,
+    "summary": "AWS Infrastructure Services (AIS) AWS Infrastructure Services owns the design, planning, delivery, and operation of all AWS global infrastructure. In other words, we\u2019re the people who keep the cloud r",
+    "found_at": "2026-07-30 08:41 UTC"
+  },
+  {
     "title": "Data Scientist 4- Marketplace Valuation",
     "company": "Netflix",
     "link": "https://www.linkedin.com/jobs/view/data-scientist-4-marketplace-valuation-at-netflix-4444151278?position=3&pageNum=0&refId=vZdV6yeX3hlwR%2Bm%2Bf%2FG%2BkQ%3D%3D&trackingId=eXT%2F7UyteYp0L9P6OBTmRg%3D%3D",
@@ -2944,56 +2994,6 @@
     "company": "OPTIMUM ADVISORY",
     "link": "https://www.linkedin.com/jobs/view/data-analyst-h-f-at-optimum-advisory-4445969217?position=2&pageNum=0&refId=c%2FkujeCumRwnRikeuffLZA%3D%3D&trackingId=Ba%2FtLDwFLuBErM12E7y%2FdQ%3D%3D",
     "location": "California, United States",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-27 14:52 UTC"
-  },
-  {
-    "title": "Data Analyst",
-    "company": "On Line Design, Inc.",
-    "link": "https://www.linkedin.com/jobs/view/data-analyst-at-on-line-design-inc-4445146844?position=10&pageNum=0&refId=c%2FkujeCumRwnRikeuffLZA%3D%3D&trackingId=Pt4CSxChyOf7RA%2FNw4OFbg%3D%3D",
-    "location": "Bristol, PA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-27 14:52 UTC"
-  },
-  {
-    "title": "IT Financial Data Analyst",
-    "company": "TPI Global Solutions",
-    "link": "https://www.linkedin.com/jobs/view/it-financial-data-analyst-at-tpi-global-solutions-4442849913?position=11&pageNum=0&refId=c%2FkujeCumRwnRikeuffLZA%3D%3D&trackingId=LwbRkLBN%2ByHPNibEp2jXlg%3D%3D",
-    "location": "Akron, OH",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-27 14:52 UTC"
-  },
-  {
-    "title": "Data Engineer - AWS",
-    "company": "VillageCare",
-    "link": "https://www.linkedin.com/jobs/view/data-engineer-aws-at-villagecare-4445639386?position=5&pageNum=0&refId=73ftpJRvX1BDBIXYJ9lyaw%3D%3D&trackingId=5bfVQ5v%2Fzb%2FXVqQxjiuLnA%3D%3D",
-    "location": "New York, NY",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-27 14:52 UTC"
-  },
-  {
-    "title": "Azure Data Engineer",
-    "company": "Avanciers Inc.",
-    "link": "https://www.linkedin.com/jobs/view/azure-data-engineer-at-avanciers-inc-4442844953?position=6&pageNum=0&refId=73ftpJRvX1BDBIXYJ9lyaw%3D%3D&trackingId=u1D6GhLfftMpv5XQbBPWhQ%3D%3D",
-    "location": "Dallas, TX",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-27 14:52 UTC"
-  },
-  {
-    "title": "Data Engineer",
-    "company": "VySystems",
-    "link": "https://www.linkedin.com/jobs/view/data-engineer-at-vysystems-4445951223?position=9&pageNum=0&refId=73ftpJRvX1BDBIXYJ9lyaw%3D%3D&trackingId=I7PkxqOunlgdxFqNqUQlFw%3D%3D",
-    "location": "New York City Metropolitan Area",
     "source": "LinkedIn",
     "h1b_signal": false,
     "summary": "",
