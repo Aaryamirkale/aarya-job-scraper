@@ -1,5 +1,95 @@
 [
   {
+    "title": "Data Scientist \u2013 eCommerce Search",
+    "company": "Marlabs",
+    "link": "https://www.linkedin.com/jobs/view/data-scientist-%E2%80%93-ecommerce-search-at-marlabs-4447129907?position=11&pageNum=0&refId=Y5yQHms5Z0aUbpGUbAEMzQ%3D%3D&trackingId=PWefMAz62Pc%2F9zJmXapHYA%3D%3D",
+    "location": "St Louis, MO",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-31 16:49 UTC"
+  },
+  {
+    "title": "Data analyst (H/F)",
+    "company": "Katilyst Co. (HVAC/Mechanical)",
+    "link": "https://www.linkedin.com/jobs/view/data-analyst-h-f-at-katilyst-co-hvac-mechanical-4447556236?position=6&pageNum=0&refId=7LXicHEoLZB0ZUapec%2B73A%3D%3D&trackingId=aMsWh8Y%2Fer7LtuAI%2F36Zig%3D%3D",
+    "location": "California, United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-31 16:49 UTC"
+  },
+  {
+    "title": "Applied AI Engineer",
+    "company": "NYU Langone Health",
+    "link": "https://www.linkedin.com/jobs/view/applied-ai-engineer-at-nyu-langone-health-4429630004?position=6&pageNum=0&refId=pAMjmpMhr3uV4P3WECB7eA%3D%3D&trackingId=MjhOYd%2Fuwix5yoUfuR7vVA%3D%3D",
+    "location": "New York, NY",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-31 16:49 UTC"
+  },
+  {
+    "title": "Data Engineer II",
+    "company": "IGT",
+    "link": "https://www.linkedin.com/jobs/view/data-engineer-ii-at-igt-4435693439?position=12&pageNum=0&refId=ri9A56ijgvppqad0DpOzFw%3D%3D&trackingId=qDzf3rU9PmzsmMNzG71eSA%3D%3D",
+    "location": "Chicago, IL",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-31 16:49 UTC"
+  },
+  {
+    "title": "AgentOps / MLOps Engineer",
+    "company": "NAM Info Inc",
+    "link": "https://www.linkedin.com/jobs/view/agentops-mlops-engineer-at-nam-info-inc-4447555393?position=3&pageNum=0&refId=SoclB8ixL8prlydy%2B9hQTg%3D%3D&trackingId=ez331eFn9k3Q5EkYbsL3hQ%3D%3D",
+    "location": "Austin, TX",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-31 16:49 UTC"
+  },
+  {
+    "title": "Data Scientist",
+    "company": "Brooksource",
+    "link": "https://www.linkedin.com/jobs/view/data-scientist-at-brooksource-4447170053?position=4&pageNum=0&refId=RphLRzITAuzV7w2CMpVwJQ%3D%3D&trackingId=nzV9MEJ24y5z%2FjgjT%2Bd1bw%3D%3D",
+    "location": "United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-31 16:49 UTC"
+  },
+  {
+    "title": "Staff Data Scientist (Core Platform)",
+    "company": "Prealize Health",
+    "link": "https://www.linkedin.com/jobs/view/staff-data-scientist-core-platform-at-prealize-health-4445098728?position=11&pageNum=0&refId=RphLRzITAuzV7w2CMpVwJQ%3D%3D&trackingId=SQqmTdqQQcGjn259WNfI%2FQ%3D%3D",
+    "location": "San Jose, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-07-31 16:49 UTC"
+  },
+  {
+    "title": "Applied Scientist, Observability, Prime Video",
+    "company": "Amazon",
+    "link": "https://www.amazon.jobs/en/jobs/10489217/applied-scientist-observability-prime-video",
+    "location": "GB, London",
+    "source": "Amazon Careers",
+    "h1b_signal": true,
+    "summary": "Come build the future of entertainment with us. Are you interested in shaping the future of movies and television? Do you want to define the next generation of how and what Amazon customers are watchi",
+    "found_at": "2026-07-31 16:49 UTC"
+  },
+  {
+    "title": "Applied Scientist, Secure 3P Tools",
+    "company": "Amazon",
+    "link": "https://www.amazon.jobs/en/jobs/10489343/applied-scientist-secure-3p-tools",
+    "location": "US, TX, Austin",
+    "source": "Amazon Careers",
+    "h1b_signal": true,
+    "summary": "Amazon Security is seeking an Applied Scientist to work on GenAI acceleration within the Secure Third Party Tools (S3T) organization. The S3T team has bold ambitions to re-imagine security products th",
+    "found_at": "2026-07-31 16:49 UTC"
+  },
+  {
     "title": "Data Scientist [33394]",
     "company": "Stealth Startup",
     "link": "https://www.linkedin.com/jobs/view/data-scientist-33394-at-stealth-startup-4445508198?position=5&pageNum=0&refId=phIH8lr9Djr6RsDixP%2Fjsw%3D%3D&trackingId=FvvekYtUuZfZVqC2NJqYWQ%3D%3D",
@@ -2908,95 +2998,5 @@
     "h1b_signal": false,
     "summary": "",
     "found_at": "2026-07-28 11:24 UTC"
-  },
-  {
-    "title": "Senior Business Intelligence Analyst, Resorts Experience Activation & Integratio",
-    "company": "Walt Disney World",
-    "link": "https://www.linkedin.com/jobs/view/senior-business-intelligence-analyst-resorts-experience-activation-integration-at-walt-disney-world-4445470142?position=11&pageNum=0&refId=W622bT%2FJ5EGi1mVT3l3YTw%3D%3D&trackingId=1gBoZPdCBjvx%2BcEQWw53DA%3D%3D",
-    "location": "Lake Buena Vista, FL",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-28 11:24 UTC"
-  },
-  {
-    "title": "Machine Learning Engineer",
-    "company": "SMARTFOX",
-    "link": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-smartfox-4442362696?position=12&pageNum=0&refId=vYM0AwfcmDiquWdK7y5SqA%3D%3D&trackingId=r0D6V9lEFMPv8zsOHgoFGw%3D%3D",
-    "location": "United States",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-28 11:24 UTC"
-  },
-  {
-    "title": "Clinical Data Analyst - Pharmacy (Full-Time, 8-Hour Day Shifts)",
-    "company": "Stanford Health Care",
-    "link": "https://www.linkedin.com/jobs/view/clinical-data-analyst-pharmacy-full-time-8-hour-day-shifts-at-stanford-health-care-4443235170?position=8&pageNum=0&refId=OvshNogXFXbnoZ%2F5iQh7hA%3D%3D&trackingId=1s%2FcdVW6kXplRM6Z8yQ%2B6g%3D%3D",
-    "location": "California, United States",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-28 11:24 UTC"
-  },
-  {
-    "title": "Principal Data Scientist - Remote",
-    "company": "Optum",
-    "link": "https://www.linkedin.com/jobs/view/principal-data-scientist-remote-at-optum-4445477915?position=10&pageNum=0&refId=Byvv%2BbDRB2kSWBkoRWVReA%3D%3D&trackingId=Z3LOmGYwjB7vt27XH3n%2FMA%3D%3D",
-    "location": "Eden Prairie, MN",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-28 11:24 UTC"
-  },
-  {
-    "title": "Clinical Research Scientist - I* (GILDJP00017085)",
-    "company": "Advanced Clinical",
-    "link": "https://www.linkedin.com/jobs/view/clinical-research-scientist-i-gildjp00017085-at-advanced-clinical-4437454529?position=1&pageNum=0&refId=P5m6RDMjS0UJO3OTXMm5AQ%3D%3D&trackingId=eBDX2do2A%2FtOJUWvVsyrCA%3D%3D",
-    "location": "Foster City, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-28 11:24 UTC"
-  },
-  {
-    "title": "Molecular Biologist / Research Scientist",
-    "company": "Cubit Capital",
-    "link": "https://www.linkedin.com/jobs/view/molecular-biologist-research-scientist-at-cubit-capital-4445176810?position=2&pageNum=0&refId=P5m6RDMjS0UJO3OTXMm5AQ%3D%3D&trackingId=PV6nlHjWGz1V3QbOSqeeew%3D%3D",
-    "location": "Lockhart, TX",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-28 11:24 UTC"
-  },
-  {
-    "title": "Data Scientist",
-    "company": "Fiserv",
-    "link": "https://www.linkedin.com/jobs/view/data-scientist-at-fiserv-4445183870?position=7&pageNum=0&refId=3iKJ04%2FT%2FHv7s%2F0epHEMsw%3D%3D&trackingId=cWceyOj%2FxhvaoV1C5M%2BNWw%3D%3D",
-    "location": "Sunnyvale, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-28 08:46 UTC"
-  },
-  {
-    "title": "AI/ML Engineer",
-    "company": "Mozaiiq",
-    "link": "https://www.linkedin.com/jobs/view/ai-ml-engineer-at-mozaiiq-4443212460?position=10&pageNum=0&refId=tvbElfcsTkxhTpUbibJpTQ%3D%3D&trackingId=ZhHXKV1JWga0TM9wIddvLQ%3D%3D",
-    "location": "Atlanta, GA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-28 08:46 UTC"
-  },
-  {
-    "title": "SQL Data Analyst",
-    "company": "CACI International Inc",
-    "link": "https://www.linkedin.com/jobs/view/sql-data-analyst-at-caci-international-inc-4442881504?position=10&pageNum=0&refId=OWNSE4kwFwCw6qEp0z2bag%3D%3D&trackingId=4sDWsbuuCSdqbo9THwdEJQ%3D%3D",
-    "location": "Riverside, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-28 08:46 UTC"
   }
 ]
