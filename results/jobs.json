@@ -1,5 +1,135 @@
 [
   {
+    "title": "Staff Data Scientist",
+    "company": "PayPal",
+    "link": "https://www.linkedin.com/jobs/view/staff-data-scientist-at-paypal-4411203410?position=1&pageNum=0&refId=dgoQJl5NL5nB6benoFJB8g%3D%3D&trackingId=d5I2hLlVQwSKC9IdBFDshw%3D%3D",
+    "location": "Chicago, IL",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-01 22:01 UTC"
+  },
+  {
+    "title": "Senior Data Scientist, GeminiApp, DeepMind",
+    "company": "Google DeepMind",
+    "link": "https://www.linkedin.com/jobs/view/senior-data-scientist-geminiapp-deepmind-at-google-deepmind-4438321893?position=3&pageNum=0&refId=dgoQJl5NL5nB6benoFJB8g%3D%3D&trackingId=lVu60LgF1gDTM6g2%2FniIBA%3D%3D",
+    "location": "San Francisco, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-01 22:01 UTC"
+  },
+  {
+    "title": "Sr Data Scientist",
+    "company": "PayPal",
+    "link": "https://www.linkedin.com/jobs/view/sr-data-scientist-at-paypal-4401787019?position=4&pageNum=0&refId=dgoQJl5NL5nB6benoFJB8g%3D%3D&trackingId=QHB9I3e%2BHEpt7JZbfhvyNw%3D%3D",
+    "location": "Chicago, IL",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-01 22:01 UTC"
+  },
+  {
+    "title": "Senior Data Scientist, Product Analytics - USDS",
+    "company": "TikTok USDS Joint Venture",
+    "link": "https://www.linkedin.com/jobs/view/senior-data-scientist-product-analytics-usds-at-tiktok-usds-joint-venture-4447708877?position=7&pageNum=0&refId=dgoQJl5NL5nB6benoFJB8g%3D%3D&trackingId=U%2BvS%2BBhNnZVlXwPFCFegIg%3D%3D",
+    "location": "Los Angeles, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-01 22:01 UTC"
+  },
+  {
+    "title": "Principal, Data Scientist - Card Intelligence",
+    "company": "Capital One",
+    "link": "https://www.linkedin.com/jobs/view/principal-data-scientist-card-intelligence-at-capital-one-4430971237?position=8&pageNum=0&refId=dgoQJl5NL5nB6benoFJB8g%3D%3D&trackingId=K%2BoupPrX49fnex%2FXLfmZ6w%3D%3D",
+    "location": "New York, NY",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-01 22:01 UTC"
+  },
+  {
+    "title": "Data Scientist",
+    "company": "Nuvative",
+    "link": "https://www.linkedin.com/jobs/view/data-scientist-at-nuvative-4438366322?position=10&pageNum=0&refId=dgoQJl5NL5nB6benoFJB8g%3D%3D&trackingId=wA3gB2D45oyKcDURVTczbQ%3D%3D",
+    "location": "Wichita, KS",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-01 22:01 UTC"
+  },
+  {
+    "title": "Senior Data Scientist - Network Value (Plaid App)",
+    "company": "Plaid",
+    "link": "https://www.linkedin.com/jobs/view/senior-data-scientist-network-value-plaid-app-at-plaid-4439369830?position=11&pageNum=0&refId=dgoQJl5NL5nB6benoFJB8g%3D%3D&trackingId=X8VHcaP7P1ZcbBFJJgZ6bw%3D%3D",
+    "location": "New York City Metropolitan Area",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-01 22:01 UTC"
+  },
+  {
+    "title": "Data Analyst II-Digital Analytics",
+    "company": "Staples",
+    "link": "https://www.linkedin.com/jobs/view/data-analyst-ii-digital-analytics-at-staples-4447709506?position=10&pageNum=0&refId=RjqNG9wWxjRvidjAu0qSbQ%3D%3D&trackingId=DDX9ebWOVNfA%2FuW5pP65rA%3D%3D",
+    "location": "Framingham, MA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-01 22:01 UTC"
+  },
+  {
+    "title": "Machine Learning Engineer",
+    "company": "Triada Robotics",
+    "link": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-triada-robotics-4447722846?position=10&pageNum=0&refId=dOWu9oERnbos4WGdVcxt3Q%3D%3D&trackingId=sop23vKJw2a49r%2FZsthT%2Fg%3D%3D",
+    "location": "Washington, DC",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-01 22:01 UTC"
+  },
+  {
+    "title": "Machine Learning Engineer",
+    "company": "LS Solutions",
+    "link": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-ls-solutions-4447755167?position=11&pageNum=0&refId=dOWu9oERnbos4WGdVcxt3Q%3D%3D&trackingId=xSc0ann3yMtf6WUHFaRqmg%3D%3D",
+    "location": "San Francisco, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-01 22:01 UTC"
+  },
+  {
+    "title": "Data Engineer",
+    "company": "LS Solutions",
+    "link": "https://www.linkedin.com/jobs/view/data-engineer-at-ls-solutions-4447748920?position=7&pageNum=0&refId=uWMdYmjFsjFzBQtuPtiGrg%3D%3D&trackingId=muJ1a8mrz5iR0%2FjBvaczqA%3D%3D",
+    "location": "Mountain View, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-01 22:01 UTC"
+  },
+  {
+    "title": "Business Intelligence Sr Data Analyst",
+    "company": "OpenX",
+    "link": "https://www.linkedin.com/jobs/view/business-intelligence-sr-data-analyst-at-openx-4419976629?position=12&pageNum=0&refId=SXEFEOvYl51eLqMjoe8MHQ%3D%3D&trackingId=eMwFCeoonoYaN9dFsaDGMQ%3D%3D",
+    "location": "United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-01 22:01 UTC"
+  },
+  {
+    "title": "Analytics Engineer | Remote",
+    "company": "CodeGeniusRecruit",
+    "link": "https://www.linkedin.com/jobs/view/analytics-engineer-remote-at-codegeniusrecruit-4447486008?position=3&pageNum=0&refId=Rve9vOze%2FxyUjoQlnF8JFA%3D%3D&trackingId=rlB7VZHCHNBbhbId6VPP9g%3D%3D",
+    "location": "United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-01 22:01 UTC"
+  },
+  {
     "title": "Data Scientist II",
     "company": "BioSpace",
     "link": "https://www.linkedin.com/jobs/view/data-scientist-ii-at-biospace-4447750845?position=12&pageNum=0&refId=67u0VcaswWZxi9v%2FtRNZgg%3D%3D&trackingId=eozv7yApP5VGt9BADEhixA%3D%3D",
@@ -2868,135 +2998,5 @@
     "h1b_signal": false,
     "summary": "",
     "found_at": "2026-07-29 16:26 UTC"
-  },
-  {
-    "title": "Research Scientists (PhD)",
-    "company": "University of Utah Health Research",
-    "link": "https://www.linkedin.com/jobs/view/research-scientists-phd-at-university-of-utah-health-research-4446394856?position=7&pageNum=0&refId=povz7NpVEC%2F6KDz%2FX2KLnQ%3D%3D&trackingId=y8oinGQuRdsnV046p9S7wA%3D%3D",
-    "location": "Salt Lake City, UT",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-29 16:26 UTC"
-  },
-  {
-    "title": "Sr. Applied Scientist, MAPLE",
-    "company": "Amazon",
-    "link": "https://www.amazon.jobs/en/jobs/10487345/sr-applied-scientist-maple",
-    "location": "IN, KA, Bengaluru",
-    "source": "Amazon Careers",
-    "h1b_signal": true,
-    "summary": "Are you excited by the idea of developing personalized experiences for Amazon customers as they shop? Are you looking for new challenges and to solve hard science problems while applying state-of-the-",
-    "found_at": "2026-07-29 16:27 UTC"
-  },
-  {
-    "title": "Data Scientist",
-    "company": "MaC Venture Capital",
-    "link": "https://www.linkedin.com/jobs/view/data-scientist-at-mac-venture-capital-4446539751?position=5&pageNum=0&refId=fTVXH%2FJ1MsLs%2BHyvBkLtQg%3D%3D&trackingId=K7AcfPKparzbUF5JSDKyGA%3D%3D",
-    "location": "Alexandria, VA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-29 14:25 UTC"
-  },
-  {
-    "title": "Data Scientist (Risk)",
-    "company": "CloudWalk, Inc.",
-    "link": "https://www.linkedin.com/jobs/view/data-scientist-risk-at-cloudwalk-inc-4446539625?position=9&pageNum=0&refId=fTVXH%2FJ1MsLs%2BHyvBkLtQg%3D%3D&trackingId=wlTlUl3hRu3UXz0UCurwmg%3D%3D",
-    "location": "United States",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-29 14:25 UTC"
-  },
-  {
-    "title": "Data Analyst",
-    "company": "Recurring Decimal",
-    "link": "https://www.linkedin.com/jobs/view/data-analyst-at-recurring-decimal-4446062711?position=2&pageNum=0&refId=Pu6FzT0krHUmzDAdDuumug%3D%3D&trackingId=kt0D3WWvaw7SGr5Nz6yp0w%3D%3D",
-    "location": "New York, United States",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-29 14:25 UTC"
-  },
-  {
-    "title": "Data Analyst",
-    "company": "Hack The Box",
-    "link": "https://www.linkedin.com/jobs/view/data-analyst-at-hack-the-box-4446081285?position=3&pageNum=0&refId=Pu6FzT0krHUmzDAdDuumug%3D%3D&trackingId=LRGgM2TmPgO5kfg7VBx8eQ%3D%3D",
-    "location": "United States",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-29 14:25 UTC"
-  },
-  {
-    "title": "AI Engineer (Agentic AI/Python/GCP)",
-    "company": "Danta Technologies",
-    "link": "https://www.linkedin.com/jobs/view/ai-engineer-agentic-ai-python-gcp-at-danta-technologies-4446542960?position=9&pageNum=0&refId=eqINFbSzG6YK2MFSSRVIAQ%3D%3D&trackingId=71nXWOBryYlum%2FgMQUbPOw%3D%3D",
-    "location": "Evanston, IL",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-29 14:25 UTC"
-  },
-  {
-    "title": "Data Engineer II",
-    "company": "VMC Soft Technologies, Inc",
-    "link": "https://www.linkedin.com/jobs/view/data-engineer-ii-at-vmc-soft-technologies-inc-4446589857?position=11&pageNum=0&refId=BpvXVFUoCvbApOZOuRFBuA%3D%3D&trackingId=UC5lgSADCdEqFF0rqik1JQ%3D%3D",
-    "location": "Sunnyvale, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-29 14:25 UTC"
-  },
-  {
-    "title": "Senior Business Intelligence Analyst",
-    "company": "Aleron Group - Acara Solutions, Broadleaf Results, Lume Stra",
-    "link": "https://www.linkedin.com/jobs/view/senior-business-intelligence-analyst-at-aleron-group-acara-solutions-broadleaf-results-lume-strategies-talentrise-viaduct-4446060777?position=7&pageNum=0&refId=e1T6LL4w48y9JDOyMx17SQ%3D%3D&trackingId=yDW89OWayrIrTpESaHGwMA%3D%3D",
-    "location": "Williamsville, NY",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-29 14:25 UTC"
-  },
-  {
-    "title": "Data Engineer, Mobile Game Analytics",
-    "company": "Mattel EMEA",
-    "link": "https://www.linkedin.com/jobs/view/data-engineer-mobile-game-analytics-at-mattel-emea-4446055314?position=10&pageNum=0&refId=3GPl7Z1AMDhjIDdjbgxNPA%3D%3D&trackingId=kOeFdqr4gWyJ2rZXCCSgRA%3D%3D",
-    "location": "El Segundo, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-29 14:25 UTC"
-  },
-  {
-    "title": "Senior Associate - Senior Associate, Analytics Engineer",
-    "company": "New York Life",
-    "link": "https://www.linkedin.com/jobs/view/senior-associate-senior-associate-analytics-engineer-at-new-york-life-4429740221?position=11&pageNum=0&refId=3GPl7Z1AMDhjIDdjbgxNPA%3D%3D&trackingId=jAsr0kyClydciEj1KD3m8A%3D%3D",
-    "location": "New York, NY",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-29 14:25 UTC"
-  },
-  {
-    "title": "Sr. Product Analyst",
-    "company": "RemoteHunter",
-    "link": "https://www.linkedin.com/jobs/view/sr-product-analyst-at-remotehunter-4446051191?position=12&pageNum=0&refId=dcJud%2FIh4SpqoHxZ6fs%2Fgw%3D%3D&trackingId=cQSZTgPDPZVxuD7zS7n70Q%3D%3D",
-    "location": "United States",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-29 14:25 UTC"
-  },
-  {
-    "title": "Clinical Research Scientist",
-    "company": "InStride Health",
-    "link": "https://www.linkedin.com/jobs/view/clinical-research-scientist-at-instride-health-4438108347?position=7&pageNum=0&refId=a0GV%2FWsS1A1tP17O9eN2fA%3D%3D&trackingId=DDGHHOaofPsRxqIyOJXZJQ%3D%3D",
-    "location": "United States",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-29 14:25 UTC"
   }
 ]
