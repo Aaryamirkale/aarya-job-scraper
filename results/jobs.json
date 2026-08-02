@@ -1,5 +1,75 @@
 [
   {
+    "title": "Data Analyst",
+    "company": "CodeVertex Talent",
+    "link": "https://www.linkedin.com/jobs/view/data-analyst-at-codevertex-talent-4445825921?position=9&pageNum=0&refId=OZgX5A2OvgOjiRN8MD6lgw%3D%3D&trackingId=KGdbAbwSjWh3oBylno3ASQ%3D%3D",
+    "location": "United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-02 16:06 UTC"
+  },
+  {
+    "title": "Junior Data Engineer",
+    "company": "GuruSchools LLC",
+    "link": "https://www.linkedin.com/jobs/view/junior-data-engineer-at-guruschools-llc-4447894367?position=7&pageNum=0&refId=sxIqyGGSl7MMrI0yAWWFYA%3D%3D&trackingId=XyTGb%2FokK%2BczOTVuXScGEQ%3D%3D",
+    "location": "Edison, NJ",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-02 16:06 UTC"
+  },
+  {
+    "title": "Junior Data Engineer",
+    "company": "Marketing Alpha",
+    "link": "https://www.linkedin.com/jobs/view/junior-data-engineer-at-marketing-alpha-4445851517?position=8&pageNum=0&refId=sxIqyGGSl7MMrI0yAWWFYA%3D%3D&trackingId=A73dNSBvR90nvQGAA5W1AA%3D%3D",
+    "location": "California, United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-02 16:06 UTC"
+  },
+  {
+    "title": "Data analyst (H/F)",
+    "company": "Alpha Consults",
+    "link": "https://www.linkedin.com/jobs/view/data-analyst-h-f-at-alpha-consults-4447648865?position=1&pageNum=0&refId=777yWhDWm%2FFILXQ1kNrNLw%3D%3D&trackingId=we1B72tCo4Gbck4G3ui8Yg%3D%3D",
+    "location": "California, United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-02 16:06 UTC"
+  },
+  {
+    "title": "Principal Data Scientist",
+    "company": "Structure Therapeutics",
+    "link": "https://www.linkedin.com/jobs/view/principal-data-scientist-at-structure-therapeutics-4416757067?position=9&pageNum=0&refId=CjkvfSvjvDofz77HiMnaXA%3D%3D&trackingId=mKT3cof8zy%2BZnn1PGaxyfQ%3D%3D",
+    "location": "South San Francisco, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-02 16:06 UTC"
+  },
+  {
+    "title": "Senior Data Scientist - Scientific AI",
+    "company": "McKinsey & Company",
+    "link": "https://www.linkedin.com/jobs/view/senior-data-scientist-scientific-ai-at-mckinsey-company-4411725399?position=12&pageNum=0&refId=CjkvfSvjvDofz77HiMnaXA%3D%3D&trackingId=ughS3M31AbVv6H1pdSUNvg%3D%3D",
+    "location": "Boston, MA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-02 16:06 UTC"
+  },
+  {
+    "title": "Staff Machine Learning Research Scientist",
+    "company": "SmarterDx",
+    "link": "https://www.linkedin.com/jobs/view/staff-machine-learning-research-scientist-at-smarterdx-4410999790?position=8&pageNum=0&refId=87OkiXzRLLsQkRPbK95g3w%3D%3D&trackingId=99KwginTZlIJh6k%2BfT5jRg%3D%3D",
+    "location": "United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-02 16:06 UTC"
+  },
+  {
     "title": "Data Scientist (Ref: 197473)",
     "company": "Forsyth Barnes Consultancy",
     "link": "https://www.linkedin.com/jobs/view/data-scientist-ref-197473-at-forsyth-barnes-consultancy-4445844223?position=8&pageNum=0&refId=pP%2BNgDhAoAUk8Zzt%2BwACVQ%3D%3D&trackingId=54CCpavoQJi22uduXxs8kQ%3D%3D",
@@ -2924,76 +2994,6 @@
     "company": "Caterpillar Inc.",
     "link": "https://www.linkedin.com/jobs/view/lead-business-intelligence-analyst-at-caterpillar-inc-4446845892?position=8&pageNum=0&refId=rj8R4xC2fsrVV%2BXqFvg%2Fvw%3D%3D&trackingId=HIFtPQ0PoJ3SgWN9Rk%2BMUA%3D%3D",
     "location": "Irving, TX",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-30 02:55 UTC"
-  },
-  {
-    "title": "MLOps Engineer",
-    "company": "HireRising",
-    "link": "https://www.linkedin.com/jobs/view/mlops-engineer-at-hirerising-4446449610?position=2&pageNum=0&refId=NjRz%2B80gqXMl1KPu%2BXx8rA%3D%3D&trackingId=VyGgdBC0iem3MfGzNRjitQ%3D%3D",
-    "location": "Greater Phoenix Area",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-30 02:55 UTC"
-  },
-  {
-    "title": "Data Scientist - Healthcare Fraud Waste and Abuse - REMOTE  - 256553",
-    "company": "Medix\u2122",
-    "link": "https://www.linkedin.com/jobs/view/data-scientist-healthcare-fraud-waste-and-abuse-remote-256553-at-medix%E2%84%A2-4444134648?position=1&pageNum=0&refId=FVmOPvnIj0f16rAwnQ7e2A%3D%3D&trackingId=J2ci23JZS7aFPaviUYg9Dw%3D%3D",
-    "location": "United States",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-30 02:55 UTC"
-  },
-  {
-    "title": "Data Scientist",
-    "company": "BrothersTech",
-    "link": "https://www.linkedin.com/jobs/view/data-scientist-at-brotherstech-4444130717?position=2&pageNum=0&refId=FVmOPvnIj0f16rAwnQ7e2A%3D%3D&trackingId=W1SN0yEnz%2BYHgoaOpy3dIg%3D%3D",
-    "location": "United States",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-30 02:55 UTC"
-  },
-  {
-    "title": "Research Scientist, Health Economic Modeling",
-    "company": "Precision AQ",
-    "link": "https://www.linkedin.com/jobs/view/research-scientist-health-economic-modeling-at-precision-aq-4446414470?position=4&pageNum=0&refId=FVmOPvnIj0f16rAwnQ7e2A%3D%3D&trackingId=Q2B%2FQ2cS0BAwMS0gmxkDHQ%3D%3D",
-    "location": "Bethesda, MD",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-30 02:55 UTC"
-  },
-  {
-    "title": "Data Scientist \u2013 Life Sciences Intelligence & Valuation Analytics",
-    "company": "RNA Advisors",
-    "link": "https://www.linkedin.com/jobs/view/data-scientist-%E2%80%93-life-sciences-intelligence-valuation-analytics-at-rna-advisors-4446005696?position=9&pageNum=0&refId=FVmOPvnIj0f16rAwnQ7e2A%3D%3D&trackingId=1G7skTIwmM1rPyTiG3Borg%3D%3D",
-    "location": "Reno, NV",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-30 02:55 UTC"
-  },
-  {
-    "title": "Data Scientist",
-    "company": "Woodward, Inc.",
-    "link": "https://www.linkedin.com/jobs/view/data-scientist-at-woodward-inc-4444183605?position=12&pageNum=0&refId=FVmOPvnIj0f16rAwnQ7e2A%3D%3D&trackingId=xpyKig8dcvE3fYP4MBO0Mg%3D%3D",
-    "location": "Fort Collins, CO",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-30 02:55 UTC"
-  },
-  {
-    "title": "Research Scientist",
-    "company": "Connecticut Innovations",
-    "link": "https://www.linkedin.com/jobs/view/research-scientist-at-connecticut-innovations-4446419812?position=1&pageNum=0&refId=d1f2GRGC4ES8M0F%2FFEa1Gg%3D%3D&trackingId=w8NgWHIQUx0M7SoMVkyQEA%3D%3D",
-    "location": "Danbury, CT",
     "source": "LinkedIn",
     "h1b_signal": false,
     "summary": "",
