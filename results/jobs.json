@@ -1,5 +1,135 @@
 [
   {
+    "title": "Data Scientist - Machine Learning",
+    "company": "Tailored Brands, Inc.",
+    "link": "https://www.linkedin.com/jobs/view/data-scientist-machine-learning-at-tailored-brands-inc-4340631804?position=11&pageNum=0&refId=Sf%2BIkV%2FbsWv1%2FCpF4FjcYA%3D%3D&trackingId=xUkcqnDIsBdrhLKCHSXiDw%3D%3D",
+    "location": "Dublin, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-02 19:21 UTC"
+  },
+  {
+    "title": "Data Analyst",
+    "company": "CodeVertex Operations",
+    "link": "https://www.linkedin.com/jobs/view/data-analyst-at-codevertex-operations-4445819952?position=11&pageNum=0&refId=9%2BJmYWKG5nTUagXurIynzg%3D%3D&trackingId=JnZlapYhNZyc7mjiTizB3A%3D%3D",
+    "location": "United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-02 19:21 UTC"
+  },
+  {
+    "title": "Data Engineer, E-Commerce",
+    "company": "TikTok",
+    "link": "https://www.linkedin.com/jobs/view/data-engineer-e-commerce-at-tiktok-4447672075?position=7&pageNum=0&refId=6AR9pQnLM0ydPyHHTYeQYA%3D%3D&trackingId=wxSpEZbAYY0Wy7bOMnz%2Bcg%3D%3D",
+    "location": "Seattle, WA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-02 19:21 UTC"
+  },
+  {
+    "title": "Forward Deployed Data Engineer",
+    "company": "SAP",
+    "link": "https://www.linkedin.com/jobs/view/forward-deployed-data-engineer-at-sap-4447648443?position=8&pageNum=0&refId=6AR9pQnLM0ydPyHHTYeQYA%3D%3D&trackingId=9BOyhkM2snTYqcPKysrbSg%3D%3D",
+    "location": "New York, NY",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-02 19:21 UTC"
+  },
+  {
+    "title": "Data Engineer - Director",
+    "company": "Morgan Stanley",
+    "link": "https://www.linkedin.com/jobs/view/data-engineer-director-at-morgan-stanley-4438913317?position=9&pageNum=0&refId=6AR9pQnLM0ydPyHHTYeQYA%3D%3D&trackingId=4LnifotSZ6Tsl8XbSSiIFQ%3D%3D",
+    "location": "New York, NY",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-02 19:21 UTC"
+  },
+  {
+    "title": "Sr. Data Engineer",
+    "company": "Hire Feed",
+    "link": "https://www.linkedin.com/jobs/view/sr-data-engineer-at-hire-feed-4447874835?position=12&pageNum=0&refId=6AR9pQnLM0ydPyHHTYeQYA%3D%3D&trackingId=kSs3NjuMVc%2Bo7bJp9WNSKg%3D%3D",
+    "location": "Shelton, CT",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-02 19:21 UTC"
+  },
+  {
+    "title": "Sr. BI Data Analyst",
+    "company": "RemoteHunter",
+    "link": "https://www.linkedin.com/jobs/view/sr-bi-data-analyst-at-remotehunter-4447185601?position=11&pageNum=0&refId=9M4DYWSTomdE1Zn1WJBeKQ%3D%3D&trackingId=7SRU1biiPO0YwPLsMzE15g%3D%3D",
+    "location": "United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-02 19:21 UTC"
+  },
+  {
+    "title": "Member of Technical Staff, ML Engineer",
+    "company": "Physical Superintelligence",
+    "link": "https://www.linkedin.com/jobs/view/member-of-technical-staff-ml-engineer-at-physical-superintelligence-4447865584?position=11&pageNum=0&refId=9P%2FLybcwz9oDcH70AjxOwg%3D%3D&trackingId=OyTTHI6eXMEjSPP6dx9VoQ%3D%3D",
+    "location": "Boston, MA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-02 19:21 UTC"
+  },
+  {
+    "title": "Research Scientist - VIE Contract",
+    "company": "Sanofi",
+    "link": "https://www.linkedin.com/jobs/view/research-scientist-vie-contract-at-sanofi-4447876680?position=10&pageNum=0&refId=LA8UhROBJoqh0cTaa4lq%2Bw%3D%3D&trackingId=AsgVe%2BnfJ8anGh9V8jrQpQ%3D%3D",
+    "location": "Waltham, MA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-02 19:21 UTC"
+  },
+  {
+    "title": "Lead Data Analyst",
+    "company": "The Philadelphia Inquirer",
+    "link": "https://www.linkedin.com/jobs/view/lead-data-analyst-at-the-philadelphia-inquirer-4421254168?position=6&pageNum=0&refId=jCmkeMV7pSHz2pKedaPWiw%3D%3D&trackingId=T%2BXdi64YHJK9wJ%2FoNFzhnQ%3D%3D",
+    "location": "Philadelphia, PA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-02 19:21 UTC"
+  },
+  {
+    "title": "Staff Product Analyst",
+    "company": "Deepgram",
+    "link": "https://www.linkedin.com/jobs/view/staff-product-analyst-at-deepgram-4360068003?position=10&pageNum=0&refId=jCmkeMV7pSHz2pKedaPWiw%3D%3D&trackingId=cZgidRdgA1piElu44ufP3w%3D%3D",
+    "location": "United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-02 19:21 UTC"
+  },
+  {
+    "title": "TikTok Shop - Strategy & Data Analyst, E-Commerce",
+    "company": "TikTok",
+    "link": "https://www.linkedin.com/jobs/view/tiktok-shop-strategy-data-analyst-e-commerce-at-tiktok-4447657421?position=12&pageNum=0&refId=jCmkeMV7pSHz2pKedaPWiw%3D%3D&trackingId=CmMDU1GHcqbqOuNZ4qmr%2Bg%3D%3D",
+    "location": "Seattle, WA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-02 19:21 UTC"
+  },
+  {
+    "title": "Sr. Research Scientist",
+    "company": "Kerr Dental",
+    "link": "https://www.linkedin.com/jobs/view/sr-research-scientist-at-kerr-dental-4422911896?position=11&pageNum=0&refId=sBbuO2mMZ5SL0WdWpeCu7Q%3D%3D&trackingId=yVCtlDsfdTCvJtB8Ygmcfw%3D%3D",
+    "location": "Pomona, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-02 19:21 UTC"
+  },
+  {
     "title": "Data Analyst",
     "company": "CodeVertex Talent",
     "link": "https://www.linkedin.com/jobs/view/data-analyst-at-codevertex-talent-4445825921?position=9&pageNum=0&refId=OZgX5A2OvgOjiRN8MD6lgw%3D%3D&trackingId=KGdbAbwSjWh3oBylno3ASQ%3D%3D",
@@ -2868,135 +2998,5 @@
     "h1b_signal": false,
     "summary": "",
     "found_at": "2026-07-30 05:49 UTC"
-  },
-  {
-    "title": "Sr Applied Scientist, Amazon Supply Chain",
-    "company": "Amazon",
-    "link": "https://www.amazon.jobs/en/jobs/10488022/sr-applied-scientist-amazon-supply-chain",
-    "location": "US, WA, Seattle",
-    "source": "Amazon Careers",
-    "h1b_signal": true,
-    "summary": "As part of the AWS Applied AI Solutions organization, we have a vision to provide business applications, leveraging Amazon's unique experience and expertise, that are used by millions of companies wor",
-    "found_at": "2026-07-30 05:50 UTC"
-  },
-  {
-    "title": "Data Scientist | Hybrid & Onsite Interview | W2 only No C2C",
-    "company": "Redolent, Inc",
-    "link": "https://www.linkedin.com/jobs/view/data-scientist-hybrid-onsite-interview-w2-only-no-c2c-at-redolent-inc-4444181782?position=2&pageNum=0&refId=S0romSh4D5c6Wby2FJuF1A%3D%3D&trackingId=tlR7W9K9PqUr7nRS6dYgew%3D%3D",
-    "location": "Sunnyvale, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-30 02:55 UTC"
-  },
-  {
-    "title": "Staff Engineer - Data Scientist",
-    "company": "Nagarro",
-    "link": "https://www.linkedin.com/jobs/view/staff-engineer-data-scientist-at-nagarro-4444191889?position=7&pageNum=0&refId=S0romSh4D5c6Wby2FJuF1A%3D%3D&trackingId=SLmSiKerNjOEl6pA3BNiDA%3D%3D",
-    "location": "Grand Prairie, TX",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-30 02:55 UTC"
-  },
-  {
-    "title": "Machine Learning Engineer",
-    "company": "BeaconFire Inc.",
-    "link": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-beaconfire-inc-4443601516?position=9&pageNum=0&refId=50v8Z%2BYugsJKsWg3z6%2FGTA%3D%3D&trackingId=nhOSc80epRNDkcNVmLjJRw%3D%3D",
-    "location": "New Jersey, United States",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-30 02:55 UTC"
-  },
-  {
-    "title": "ML Engineer (Internship and Full-time)",
-    "company": "Tilde Research",
-    "link": "https://www.linkedin.com/jobs/view/ml-engineer-internship-and-full-time-at-tilde-research-4444168193?position=11&pageNum=0&refId=50v8Z%2BYugsJKsWg3z6%2FGTA%3D%3D&trackingId=x5bs4FJqfysMfL6wdDw0yQ%3D%3D",
-    "location": "Palo Alto, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-30 02:55 UTC"
-  },
-  {
-    "title": "Data Analyst (SQL, Telecom Transport Data)",
-    "company": "NextGen | GTA: A Kelly Telecom Company",
-    "link": "https://www.linkedin.com/jobs/view/data-analyst-sql-telecom-transport-data-at-nextgen-gta-a-kelly-telecom-company-4446865326?position=2&pageNum=0&refId=YiRdakDkPXYB23hIesfPPg%3D%3D&trackingId=xKwFWUWl0CccbDgu0TYlIg%3D%3D",
-    "location": "United States",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-30 02:55 UTC"
-  },
-  {
-    "title": "Business Data Analyst",
-    "company": "Mindlance",
-    "link": "https://www.linkedin.com/jobs/view/business-data-analyst-at-mindlance-4446866012?position=4&pageNum=0&refId=YiRdakDkPXYB23hIesfPPg%3D%3D&trackingId=BvUVtfup7UFEDR5ADbll%2Fg%3D%3D",
-    "location": "Charlotte, NC",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-30 02:55 UTC"
-  },
-  {
-    "title": "Data Analyst 3",
-    "company": "HTC Global Services",
-    "link": "https://www.linkedin.com/jobs/view/data-analyst-3-at-htc-global-services-4446454550?position=7&pageNum=0&refId=YiRdakDkPXYB23hIesfPPg%3D%3D&trackingId=mbvrquJi2U9E0lYmzDxGrg%3D%3D",
-    "location": "Austin, TX",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-30 02:55 UTC"
-  },
-  {
-    "title": "People Data Analyst",
-    "company": "Hadrian",
-    "link": "https://www.linkedin.com/jobs/view/people-data-analyst-at-hadrian-4434802704?position=11&pageNum=0&refId=YiRdakDkPXYB23hIesfPPg%3D%3D&trackingId=MB1YtDqBDK8ADZxZ3ldRdA%3D%3D",
-    "location": "Los Angeles, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-30 02:55 UTC"
-  },
-  {
-    "title": "Data Engineer, CX",
-    "company": "Whatnot",
-    "link": "https://www.linkedin.com/jobs/view/data-engineer-cx-at-whatnot-4446448600?position=6&pageNum=0&refId=4hW7BQdOHL6dKjYgJQ%2F7XQ%3D%3D&trackingId=7H0bpJwy0k2xeR4U2OO0dA%3D%3D",
-    "location": "San Francisco, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-30 02:55 UTC"
-  },
-  {
-    "title": "Data Engineer II",
-    "company": "Deloitte",
-    "link": "https://www.linkedin.com/jobs/view/data-engineer-ii-at-deloitte-4446890567?position=8&pageNum=0&refId=4hW7BQdOHL6dKjYgJQ%2F7XQ%3D%3D&trackingId=kRCcYBo7ZykFT7M727L82w%3D%3D",
-    "location": "Baltimore, MD",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-30 02:55 UTC"
-  },
-  {
-    "title": "Senior Data Engineer",
-    "company": "BrothersTech",
-    "link": "https://www.linkedin.com/jobs/view/senior-data-engineer-at-brotherstech-4444153994?position=12&pageNum=0&refId=4hW7BQdOHL6dKjYgJQ%2F7XQ%3D%3D&trackingId=oT19frOaPURgfeHki0gjAA%3D%3D",
-    "location": "Grand Prairie, TX",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-30 02:55 UTC"
-  },
-  {
-    "title": "Lead Business Intelligence Analyst",
-    "company": "Caterpillar Inc.",
-    "link": "https://www.linkedin.com/jobs/view/lead-business-intelligence-analyst-at-caterpillar-inc-4446845892?position=8&pageNum=0&refId=rj8R4xC2fsrVV%2BXqFvg%2Fvw%3D%3D&trackingId=HIFtPQ0PoJ3SgWN9Rk%2BMUA%3D%3D",
-    "location": "Irving, TX",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-30 02:55 UTC"
   }
 ]
