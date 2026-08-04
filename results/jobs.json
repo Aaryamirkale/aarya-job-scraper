@@ -1,5 +1,45 @@
 [
   {
+    "title": "Machine Learning Engineer, Contextual Targeting",
+    "company": "TikTok",
+    "link": "https://www.linkedin.com/jobs/view/machine-learning-engineer-contextual-targeting-at-tiktok-4448287379?position=8&pageNum=0&refId=FhEDBtRCK61C4ska7JutEw%3D%3D&trackingId=GjUWu3OW5VB424EFCdtvmg%3D%3D",
+    "location": "San Jose, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-04 11:29 UTC"
+  },
+  {
+    "title": "Data Engineer III - Python / SQL",
+    "company": "JPMorganChase",
+    "link": "https://www.linkedin.com/jobs/view/data-engineer-iii-python-sql-at-jpmorganchase-4448845315?position=4&pageNum=0&refId=%2BIlcP5QNCE16Us1Cmud8hQ%3D%3D&trackingId=5z1HnzF6SbJ8nzRt3d1AQA%3D%3D",
+    "location": "Plano, TX",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-04 11:30 UTC"
+  },
+  {
+    "title": "Ads Targeting Data Engineer, Ads Core",
+    "company": "TikTok",
+    "link": "https://www.linkedin.com/jobs/view/ads-targeting-data-engineer-ads-core-at-tiktok-4448281447?position=12&pageNum=0&refId=%2BIlcP5QNCE16Us1Cmud8hQ%3D%3D&trackingId=UZBOX5JO7zbJ7P9AxHJH8g%3D%3D",
+    "location": "San Jose, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-04 11:30 UTC"
+  },
+  {
+    "title": "Business Intelligence Analyst Lead",
+    "company": "Flagstar Bank",
+    "link": "https://www.linkedin.com/jobs/view/business-intelligence-analyst-lead-at-flagstar-bank-4448838754?position=10&pageNum=0&refId=GuIaYb8MLXDOe%2F%2FRgsKcOw%3D%3D&trackingId=yL5UljeaUZN2vtEapBPVFA%3D%3D",
+    "location": "Michigan, United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-04 11:30 UTC"
+  },
+  {
     "title": "Data Scientist",
     "company": "Biztec Global",
     "link": "https://www.linkedin.com/jobs/view/data-scientist-at-biztec-global-4448243810?position=6&pageNum=0&refId=MiISHhBBZ056jgtnasWvbA%3D%3D&trackingId=WndEqVLr1UMWCWKLV%2B7V8Q%3D%3D",
@@ -2958,45 +2998,5 @@
     "h1b_signal": false,
     "summary": "",
     "found_at": "2026-07-31 22:11 UTC"
-  },
-  {
-    "title": "Research Scientist - Generative Audio",
-    "company": "Spotify",
-    "link": "https://www.linkedin.com/jobs/view/research-scientist-generative-audio-at-spotify-4439310429?position=10&pageNum=0&refId=NRsmJ6bj0IAam6femqfOpw%3D%3D&trackingId=viNk4Kp4iHp1BDmxP5tSYQ%3D%3D",
-    "location": "New York, NY",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-31 22:11 UTC"
-  },
-  {
-    "title": "Data Engineer II, NAST CX Tech",
-    "company": "Amazon",
-    "link": "https://www.amazon.jobs/en/jobs/10489805/data-engineer-ii-nast-cx-tech",
-    "location": "US, WA, Bellevue",
-    "source": "Amazon Careers",
-    "h1b_signal": true,
-    "summary": "The NAST Customer Experience (CX) Tech team is looking for a Data Engineer II to build and scale the data infrastructure that powers operational intelligence for Amazon's North American Surface Transp",
-    "found_at": "2026-07-31 22:11 UTC"
-  },
-  {
-    "title": "Data Scientist",
-    "company": "Great Value Hiring",
-    "link": "https://www.linkedin.com/jobs/view/data-scientist-at-great-value-hiring-4447167518?position=5&pageNum=0&refId=BAxhKYrFDQsC16CJ2j2MDw%3D%3D&trackingId=wRYcbM%2B%2Ft%2FyHkBo6L7aGeA%3D%3D",
-    "location": "United States",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-31 19:44 UTC"
-  },
-  {
-    "title": "Data Scientist",
-    "company": "New York City Department of Consumer and Worker Protection",
-    "link": "https://www.linkedin.com/jobs/view/data-scientist-at-new-york-city-department-of-consumer-and-worker-protection-4438334284?position=12&pageNum=0&refId=BAxhKYrFDQsC16CJ2j2MDw%3D%3D&trackingId=AzgYbEdGZtZBGTvpOIACMQ%3D%3D",
-    "location": "New York City Metropolitan Area",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-07-31 19:44 UTC"
   }
 ]
