@@ -1,5 +1,75 @@
 [
   {
+    "title": "Data Scientist III",
+    "company": "Walmart Global Tech",
+    "link": "https://www.linkedin.com/jobs/view/data-scientist-iii-at-walmart-global-tech-4419204287?position=11&pageNum=0&refId=1jPYaBfOjmdFKjQ9yZpCNA%3D%3D&trackingId=rpvSoDmSljBQGmtR1FgIkA%3D%3D",
+    "location": "Bentonville, AR",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-06 14:28 UTC"
+  },
+  {
+    "title": "Machine Learning Engineer",
+    "company": "Superhuman",
+    "link": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-superhuman-4448084190?position=11&pageNum=0&refId=xVL5dcLeWn%2F69fYXTXr65A%3D%3D&trackingId=rV5ndjEZBT%2FaO15ifqvL1w%3D%3D",
+    "location": "San Francisco, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-06 14:28 UTC"
+  },
+  {
+    "title": "Data analyst (H/F)",
+    "company": "Griffin High School",
+    "link": "https://www.linkedin.com/jobs/view/data-analyst-h-f-at-griffin-high-school-4448414785?position=5&pageNum=0&refId=zVBpQTSYZ5mxFL7Mj4fzzQ%3D%3D&trackingId=nYaGGGwe2P5DAGAIl18Fvg%3D%3D",
+    "location": "California, United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-06 14:28 UTC"
+  },
+  {
+    "title": "AI Engineer",
+    "company": "SysTechCorp Inc",
+    "link": "https://www.linkedin.com/jobs/view/ai-engineer-at-systechcorp-inc-4450247897?position=5&pageNum=0&refId=IJBCozx3QeDwAV0CCEfwAw%3D%3D&trackingId=JLSEZ37tqcdgwEg2lHu%2BEw%3D%3D",
+    "location": "San Diego Metropolitan Area",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-06 14:28 UTC"
+  },
+  {
+    "title": "Sr MLOps Engineer",
+    "company": "Intuitive",
+    "link": "https://www.linkedin.com/jobs/view/sr-mlops-engineer-at-intuitive-4450239386?position=11&pageNum=0&refId=wIrGmgCm%2F7%2FKR%2FM5gKtWNw%3D%3D&trackingId=xxYVnMtrG1jWHzd99yaP4g%3D%3D",
+    "location": "Sunnyvale, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-06 14:28 UTC"
+  },
+  {
+    "title": "Data Scientist, Music DISCO",
+    "company": "Amazon",
+    "link": "https://www.amazon.jobs/en/jobs/10494195/data-scientist-music-disco",
+    "location": "DE, BE, Berlin",
+    "source": "Amazon Careers",
+    "h1b_signal": true,
+    "summary": "Amazon Music is an immersive audio entertainment service that deepens connections between fans, artists, and creators. From personalized music playlists to exclusive podcasts, concert livestreams to a",
+    "found_at": "2026-08-06 14:28 UTC"
+  },
+  {
+    "title": "Sr. Applied Scientist, Prime Video - Generative AI (Video)",
+    "company": "Amazon",
+    "link": "https://www.amazon.jobs/en/jobs/10494042/sr-applied-scientist-prime-video-generative-ai-video",
+    "location": "US, CA, Sunnyvale",
+    "source": "Amazon Careers",
+    "h1b_signal": true,
+    "summary": "Prime Video is a first-stop entertainment destination offering customers a vast collection of premium programming in one app available across thousands of devices. Prime members can customize their vi",
+    "found_at": "2026-08-06 14:28 UTC"
+  },
+  {
     "title": "Senior Data Analyst (AR)",
     "company": "Panda Restaurant Group",
     "link": "https://www.linkedin.com/jobs/view/senior-data-analyst-ar-at-panda-restaurant-group-4430839603?position=12&pageNum=0&refId=YFls7oeyqYIrWj%2Fdfc33gg%3D%3D&trackingId=kzloECEli83rJQ54LY0N1A%3D%3D",
@@ -2927,76 +2997,6 @@
     "source": "LinkedIn",
     "h1b_signal": false,
     "summary": "",
-    "found_at": "2026-08-03 17:15 UTC"
-  },
-  {
-    "title": "Analytics Engineer",
-    "company": "C1",
-    "link": "https://www.linkedin.com/jobs/view/analytics-engineer-at-c1-4448321335?position=5&pageNum=0&refId=jwvwCsmTPW%2F2n20LSLoI0w%3D%3D&trackingId=Ixiw7nLQb4SwjhYwE5WJuQ%3D%3D",
-    "location": "United States",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-03 17:15 UTC"
-  },
-  {
-    "title": "Staff Analytics Engineer",
-    "company": "thrively",
-    "link": "https://www.linkedin.com/jobs/view/staff-analytics-engineer-at-thrively-4448313461?position=11&pageNum=0&refId=jwvwCsmTPW%2F2n20LSLoI0w%3D%3D&trackingId=wveS%2FfFLSpjA7YcWjFbLZA%3D%3D",
-    "location": "Boston, MA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-03 17:15 UTC"
-  },
-  {
-    "title": "Research Data Analyst",
-    "company": "Children's Nebraska",
-    "link": "https://www.linkedin.com/jobs/view/research-data-analyst-at-children-s-nebraska-4448320373?position=1&pageNum=0&refId=Gz2jPyy%2BADwL2Gpi%2Fwj9wQ%3D%3D&trackingId=4RBixk%2FVajaA4e9MU8kwDA%3D%3D",
-    "location": "Omaha Metropolitan Area",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-03 17:15 UTC"
-  },
-  {
-    "title": "Data Scientist",
-    "company": "AmeriHealth Caritas",
-    "link": "https://www.linkedin.com/jobs/view/data-scientist-at-amerihealth-caritas-4447996928?position=11&pageNum=0&refId=4JbvYKPH4mAvwhZBXtVbIg%3D%3D&trackingId=i%2BDOEoGWnjRrYuuGp4nAyg%3D%3D",
-    "location": "United States",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-03 17:15 UTC"
-  },
-  {
-    "title": "Data Scientist",
-    "company": "OPS Consulting, LLC",
-    "link": "https://www.linkedin.com/jobs/view/data-scientist-at-ops-consulting-llc-4361913379?position=12&pageNum=0&refId=4JbvYKPH4mAvwhZBXtVbIg%3D%3D&trackingId=RCcGB8HDRDEOGJsCKd7wmQ%3D%3D",
-    "location": "Laurel, MD",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-03 17:15 UTC"
-  },
-  {
-    "title": "Data Analyst, Product Strategy (Hybrid NY)",
-    "company": "Healthfirst",
-    "link": "https://www.linkedin.com/jobs/view/data-analyst-product-strategy-hybrid-ny-at-healthfirst-4438374138?position=8&pageNum=0&refId=Be1CTwzIjjMqEvL0QYG8JA%3D%3D&trackingId=5HTuQ4b%2BOzy%2Fr2Rq%2BUhHmw%3D%3D",
-    "location": "New York, NY",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-03 17:15 UTC"
-  },
-  {
-    "title": "Principal Data Scientist, Core Shopping Data Science",
-    "company": "Amazon",
-    "link": "https://www.amazon.jobs/en/jobs/10490540/principal-data-scientist-core-shopping-data-science",
-    "location": "US, WA, Seattle",
-    "source": "Amazon Careers",
-    "h1b_signal": true,
-    "summary": "Every day, hundreds of millions of customers arrive on Amazon's Homepage, search for a product, and land on a detail page. Along the way, some of what we show them is irrelevant \u2014 a recommendation tha",
     "found_at": "2026-08-03 17:15 UTC"
   }
 ]
