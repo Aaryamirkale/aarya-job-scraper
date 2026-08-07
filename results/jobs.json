@@ -1,5 +1,85 @@
 [
   {
+    "title": "Data Analyst",
+    "company": "Technorover",
+    "link": "https://www.linkedin.com/jobs/view/data-analyst-at-technorover-4450718604?position=1&pageNum=0&refId=260RDXe%2F5uufQygvc244Tw%3D%3D&trackingId=mrO7DrMcqWoWCeetkCl8wA%3D%3D",
+    "location": "United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-07 16:01 UTC"
+  },
+  {
+    "title": "Data analyst (H/F)",
+    "company": "Hartman Fortress Oy",
+    "link": "https://www.linkedin.com/jobs/view/data-analyst-h-f-at-hartman-fortress-oy-4449207093?position=4&pageNum=0&refId=260RDXe%2F5uufQygvc244Tw%3D%3D&trackingId=KqI1n6z63mJUKCrQSUKb4g%3D%3D",
+    "location": "California, United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-07 16:01 UTC"
+  },
+  {
+    "title": "AI/ML Engineer",
+    "company": "Intellectt Inc",
+    "link": "https://www.linkedin.com/jobs/view/ai-ml-engineer-at-intellectt-inc-4450325948?position=12&pageNum=0&refId=F9OYPHVtnD3rYf6xWXCQPg%3D%3D&trackingId=EkBVqr4gW3eC%2FetXedk%2FDw%3D%3D",
+    "location": "Columbus, GA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-07 16:01 UTC"
+  },
+  {
+    "title": "MLOps AI Engineer",
+    "company": "TeamViewer",
+    "link": "https://www.linkedin.com/jobs/view/mlops-ai-engineer-at-teamviewer-4450342095?position=5&pageNum=0&refId=pri5po6P%2BZVw0p0dIrx%2BRQ%3D%3D&trackingId=xtiCYcYMhFKWimtZEmaL%2FQ%3D%3D",
+    "location": "Austin, TX",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-07 16:01 UTC"
+  },
+  {
+    "title": "Senior MLOps Engineer",
+    "company": "NVIDIA AI",
+    "link": "https://www.linkedin.com/jobs/view/senior-mlops-engineer-at-nvidia-ai-4448729800?position=8&pageNum=0&refId=pri5po6P%2BZVw0p0dIrx%2BRQ%3D%3D&trackingId=iM%2Fy3yq9GgstO6BNouagYw%3D%3D",
+    "location": "Santa Clara, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-07 16:01 UTC"
+  },
+  {
+    "title": "Senior MLOps Engineer",
+    "company": "NVIDIA",
+    "link": "https://www.linkedin.com/jobs/view/senior-mlops-engineer-at-nvidia-4450012215?position=9&pageNum=0&refId=pri5po6P%2BZVw0p0dIrx%2BRQ%3D%3D&trackingId=5BaT4ZeawAkKT8HveKouow%3D%3D",
+    "location": "Santa Clara, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-07 16:01 UTC"
+  },
+  {
+    "title": "Senior Data Analyst",
+    "company": "Veeva Systems",
+    "link": "https://www.linkedin.com/jobs/view/senior-data-analyst-at-veeva-systems-4441162949?position=10&pageNum=0&refId=VzjxctFfOroAqPBGW5ZPEA%3D%3D&trackingId=GRXHyoS8f%2B0js1JaVczsbA%3D%3D",
+    "location": "United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-07 16:01 UTC"
+  },
+  {
+    "title": "Applied Scientist, Intelligent Talent Acquisition - Lead Generation & Detection ",
+    "company": "Amazon",
+    "link": "https://www.amazon.jobs/en/jobs/10495929/applied-scientist-intelligent-talent-acquisition-lead-generation-detection-services",
+    "location": "GB, MLN, Edinburgh",
+    "source": "Amazon Careers",
+    "h1b_signal": true,
+    "summary": "Do you want to make a real difference to real people's lives? Want to design and build fair and explainable systems which automate recruitment processes across Amazon? Come and be part of a team that",
+    "found_at": "2026-08-07 16:01 UTC"
+  },
+  {
     "title": "AI/ML Engineer",
     "company": "Stealth",
     "link": "https://www.linkedin.com/jobs/view/ai-ml-engineer-at-stealth-4448772188?position=6&pageNum=0&refId=EmqBu%2BB8HnAS7hicjzNSNQ%3D%3D&trackingId=piXt3qLTQHoX1DOLzP0J6w%3D%3D",
@@ -2918,85 +2998,5 @@
     "h1b_signal": false,
     "summary": "",
     "found_at": "2026-08-04 03:23 UTC"
-  },
-  {
-    "title": "Data Scientist, Public Health Data Linkage (DSIS 3) DOH8949",
-    "company": "Washington State Department of Health",
-    "link": "https://www.linkedin.com/jobs/view/data-scientist-public-health-data-linkage-dsis-3-doh8949-at-washington-state-department-of-health-4446262600?position=2&pageNum=0&refId=Ct4ZcQGlcdQHXcnMJibwsg%3D%3D&trackingId=dgegeOtSKGCUiZ2wEGBENQ%3D%3D",
-    "location": "Washington, United States",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-04 03:23 UTC"
-  },
-  {
-    "title": "Data Scientist II - Lead Population Health Analyst (PFK)",
-    "company": "Nationwide Children's Hospital",
-    "link": "https://www.linkedin.com/jobs/view/data-scientist-ii-lead-population-health-analyst-pfk-at-nationwide-children-s-hospital-4448611933?position=11&pageNum=0&refId=Ct4ZcQGlcdQHXcnMJibwsg%3D%3D&trackingId=cXRQ28U6L1ws324NZ2sLeQ%3D%3D",
-    "location": "Columbus, OH",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-04 03:23 UTC"
-  },
-  {
-    "title": "Senior Product Analyst, US Wealth - Mt Laurel, NJ",
-    "company": "TD",
-    "link": "https://www.linkedin.com/jobs/view/senior-product-analyst-us-wealth-mt-laurel-nj-at-td-4448617592?position=8&pageNum=0&refId=8iKTv8nvzbg9bV3QsyxTMw%3D%3D&trackingId=wW3Eog4N8ug5U5BtCMPtAQ%3D%3D",
-    "location": "Mount Laurel, NJ",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-04 03:23 UTC"
-  },
-  {
-    "title": "R&D Ops AI/ML Data Scientist",
-    "company": "Siemens Healthineers",
-    "link": "https://www.linkedin.com/jobs/view/r-d-ops-ai-ml-data-scientist-at-siemens-healthineers-4448228058?position=7&pageNum=0&refId=%2F8xmorscIpgqIK4hLUlzmg%3D%3D&trackingId=APmHyyFx%2B%2BGOdYHGejpLwg%3D%3D",
-    "location": "Palo Alto, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-03 22:12 UTC"
-  },
-  {
-    "title": "Machine Learning Engineer Graduate (TikTok Trust and Safety) - 2027 Start",
-    "company": "TikTok",
-    "link": "https://www.linkedin.com/jobs/view/machine-learning-engineer-graduate-tiktok-trust-and-safety-2027-start-at-tiktok-4447988805?position=3&pageNum=0&refId=x46HTI5SYeB%2B31BDbcUNZQ%3D%3D&trackingId=VAmEjv3l9hMWBNcssHhNHA%3D%3D",
-    "location": "San Jose, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-03 22:12 UTC"
-  },
-  {
-    "title": "Senior Machine Learning Engineer",
-    "company": "Docusign Women in Sales",
-    "link": "https://www.linkedin.com/jobs/view/senior-machine-learning-engineer-at-docusign-women-in-sales-4447980755?position=6&pageNum=0&refId=x46HTI5SYeB%2B31BDbcUNZQ%3D%3D&trackingId=zceigvvj896m3U8vzacXRQ%3D%3D",
-    "location": "Seattle, WA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-03 22:12 UTC"
-  },
-  {
-    "title": "Principal Machine Learning Engineer- AI Context",
-    "company": "Ladders",
-    "link": "https://www.linkedin.com/jobs/view/principal-machine-learning-engineer-ai-context-at-ladders-4445892411?position=8&pageNum=0&refId=x46HTI5SYeB%2B31BDbcUNZQ%3D%3D&trackingId=fQoB4eAvlLA8WVikuy6Xpw%3D%3D",
-    "location": "United States",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-03 22:12 UTC"
-  },
-  {
-    "title": "Machine Learning Engineer, Search - USDS",
-    "company": "TikTok USDS Joint Venture",
-    "link": "https://www.linkedin.com/jobs/view/machine-learning-engineer-search-usds-at-tiktok-usds-joint-venture-4448390595?position=9&pageNum=0&refId=x46HTI5SYeB%2B31BDbcUNZQ%3D%3D&trackingId=de%2B%2FGvMkHWpLTZArnmixbQ%3D%3D",
-    "location": "San Jose, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-03 22:12 UTC"
   }
 ]
