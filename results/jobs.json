@@ -1,5 +1,35 @@
 [
   {
+    "title": "Data Scientist",
+    "company": "RADcube",
+    "link": "https://www.linkedin.com/jobs/view/data-scientist-at-radcube-4448748189?position=10&pageNum=0&refId=GEzwEVfCXdSAvzf5O4ONkw%3D%3D&trackingId=%2FbjGVvYf3%2FdAYHbBixK8rw%3D%3D",
+    "location": "Indianapolis, IN",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-07 10:05 UTC"
+  },
+  {
+    "title": "Machine Learning Engineer",
+    "company": "Recruiting from Scratch",
+    "link": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-recruiting-from-scratch-4450304107?position=7&pageNum=0&refId=4kniNF%2B14nkxrOyVXM2gbw%3D%3D&trackingId=2h6bXviplV%2FgDwspECE0NA%3D%3D",
+    "location": "New York, NY",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-07 10:05 UTC"
+  },
+  {
+    "title": "Data Engineer (Databricks/AWS)",
+    "company": "RADcube",
+    "link": "https://www.linkedin.com/jobs/view/data-engineer-databricks-aws-at-radcube-4450681773?position=11&pageNum=0&refId=CKpsBpE2yTgR9JSd3455nQ%3D%3D&trackingId=8wy7w00JuqLSz8JwV%2Bp8Qg%3D%3D",
+    "location": "Indianapolis, IN",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-07 10:05 UTC"
+  },
+  {
     "title": "AI Data Analyst",
     "company": "RoibyRoy",
     "link": "https://www.linkedin.com/jobs/view/ai-data-analyst-at-roibyroy-4448700996?position=2&pageNum=0&refId=6JhcxjVm%2FCy59g%2FCuqMSdQ%3D%3D&trackingId=dB5FnX84yVHMlyKX%2B7UIMA%3D%3D",
@@ -2964,36 +2994,6 @@
     "company": "Snowrelic Inc",
     "link": "https://www.linkedin.com/jobs/view/data-analyst-at-snowrelic-inc-4448614553?position=6&pageNum=0&refId=MeWU%2BkXu2QWhD8TX1bszKg%3D%3D&trackingId=zRQSYsFG9%2BUrEnPJh%2BDb1w%3D%3D",
     "location": "United States",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-03 22:12 UTC"
-  },
-  {
-    "title": "Data Analyst",
-    "company": "Staffing Spot, Inc.",
-    "link": "https://www.linkedin.com/jobs/view/data-analyst-at-staffing-spot-inc-4448242482?position=8&pageNum=0&refId=MeWU%2BkXu2QWhD8TX1bszKg%3D%3D&trackingId=U0h7hzsAwTNnWeGCnM%2Bhxw%3D%3D",
-    "location": "United States",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-03 22:12 UTC"
-  },
-  {
-    "title": "AI Engineer",
-    "company": "InfoServ LLC",
-    "link": "https://www.linkedin.com/jobs/view/ai-engineer-at-infoserv-llc-4446245579?position=4&pageNum=0&refId=TGGkagtjtwTrj1pjY%2Fvtzw%3D%3D&trackingId=1dUvxzRfhxqe6YBB4SY4jw%3D%3D",
-    "location": "New York City Metropolitan Area",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-03 22:12 UTC"
-  },
-  {
-    "title": "AI Engineer",
-    "company": "Sibitalent Corp",
-    "link": "https://www.linkedin.com/jobs/view/ai-engineer-at-sibitalent-corp-4446210509?position=5&pageNum=0&refId=TGGkagtjtwTrj1pjY%2Fvtzw%3D%3D&trackingId=G0TJn3oaO7t%2F4AirLnI14Q%3D%3D",
-    "location": "Whippany, NJ",
     "source": "LinkedIn",
     "h1b_signal": false,
     "summary": "",
