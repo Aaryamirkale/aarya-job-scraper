@@ -1,5 +1,15 @@
 [
   {
+    "title": "Senior Data Engineer",
+    "company": "Cortex",
+    "link": "https://www.linkedin.com/jobs/view/senior-data-engineer-at-cortex-4449223558?position=12&pageNum=0&refId=lnTtks%2FE2QOjPPUbgWdIYA%3D%3D&trackingId=LLGj52k16UDmlgnk6lItFQ%3D%3D",
+    "location": "New York, NY",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-08 15:36 UTC"
+  },
+  {
     "title": "Data Scientist III - Fraud Analytics & Machine Learning",
     "company": "Walmart Global Tech",
     "link": "https://www.linkedin.com/jobs/view/data-scientist-iii-fraud-analytics-machine-learning-at-walmart-global-tech-4449236295?position=12&pageNum=0&refId=Kf%2FnndTId3jTb2l6gxRI9g%3D%3D&trackingId=ELTjYB55f2Y1Pe26RvOUJg%3D%3D",
@@ -2987,16 +2997,6 @@
     "source": "LinkedIn",
     "h1b_signal": false,
     "summary": "",
-    "found_at": "2026-08-04 19:46 UTC"
-  },
-  {
-    "title": "Data Scientist, Prime Video Science",
-    "company": "Amazon",
-    "link": "https://www.amazon.jobs/en/jobs/10492077/data-scientist-prime-video-science",
-    "location": "US, WA, Seattle",
-    "source": "Amazon Careers",
-    "h1b_signal": true,
-    "summary": "The Prime Video Science team leverages the latest in machine learning and AI techniques combined with causal inference to bring scientific rigor to the biggest decisions in entertainment: what content",
     "found_at": "2026-08-04 19:46 UTC"
   }
 ]
