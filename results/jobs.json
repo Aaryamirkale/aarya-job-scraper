@@ -1,5 +1,45 @@
 [
   {
+    "title": "Data Scientist III - Fraud Analytics & Machine Learning",
+    "company": "Walmart Global Tech",
+    "link": "https://www.linkedin.com/jobs/view/data-scientist-iii-fraud-analytics-machine-learning-at-walmart-global-tech-4449236295?position=12&pageNum=0&refId=Kf%2FnndTId3jTb2l6gxRI9g%3D%3D&trackingId=ELTjYB55f2Y1Pe26RvOUJg%3D%3D",
+    "location": "Bentonville, AR",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-08 13:02 UTC"
+  },
+  {
+    "title": "Data Engineer - Senior/Lead",
+    "company": "Salesforce",
+    "link": "https://www.linkedin.com/jobs/view/data-engineer-senior-lead-at-salesforce-4450523337?position=12&pageNum=0&refId=am%2BrcikqEdwoUxOkiRE6gg%3D%3D&trackingId=VMdV92qdSEQrnE6s9qa3xQ%3D%3D",
+    "location": "San Francisco, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-08 13:02 UTC"
+  },
+  {
+    "title": "Lead Product Analyst, Lifecycle Marketing",
+    "company": "Pinterest",
+    "link": "https://www.linkedin.com/jobs/view/lead-product-analyst-lifecycle-marketing-at-pinterest-4414501566?position=11&pageNum=0&refId=%2BYmmrkQVRBoz5qmoBkrpPA%3D%3D&trackingId=Cfv6G5lVEPNdHv040z1n2w%3D%3D",
+    "location": "New York, NY",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-08 13:03 UTC"
+  },
+  {
+    "title": "Research Scientist, Gemini Commercial Intelligence, DeepMind",
+    "company": "Google DeepMind",
+    "link": "https://www.linkedin.com/jobs/view/research-scientist-gemini-commercial-intelligence-deepmind-at-google-deepmind-4441339625?position=11&pageNum=0&refId=jxGOmXXZc9rcdRkpAPJ0EA%3D%3D&trackingId=5lFrJSITTVeiq0NPXx4h%2Fw%3D%3D",
+    "location": "Mountain View, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-08 13:03 UTC"
+  },
+  {
     "title": "Sr. Product Analyst, Shield Devices",
     "company": "Comcast",
     "link": "https://www.linkedin.com/jobs/view/sr-product-analyst-shield-devices-at-comcast-4450583522?position=4&pageNum=0&refId=gjKJWPYKyUiNtrHlP5iVSQ%3D%3D&trackingId=N%2BucOj3B5dbKMk%2F6SEeiQg%3D%3D",
@@ -2958,45 +2998,5 @@
     "h1b_signal": true,
     "summary": "The Prime Video Science team leverages the latest in machine learning and AI techniques combined with causal inference to bring scientific rigor to the biggest decisions in entertainment: what content",
     "found_at": "2026-08-04 19:46 UTC"
-  },
-  {
-    "title": "Applied Scientist - Reinforcement learning, OMHS SCS",
-    "company": "Amazon",
-    "link": "https://www.amazon.jobs/en/jobs/10492036/applied-scientist-reinforcement-learning-omhs-scs",
-    "location": "US, MA, N.reading",
-    "source": "Amazon Careers",
-    "h1b_signal": true,
-    "summary": "As an Applied Scientist on the Science SW team, you will collaborate closely with other scientists and engineers to bring Reinforcement Learning (RL) research to production. This role combines the sci",
-    "found_at": "2026-08-04 19:46 UTC"
-  },
-  {
-    "title": "Sr. Applied Scientist, Foundation Model Build, WW Sustainability",
-    "company": "Amazon",
-    "link": "https://www.amazon.jobs/en/jobs/10492031/sr-applied-scientist-foundation-model-build-ww-sustainability",
-    "location": "US, WA, Seattle",
-    "source": "Amazon Careers",
-    "h1b_signal": true,
-    "summary": "Build AI systems that help Amazon make better sustainability decisions at global scale. Our research questions require more than applying an existing model: they require new scientific methods, trustw",
-    "found_at": "2026-08-04 19:46 UTC"
-  },
-  {
-    "title": "Data Engineer, Support Product&Services",
-    "company": "Amazon",
-    "link": "https://www.amazon.jobs/en/jobs/10492138/data-engineer-support-product-services",
-    "location": "US, WA, Seattle",
-    "source": "Amazon Careers",
-    "h1b_signal": true,
-    "summary": "Amazon Advertising's Self-Service Support team ensures that advertisers using our applications can answer their own questions or solve their own problems whenever possible through Help content \u2014 and h",
-    "found_at": "2026-08-04 19:46 UTC"
-  },
-  {
-    "title": "Data Scientist",
-    "company": "Altak Group Inc.",
-    "link": "https://www.linkedin.com/jobs/view/data-scientist-at-altak-group-inc-4448873926?position=2&pageNum=0&refId=kPQsUe8Z9JwjK3Eic8jEUQ%3D%3D&trackingId=p%2FZE0%2BZ5NYIE8ABbKv7nmA%3D%3D",
-    "location": "United States",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-04 16:57 UTC"
   }
 ]
