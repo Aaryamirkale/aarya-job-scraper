@@ -1,5 +1,45 @@
 [
   {
+    "title": "Software Engineer II: Data Engineer",
+    "company": "JPMorganChase",
+    "link": "https://www.linkedin.com/jobs/view/software-engineer-ii-data-engineer-at-jpmorganchase-4451343863?position=7&pageNum=0&refId=ua1axLSg0y9%2B86js5eZpNQ%3D%3D&trackingId=q8rtgqXp5DBbiE1rEoPVVQ%3D%3D",
+    "location": "Jersey City, NJ",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-09 18:51 UTC"
+  },
+  {
+    "title": "PLM Product Analyst",
+    "company": "Focused Consulting, Inc.",
+    "link": "https://www.linkedin.com/jobs/view/plm-product-analyst-at-focused-consulting-inc-4450931926?position=11&pageNum=0&refId=vJp09yYV7dnDyQeJtoltwg%3D%3D&trackingId=nlUjX1zJ3X1ywFI%2BsVOg%2BA%3D%3D",
+    "location": "Indiana, United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-09 18:52 UTC"
+  },
+  {
+    "title": "Sr Research Scientist",
+    "company": "Elanco",
+    "link": "https://www.linkedin.com/jobs/view/sr-research-scientist-at-elanco-4397071041?position=8&pageNum=0&refId=15Isjaw4ASglKoNFaAU7wg%3D%3D&trackingId=JISSuQoxvMfNQBs6arr0MQ%3D%3D",
+    "location": "Indianapolis, IN",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-09 18:52 UTC"
+  },
+  {
+    "title": "Senior Research Scientist",
+    "company": "NYU Langone Health",
+    "link": "https://www.linkedin.com/jobs/view/senior-research-scientist-at-nyu-langone-health-4373641716?position=10&pageNum=0&refId=15Isjaw4ASglKoNFaAU7wg%3D%3D&trackingId=5zR%2FNcJHo%2BRhS4B%2FSRVGBw%3D%3D",
+    "location": "New York, NY",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-09 18:52 UTC"
+  },
+  {
     "title": "AI Data Scientist",
     "company": "USAA",
     "link": "https://www.linkedin.com/jobs/view/ai-data-scientist-at-usaa-4449284309?position=9&pageNum=0&refId=EkRcJtDPwX4u%2BEzR0T3KEA%3D%3D&trackingId=sI2qIfTM8XP9IJ8ZuhyRTw%3D%3D",
@@ -2958,45 +2998,5 @@
     "h1b_signal": false,
     "summary": "",
     "found_at": "2026-08-05 08:46 UTC"
-  },
-  {
-    "title": "Research Scientist, AI for Clinical Translatability",
-    "company": "NVIDIA AI",
-    "link": "https://www.linkedin.com/jobs/view/research-scientist-ai-for-clinical-translatability-at-nvidia-ai-4447376454?position=12&pageNum=0&refId=ggp4zLAj%2FJgZjWnCjtJkUQ%3D%3D&trackingId=PWDqGsEnZPGRIg%2BNsJKvIw%3D%3D",
-    "location": "Santa Clara, NY",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-05 08:46 UTC"
-  },
-  {
-    "title": "Senior Applied Research Scientist",
-    "company": "NVIDIA AI",
-    "link": "https://www.linkedin.com/jobs/view/senior-applied-research-scientist-at-nvidia-ai-4447367997?position=3&pageNum=0&refId=ONTGRLZtpYq1RGCnc0ii7Q%3D%3D&trackingId=n1QXlSrDVG2h13eiwoxVOw%3D%3D",
-    "location": "Santa Clara, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-05 08:46 UTC"
-  },
-  {
-    "title": "Data Scientist",
-    "company": "SATYA SOFT SOLUTIONS",
-    "link": "https://www.linkedin.com/jobs/view/data-scientist-at-satya-soft-solutions-4449091201?position=3&pageNum=0&refId=VJExnPXvV6rHmMahKXsD0Q%3D%3D&trackingId=XglxK5WWFfrMwN9fE6%2FxBg%3D%3D",
-    "location": "Kansas City, MO",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-05 03:18 UTC"
-  },
-  {
-    "title": "Data Scientist",
-    "company": "CareerZen",
-    "link": "https://www.linkedin.com/jobs/view/data-scientist-at-careerzen-4449092889?position=8&pageNum=0&refId=VJExnPXvV6rHmMahKXsD0Q%3D%3D&trackingId=xIJB3cpjsp3FvyV%2BhXrkxg%3D%3D",
-    "location": "Irvine, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-05 03:18 UTC"
   }
 ]
