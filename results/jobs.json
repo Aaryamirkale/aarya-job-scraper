@@ -1,5 +1,25 @@
 [
   {
+    "title": "Staff AI Data Analytics Engineer",
+    "company": "Symbotic",
+    "link": "https://www.linkedin.com/jobs/view/staff-ai-data-analytics-engineer-at-symbotic-4414649042?position=12&pageNum=0&refId=FuiJG8qrV%2FTmcBGbBCuNTA%3D%3D&trackingId=qFb7NA7u6Dt50zOdfcfPnw%3D%3D",
+    "location": "Wilmington, MA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-09 07:06 UTC"
+  },
+  {
+    "title": "Morgan Health - Data Science & Research - Senior Associate",
+    "company": "hackajob",
+    "link": "https://www.linkedin.com/jobs/view/morgan-health-data-science-research-senior-associate-at-hackajob-4450925865?position=8&pageNum=0&refId=hjnHvaePS0pXgVglHmF0%2Bw%3D%3D&trackingId=1wqMBKIVKjpv%2FA0KYR%2Fb7w%3D%3D",
+    "location": "Washington, DC",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-09 07:06 UTC"
+  },
+  {
     "title": "AI & Machine Learning Engineer",
     "company": "USAA",
     "link": "https://www.linkedin.com/jobs/view/ai-machine-learning-engineer-at-usaa-4449291064?position=11&pageNum=0&refId=9Yz6EgaxSArGNIhR7OuG3Q%3D%3D&trackingId=Ec4Q1xAgLzaZuJdw%2BNFcKA%3D%3D",
@@ -2978,25 +2998,5 @@
     "h1b_signal": false,
     "summary": "",
     "found_at": "2026-08-05 03:18 UTC"
-  },
-  {
-    "title": "STAFF RESEARCH SCIENTIST",
-    "company": "H1B Metrics",
-    "link": "https://www.linkedin.com/jobs/view/staff-research-scientist-at-h1b-metrics-4449080853?position=1&pageNum=0&refId=BoEgH4tDeBVTFYhx9yFLhA%3D%3D&trackingId=1pa5x8nTBfx6TlYEGNtEYQ%3D%3D",
-    "location": "Palo Alto, CA",
-    "source": "LinkedIn",
-    "h1b_signal": true,
-    "summary": "",
-    "found_at": "2026-08-05 03:18 UTC"
-  },
-  {
-    "title": "Data Scientist",
-    "company": "YASH Technologies",
-    "link": "https://www.linkedin.com/jobs/view/data-scientist-at-yash-technologies-4448576676?position=3&pageNum=0&refId=cxRkJxQebRXGCZ1EKVM1zw%3D%3D&trackingId=zL%2Fhu0Heaik98SfmhNiZAA%3D%3D",
-    "location": "St Louis, MO",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-04 22:18 UTC"
   }
 ]
