@@ -1,5 +1,55 @@
 [
   {
+    "title": "Applied ML Engineer",
+    "company": "SwiftCruit",
+    "link": "https://www.linkedin.com/jobs/view/applied-ml-engineer-at-swiftcruit-4451333454?position=4&pageNum=0&refId=%2B5EpXgy6vT5cFGeAPqGYqA%3D%3D&trackingId=d6vqCRuDoDA6s546xKZE4g%3D%3D",
+    "location": "New York, NY",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-09 13:05 UTC"
+  },
+  {
+    "title": "AI Engineer - Forward Deployed",
+    "company": "Moring AI",
+    "link": "https://www.linkedin.com/jobs/view/ai-engineer-forward-deployed-at-moring-ai-4450929015?position=12&pageNum=0&refId=3sK%2F8V5jzzIsphDooqACkQ%3D%3D&trackingId=bqEF8ulxIFOWJy44aAI6UQ%3D%3D",
+    "location": "Atlanta, GA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-09 13:05 UTC"
+  },
+  {
+    "title": "Data Engineer Sr",
+    "company": "Beazer Homes",
+    "link": "https://www.linkedin.com/jobs/view/data-engineer-sr-at-beazer-homes-4433292280?position=9&pageNum=0&refId=vYmCJ8qDWluyJMHjv6m5og%3D%3D&trackingId=y%2FZntMYPeQpPkdG9RGYlrw%3D%3D",
+    "location": "Atlanta, GA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-09 13:05 UTC"
+  },
+  {
+    "title": "Data Engineer",
+    "company": "Red Cat Holdings",
+    "link": "https://www.linkedin.com/jobs/view/data-engineer-at-red-cat-holdings-4405341915?position=11&pageNum=0&refId=vYmCJ8qDWluyJMHjv6m5og%3D%3D&trackingId=FQjvIPkyLR%2B1lLoBTke6Nw%3D%3D",
+    "location": "Salt Lake City, UT",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-09 13:05 UTC"
+  },
+  {
+    "title": "Senior MLOps Engineer II (AI Native)",
+    "company": "Life360",
+    "link": "https://www.linkedin.com/jobs/view/senior-mlops-engineer-ii-ai-native-at-life360-4424921335?position=6&pageNum=0&refId=n97GnxC7%2FTCHnPRMe1wvGA%3D%3D&trackingId=LSZ6GDOiBNlkyDmXz%2F64xA%3D%3D",
+    "location": "United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-09 13:05 UTC"
+  },
+  {
     "title": "Machine Learning Engineer",
     "company": "Unissant",
     "link": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-unissant-4451095511?position=12&pageNum=0&refId=cmdhSJp6IQ47ae1OR9EINA%3D%3D&trackingId=MDDIbOu2o%2FFWkZmr5UCByA%3D%3D",
@@ -2944,56 +2994,6 @@
     "company": "TikTok",
     "link": "https://www.linkedin.com/jobs/view/data-engineer-graduate-monetization-data-2027-start-at-tiktok-4448272958?position=9&pageNum=0&refId=d81044lhoMv4wb5eeXJEvA%3D%3D&trackingId=v8dnidHUS1%2Blp5qsy1IxMA%3D%3D",
     "location": "San Jose, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-05 03:18 UTC"
-  },
-  {
-    "title": "Data Engineer Intern",
-    "company": "Baynovation, LLC",
-    "link": "https://www.linkedin.com/jobs/view/data-engineer-intern-at-baynovation-llc-4447326543?position=11&pageNum=0&refId=d81044lhoMv4wb5eeXJEvA%3D%3D&trackingId=Fk8a%2Fu3YWnQlRwj6K0H4jQ%3D%3D",
-    "location": "San Jose, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-05 03:18 UTC"
-  },
-  {
-    "title": "Senior MLOps Engineer",
-    "company": "\u014cURA",
-    "link": "https://www.linkedin.com/jobs/view/senior-mlops-engineer-at-%C5%8Dura-4447310293?position=3&pageNum=0&refId=%2Bm9%2BOkq3%2BiM1u80Nxiayhw%3D%3D&trackingId=Qog4kB914U8%2BVmezJHdhDQ%3D%3D",
-    "location": "United States",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-05 03:18 UTC"
-  },
-  {
-    "title": "Staff AI Engineer  (L4)",
-    "company": "WEX",
-    "link": "https://www.linkedin.com/jobs/view/staff-ai-engineer-l4-at-wex-4449094148?position=12&pageNum=0&refId=%2Bm9%2BOkq3%2BiM1u80Nxiayhw%3D%3D&trackingId=xvnnebj7kDLIdu0REPHovQ%3D%3D",
-    "location": "Maine, United States",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-05 03:18 UTC"
-  },
-  {
-    "title": "Senior Analytics Engineer, GFCO Analytics",
-    "company": "Coinbase",
-    "link": "https://www.linkedin.com/jobs/view/senior-analytics-engineer-gfco-analytics-at-coinbase-4449095659?position=3&pageNum=0&refId=gdFwgRu1Uzn7NHj6flfYCw%3D%3D&trackingId=jQ8Bfz0uaWgRX1ZZpjQhXQ%3D%3D",
-    "location": "San Francisco, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-05 03:18 UTC"
-  },
-  {
-    "title": "Staff Analytics Engineer",
-    "company": "Taptap Send",
-    "link": "https://www.linkedin.com/jobs/view/staff-analytics-engineer-at-taptap-send-4439428388?position=6&pageNum=0&refId=gdFwgRu1Uzn7NHj6flfYCw%3D%3D&trackingId=gDUx1PhZ1NU9gNf89VMt2Q%3D%3D",
-    "location": "New York, NY",
     "source": "LinkedIn",
     "h1b_signal": false,
     "summary": "",
