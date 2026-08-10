@@ -1,5 +1,65 @@
 [
   {
+    "title": "(USA) Senior, Data Scientist",
+    "company": "Walmart Global Tech",
+    "link": "https://www.linkedin.com/jobs/view/usa-senior-data-scientist-at-walmart-global-tech-4420792068?position=12&pageNum=0&refId=HIfUIDr%2B4PkUXpVIsjly1Q%3D%3D&trackingId=z0CHgZUWC36E1fNyQVVxOg%3D%3D",
+    "location": "Bellevue, WA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-10 10:24 UTC"
+  },
+  {
+    "title": "AI Engineer [33414]",
+    "company": "Stealth Startup",
+    "link": "https://www.linkedin.com/jobs/view/ai-engineer-33414-at-stealth-startup-4449538814?position=2&pageNum=0&refId=iKHuLkTQFoqf%2FQOOkmNAjA%3D%3D&trackingId=XN70XYx0tOY5yI0jkec4mA%3D%3D",
+    "location": "San Francisco, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-10 10:24 UTC"
+  },
+  {
+    "title": "Business Intelligence Analyst",
+    "company": "RemoteHunter",
+    "link": "https://www.linkedin.com/jobs/view/business-intelligence-analyst-at-remotehunter-4451128104?position=11&pageNum=0&refId=E0YK%2FB9LWLWjTM7WCHxEbw%3D%3D&trackingId=Jocfmuy1IN7U2qwOPKg1pQ%3D%3D",
+    "location": "United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-10 10:24 UTC"
+  },
+  {
+    "title": "Staff Data Engineer - US",
+    "company": "Teleport",
+    "link": "https://www.linkedin.com/jobs/view/staff-data-engineer-us-at-teleport-4451506165?position=9&pageNum=0&refId=cMy544w9egrZ4y5dGaePrg%3D%3D&trackingId=hH4GZFXPh%2FzauaItifFqpg%3D%3D",
+    "location": "Seattle, WA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-10 10:24 UTC"
+  },
+  {
+    "title": "Gen AI Engineer",
+    "company": "Elevance Health",
+    "link": "https://www.linkedin.com/jobs/view/gen-ai-engineer-at-elevance-health-4430475938?position=9&pageNum=0&refId=VwLsCEFmb2TB2K1GRs377g%3D%3D&trackingId=uS%2B8jz6eXj2F7q6T7lcfUA%3D%3D",
+    "location": "Atlanta, GA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-10 10:24 UTC"
+  },
+  {
+    "title": "Research Scientist, Gemini Audio i18n, DeepMind",
+    "company": "Google DeepMind",
+    "link": "https://www.linkedin.com/jobs/view/research-scientist-gemini-audio-i18n-deepmind-at-google-deepmind-4451125387?position=7&pageNum=0&refId=gfkkK1GrigoJR7lUIV83jw%3D%3D&trackingId=oSNZiIEc%2Ff8F46HBEPq%2F0Q%3D%3D",
+    "location": "New York, NY",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-10 10:24 UTC"
+  },
+  {
     "title": "Business Intelligence Analyst 2",
     "company": "Dexcom",
     "link": "https://www.linkedin.com/jobs/view/business-intelligence-analyst-2-at-dexcom-4451394948?position=9&pageNum=0&refId=4AlwrClOuiNQJ%2B801cxoyQ%3D%3D&trackingId=mcSySzwBcgmSWd3kYoz6ew%3D%3D",
@@ -2938,65 +2998,5 @@
     "h1b_signal": false,
     "summary": "",
     "found_at": "2026-08-05 11:25 UTC"
-  },
-  {
-    "title": "Quant/Data Scientist",
-    "company": "Prediction Machine LLC",
-    "link": "https://www.linkedin.com/jobs/view/quant-data-scientist-at-prediction-machine-llc-4447351201?position=4&pageNum=0&refId=A1IE1uwRk01B%2BwBEdlWysw%3D%3D&trackingId=Q3TBISfqS3a%2BNhr9ad6iDw%3D%3D",
-    "location": "San Francisco Bay Area",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-05 08:46 UTC"
-  },
-  {
-    "title": "Data Scientist",
-    "company": "Baynovation, LLC",
-    "link": "https://www.linkedin.com/jobs/view/data-scientist-at-baynovation-llc-4447325565?position=5&pageNum=0&refId=A1IE1uwRk01B%2BwBEdlWysw%3D%3D&trackingId=KHywkWkO6B9Uik5Fn4D%2BQw%3D%3D",
-    "location": "San Jose, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-05 08:46 UTC"
-  },
-  {
-    "title": "Data Scientist",
-    "company": "Zof AI",
-    "link": "https://www.linkedin.com/jobs/view/data-scientist-at-zof-ai-4448964714?position=10&pageNum=0&refId=A1IE1uwRk01B%2BwBEdlWysw%3D%3D&trackingId=IXc11vimwu2vCK60cEWxsQ%3D%3D",
-    "location": "San Francisco, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-05 08:46 UTC"
-  },
-  {
-    "title": "AI/ML Engineer",
-    "company": "Fyvorex",
-    "link": "https://www.linkedin.com/jobs/view/ai-ml-engineer-at-fyvorex-4449419901?position=7&pageNum=0&refId=stZXROghZWTo8HYHPDDY6A%3D%3D&trackingId=zRGFBETP2%2F%2FBNvMPEtpOow%3D%3D",
-    "location": "New York, NY",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-05 08:46 UTC"
-  },
-  {
-    "title": "AI / ML Engineer",
-    "company": "Abstractive Labs",
-    "link": "https://www.linkedin.com/jobs/view/ai-ml-engineer-at-abstractive-labs-4447332513?position=8&pageNum=0&refId=stZXROghZWTo8HYHPDDY6A%3D%3D&trackingId=opY%2B0VwTxi9tbat%2BwqwfpA%3D%3D",
-    "location": "Metro Jacksonville",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-05 08:46 UTC"
-  },
-  {
-    "title": "Machine Learning Engineer",
-    "company": "Canvas Fundamental Research Group",
-    "link": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-canvas-fundamental-research-group-4449412598?position=10&pageNum=0&refId=stZXROghZWTo8HYHPDDY6A%3D%3D&trackingId=Ex4xGG%2BATj9IkZ%2FkW5AgCQ%3D%3D",
-    "location": "New York, United States",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-05 08:46 UTC"
   }
 ]
