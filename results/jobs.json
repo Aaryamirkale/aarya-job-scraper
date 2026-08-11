@@ -1,5 +1,65 @@
 [
   {
+    "title": "Applied AI Engineer",
+    "company": "Rillet",
+    "link": "https://www.linkedin.com/jobs/view/applied-ai-engineer-at-rillet-4407160860?position=10&pageNum=0&refId=EKvT0N9Ct%2Fk%2FBofp6pK8JQ%3D%3D&trackingId=edq%2BhXv%2BLH5ycNT1yEZLHw%3D%3D",
+    "location": "San Francisco, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-11 13:26 UTC"
+  },
+  {
+    "title": "AI Engineer",
+    "company": "Generative Futures",
+    "link": "https://www.linkedin.com/jobs/view/ai-engineer-at-generative-futures-4451665336?position=2&pageNum=0&refId=5D6q2bWSUiv0mAK4hlvQWw%3D%3D&trackingId=NKRb19VTR4HVVNyprLEf%2BA%3D%3D",
+    "location": "Miami, FL",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-11 13:26 UTC"
+  },
+  {
+    "title": "Data Engineer",
+    "company": "Air Apps",
+    "link": "https://www.linkedin.com/jobs/view/data-engineer-at-air-apps-4452446345?position=2&pageNum=0&refId=dp6UM7A70ev3OEn%2FfYjwcw%3D%3D&trackingId=FY%2F0ZnWNQUSMjvERCTxufQ%3D%3D",
+    "location": "San Francisco, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-11 13:26 UTC"
+  },
+  {
+    "title": "Senior Data Scientist",
+    "company": "i-Pharm Consulting",
+    "link": "https://www.linkedin.com/jobs/view/senior-data-scientist-at-i-pharm-consulting-4451673999?position=10&pageNum=0&refId=zEZldu4cwqQYDzuozAqBow%3D%3D&trackingId=RCKwW6Xtr4phvUoFQXsVWA%3D%3D",
+    "location": "Philadelphia, PA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-11 13:26 UTC"
+  },
+  {
+    "title": "Product Analyst",
+    "company": "Air Apps",
+    "link": "https://www.linkedin.com/jobs/view/product-analyst-at-air-apps-4452449229?position=1&pageNum=0&refId=btzADGzCTMXi65kBaC32gQ%3D%3D&trackingId=CxiJf8kpgOzRDP98WqlyUg%3D%3D",
+    "location": "San Francisco, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-11 13:26 UTC"
+  },
+  {
+    "title": "Data Analyst",
+    "company": "Air Apps",
+    "link": "https://www.linkedin.com/jobs/view/data-analyst-at-air-apps-4452434641?position=7&pageNum=0&refId=btzADGzCTMXi65kBaC32gQ%3D%3D&trackingId=bY7EDSMM73UGH9vCeTGckA%3D%3D",
+    "location": "San Francisco, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-11 13:26 UTC"
+  },
+  {
     "title": "Staff Analytics Engineer - Product",
     "company": "GEICO",
     "link": "https://www.linkedin.com/jobs/view/staff-analytics-engineer-product-at-geico-4451627867?position=1&pageNum=0&refId=NAF4tlExlT0Q%2FdYzqVGSaw%3D%3D&trackingId=h1kEGbsA%2BBmSmiDJQQfo%2Fw%3D%3D",
@@ -2938,65 +2998,5 @@
     "h1b_signal": false,
     "summary": "",
     "found_at": "2026-08-06 03:21 UTC"
-  },
-  {
-    "title": "Research Scientist \u2013 Molecular Diagnostics",
-    "company": "Bosch USA",
-    "link": "https://www.linkedin.com/jobs/view/research-scientist-%E2%80%93-molecular-diagnostics-at-bosch-usa-4448075530?position=3&pageNum=0&refId=iTIuSYWD%2BrSxuRQFb9CBAQ%3D%3D&trackingId=%2Fxqk4Z7aB4IhIgPsONuTCg%3D%3D",
-    "location": "Sunnyvale, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-06 03:21 UTC"
-  },
-  {
-    "title": "Senior Research Scientist \u2013 Molecular Diagnostics",
-    "company": "Bosch USA",
-    "link": "https://www.linkedin.com/jobs/view/senior-research-scientist-%E2%80%93-molecular-diagnostics-at-bosch-usa-4448066573?position=8&pageNum=0&refId=iTIuSYWD%2BrSxuRQFb9CBAQ%3D%3D&trackingId=sDZwKY1ayksvGPragBpOUg%3D%3D",
-    "location": "Sunnyvale, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-06 03:21 UTC"
-  },
-  {
-    "title": "Data Scientist",
-    "company": "Experis",
-    "link": "https://www.linkedin.com/jobs/view/data-scientist-at-experis-4449309180?position=3&pageNum=0&refId=Z3jkafD8jmU7miaUOeb%2FmQ%3D%3D&trackingId=tUInPWvRY2GLM2JAFfH8CQ%3D%3D",
-    "location": "Chester, NY",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-05 22:16 UTC"
-  },
-  {
-    "title": "Senior Data Scientist",
-    "company": "Nash",
-    "link": "https://www.linkedin.com/jobs/view/senior-data-scientist-at-nash-4449912314?position=9&pageNum=0&refId=Z3jkafD8jmU7miaUOeb%2FmQ%3D%3D&trackingId=yGS8%2Bp4yqHNJGZToIypFPQ%3D%3D",
-    "location": "San Francisco, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-05 22:16 UTC"
-  },
-  {
-    "title": "Data Analyst",
-    "company": "Air",
-    "link": "https://www.linkedin.com/jobs/view/data-analyst-at-air-4438829305?position=8&pageNum=0&refId=tGRvJh6GymH8YBiyjr52AQ%3D%3D&trackingId=JqeQDE5gf5fcxxrKeOoUhg%3D%3D",
-    "location": "Arlington, VA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-05 22:16 UTC"
-  },
-  {
-    "title": "Data Engineer",
-    "company": "Sequoia Financial Group",
-    "link": "https://www.linkedin.com/jobs/view/data-engineer-at-sequoia-financial-group-4448038828?position=4&pageNum=0&refId=2V13iCfjyZMHXv%2BE7CI4%2Bg%3D%3D&trackingId=GyQwxnkdFM%2BaQAnA12uB9g%3D%3D",
-    "location": "Bloomington, MN",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-05 22:16 UTC"
   }
 ]
