@@ -1,6 +1,76 @@
 [
   {
     "title": "Machine Learning Engineer II",
+    "company": "S&P Global",
+    "link": "https://www.linkedin.com/jobs/view/machine-learning-engineer-ii-at-s-p-global-4452307991?position=9&pageNum=0&refId=h0y3DDoO%2Bo8xYGvpTYcxFQ%3D%3D&trackingId=Y4hVkyq1gBGQyJcbOrGRJQ%3D%3D",
+    "location": "New York, NY",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-12 04:53 UTC"
+  },
+  {
+    "title": "Data Engineer II - Snowflake, dbt, AWS",
+    "company": "Travelers",
+    "link": "https://www.linkedin.com/jobs/view/data-engineer-ii-snowflake-dbt-aws-at-travelers-4452342521?position=9&pageNum=0&refId=MUEPY0mW89xpixjKmFSAXw%3D%3D&trackingId=E%2BtgFTg3ofvluO3PucaQxA%3D%3D",
+    "location": "Hartford, CT",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-12 04:53 UTC"
+  },
+  {
+    "title": "Optimization Product Analyst",
+    "company": "Adyen",
+    "link": "https://www.linkedin.com/jobs/view/optimization-product-analyst-at-adyen-4451977727?position=12&pageNum=0&refId=wQSg81iWSYPy9jU3QLt64g%3D%3D&trackingId=z4nHJ1uzwYt1UIJrZh4dug%3D%3D",
+    "location": "Chicago, IL",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-12 04:53 UTC"
+  },
+  {
+    "title": "Senior Quantum Applied Research Scientist, Physics Modeling",
+    "company": "NVIDIA",
+    "link": "https://www.linkedin.com/jobs/view/senior-quantum-applied-research-scientist-physics-modeling-at-nvidia-4425528759?position=3&pageNum=0&refId=nyMw%2BovX3Z%2B1KrPb3IYfTw%3D%3D&trackingId=Cj2b%2Bh6IouwzBSR0lLwPVw%3D%3D",
+    "location": "California, United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-12 04:53 UTC"
+  },
+  {
+    "title": "Sr. Applied Scientist, Fauna",
+    "company": "Amazon",
+    "link": "https://www.linkedin.com/jobs/view/sr-applied-scientist-fauna-at-amazon-4443018670?position=5&pageNum=0&refId=nyMw%2BovX3Z%2B1KrPb3IYfTw%3D%3D&trackingId=YHG7lJhoUOlg%2BQf%2BAJIYpg%3D%3D",
+    "location": "Sunnyvale, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-12 04:53 UTC"
+  },
+  {
+    "title": "Applied Scientist II, Amazon AWS Agentic AI, AWS AI Fundamental Research",
+    "company": "Amazon Web Services (AWS)",
+    "link": "https://www.linkedin.com/jobs/view/applied-scientist-ii-amazon-aws-agentic-ai-aws-ai-fundamental-research-at-amazon-web-services-aws-4443031188?position=8&pageNum=0&refId=nyMw%2BovX3Z%2B1KrPb3IYfTw%3D%3D&trackingId=4u5QLtRCG0uLpAZgOperZg%3D%3D",
+    "location": "Santa Clara, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-12 04:53 UTC"
+  },
+  {
+    "title": "Applied Scientist, Device Team, AWS Center for Quantum Computing",
+    "company": "Amazon Web Services (AWS)",
+    "link": "https://www.linkedin.com/jobs/view/applied-scientist-device-team-aws-center-for-quantum-computing-at-amazon-web-services-aws-4443039537?position=12&pageNum=0&refId=nyMw%2BovX3Z%2B1KrPb3IYfTw%3D%3D&trackingId=4yvdw%2BhiWF2GQ2x1Oy6gtA%3D%3D",
+    "location": "Pasadena, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-12 04:53 UTC"
+  },
+  {
+    "title": "Machine Learning Engineer II",
     "company": "Kensho Technologies",
     "link": "https://www.linkedin.com/jobs/view/machine-learning-engineer-ii-at-kensho-technologies-4451975420?position=7&pageNum=0&refId=yLDAW8GiII3gZQyFu9drvw%3D%3D&trackingId=bDtrCLSMqS3OpljKsefAMg%3D%3D",
     "location": "New York, NY",
@@ -2924,76 +2994,6 @@
     "company": "Shipt",
     "link": "https://www.linkedin.com/jobs/view/data-scientist-at-shipt-4450289274?position=8&pageNum=0&refId=GgJMg9A7IQT9YD5F5W4L1w%3D%3D&trackingId=taD6CkdE1fxQgt7T7rf8%2BQ%3D%3D",
     "location": "California, United States",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-07 00:09 UTC"
-  },
-  {
-    "title": "AI Engineer | Data Science",
-    "company": "Suron",
-    "link": "https://www.linkedin.com/jobs/view/ai-engineer-data-science-at-suron-4449776100?position=9&pageNum=0&refId=GgJMg9A7IQT9YD5F5W4L1w%3D%3D&trackingId=oJxxT7fHtQveBj%2FJf2sDjQ%3D%3D",
-    "location": "New York City Metropolitan Area",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-07 00:09 UTC"
-  },
-  {
-    "title": "Data Scientist with AI/ML- NYC",
-    "company": "Softcom Systems Inc",
-    "link": "https://www.linkedin.com/jobs/view/data-scientist-with-ai-ml-nyc-at-softcom-systems-inc-4449742787?position=11&pageNum=0&refId=GgJMg9A7IQT9YD5F5W4L1w%3D%3D&trackingId=4FLUp7lq2wX52yn%2Bt%2B9HLw%3D%3D",
-    "location": "New York, United States",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-07 00:09 UTC"
-  },
-  {
-    "title": "Machine Learning Engineer",
-    "company": "Ingrain Systems Inc",
-    "link": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-ingrain-systems-inc-4450283653?position=1&pageNum=0&refId=k30bm34X8cq5CJPcbjj9MA%3D%3D&trackingId=4XB1fkbycvF4%2FUQ5PBYhBA%3D%3D",
-    "location": "Pleasanton, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-07 00:09 UTC"
-  },
-  {
-    "title": "Machine Learning Engineer",
-    "company": "Altera",
-    "link": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-altera-4450293429?position=4&pageNum=0&refId=k30bm34X8cq5CJPcbjj9MA%3D%3D&trackingId=6N5mmASg2Adh%2BdpKhiefkw%3D%3D",
-    "location": "San Jose, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-07 00:09 UTC"
-  },
-  {
-    "title": "AI Engineer",
-    "company": "Corridor",
-    "link": "https://www.linkedin.com/jobs/view/ai-engineer-at-corridor-4448474376?position=8&pageNum=0&refId=k30bm34X8cq5CJPcbjj9MA%3D%3D&trackingId=RuxmifdZfPoau2Xhv7McpQ%3D%3D",
-    "location": "San Francisco, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-07 00:09 UTC"
-  },
-  {
-    "title": "Data Analyst",
-    "company": "Alpha Omega",
-    "link": "https://www.linkedin.com/jobs/view/data-analyst-at-alpha-omega-4450603580?position=3&pageNum=0&refId=58w8Ful6q%2Fv1LngqoPtIYg%3D%3D&trackingId=To6TBFrncn65osanoG9ojg%3D%3D",
-    "location": "Millington, TN",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-07 00:09 UTC"
-  },
-  {
-    "title": "Senior Data Analyst - Automotive",
-    "company": "NVIDIA",
-    "link": "https://www.linkedin.com/jobs/view/senior-data-analyst-automotive-at-nvidia-4450012219?position=11&pageNum=0&refId=58w8Ful6q%2Fv1LngqoPtIYg%3D%3D&trackingId=9Ao3iLx41ykO7t3hZ9sj%2Fg%3D%3D",
-    "location": "Santa Clara, CA",
     "source": "LinkedIn",
     "h1b_signal": false,
     "summary": "",
