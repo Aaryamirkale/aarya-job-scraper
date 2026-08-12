@@ -1,5 +1,35 @@
 [
   {
+    "title": "Data Analyst, Go-To-Market Sales Insights",
+    "company": "Lyft",
+    "link": "https://www.linkedin.com/jobs/view/data-analyst-go-to-market-sales-insights-at-lyft-4453049665?position=11&pageNum=0&refId=vffk%2Fa1NBNZpWQNE3V0uzg%3D%3D&trackingId=IlsbJ%2FJM5Vk0FNt%2FqXw5bQ%3D%3D",
+    "location": "San Francisco County, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-12 07:42 UTC"
+  },
+  {
+    "title": "Senior Data Engineer",
+    "company": "Jobot",
+    "link": "https://www.linkedin.com/jobs/view/senior-data-engineer-at-jobot-4452335330?position=12&pageNum=0&refId=MA9oe89TG7pX6C%2B0%2FLZYAg%3D%3D&trackingId=PwXQofhreadRvSIX%2BwVyNA%3D%3D",
+    "location": "Chicago, IL",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-12 07:42 UTC"
+  },
+  {
+    "title": "Research Scientist (LLM) - 2026 Start (PhD)",
+    "company": "ByteDance",
+    "link": "https://www.linkedin.com/jobs/view/research-scientist-llm-2026-start-phd-at-bytedance-4453065597?position=5&pageNum=0&refId=BRyByI7hBC55AmsIHbIngg%3D%3D&trackingId=eRVxeH55QDVpxhvjcyE7JQ%3D%3D",
+    "location": "San Jose, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-12 07:42 UTC"
+  },
+  {
     "title": "Machine Learning Engineer II",
     "company": "S&P Global",
     "link": "https://www.linkedin.com/jobs/view/machine-learning-engineer-ii-at-s-p-global-4452307991?position=9&pageNum=0&refId=h0y3DDoO%2Bo8xYGvpTYcxFQ%3D%3D&trackingId=Y4hVkyq1gBGQyJcbOrGRJQ%3D%3D",
@@ -2968,35 +2998,5 @@
     "h1b_signal": false,
     "summary": "",
     "found_at": "2026-08-07 04:59 UTC"
-  },
-  {
-    "title": "Data Scientist",
-    "company": "VySystems",
-    "link": "https://www.linkedin.com/jobs/view/data-scientist-at-vysystems-4450625243?position=2&pageNum=0&refId=GgJMg9A7IQT9YD5F5W4L1w%3D%3D&trackingId=HQR56GmeZNWnIyvAdCYoIA%3D%3D",
-    "location": "New York City Metropolitan Area",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-07 00:09 UTC"
-  },
-  {
-    "title": "Data Scientist",
-    "company": "Subway",
-    "link": "https://www.linkedin.com/jobs/view/data-scientist-at-subway-4448436157?position=7&pageNum=0&refId=GgJMg9A7IQT9YD5F5W4L1w%3D%3D&trackingId=%2F63G4PoqMvtuH6MC0GGXwg%3D%3D",
-    "location": "Miami, FL",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-07 00:09 UTC"
-  },
-  {
-    "title": "Data Scientist",
-    "company": "Shipt",
-    "link": "https://www.linkedin.com/jobs/view/data-scientist-at-shipt-4450289274?position=8&pageNum=0&refId=GgJMg9A7IQT9YD5F5W4L1w%3D%3D&trackingId=taD6CkdE1fxQgt7T7rf8%2BQ%3D%3D",
-    "location": "California, United States",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-07 00:09 UTC"
   }
 ]
