@@ -1,5 +1,45 @@
 [
   {
+    "title": "Machine Learning Engineer",
+    "company": "AISquared",
+    "link": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-aisquared-4304376330?position=9&pageNum=0&refId=rQAcpfbu6hg55RwI75%2B5Kg%3D%3D&trackingId=6H5uvxBfU2hJcFeO4kJOdA%3D%3D",
+    "location": "Washington, DC",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-12 13:25 UTC"
+  },
+  {
+    "title": "Associate Data Scientist (USA)",
+    "company": "PointClickCare",
+    "link": "https://www.linkedin.com/jobs/view/associate-data-scientist-usa-at-pointclickcare-4452390652?position=7&pageNum=0&refId=1h2nPoYTImnKiPB%2BGDSkyQ%3D%3D&trackingId=OEkZic9h3coBo6i0KD07nA%3D%3D",
+    "location": "Salt Lake City, UT",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-12 13:25 UTC"
+  },
+  {
+    "title": "Data Scientist I",
+    "company": "Oscar Health",
+    "link": "https://www.linkedin.com/jobs/view/data-scientist-i-at-oscar-health-4450106441?position=12&pageNum=0&refId=1h2nPoYTImnKiPB%2BGDSkyQ%3D%3D&trackingId=1O2DpklrJN%2FpiLs8C0YQ8Q%3D%3D",
+    "location": "New York, NY",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-12 13:25 UTC"
+  },
+  {
+    "title": "Research Scientist, Fauna",
+    "company": "Amazon Science",
+    "link": "https://www.linkedin.com/jobs/view/research-scientist-fauna-at-amazon-science-4450130104?position=7&pageNum=0&refId=pUPp7Acw8Wz48JpJWQNchA%3D%3D&trackingId=DGmE9nDds2jtchu%2BTsPB6Q%3D%3D",
+    "location": "New York, United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-12 13:25 UTC"
+  },
+  {
     "title": "Machine Learning Engineer II",
     "company": "Niagara Bottling",
     "link": "https://www.linkedin.com/jobs/view/machine-learning-engineer-ii-at-niagara-bottling-4442939222?position=1&pageNum=0&refId=yM7GqAxE3eMN0YTZIQUrQg%3D%3D&trackingId=UhnMLFZ3IddhKY%2FhJOnsmQ%3D%3D",
@@ -2958,45 +2998,5 @@
     "h1b_signal": false,
     "summary": "",
     "found_at": "2026-08-07 07:34 UTC"
-  },
-  {
-    "title": "Digital AI Product Analyst",
-    "company": "BioSpace",
-    "link": "https://www.linkedin.com/jobs/view/digital-ai-product-analyst-at-biospace-4450061047?position=7&pageNum=0&refId=plJTWpFO5IzcdhR1x1VSfQ%3D%3D&trackingId=rg6RBFBB%2BsV0KNt3KgW3tg%3D%3D",
-    "location": "Washington, DC",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-07 07:34 UTC"
-  },
-  {
-    "title": "Senior Product Analyst, Consumer",
-    "company": "Upside",
-    "link": "https://www.linkedin.com/jobs/view/senior-product-analyst-consumer-at-upside-4449786154?position=8&pageNum=0&refId=plJTWpFO5IzcdhR1x1VSfQ%3D%3D&trackingId=nD4NBLUd52xmgVgTbZHh5g%3D%3D",
-    "location": "New York, NY",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-07 07:34 UTC"
-  },
-  {
-    "title": "Applied Scientist, Delivery Networks and Tech",
-    "company": "Amazon",
-    "link": "https://www.amazon.jobs/en/jobs/10495504/applied-scientist-delivery-networks-and-tech",
-    "location": "IN, KA, Bengaluru",
-    "source": "Amazon Careers",
-    "h1b_signal": true,
-    "summary": "Customer addresses, Geospatial information and Road-network play a crucial role in Amazon Logistics' Delivery Planning systems. We own exciting science problems in the areas of Address Normalization,",
-    "found_at": "2026-08-07 07:35 UTC"
-  },
-  {
-    "title": "Data Scientist",
-    "company": "L.E.K. Consulting",
-    "link": "https://www.linkedin.com/jobs/view/data-scientist-at-l-e-k-consulting-4450012477?position=11&pageNum=0&refId=lo33T%2FEO56Vx%2FitFLi%2FCHg%3D%3D&trackingId=xdeB4N9Bm9fy02GOQZONaw%3D%3D",
-    "location": "New York, United States",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-07 04:59 UTC"
   }
 ]
