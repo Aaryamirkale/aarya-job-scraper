@@ -1,5 +1,75 @@
 [
   {
+    "title": "Data Scientist - People Analytics",
+    "company": "The Home Depot",
+    "link": "https://www.linkedin.com/jobs/view/data-scientist-people-analytics-at-the-home-depot-4452726914?position=4&pageNum=0&refId=jIdsMq3lG4muRUE07DbY1A%3D%3D&trackingId=iTy0jewLiZ9fluwwieU5LQ%3D%3D",
+    "location": "Atlanta, GA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-12 19:11 UTC"
+  },
+  {
+    "title": "AI Engineer",
+    "company": "Lorven Technologies Inc.",
+    "link": "https://www.linkedin.com/jobs/view/ai-engineer-at-lorven-technologies-inc-4452727378?position=9&pageNum=0&refId=Dwa6ydOfOb7B6dIEHBTvFQ%3D%3D&trackingId=%2BaFnUvU1TJ1W9DDEdduVRA%3D%3D",
+    "location": "New York, United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-12 19:11 UTC"
+  },
+  {
+    "title": "Data Engineer II (ICP)",
+    "company": "HonorHealth",
+    "link": "https://www.linkedin.com/jobs/view/data-engineer-ii-icp-at-honorhealth-4452307327?position=12&pageNum=0&refId=AW9m%2FIrliMrH6Wm3sZwdFw%3D%3D&trackingId=PEk%2B%2BdldR5uOPuPkvmWFuA%3D%3D",
+    "location": "Arizona, United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-12 19:11 UTC"
+  },
+  {
+    "title": "Analytics Engineer",
+    "company": "Splashtop Inc.",
+    "link": "https://www.linkedin.com/jobs/view/analytics-engineer-at-splashtop-inc-4453166314?position=1&pageNum=0&refId=6hHPGRRHo0io23W%2FhKLv2A%3D%3D&trackingId=SfXcsB%2BWtkJYmfwRLNr57g%3D%3D",
+    "location": "Cupertino, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-12 19:11 UTC"
+  },
+  {
+    "title": "Analytics Engineer",
+    "company": "Aperia",
+    "link": "https://www.linkedin.com/jobs/view/analytics-engineer-at-aperia-4453134323?position=6&pageNum=0&refId=6hHPGRRHo0io23W%2FhKLv2A%3D%3D&trackingId=05AAPZbOFSEulI%2BOifLjtw%3D%3D",
+    "location": "New York, NY",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-12 19:11 UTC"
+  },
+  {
+    "title": "Data Scientist, Research, DeepMind",
+    "company": "Google DeepMind",
+    "link": "https://www.linkedin.com/jobs/view/data-scientist-research-deepmind-at-google-deepmind-4452722517?position=12&pageNum=0&refId=P5fNGLzUE1xQmzAQCZPmuw%3D%3D&trackingId=VbxUY1%2BHIu3%2BZW0GdC2cGQ%3D%3D",
+    "location": "Mountain View, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-12 19:11 UTC"
+  },
+  {
+    "title": "Applied Scientist, AWS Applied AI Solutions",
+    "company": "Amazon",
+    "link": "https://www.amazon.jobs/en/jobs/10500009/applied-scientist-aws-applied-ai-solutions",
+    "location": "US, WA, Seattle",
+    "source": "Amazon Careers",
+    "h1b_signal": true,
+    "summary": "As part of the AWS Applied AI Solutions organization, we have a mission to build delightful AI solutions that improve human capabilities and business outcomes. We will accomplish this by accelerating",
+    "found_at": "2026-08-12 19:11 UTC"
+  },
+  {
     "title": "Data Scientist - $81.73 - $119.23 per hour",
     "company": "7Seventy Recruiting",
     "link": "https://www.linkedin.com/jobs/view/data-scientist-%2481-73-%24119-23-per-hour-at-7seventy-recruiting-4451176773?position=9&pageNum=0&refId=QGCfROqCqlrjKfTdLtEeTw%3D%3D&trackingId=hiCSf3KAqEZ8P7vWyRoN9w%3D%3D",
@@ -2928,75 +2998,5 @@
     "h1b_signal": false,
     "summary": "",
     "found_at": "2026-08-07 16:01 UTC"
-  },
-  {
-    "title": "MLOps AI Engineer",
-    "company": "TeamViewer",
-    "link": "https://www.linkedin.com/jobs/view/mlops-ai-engineer-at-teamviewer-4450342095?position=5&pageNum=0&refId=pri5po6P%2BZVw0p0dIrx%2BRQ%3D%3D&trackingId=xtiCYcYMhFKWimtZEmaL%2FQ%3D%3D",
-    "location": "Austin, TX",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-07 16:01 UTC"
-  },
-  {
-    "title": "Senior MLOps Engineer",
-    "company": "NVIDIA AI",
-    "link": "https://www.linkedin.com/jobs/view/senior-mlops-engineer-at-nvidia-ai-4448729800?position=8&pageNum=0&refId=pri5po6P%2BZVw0p0dIrx%2BRQ%3D%3D&trackingId=iM%2Fy3yq9GgstO6BNouagYw%3D%3D",
-    "location": "Santa Clara, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-07 16:01 UTC"
-  },
-  {
-    "title": "Senior MLOps Engineer",
-    "company": "NVIDIA",
-    "link": "https://www.linkedin.com/jobs/view/senior-mlops-engineer-at-nvidia-4450012215?position=9&pageNum=0&refId=pri5po6P%2BZVw0p0dIrx%2BRQ%3D%3D&trackingId=5BaT4ZeawAkKT8HveKouow%3D%3D",
-    "location": "Santa Clara, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-07 16:01 UTC"
-  },
-  {
-    "title": "Senior Data Analyst",
-    "company": "Veeva Systems",
-    "link": "https://www.linkedin.com/jobs/view/senior-data-analyst-at-veeva-systems-4441162949?position=10&pageNum=0&refId=VzjxctFfOroAqPBGW5ZPEA%3D%3D&trackingId=GRXHyoS8f%2B0js1JaVczsbA%3D%3D",
-    "location": "United States",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-07 16:01 UTC"
-  },
-  {
-    "title": "Applied Scientist, Intelligent Talent Acquisition - Lead Generation & Detection ",
-    "company": "Amazon",
-    "link": "https://www.amazon.jobs/en/jobs/10495929/applied-scientist-intelligent-talent-acquisition-lead-generation-detection-services",
-    "location": "GB, MLN, Edinburgh",
-    "source": "Amazon Careers",
-    "h1b_signal": true,
-    "summary": "Do you want to make a real difference to real people's lives? Want to design and build fair and explainable systems which automate recruitment processes across Amazon? Come and be part of a team that",
-    "found_at": "2026-08-07 16:01 UTC"
-  },
-  {
-    "title": "AI/ML Engineer",
-    "company": "Stealth",
-    "link": "https://www.linkedin.com/jobs/view/ai-ml-engineer-at-stealth-4448772188?position=6&pageNum=0&refId=EmqBu%2BB8HnAS7hicjzNSNQ%3D%3D&trackingId=piXt3qLTQHoX1DOLzP0J6w%3D%3D",
-    "location": "San Francisco Bay Area",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-07 13:19 UTC"
-  },
-  {
-    "title": "Senior Analytics Engineer",
-    "company": "Scenthound",
-    "link": "https://www.linkedin.com/jobs/view/senior-analytics-engineer-at-scenthound-4448770516?position=11&pageNum=0&refId=bufP0AAERlBAabXNK7YYPQ%3D%3D&trackingId=EC28rBSP9ObdU6NEO8GdbA%3D%3D",
-    "location": "Palm Beach Gardens, FL",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-07 13:19 UTC"
   }
 ]
