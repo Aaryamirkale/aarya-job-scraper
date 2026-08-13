@@ -1,6 +1,96 @@
 [
   {
     "title": "Data Scientist",
+    "company": "McCormick & Company",
+    "link": "https://www.linkedin.com/jobs/view/data-scientist-at-mccormick-company-4452770087?position=12&pageNum=0&refId=Ak46V7%2FRshN70pDMSK5XTg%3D%3D&trackingId=kbKEQsj%2BEPCcMVLADjfG8Q%3D%3D",
+    "location": "Hunt Valley, MD",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-13 07:44 UTC"
+  },
+  {
+    "title": "Data Analyst",
+    "company": "MeeBoss",
+    "link": "https://www.linkedin.com/jobs/view/data-analyst-at-meeboss-4453601427?position=10&pageNum=0&refId=Wkt5Mkgbit1ZqFQ1o8Oo5w%3D%3D&trackingId=ApUDTGAlMKjaJQQYHpRHbQ%3D%3D",
+    "location": "Satellite Beach, FL",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-13 07:44 UTC"
+  },
+  {
+    "title": "Data and Visualization Analyst, Student Success (Data Analyst)",
+    "company": "Georgia Institute of Technology",
+    "link": "https://www.linkedin.com/jobs/view/data-and-visualization-analyst-student-success-data-analyst-at-georgia-institute-of-technology-4453159211?position=12&pageNum=0&refId=Wkt5Mkgbit1ZqFQ1o8Oo5w%3D%3D&trackingId=F%2FiTNeVtg8ZsUKR1XXQbJg%3D%3D",
+    "location": "Atlanta Metropolitan Area",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-13 07:44 UTC"
+  },
+  {
+    "title": "Data Science Analyst/Engineer",
+    "company": "NYU Langone Health",
+    "link": "https://www.linkedin.com/jobs/view/data-science-analyst-engineer-at-nyu-langone-health-4452762213?position=2&pageNum=0&refId=xLVbEcNANdCEZ%2B3P3dIYtQ%3D%3D&trackingId=%2FMx9c%2Brd7n%2FHKoxYwFua5A%3D%3D",
+    "location": "New York, NY",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-13 07:44 UTC"
+  },
+  {
+    "title": "Product Analyst, Entry Level",
+    "company": "Jobright.ai",
+    "link": "https://www.linkedin.com/jobs/view/product-analyst-entry-level-at-jobright-ai-4452758518?position=5&pageNum=0&refId=bh66AS7iAhbGrk%2BxsuYcYg%3D%3D&trackingId=cR7B5DSWy2NJ74vshWdgOQ%3D%3D",
+    "location": "United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-13 07:44 UTC"
+  },
+  {
+    "title": "Senior Data Scientist / Analyst, Product",
+    "company": "Polymarket",
+    "link": "https://www.linkedin.com/jobs/view/senior-data-scientist-analyst-product-at-polymarket-4450177134?position=7&pageNum=0&refId=bh66AS7iAhbGrk%2BxsuYcYg%3D%3D&trackingId=I%2F6MNeQ0dupt5I1ltUwcug%3D%3D",
+    "location": "New York, United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-13 07:44 UTC"
+  },
+  {
+    "title": "Senior Games Data Analyst",
+    "company": "Jobgether",
+    "link": "https://www.linkedin.com/jobs/view/senior-games-data-analyst-at-jobgether-4452386273?position=8&pageNum=0&refId=bh66AS7iAhbGrk%2BxsuYcYg%3D%3D&trackingId=wfHsvgA5BT%2FX5bKtSDCFIA%3D%3D",
+    "location": "United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-13 07:44 UTC"
+  },
+  {
+    "title": "Senior Data Analyst - Poker",
+    "company": "Zynga",
+    "link": "https://www.linkedin.com/jobs/view/senior-data-analyst-poker-at-zynga-4443540447?position=9&pageNum=0&refId=bh66AS7iAhbGrk%2BxsuYcYg%3D%3D&trackingId=kibFn9cI6FGtMVDIZxf96Q%3D%3D",
+    "location": "Austin, TX",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-13 07:44 UTC"
+  },
+  {
+    "title": "Data Scientist 3 (Product Analytics)",
+    "company": "Cedar",
+    "link": "https://www.linkedin.com/jobs/view/data-scientist-3-product-analytics-at-cedar-4453124549?position=12&pageNum=0&refId=bh66AS7iAhbGrk%2BxsuYcYg%3D%3D&trackingId=hawbyHAskPJEKGpDjVJCRQ%3D%3D",
+    "location": "New York, NY",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-13 07:44 UTC"
+  },
+  {
+    "title": "Data Scientist",
     "company": "Perficient",
     "link": "https://www.linkedin.com/jobs/view/data-scientist-at-perficient-4452755231?position=5&pageNum=0&refId=mLQmt0K6aLpujgxAaFmR6w%3D%3D&trackingId=2vfz05Lc%2FhzHqAF4%2FFfoVw%3D%3D",
     "location": "United States",
@@ -2908,95 +2998,5 @@
     "h1b_signal": false,
     "summary": "",
     "found_at": "2026-08-08 21:37 UTC"
-  },
-  {
-    "title": "Analytics Engineer, Growth & Placement",
-    "company": "Acrisure",
-    "link": "https://www.linkedin.com/jobs/view/analytics-engineer-growth-placement-at-acrisure-4442158964?position=12&pageNum=0&refId=CKEHcbfr%2BBk18Y6hG9V3hQ%3D%3D&trackingId=WxuQLz3IxrIXvc%2BXTXtN0A%3D%3D",
-    "location": "Austin, TX",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-08 21:37 UTC"
-  },
-  {
-    "title": "Data Scientist - Delivery Data Science",
-    "company": "The Home Depot",
-    "link": "https://www.linkedin.com/jobs/view/data-scientist-delivery-data-science-at-the-home-depot-4450921293?position=4&pageNum=0&refId=dpsHzna2L1j256ik0JraeA%3D%3D&trackingId=yOGR74k20xtcxzSAgvVS1w%3D%3D",
-    "location": "Atlanta, GA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-08 18:49 UTC"
-  },
-  {
-    "title": "Data Analyst",
-    "company": "Indiana University",
-    "link": "https://www.linkedin.com/jobs/view/data-analyst-at-indiana-university-4451092203?position=10&pageNum=0&refId=iJ4Ezi3TJIAAn%2FBBv%2BO%2F5w%3D%3D&trackingId=ZPrW9Enq2mEnmWC03URPzQ%3D%3D",
-    "location": "Indianapolis, IN",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-08 18:49 UTC"
-  },
-  {
-    "title": "Data Analyst",
-    "company": "University of Pittsburgh",
-    "link": "https://www.linkedin.com/jobs/view/data-analyst-at-university-of-pittsburgh-4450779607?position=12&pageNum=0&refId=iJ4Ezi3TJIAAn%2FBBv%2BO%2F5w%3D%3D&trackingId=PAfjRCcodSG%2B5kjGvR5rZg%3D%3D",
-    "location": "Pittsburgh, PA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-08 18:49 UTC"
-  },
-  {
-    "title": "AI Engineer - Forward Deployed (FDE)",
-    "company": "Moring AI",
-    "link": "https://www.linkedin.com/jobs/view/ai-engineer-forward-deployed-fde-at-moring-ai-4449268230?position=11&pageNum=0&refId=aOKqG2hICLUgwHPzQhRmAA%3D%3D&trackingId=%2FLVUyTSR3JIrmyGaWbgDtQ%3D%3D",
-    "location": "Atlanta, GA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-08 18:49 UTC"
-  },
-  {
-    "title": "Machine Learning Engineer",
-    "company": "Benchstrength",
-    "link": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-benchstrength-4450798519?position=12&pageNum=0&refId=aOKqG2hICLUgwHPzQhRmAA%3D%3D&trackingId=T%2Fj5gW7MQs1tqjZxuUbRkQ%3D%3D",
-    "location": "New York, NY",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-08 18:49 UTC"
-  },
-  {
-    "title": "Data Engineer",
-    "company": "Pacer Group",
-    "link": "https://www.linkedin.com/jobs/view/data-engineer-at-pacer-group-4450791433?position=11&pageNum=0&refId=nglDFnd3C5ZA2ZLWefun5A%3D%3D&trackingId=FY0BWFbtRq8wGFye9ocbVg%3D%3D",
-    "location": "Atlanta, GA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-08 18:49 UTC"
-  },
-  {
-    "title": "Staff AI/ML Engineer - AV ML Infra",
-    "company": "General Motors",
-    "link": "https://www.linkedin.com/jobs/view/staff-ai-ml-engineer-av-ml-infra-at-general-motors-4333232748?position=10&pageNum=0&refId=SCUwNmDz%2B25QQMgFBO%2B5YQ%3D%3D&trackingId=ioFezp6v9zDpEHaXMk3XkQ%3D%3D",
-    "location": "Sunnyvale, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-08 18:49 UTC"
-  },
-  {
-    "title": "Analytics Engineer",
-    "company": "Lindblad Expeditions",
-    "link": "https://www.linkedin.com/jobs/view/analytics-engineer-at-lindblad-expeditions-4450913212?position=4&pageNum=0&refId=%2Bi%2BHmVpZH3nzhEM6KsnvOg%3D%3D&trackingId=fPBVxh06UbXcOdowioKlBQ%3D%3D",
-    "location": "Seattle, WA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-08 18:49 UTC"
   }
 ]
