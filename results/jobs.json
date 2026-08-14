@@ -1,5 +1,145 @@
 [
   {
+    "title": "Data Scientist",
+    "company": "ArtiFlex Manufacturing, Inc",
+    "link": "https://www.linkedin.com/jobs/view/data-scientist-at-artiflex-manufacturing-inc-4454543426?position=3&pageNum=0&refId=2llruHlTUSB13ewuBfKZUg%3D%3D&trackingId=i2c%2BzVafZhwMqkHe64iViQ%3D%3D",
+    "location": "Sterling Heights, MI",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-14 15:57 UTC"
+  },
+  {
+    "title": "Perception Machine Learning Engineer - Continuous Learning",
+    "company": "CapitalG",
+    "link": "https://www.linkedin.com/jobs/view/perception-machine-learning-engineer-continuous-learning-at-capitalg-4453569469?position=12&pageNum=0&refId=0QryurU7SSKxworPWrpDcA%3D%3D&trackingId=8z157oIw7dPPwUAUTtDldw%3D%3D",
+    "location": "Mountain View, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-14 15:57 UTC"
+  },
+  {
+    "title": "Azure Data Engineer",
+    "company": "SIMARN Solutions",
+    "link": "https://www.linkedin.com/jobs/view/azure-data-engineer-at-simarn-solutions-4454509871?position=7&pageNum=0&refId=RkyF5jMp5CaqjNPUgUUr9A%3D%3D&trackingId=7O%2FW5vBQU0aD4zFp2JF2Pw%3D%3D",
+    "location": "Jackson County, MO",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-14 15:57 UTC"
+  },
+  {
+    "title": "Business Intelligence Analyst",
+    "company": "Seminole Hard Rock Support Services",
+    "link": "https://www.linkedin.com/jobs/view/business-intelligence-analyst-at-seminole-hard-rock-support-services-4454315179?position=8&pageNum=0&refId=Zk30YahnaVcBx7rML%2BQEsw%3D%3D&trackingId=xYvqZQDThTcDDPN8bswPFA%3D%3D",
+    "location": "Davie, FL",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-14 15:57 UTC"
+  },
+  {
+    "title": "Data Analyst",
+    "company": "Daxwell",
+    "link": "https://www.linkedin.com/jobs/view/data-analyst-at-daxwell-4453285526?position=10&pageNum=0&refId=Zk30YahnaVcBx7rML%2BQEsw%3D%3D&trackingId=AQGUncnRoNBSQl1uHfOIdg%3D%3D",
+    "location": "Houston, TX",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-14 15:57 UTC"
+  },
+  {
+    "title": "Power BI Analyst",
+    "company": "CFS",
+    "link": "https://www.linkedin.com/jobs/view/power-bi-analyst-at-cfs-4450845469?position=11&pageNum=0&refId=Zk30YahnaVcBx7rML%2BQEsw%3D%3D&trackingId=GjuhWznt5DX8WvVgl6wf7g%3D%3D",
+    "location": "Holland, MI",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-14 15:57 UTC"
+  },
+  {
+    "title": "Machine Learning Engineer",
+    "company": "Lorven Technologies Inc.",
+    "link": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-lorven-technologies-inc-4453580924?position=8&pageNum=0&refId=0fgHM4h8ykIf6JMchedEFA%3D%3D&trackingId=xBrUtANYYVLOr6RoP9rH1A%3D%3D",
+    "location": "Texas, United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-14 15:57 UTC"
+  },
+  {
+    "title": "Data Analyst \u2013 Provider Data Management",
+    "company": "PurpleLab",
+    "link": "https://www.linkedin.com/jobs/view/data-analyst-%E2%80%93-provider-data-management-at-purplelab-4454545165?position=8&pageNum=0&refId=UecXwTx8qIm%2F4y9T8FOppA%3D%3D&trackingId=fSvyl7i6RKVszoVOIkPNiA%3D%3D",
+    "location": "Wayne, PA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-14 15:57 UTC"
+  },
+  {
+    "title": "Data Scientist, DePuy Synthes",
+    "company": "Johnson & Johnson MedTech",
+    "link": "https://www.linkedin.com/jobs/view/data-scientist-depuy-synthes-at-johnson-johnson-medtech-4454327044?position=10&pageNum=0&refId=1QvJ9MNMW96AM1BInkfCZQ%3D%3D&trackingId=JhRrAHBasZ5eVsYfk35Zdw%3D%3D",
+    "location": "West Chester, PA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-14 15:57 UTC"
+  },
+  {
+    "title": "Data Analyst, Product Analytics",
+    "company": "Grow Therapy",
+    "link": "https://www.linkedin.com/jobs/view/data-analyst-product-analytics-at-grow-therapy-4418761706?position=5&pageNum=0&refId=pHzen369oYP05uVfWApYAw%3D%3D&trackingId=NV%2BTagIzbmoXlsZ3o8%2FeWw%3D%3D",
+    "location": "San Francisco, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-14 15:57 UTC"
+  },
+  {
+    "title": "Sr. Data Analyst (Product Analytics)",
+    "company": "Owl Ventures",
+    "link": "https://www.linkedin.com/jobs/view/sr-data-analyst-product-analytics-at-owl-ventures-4454549489?position=11&pageNum=0&refId=pHzen369oYP05uVfWApYAw%3D%3D&trackingId=o4uwitllJVS383QHMtvHkA%3D%3D",
+    "location": "San Francisco, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-14 15:57 UTC"
+  },
+  {
+    "title": "AI Research Scientist, Physical AI",
+    "company": "Meta",
+    "link": "https://www.linkedin.com/jobs/view/ai-research-scientist-physical-ai-at-meta-4451226991?position=10&pageNum=0&refId=YMEdkLJzT32H78IJkmQvNw%3D%3D&trackingId=PkbxVBqp8qfToylgDSZ%2FvA%3D%3D",
+    "location": "New York, NY",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-14 15:57 UTC"
+  },
+  {
+    "title": "Applied Scientist, Amazon Transportation",
+    "company": "Amazon",
+    "link": "https://www.amazon.jobs/en/jobs/10502315/applied-scientist-amazon-transportation",
+    "location": "GB, London",
+    "source": "Amazon Careers",
+    "h1b_signal": true,
+    "summary": "Amazon\u2019s Middle Mile Science group is looking for an Applied Scientist to build machine learning and optimization models to support pricing and revenue management of its external freight business. Thi",
+    "found_at": "2026-08-14 15:57 UTC"
+  },
+  {
+    "title": "Applied Scientist, AWS Security",
+    "company": "Amazon",
+    "link": "https://www.amazon.jobs/en/jobs/10502316/applied-scientist-aws-security",
+    "location": "US, MD, Annapolis Junction",
+    "source": "Amazon Careers",
+    "h1b_signal": true,
+    "summary": "Do you have a passion for GenAI, machine learning, and/or cybersecurity? If so, join us in building innovative AI/ML services that protect our cloud from security threats! As an Applied Scientist on o",
+    "found_at": "2026-08-14 15:57 UTC"
+  },
+  {
     "title": "AI/ML Engineer, Senior",
     "company": "Booz Allen Hamilton",
     "link": "https://www.linkedin.com/jobs/view/ai-ml-engineer-senior-at-booz-allen-hamilton-4454099546?position=1&pageNum=0&refId=LjLtYqiUyhK5mUXsqpekTg%3D%3D&trackingId=rA5AKTKYo%2FMzRd0xrdE2mQ%3D%3D",
@@ -2858,145 +2998,5 @@
     "h1b_signal": false,
     "summary": "",
     "found_at": "2026-08-11 19:12 UTC"
-  },
-  {
-    "title": "Data Scientist",
-    "company": "Qatar Insurance Group",
-    "link": "https://qa.linkedin.com/jobs/view/data-scientist-at-qatar-insurance-group-4442369115?position=4&pageNum=0&refId=36JMra2okxipOxl4GO%2FOvQ%3D%3D&trackingId=SYEM%2FqvMHkJSehSl2CKjPA%3D%3D",
-    "location": "Doha, Qatar",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-11 19:12 UTC"
-  },
-  {
-    "title": "Data Scientist",
-    "company": "Huspy",
-    "link": "https://ae.linkedin.com/jobs/view/data-scientist-at-huspy-4407904822?position=5&pageNum=0&refId=36JMra2okxipOxl4GO%2FOvQ%3D%3D&trackingId=MeTxeKzrVSqLx12H9g6vPg%3D%3D",
-    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-11 19:12 UTC"
-  },
-  {
-    "title": "Data Scientist",
-    "company": "Proton DataLabs",
-    "link": "https://no.linkedin.com/jobs/view/data-scientist-at-proton-datalabs-4431637347?position=6&pageNum=0&refId=36JMra2okxipOxl4GO%2FOvQ%3D%3D&trackingId=SYkIh24kNdgBG%2BnNpOo3%2BA%3D%3D",
-    "location": "Time, Rogaland, Norway",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-11 19:12 UTC"
-  },
-  {
-    "title": "Data Scientist",
-    "company": "mthree",
-    "link": "https://uk.linkedin.com/jobs/view/data-scientist-at-mthree-4448080067?position=7&pageNum=0&refId=36JMra2okxipOxl4GO%2FOvQ%3D%3D&trackingId=OPNbvCAHEJ9ZXJZvR%2BRBIQ%3D%3D",
-    "location": "Sheffield, England, United Kingdom",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-11 19:12 UTC"
-  },
-  {
-    "title": "Data Scientist",
-    "company": "SAP",
-    "link": "https://sg.linkedin.com/jobs/view/data-scientist-at-sap-4443881898?position=9&pageNum=0&refId=36JMra2okxipOxl4GO%2FOvQ%3D%3D&trackingId=6ZcWbBispRki%2FK%2Fh3zpTbA%3D%3D",
-    "location": "Singapore, Singapore",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-11 19:12 UTC"
-  },
-  {
-    "title": "Data Science and AI Specialist",
-    "company": "Qatar Airways",
-    "link": "https://qa.linkedin.com/jobs/view/data-science-and-ai-specialist-at-qatar-airways-4448986524?position=11&pageNum=0&refId=36JMra2okxipOxl4GO%2FOvQ%3D%3D&trackingId=%2Fi3i45mxXYAlx08DHUx%2BKg%3D%3D",
-    "location": "Doha Metropolitan Area",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-11 19:12 UTC"
-  },
-  {
-    "title": "Data Scientist",
-    "company": "Astek",
-    "link": "https://sg.linkedin.com/jobs/view/data-scientist-at-astek-4437637461?position=12&pageNum=0&refId=36JMra2okxipOxl4GO%2FOvQ%3D%3D&trackingId=1l94uPxqxbJJUoIyVd0gGA%3D%3D",
-    "location": "Singapore, Singapore",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-11 19:12 UTC"
-  },
-  {
-    "title": "Data Engineer",
-    "company": "Genpact",
-    "link": "https://www.linkedin.com/jobs/view/data-engineer-at-genpact-4449869552?position=9&pageNum=0&refId=tyB8FpMV7nkpuxwzUrLoew%3D%3D&trackingId=kTd3CSleEH%2FOzRRhJ9KGsw%3D%3D",
-    "location": "Dallas, TX",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-11 19:12 UTC"
-  },
-  {
-    "title": "Business Intelligence Analyst",
-    "company": "ALOIS Solutions",
-    "link": "https://www.linkedin.com/jobs/view/business-intelligence-analyst-at-alois-solutions-4449810961?position=9&pageNum=0&refId=7v74bQrD3ciZJ7dr7AIrrA%3D%3D&trackingId=FoCZR7CsQl4wiYAjSfCRZw%3D%3D",
-    "location": "Tallahassee, FL",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-11 19:12 UTC"
-  },
-  {
-    "title": "Member of Data Staff (Analytics Engineer)",
-    "company": "Perplexity",
-    "link": "https://www.linkedin.com/jobs/view/member-of-data-staff-analytics-engineer-at-perplexity-4374657493?position=2&pageNum=0&refId=EqQTkF01HfjVDNB9KYnUyA%3D%3D&trackingId=yLQJBJFYBUUkqNc7Dng36w%3D%3D",
-    "location": "San Francisco, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-11 19:12 UTC"
-  },
-  {
-    "title": "Product Analyst, Crew AI Strategy and Delivery",
-    "company": "Delta Air Lines",
-    "link": "https://www.linkedin.com/jobs/view/product-analyst-crew-ai-strategy-and-delivery-at-delta-air-lines-4451930332?position=6&pageNum=0&refId=ugXX8r4hOgsktkXMhVfFzg%3D%3D&trackingId=UUCsdYeFlc0Of7FMEFNn%2Fw%3D%3D",
-    "location": "Atlanta, GA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-11 19:12 UTC"
-  },
-  {
-    "title": "City Research Scientist",
-    "company": "City of New York",
-    "link": "https://www.linkedin.com/jobs/view/city-research-scientist-at-city-of-new-york-4449871610?position=8&pageNum=0&refId=SnH3Ge3kR916jcN4061cRg%3D%3D&trackingId=%2FHNo7vYdcGrBUH6o3HyY8w%3D%3D",
-    "location": "New York, NY",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-11 19:12 UTC"
-  },
-  {
-    "title": "Data Scientist II, AB Ops Analytics",
-    "company": "Amazon",
-    "link": "https://www.amazon.jobs/en/jobs/10498847/data-scientist-ii-ab-ops-analytics",
-    "location": "IN, TS, Hyderabad",
-    "source": "Amazon Careers",
-    "h1b_signal": true,
-    "summary": "We are seeking a Data Scientist to join our analytics team. This person will own the design and implementation of scalable and reliable approaches to support or automate decision making throughout the",
-    "found_at": "2026-08-11 19:12 UTC"
-  },
-  {
-    "title": "Data Scientist II",
-    "company": "Strategic Education, Inc",
-    "link": "https://www.linkedin.com/jobs/view/data-scientist-ii-at-strategic-education-inc-4452053787?position=12&pageNum=0&refId=hoyspSPl59NR1d5%2FpuhmPQ%3D%3D&trackingId=ypqf8YaANvg%2F2xTTBtYSxQ%3D%3D",
-    "location": "Minneapolis, MN",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-11 16:04 UTC"
   }
 ]
