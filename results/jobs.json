@@ -1,5 +1,65 @@
 [
   {
+    "title": "Senior Data Analyst",
+    "company": "Volvo Financial Services",
+    "link": "https://www.linkedin.com/jobs/view/senior-data-analyst-at-volvo-financial-services-4454311473?position=3&pageNum=0&refId=uxISM2Iz0BXX117jpcx56g%3D%3D&trackingId=LBxMIWc93%2FgV2xFjl5lVng%3D%3D",
+    "location": "Greensboro, NC",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-14 10:11 UTC"
+  },
+  {
+    "title": "Data & Business Intelligence Analyst",
+    "company": "Ryerson",
+    "link": "https://www.linkedin.com/jobs/view/data-business-intelligence-analyst-at-ryerson-4450899024?position=7&pageNum=0&refId=uxISM2Iz0BXX117jpcx56g%3D%3D&trackingId=fsYD4lfQbPrrs6DY%2FKxZ7A%3D%3D",
+    "location": "Downers Grove, IL",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-14 10:11 UTC"
+  },
+  {
+    "title": "Sr. Business Intelligence Analyst",
+    "company": "Johnson Controls",
+    "link": "https://www.linkedin.com/jobs/view/sr-business-intelligence-analyst-at-johnson-controls-4450494031?position=9&pageNum=0&refId=uxISM2Iz0BXX117jpcx56g%3D%3D&trackingId=fG1pe2BfIFDXWK6wuOMrLw%3D%3D",
+    "location": "Milwaukee, WI",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-14 10:11 UTC"
+  },
+  {
+    "title": "Business Data Analyst II",
+    "company": "University of North Texas System",
+    "link": "https://www.linkedin.com/jobs/view/business-data-analyst-ii-at-university-of-north-texas-system-4451953571?position=12&pageNum=0&refId=uxISM2Iz0BXX117jpcx56g%3D%3D&trackingId=UMKq08mB6NljW6vbj2ftEg%3D%3D",
+    "location": "Denton, TX",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-14 10:11 UTC"
+  },
+  {
+    "title": "BI Analytics Engineer, IQVIA Digital (Remote)",
+    "company": "IQVIA",
+    "link": "https://www.linkedin.com/jobs/view/bi-analytics-engineer-iqvia-digital-remote-at-iqvia-4453205910?position=12&pageNum=0&refId=ZW3IzSkjVillU3%2FoUgtSjQ%3D%3D&trackingId=pM6Tk4%2FN22gSQ9Jp9xqLng%3D%3D",
+    "location": "New York, NY",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-14 10:11 UTC"
+  },
+  {
+    "title": "Clinical Data Analyst - Remote",
+    "company": "Optum",
+    "link": "https://www.linkedin.com/jobs/view/clinical-data-analyst-remote-at-optum-4454504584?position=5&pageNum=0&refId=AwGhTkfQ4UGsI%2B4RKsmTMQ%3D%3D&trackingId=NuDPsplFRfi5LBVxvnmQDw%3D%3D",
+    "location": "Eden Prairie, MN",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-14 10:11 UTC"
+  },
+  {
     "title": "Data Engineer, Payments",
     "company": "Whatnot",
     "link": "https://www.linkedin.com/jobs/view/data-engineer-payments-at-whatnot-4443430992?position=7&pageNum=0&refId=dNe0IFariIn4MXS5zxUwKg%3D%3D&trackingId=AUQhaPKy0exihmJxjk7wyQ%3D%3D",
@@ -2938,65 +2998,5 @@
     "h1b_signal": false,
     "summary": "",
     "found_at": "2026-08-11 02:12 UTC"
-  },
-  {
-    "title": "DATA SCIENTIST ASSOCIATE",
-    "company": "University of Alabama at Birmingham",
-    "link": "https://www.linkedin.com/jobs/view/data-scientist-associate-at-university-of-alabama-at-birmingham-4451487088?position=7&pageNum=0&refId=sMUI2ZYf7DpcAiinPI6Uow%3D%3D&trackingId=r7kLHKcKND6qvYokVYMdxQ%3D%3D",
-    "location": "Greater Birmingham, Alabama Area",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-11 02:12 UTC"
-  },
-  {
-    "title": "Senior Data Science Analyst",
-    "company": "Cincinnati Children's",
-    "link": "https://www.linkedin.com/jobs/view/senior-data-science-analyst-at-cincinnati-children-s-4452044117?position=9&pageNum=0&refId=sMUI2ZYf7DpcAiinPI6Uow%3D%3D&trackingId=A5qSKJw%2BW4VgBK4jGsJ%2BNg%3D%3D",
-    "location": "Cincinnati, OH",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-11 02:12 UTC"
-  },
-  {
-    "title": "Research Scientist, Amazon Connect",
-    "company": "Amazon Web Services (AWS)",
-    "link": "https://www.linkedin.com/jobs/view/research-scientist-amazon-connect-at-amazon-web-services-aws-4452087501?position=1&pageNum=0&refId=A91I1SU%2B5lSUUxcYJy5syA%3D%3D&trackingId=23d2WZ1fx2ADTaWEqWORJA%3D%3D",
-    "location": "New York, NY",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-11 02:12 UTC"
-  },
-  {
-    "title": "Principal Research Scientist",
-    "company": "Yoh, A Day & Zimmermann Company",
-    "link": "https://www.linkedin.com/jobs/view/principal-research-scientist-at-yoh-a-day-zimmermann-company-4451473805?position=5&pageNum=0&refId=A91I1SU%2B5lSUUxcYJy5syA%3D%3D&trackingId=Xky60O%2FuoqYClY7%2FzSPmoQ%3D%3D",
-    "location": "Westfield, IN",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-11 02:12 UTC"
-  },
-  {
-    "title": "Data Analyst",
-    "company": "Jetro Restaurant Depot",
-    "link": "https://www.linkedin.com/jobs/view/data-analyst-at-jetro-restaurant-depot-4451437149?position=12&pageNum=0&refId=Nz5J0Pd7FrHxA9aQ5K%2Fwlw%3D%3D&trackingId=yODJxRUOKd1YEn37SgLOgg%3D%3D",
-    "location": "Queens, NY",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-10 21:50 UTC"
-  },
-  {
-    "title": "Machine Learning Engineer",
-    "company": "Jamieson Don Consultants",
-    "link": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-jamieson-don-consultants-4452008644?position=9&pageNum=0&refId=fCPQzYytR8SbeWWkIO5McA%3D%3D&trackingId=h6ZyYDh2WQbjeVdce72jLw%3D%3D",
-    "location": "Chicago, IL",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-10 21:50 UTC"
   }
 ]
