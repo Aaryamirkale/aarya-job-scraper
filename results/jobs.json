@@ -1,5 +1,195 @@
 [
   {
+    "title": "Data Scientist",
+    "company": "Clay",
+    "link": "https://www.linkedin.com/jobs/view/data-scientist-at-clay-4453794269?position=9&pageNum=0&refId=1ZKyRTBMIiZuSEydBzVoAA%3D%3D&trackingId=1zCwxntkmozNoRaQM2RPGQ%3D%3D",
+    "location": "San Francisco, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-15 21:27 UTC"
+  },
+  {
+    "title": "Senior Data Scientist",
+    "company": "The Coca-Cola Company",
+    "link": "https://www.linkedin.com/jobs/view/senior-data-scientist-at-the-coca-cola-company-4454892774?position=10&pageNum=0&refId=1ZKyRTBMIiZuSEydBzVoAA%3D%3D&trackingId=ls8f9gbeXqxT2j%2BizQ%2BSfA%3D%3D",
+    "location": "Atlanta, GA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-15 21:27 UTC"
+  },
+  {
+    "title": "Senior Machine Learning Engineer",
+    "company": "Liine",
+    "link": "https://www.linkedin.com/jobs/view/senior-machine-learning-engineer-at-liine-4404930372?position=1&pageNum=0&refId=OJNHTFLKkHoIPoh5wSwx6A%3D%3D&trackingId=K%2FtpxpeuGo%2BESroiE4GyLg%3D%3D",
+    "location": "Raleigh, NC",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-15 21:27 UTC"
+  },
+  {
+    "title": "Machine Learning Engineer, ML Exploration",
+    "company": "SuprAIJobs",
+    "link": "https://www.linkedin.com/jobs/view/machine-learning-engineer-ml-exploration-at-supraijobs-4455124621?position=3&pageNum=0&refId=OJNHTFLKkHoIPoh5wSwx6A%3D%3D&trackingId=LKVCumKV%2B0qoqRyMHElBRw%3D%3D",
+    "location": "Toronto, SD",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-15 21:27 UTC"
+  },
+  {
+    "title": "Senior Machine Learning Engineer",
+    "company": "Bumble Inc.",
+    "link": "https://www.linkedin.com/jobs/view/senior-machine-learning-engineer-at-bumble-inc-4426114153?position=6&pageNum=0&refId=OJNHTFLKkHoIPoh5wSwx6A%3D%3D&trackingId=o9xYXs1PSF7Ez8WpXfCVNg%3D%3D",
+    "location": "Austin, TX",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-15 21:27 UTC"
+  },
+  {
+    "title": "Senior Machine Learning Engineer, Personalization, Muse",
+    "company": "Spotify",
+    "link": "https://www.linkedin.com/jobs/view/senior-machine-learning-engineer-personalization-muse-at-spotify-4408562717?position=7&pageNum=0&refId=OJNHTFLKkHoIPoh5wSwx6A%3D%3D&trackingId=VSv%2FLyzm4PF2UngFzl%2FmMw%3D%3D",
+    "location": "New York, NY",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-15 21:27 UTC"
+  },
+  {
+    "title": "Lead Machine Learning Engineer (Manager IC)",
+    "company": "Capital One",
+    "link": "https://www.linkedin.com/jobs/view/lead-machine-learning-engineer-manager-ic-at-capital-one-4427996074?position=10&pageNum=0&refId=OJNHTFLKkHoIPoh5wSwx6A%3D%3D&trackingId=Mz9oJfFBc9qFblu67E7nLg%3D%3D",
+    "location": "McLean, VA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-15 21:27 UTC"
+  },
+  {
+    "title": "Senior Machine Learning Engineer",
+    "company": "Agero, Inc.",
+    "link": "https://www.linkedin.com/jobs/view/senior-machine-learning-engineer-at-agero-inc-4445238274?position=11&pageNum=0&refId=OJNHTFLKkHoIPoh5wSwx6A%3D%3D&trackingId=VXbQWy1IgqGdWa9SoED6ww%3D%3D",
+    "location": "Medford, MA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-15 21:27 UTC"
+  },
+  {
+    "title": "Sr. Lead Machine Learning Engineer (IC)",
+    "company": "Capital One",
+    "link": "https://www.linkedin.com/jobs/view/sr-lead-machine-learning-engineer-ic-at-capital-one-4445343230?position=12&pageNum=0&refId=OJNHTFLKkHoIPoh5wSwx6A%3D%3D&trackingId=AQpZpS2JG6uQqe%2Bl%2Fn9EDg%3D%3D",
+    "location": "Richmond, VA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-15 21:27 UTC"
+  },
+  {
+    "title": "Senior Data Analyst - Risk Product Data",
+    "company": "Capital One",
+    "link": "https://www.linkedin.com/jobs/view/senior-data-analyst-risk-product-data-at-capital-one-4445333570?position=7&pageNum=0&refId=aUbTg47HH41ZD5NBs8Tc4g%3D%3D&trackingId=asO6a%2BabngsHAGJbPT8EPw%3D%3D",
+    "location": "Chicago, IL",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-15 21:27 UTC"
+  },
+  {
+    "title": "Data Analyst I",
+    "company": "Health District",
+    "link": "https://www.linkedin.com/jobs/view/data-analyst-i-at-health-district-4453725789?position=9&pageNum=0&refId=aUbTg47HH41ZD5NBs8Tc4g%3D%3D&trackingId=wk%2BZEodOFlS9tNzAAy824A%3D%3D",
+    "location": "Fort Collins, CO",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-15 21:27 UTC"
+  },
+  {
+    "title": "Data Analyst II",
+    "company": "OpenLoop",
+    "link": "https://www.linkedin.com/jobs/view/data-analyst-ii-at-openloop-4453754620?position=12&pageNum=0&refId=aUbTg47HH41ZD5NBs8Tc4g%3D%3D&trackingId=QFUabHmt3eFdafFYEzD2VQ%3D%3D",
+    "location": "United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-15 21:27 UTC"
+  },
+  {
+    "title": "Azure Data Engineer",
+    "company": "Inherent Technologies",
+    "link": "https://www.linkedin.com/jobs/view/azure-data-engineer-at-inherent-technologies-4455144093?position=7&pageNum=0&refId=QHb5TVtcarv4fXIo%2FtdXcw%3D%3D&trackingId=7Utw1rITe6VQFF61zXNFaQ%3D%3D",
+    "location": "Jackson, MI",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-15 21:27 UTC"
+  },
+  {
+    "title": "Data Engineer",
+    "company": "eNGINE",
+    "link": "https://www.linkedin.com/jobs/view/data-engineer-at-engine-4454865316?position=10&pageNum=0&refId=QHb5TVtcarv4fXIo%2FtdXcw%3D%3D&trackingId=AiB%2FUHU8oS00yVuBrv7oVA%3D%3D",
+    "location": "Greater Pittsburgh Region",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-15 21:27 UTC"
+  },
+  {
+    "title": "Data Engineer",
+    "company": "AmeriHealth Caritas",
+    "link": "https://www.linkedin.com/jobs/view/data-engineer-at-amerihealth-caritas-4449981841?position=12&pageNum=0&refId=QHb5TVtcarv4fXIo%2FtdXcw%3D%3D&trackingId=iU9uHK%2Blb9jxqUD4PB5E0Q%3D%3D",
+    "location": "Newtown Square, PA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-15 21:27 UTC"
+  },
+  {
+    "title": "Business Intelligence Analyst",
+    "company": "St. Elizabeth Healthcare",
+    "link": "https://www.linkedin.com/jobs/view/business-intelligence-analyst-at-st-elizabeth-healthcare-4454801922?position=12&pageNum=0&refId=qwCBSOTNqxpa3lxAP%2FUaVA%3D%3D&trackingId=4Lh7%2FX38P9iYku7xV40ysg%3D%3D",
+    "location": "Crestview Hills, KY",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-15 21:27 UTC"
+  },
+  {
+    "title": "Product Analyst (Hybrid NYC / Remote)",
+    "company": "Broadridge",
+    "link": "https://www.linkedin.com/jobs/view/product-analyst-hybrid-nyc-remote-at-broadridge-4427113299?position=7&pageNum=0&refId=iUcrt6Vxs1rurWSHZl89lg%3D%3D&trackingId=vCU7gwPnbiwFID8ohmWV0A%3D%3D",
+    "location": "New York, NY",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-15 21:27 UTC"
+  },
+  {
+    "title": "Research Scientist, Gemini Factuality, DeepMind",
+    "company": "Google DeepMind",
+    "link": "https://www.linkedin.com/jobs/view/research-scientist-gemini-factuality-deepmind-at-google-deepmind-4444384940?position=6&pageNum=0&refId=s59BAjKaE%2B3%2F%2BT%2B%2FYuDQww%3D%3D&trackingId=uxqZN%2BfwnwODCj0nrp9WTg%3D%3D",
+    "location": "Mountain View, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-15 21:27 UTC"
+  },
+  {
+    "title": "Europe, REMOTE",
+    "company": "Holmusk",
+    "link": "https://news.ycombinator.com/item?id=22691499",
+    "location": "Haskell Backend",
+    "source": "HN Who's Hiring",
+    "h1b_signal": false,
+    "summary": "Holmusk | Europe, REMOTE | Haskell Backend | Full-time | send your cv to [careers@holmusk.com](mailto:careers@holmusk.com) We ([ https://holmusk.com/](https://holmusk.com/) ) leverage technology & dat",
+    "found_at": "2026-08-15 21:27 UTC"
+  },
+  {
     "title": "Machine Learning Engineer",
     "company": "Sapphire Partners",
     "link": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-sapphire-partners-4455128578?position=4&pageNum=0&refId=vEOEcopqH2Xoe8dlrB12jA%3D%3D&trackingId=tEMBNa8EgTSUkyGA8w0UtA%3D%3D",
@@ -2808,195 +2998,5 @@
     "h1b_signal": false,
     "summary": "",
     "found_at": "2026-08-13 04:57 UTC"
-  },
-  {
-    "title": "Senior Machine Learning Engineer",
-    "company": "Strider Technologies",
-    "link": "https://www.linkedin.com/jobs/view/senior-machine-learning-engineer-at-strider-technologies-4418830308?position=7&pageNum=0&refId=ICrDLhJZG2scYBQh%2BAGESQ%3D%3D&trackingId=AWwLWM2K6hL%2FNvZ2KcfM0Q%3D%3D",
-    "location": "South Jordan, UT",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-13 04:57 UTC"
-  },
-  {
-    "title": "Senior AI Engineer",
-    "company": "Verizon",
-    "link": "https://www.linkedin.com/jobs/view/senior-ai-engineer-at-verizon-4443535580?position=11&pageNum=0&refId=ICrDLhJZG2scYBQh%2BAGESQ%3D%3D&trackingId=RvyubZjifbt0ONb6JC9N6Q%3D%3D",
-    "location": "Alpharetta, GA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-13 04:57 UTC"
-  },
-  {
-    "title": "Intermediate Business Intelligence Analyst",
-    "company": "Valmont Industries, Inc.",
-    "link": "https://www.linkedin.com/jobs/view/intermediate-business-intelligence-analyst-at-valmont-industries-inc-4453654327?position=11&pageNum=0&refId=VHGctgR6%2BomDunpM2NI8xQ%3D%3D&trackingId=h%2F3JGOI3eyQwfDQv7zp%2BFg%3D%3D",
-    "location": "Omaha, NE",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-13 04:57 UTC"
-  },
-  {
-    "title": "Senior MLOps Engineer",
-    "company": "Harnham",
-    "link": "https://www.linkedin.com/jobs/view/senior-mlops-engineer-at-harnham-4453138715?position=12&pageNum=0&refId=4am8El5ULNGd2cltpnkOgg%3D%3D&trackingId=c3%2BKhjW%2FHmBwTt49EpeIBA%3D%3D",
-    "location": "New York, NY",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-13 04:57 UTC"
-  },
-  {
-    "title": "Expert Data Scientist",
-    "company": "Roche",
-    "link": "https://www.linkedin.com/jobs/view/expert-data-scientist-at-roche-4453648262?position=2&pageNum=0&refId=8xagVKmBa8blFD0uAr9vZw%3D%3D&trackingId=ld2kxFzzg%2FiNrwxdtKj%2BkA%3D%3D",
-    "location": "Indianapolis, IN",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-13 04:57 UTC"
-  },
-  {
-    "title": "Data Scientist III",
-    "company": "Fred Hutch",
-    "link": "https://www.linkedin.com/jobs/view/data-scientist-iii-at-fred-hutch-4453388439?position=3&pageNum=0&refId=8xagVKmBa8blFD0uAr9vZw%3D%3D&trackingId=0Yj9hrfQS%2FRQwnuuHsLTYg%3D%3D",
-    "location": "Seattle, WA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-13 04:57 UTC"
-  },
-  {
-    "title": "Research Scientist/Engineer 3",
-    "company": "University of Washington",
-    "link": "https://www.linkedin.com/jobs/view/research-scientist-engineer-3-at-university-of-washington-4453614819?position=11&pageNum=0&refId=BMK4K8QLrDSoVMz%2Fkd5egg%3D%3D&trackingId=5EHPBJ9EfIewH7HBBopidw%3D%3D",
-    "location": "Seattle, WA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-13 04:57 UTC"
-  },
-  {
-    "title": "Python Engineer",
-    "company": "causaLens",
-    "link": "https://news.ycombinator.com/item?id=22683057",
-    "location": "Data Scientist (Commercial)",
-    "source": "HN Who's Hiring",
-    "h1b_signal": false,
-    "summary": "causaLens |Python Engineer | Data Scientist (Commercial) | Data Scientist (Research) | Full-time | London | www.causalens.com We are looking for a motivated and high-achieving Data Scientists, and Pyt",
-    "found_at": "2026-08-13 04:57 UTC"
-  },
-  {
-    "title": "Sr Data Scientist",
-    "company": "Federal Express Corporation",
-    "link": "https://www.linkedin.com/jobs/view/sr-data-scientist-at-federal-express-corporation-4453612295?position=8&pageNum=0&refId=uN7w0ptoESFQZ2KAHSqSbQ%3D%3D&trackingId=MBJU5gs%2F%2F23pSHrCsLpDew%3D%3D",
-    "location": "Collierville, TN",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-13 02:32 UTC"
-  },
-  {
-    "title": "Sr. Data Engineer",
-    "company": "Delta Faucet Company",
-    "link": "https://www.linkedin.com/jobs/view/sr-data-engineer-at-delta-faucet-company-4447572289?position=1&pageNum=0&refId=VzMq5Q2ZEbm3A8G4f2oyYA%3D%3D&trackingId=mZncMwcdPK%2FdwOTrQw4H3g%3D%3D",
-    "location": "Indianapolis, IN",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-13 02:32 UTC"
-  },
-  {
-    "title": "Senior Data Engineer",
-    "company": "fairlife, LLC",
-    "link": "https://www.linkedin.com/jobs/view/senior-data-engineer-at-fairlife-llc-4443547015?position=4&pageNum=0&refId=VzMq5Q2ZEbm3A8G4f2oyYA%3D%3D&trackingId=P2Dpiy1f5RVWKpnYOJ%2FRsQ%3D%3D",
-    "location": "Chicago, IL",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-13 02:32 UTC"
-  },
-  {
-    "title": "Data Engineer II, AWS Marketplace and Partner Services",
-    "company": "Amazon Web Services (AWS)",
-    "link": "https://www.linkedin.com/jobs/view/data-engineer-ii-aws-marketplace-and-partner-services-at-amazon-web-services-aws-4443960584?position=6&pageNum=0&refId=VzMq5Q2ZEbm3A8G4f2oyYA%3D%3D&trackingId=AeqqgFDjZd%2B53xcu2%2F%2F8YQ%3D%3D",
-    "location": "Seattle, WA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-13 02:32 UTC"
-  },
-  {
-    "title": "Senior Healthcare Data Engineer",
-    "company": "Jobot",
-    "link": "https://www.linkedin.com/jobs/view/senior-healthcare-data-engineer-at-jobot-4450108768?position=7&pageNum=0&refId=VzMq5Q2ZEbm3A8G4f2oyYA%3D%3D&trackingId=SNsppl78o2PPjldvLLltxA%3D%3D",
-    "location": "Indianapolis, IN",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-13 02:32 UTC"
-  },
-  {
-    "title": "Data Engineer II, AWS Analytics Engineering",
-    "company": "Amazon Web Services (AWS)",
-    "link": "https://www.linkedin.com/jobs/view/data-engineer-ii-aws-analytics-engineering-at-amazon-web-services-aws-4443789965?position=8&pageNum=0&refId=VzMq5Q2ZEbm3A8G4f2oyYA%3D%3D&trackingId=bob20su3UMAMJ0T0lTHEGg%3D%3D",
-    "location": "Seattle, WA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-13 02:32 UTC"
-  },
-  {
-    "title": "Data Engineer, PV Prime Video TV - Tech",
-    "company": "Prime Video & Amazon MGM Studios",
-    "link": "https://www.linkedin.com/jobs/view/data-engineer-pv-prime-video-tv-tech-at-prime-video-amazon-mgm-studios-4443790961?position=10&pageNum=0&refId=VzMq5Q2ZEbm3A8G4f2oyYA%3D%3D&trackingId=cuIs95fMf3SgA1u0dAiP4w%3D%3D",
-    "location": "Seattle, WA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-13 02:32 UTC"
-  },
-  {
-    "title": "Senior Data Engineer",
-    "company": "Haystack",
-    "link": "https://www.linkedin.com/jobs/view/senior-data-engineer-at-haystack-4453326928?position=11&pageNum=0&refId=VzMq5Q2ZEbm3A8G4f2oyYA%3D%3D&trackingId=9TH6CvC6FyrlGVZgtMT9jg%3D%3D",
-    "location": "Houston, TX",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-13 02:32 UTC"
-  },
-  {
-    "title": "MLOps Engineer",
-    "company": "Steampunk, Inc.",
-    "link": "https://www.linkedin.com/jobs/view/mlops-engineer-at-steampunk-inc-4450199455?position=2&pageNum=0&refId=DqaPXuSww5lMDS8yNSQ7QQ%3D%3D&trackingId=8nmCDpsyi6NHDCEeKkVWng%3D%3D",
-    "location": "McLean, VA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-13 02:32 UTC"
-  },
-  {
-    "title": "AI Engineer",
-    "company": "Mortenson",
-    "link": "https://www.linkedin.com/jobs/view/ai-engineer-at-mortenson-4453062013?position=12&pageNum=0&refId=DqaPXuSww5lMDS8yNSQ7QQ%3D%3D&trackingId=F5m9GaLaTp6A4MYUq1X5nA%3D%3D",
-    "location": "Minnesota, United States",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-13 02:32 UTC"
-  },
-  {
-    "title": "Expert Data Scientist",
-    "company": "Roche Diagnostics France",
-    "link": "https://www.linkedin.com/jobs/view/expert-data-scientist-at-roche-diagnostics-france-4450410296?position=9&pageNum=0&refId=a2wex8huo3TFORCKoviilA%3D%3D&trackingId=jKMnoHWUukYN6ItS8FPGtg%3D%3D",
-    "location": "Greater Indianapolis",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-13 02:32 UTC"
   }
 ]
