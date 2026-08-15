@@ -1,5 +1,55 @@
 [
   {
+    "title": "Machine Learning Engineer",
+    "company": "Sapphire Partners",
+    "link": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-sapphire-partners-4455128578?position=4&pageNum=0&refId=vEOEcopqH2Xoe8dlrB12jA%3D%3D&trackingId=tEMBNa8EgTSUkyGA8w0UtA%3D%3D",
+    "location": "San Francisco, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-15 18:38 UTC"
+  },
+  {
+    "title": "Data Analyst",
+    "company": "Bandera Electric Cooperative",
+    "link": "https://www.linkedin.com/jobs/view/data-analyst-at-bandera-electric-cooperative-4445279923?position=3&pageNum=0&refId=5KQ34F84FZC5B7%2F3wsdEkA%3D%3D&trackingId=WFYcFBZGWdQEZyvFFFPB%2Bw%3D%3D",
+    "location": "Boerne, TX",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-15 18:38 UTC"
+  },
+  {
+    "title": "Data Analyst",
+    "company": "Peregrine Advisors",
+    "link": "https://www.linkedin.com/jobs/view/data-analyst-at-peregrine-advisors-4454597681?position=12&pageNum=0&refId=5KQ34F84FZC5B7%2F3wsdEkA%3D%3D&trackingId=F3tbaJcP4dtmexxVfpLAmQ%3D%3D",
+    "location": "Washington, DC",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-15 18:38 UTC"
+  },
+  {
+    "title": "Senior Research Scientist - Autonomous Vehicles",
+    "company": "NVIDIA",
+    "link": "https://www.linkedin.com/jobs/view/senior-research-scientist-autonomous-vehicles-at-nvidia-4395472511?position=7&pageNum=0&refId=hAGNK5iR7%2FyMqHTBG7bwHw%3D%3D&trackingId=RINAH80AMRPLY6qLR3On3g%3D%3D",
+    "location": "Santa Clara, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-15 18:38 UTC"
+  },
+  {
+    "title": "Research Scientist \u2013 Fungal Natural Products",
+    "company": "Howard Hughes Medical Institute (HHMI)",
+    "link": "https://www.linkedin.com/jobs/view/research-scientist-%E2%80%93-fungal-natural-products-at-howard-hughes-medical-institute-hhmi-4451269034?position=8&pageNum=0&refId=hAGNK5iR7%2FyMqHTBG7bwHw%3D%3D&trackingId=lm9UU8m9zxGdGjcY3BbcIw%3D%3D",
+    "location": "New York, NY",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-15 18:38 UTC"
+  },
+  {
     "title": "Staff Machine Learning Engineer",
     "company": "A1",
     "link": "https://www.linkedin.com/jobs/view/staff-machine-learning-engineer-at-a1-4453789862?position=5&pageNum=0&refId=1stdIbhbVp7VIAWAs2Jhhw%3D%3D&trackingId=bIUfQek2hlpXEShnKpiGWg%3D%3D",
@@ -2948,55 +2998,5 @@
     "h1b_signal": false,
     "summary": "",
     "found_at": "2026-08-13 02:32 UTC"
-  },
-  {
-    "title": "Product Analyst",
-    "company": "Motion Recruitment",
-    "link": "https://www.linkedin.com/jobs/view/product-analyst-at-motion-recruitment-4453386162?position=9&pageNum=0&refId=aCNJNxEFcxDG%2FZLCDYFeNQ%3D%3D&trackingId=9zo76XTA0eknkDdmeCdz0Q%3D%3D",
-    "location": "Chicago, IL",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-13 02:32 UTC"
-  },
-  {
-    "title": "Research Scientist",
-    "company": "Battelle",
-    "link": "https://www.linkedin.com/jobs/view/research-scientist-at-battelle-4453360885?position=2&pageNum=0&refId=FC4pU9I0LiVUe3WMJuCHOg%3D%3D&trackingId=4mJTVCzfeFd%2BTpV%2FKKHCXw%3D%3D",
-    "location": "Crystal City, VA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-13 02:32 UTC"
-  },
-  {
-    "title": "Applied AI ML [Multiple Positions Available]",
-    "company": "JPMorganChase",
-    "link": "https://www.linkedin.com/jobs/view/applied-ai-ml-multiple-positions-available-at-jpmorganchase-4453092415?position=11&pageNum=0&refId=xAy5GnjhSrsq1NtD7D8mWw%3D%3D&trackingId=iEyMG3f8I3CA03txmuE59Q%3D%3D",
-    "location": "New York, NY",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-12 21:54 UTC"
-  },
-  {
-    "title": "Data Scientist",
-    "company": "McCormick Flavor Solutions",
-    "link": "https://www.linkedin.com/jobs/view/data-scientist-at-mccormick-flavor-solutions-4452731500?position=12&pageNum=0&refId=xAy5GnjhSrsq1NtD7D8mWw%3D%3D&trackingId=xqJn7u%2Fmza1BEK1k5UocMQ%3D%3D",
-    "location": "Hunt Valley, MD",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-12 21:54 UTC"
-  },
-  {
-    "title": "Data Analyst",
-    "company": "Verex Engineering LLC",
-    "link": "https://www.linkedin.com/jobs/view/data-analyst-at-verex-engineering-llc-4450184375?position=6&pageNum=0&refId=fkjsQo6U%2FTwlIItn45Gk3A%3D%3D&trackingId=KB9TMVaSeTC9cI8iOzTx9Q%3D%3D",
-    "location": "San Francisco, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-12 21:54 UTC"
   }
 ]
