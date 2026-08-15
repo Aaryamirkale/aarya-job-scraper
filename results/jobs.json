@@ -1,5 +1,55 @@
 [
   {
+    "title": "Business Intelligence Analyst II",
+    "company": "Memorial Sloan Kettering Cancer Center",
+    "link": "https://www.linkedin.com/jobs/view/business-intelligence-analyst-ii-at-memorial-sloan-kettering-cancer-center-4451704059?position=6&pageNum=0&refId=rJMt%2F9i3SsG6jh6c5a%2FHfg%3D%3D&trackingId=v6vo9gF%2BjGlu7XDs%2FEI8oQ%3D%3D",
+    "location": "New York, NY",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-15 06:49 UTC"
+  },
+  {
+    "title": "Sr Analyst, Statistical Inference and Data Science (IKC)",
+    "company": "DaVita Kidney Care",
+    "link": "https://www.linkedin.com/jobs/view/sr-analyst-statistical-inference-and-data-science-ikc-at-davita-kidney-care-4454856616?position=8&pageNum=0&refId=uv7A2h3nq9ODEt1rtL%2BO5A%3D%3D&trackingId=DExfVOsZSM9XMQMbF4DD5g%3D%3D",
+    "location": "Denver, CO",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-15 06:49 UTC"
+  },
+  {
+    "title": "Research Software Engineer, Brain Data Science Platform (24-Month Fixed-Term)",
+    "company": "Stanford University",
+    "link": "https://www.linkedin.com/jobs/view/research-software-engineer-brain-data-science-platform-24-month-fixed-term-at-stanford-university-4454857269?position=9&pageNum=0&refId=uv7A2h3nq9ODEt1rtL%2BO5A%3D%3D&trackingId=5Raev%2Fh1IYz0VuqyRgoXew%3D%3D",
+    "location": "Stanford, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-15 06:49 UTC"
+  },
+  {
+    "title": "Senior Research Scientist, Multi-Modal Language Models",
+    "company": "NVIDIA",
+    "link": "https://www.linkedin.com/jobs/view/senior-research-scientist-multi-modal-language-models-at-nvidia-4395483200?position=5&pageNum=0&refId=jUmIR4qEndiLVcXkk5sPRQ%3D%3D&trackingId=Yn28KipNU8r%2FGzsl1GNUWA%3D%3D",
+    "location": "Santa Clara, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-15 06:49 UTC"
+  },
+  {
+    "title": "Research Scientist, ML Systems - PhD New College Grad 2026",
+    "company": "NVIDIA",
+    "link": "https://www.linkedin.com/jobs/view/research-scientist-ml-systems-phd-new-college-grad-2026-at-nvidia-4395468631?position=11&pageNum=0&refId=jUmIR4qEndiLVcXkk5sPRQ%3D%3D&trackingId=FS9ENoA3r3CGSKRkFU7tow%3D%3D",
+    "location": "Westford, MA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-15 06:49 UTC"
+  },
+  {
     "title": "Machine Learning Engineer",
     "company": "Clay",
     "link": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-clay-4454831804?position=2&pageNum=0&refId=i%2BHlQNmnxsMIq5jRu7JWXg%3D%3D&trackingId=hRZIza%2FPhhbNUzMVrBH%2FfA%3D%3D",
@@ -2948,55 +2998,5 @@
     "h1b_signal": true,
     "summary": "Do you thrive in generating actionable insights at scale from complex datasets? Can you use data to look around the corners of a business and guide leaders on impactful business decisions? The Shop an",
     "found_at": "2026-08-12 21:54 UTC"
-  },
-  {
-    "title": "Data Scientist - People Analytics",
-    "company": "The Home Depot",
-    "link": "https://www.linkedin.com/jobs/view/data-scientist-people-analytics-at-the-home-depot-4452726914?position=4&pageNum=0&refId=jIdsMq3lG4muRUE07DbY1A%3D%3D&trackingId=iTy0jewLiZ9fluwwieU5LQ%3D%3D",
-    "location": "Atlanta, GA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-12 19:11 UTC"
-  },
-  {
-    "title": "AI Engineer",
-    "company": "Lorven Technologies Inc.",
-    "link": "https://www.linkedin.com/jobs/view/ai-engineer-at-lorven-technologies-inc-4452727378?position=9&pageNum=0&refId=Dwa6ydOfOb7B6dIEHBTvFQ%3D%3D&trackingId=%2BaFnUvU1TJ1W9DDEdduVRA%3D%3D",
-    "location": "New York, United States",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-12 19:11 UTC"
-  },
-  {
-    "title": "Data Engineer II (ICP)",
-    "company": "HonorHealth",
-    "link": "https://www.linkedin.com/jobs/view/data-engineer-ii-icp-at-honorhealth-4452307327?position=12&pageNum=0&refId=AW9m%2FIrliMrH6Wm3sZwdFw%3D%3D&trackingId=PEk%2B%2BdldR5uOPuPkvmWFuA%3D%3D",
-    "location": "Arizona, United States",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-12 19:11 UTC"
-  },
-  {
-    "title": "Analytics Engineer",
-    "company": "Splashtop Inc.",
-    "link": "https://www.linkedin.com/jobs/view/analytics-engineer-at-splashtop-inc-4453166314?position=1&pageNum=0&refId=6hHPGRRHo0io23W%2FhKLv2A%3D%3D&trackingId=SfXcsB%2BWtkJYmfwRLNr57g%3D%3D",
-    "location": "Cupertino, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-12 19:11 UTC"
-  },
-  {
-    "title": "Analytics Engineer",
-    "company": "Aperia",
-    "link": "https://www.linkedin.com/jobs/view/analytics-engineer-at-aperia-4453134323?position=6&pageNum=0&refId=6hHPGRRHo0io23W%2FhKLv2A%3D%3D&trackingId=05AAPZbOFSEulI%2BOifLjtw%3D%3D",
-    "location": "New York, NY",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-12 19:11 UTC"
   }
 ]
