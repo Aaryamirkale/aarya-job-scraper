@@ -1,5 +1,75 @@
 [
   {
+    "title": "Enterprise Data Analyst",
+    "company": "Husch Blackwell",
+    "link": "https://www.linkedin.com/jobs/view/enterprise-data-analyst-at-husch-blackwell-4444390846?position=1&pageNum=0&refId=3kaCMd3yFwbMKN90XCkq1A%3D%3D&trackingId=Vkml9lgyqSKwtFI%2ButHnJA%3D%3D",
+    "location": "Washington, DC",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-15 12:51 UTC"
+  },
+  {
+    "title": "Data Analyst Sr - E3",
+    "company": "Lockheed Martin",
+    "link": "https://www.linkedin.com/jobs/view/data-analyst-sr-e3-at-lockheed-martin-4451235981?position=3&pageNum=0&refId=3kaCMd3yFwbMKN90XCkq1A%3D%3D&trackingId=%2FhfYOvc2RT3%2B1L8pCSxxGg%3D%3D",
+    "location": "Fort Worth, TX",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-15 12:51 UTC"
+  },
+  {
+    "title": "Senior Data Analyst - Enterprise Marketing and Messaging Analytics",
+    "company": "Capital One",
+    "link": "https://www.linkedin.com/jobs/view/senior-data-analyst-enterprise-marketing-and-messaging-analytics-at-capital-one-4436145970?position=4&pageNum=0&refId=3kaCMd3yFwbMKN90XCkq1A%3D%3D&trackingId=YtqssWOHmVAW7BRszTzB2Q%3D%3D",
+    "location": "Chicago, IL",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-15 12:51 UTC"
+  },
+  {
+    "title": "Sr. Data Analyst I",
+    "company": "Reserv",
+    "link": "https://www.linkedin.com/jobs/view/sr-data-analyst-i-at-reserv-4453735101?position=6&pageNum=0&refId=3kaCMd3yFwbMKN90XCkq1A%3D%3D&trackingId=CliJANhOhhzwtyvN7RUK7g%3D%3D",
+    "location": "Atlanta, GA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-15 12:51 UTC"
+  },
+  {
+    "title": "Data Analyst",
+    "company": "Lufkin/Angelina County Chamber of Commerce",
+    "link": "https://www.linkedin.com/jobs/view/data-analyst-at-lufkin-angelina-county-chamber-of-commerce-4454561429?position=10&pageNum=0&refId=3kaCMd3yFwbMKN90XCkq1A%3D%3D&trackingId=okOVVrBUjmoYQhYLwWCTpw%3D%3D",
+    "location": "Lufkin, TX",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-15 12:51 UTC"
+  },
+  {
+    "title": "Sr. Data Scientist",
+    "company": "bioM\u00e9rieux",
+    "link": "https://www.linkedin.com/jobs/view/sr-data-scientist-at-biom%C3%A9rieux-4444349989?position=12&pageNum=0&refId=Y7uHrogtixkYIW6gNebCrw%3D%3D&trackingId=IBSDzFlhSIKvns4Y1kbdIg%3D%3D",
+    "location": "Hazelwood, MO",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-15 12:51 UTC"
+  },
+  {
+    "title": "Internal Tools & Data Product Analyst",
+    "company": "Lambda",
+    "link": "https://www.linkedin.com/jobs/view/internal-tools-data-product-analyst-at-lambda-4441838685?position=11&pageNum=0&refId=Ygjdk357uqLcggrNzPvuPw%3D%3D&trackingId=%2Fp%2FchZPGYPhdjlnDqF4FuQ%3D%3D",
+    "location": "San Francisco, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-15 12:51 UTC"
+  },
+  {
     "title": "Senior Data Engineer",
     "company": "Spectrum Equity",
     "link": "https://www.linkedin.com/jobs/view/senior-data-engineer-at-spectrum-equity-4453794208?position=12&pageNum=0&refId=Nm7rmWSowl0pZ9h1MeWGYw%3D%3D&trackingId=G46%2BZNEy8YaLdhMzMM6EaA%3D%3D",
@@ -2924,76 +2994,6 @@
     "company": "NYU Langone Health",
     "link": "https://www.linkedin.com/jobs/view/data-analyst-fgp-radiology-on-site-in-manhattan-at-nyu-langone-health-4422239532?position=3&pageNum=0&refId=ZDd5yWnhQKDSE9jMo2RPAw%3D%3D&trackingId=0edVheK8QyvJP404%2BAXU3A%3D%3D",
     "location": "New York, NY",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-12 21:54 UTC"
-  },
-  {
-    "title": "Clinical Data Analyst",
-    "company": "ModifyHealth",
-    "link": "https://www.linkedin.com/jobs/view/clinical-data-analyst-at-modifyhealth-4452397664?position=5&pageNum=0&refId=ZDd5yWnhQKDSE9jMo2RPAw%3D%3D&trackingId=DZF2x3nm2%2B3mZi1EU2li4A%3D%3D",
-    "location": "United States",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-12 21:54 UTC"
-  },
-  {
-    "title": "Research Data Analyst (Ophthalmology)",
-    "company": "The Johns Hopkins University",
-    "link": "https://www.linkedin.com/jobs/view/research-data-analyst-ophthalmology-at-the-johns-hopkins-university-4450502336?position=8&pageNum=0&refId=ZDd5yWnhQKDSE9jMo2RPAw%3D%3D&trackingId=Y8pgCWq8J2u%2FNVpL3u6fnQ%3D%3D",
-    "location": "Baltimore, MD",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-12 21:54 UTC"
-  },
-  {
-    "title": "Research Data Analyst (Pathology)",
-    "company": "The Johns Hopkins University",
-    "link": "https://www.linkedin.com/jobs/view/research-data-analyst-pathology-at-the-johns-hopkins-university-4453199864?position=9&pageNum=0&refId=ZDd5yWnhQKDSE9jMo2RPAw%3D%3D&trackingId=L53ai3VuaCG0iTLZquDI5g%3D%3D",
-    "location": "Baltimore, MD",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-12 21:54 UTC"
-  },
-  {
-    "title": "SME IV \u2013 Scientific Data Analyst (Surveillance and Medical Intelligence)",
-    "company": "Culmen International",
-    "link": "https://www.linkedin.com/jobs/view/sme-iv-%E2%80%93-scientific-data-analyst-surveillance-and-medical-intelligence-at-culmen-international-4452723296?position=11&pageNum=0&refId=ZDd5yWnhQKDSE9jMo2RPAw%3D%3D&trackingId=WfSwjQmDmDKOWg0nOxWgMQ%3D%3D",
-    "location": "Silver Spring, MD",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-12 21:54 UTC"
-  },
-  {
-    "title": "Healthcare Quality & Data Analyst",
-    "company": "Compass Health Network",
-    "link": "https://www.linkedin.com/jobs/view/healthcare-quality-data-analyst-at-compass-health-network-4453361173?position=12&pageNum=0&refId=ZDd5yWnhQKDSE9jMo2RPAw%3D%3D&trackingId=vi2NGyoKyWgZJS%2FdYuPfxA%3D%3D",
-    "location": "Clinton, MO",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-12 21:54 UTC"
-  },
-  {
-    "title": "Data Scientist",
-    "company": "Guidehealth",
-    "link": "https://www.linkedin.com/jobs/view/data-scientist-at-guidehealth-4450184321?position=1&pageNum=0&refId=2Y2EQPU69kW3%2BW9ZXu%2FCUA%3D%3D&trackingId=Ee7HqBPRvWaQNYa8HRVbuA%3D%3D",
-    "location": "Boston, MA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-12 21:54 UTC"
-  },
-  {
-    "title": "Senior IT Data Scientist",
-    "company": "Centene Corporation",
-    "link": "https://www.linkedin.com/jobs/view/senior-it-data-scientist-at-centene-corporation-4453385157?position=5&pageNum=0&refId=2Y2EQPU69kW3%2BW9ZXu%2FCUA%3D%3D&trackingId=ZDDZ0xDvcKRd%2BDnQVofyoQ%3D%3D",
-    "location": "New York, United States",
     "source": "LinkedIn",
     "h1b_signal": false,
     "summary": "",
