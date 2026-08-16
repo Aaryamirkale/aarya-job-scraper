@@ -1,5 +1,85 @@
 [
   {
+    "title": "Data Scientist",
+    "company": "Sapphire Partners",
+    "link": "https://www.linkedin.com/jobs/view/data-scientist-at-sapphire-partners-4455116634?position=11&pageNum=0&refId=yFbwiL%2B1ui6SKuqoBhXN6g%3D%3D&trackingId=BmZUbZ%2Be5HvXktVXPtdPWw%3D%3D",
+    "location": "San Francisco, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-16 03:53 UTC"
+  },
+  {
+    "title": "Data Scientist, CapCut - USDS",
+    "company": "TikTok USDS Joint Venture",
+    "link": "https://www.linkedin.com/jobs/view/data-scientist-capcut-usds-at-tiktok-usds-joint-venture-4455123924?position=12&pageNum=0&refId=yFbwiL%2B1ui6SKuqoBhXN6g%3D%3D&trackingId=IbQxBe9oQzEQ%2BidND0P7cA%3D%3D",
+    "location": "San Jose, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-16 03:53 UTC"
+  },
+  {
+    "title": "Machine Learning Engineer, AI Search - USDS",
+    "company": "TikTok USDS Joint Venture",
+    "link": "https://www.linkedin.com/jobs/view/machine-learning-engineer-ai-search-usds-at-tiktok-usds-joint-venture-4455128779?position=11&pageNum=0&refId=cLM%2BOZI2v6xgrFGNTGk3SQ%3D%3D&trackingId=sIzNQoEgO2Sn1W%2FJXHJPUA%3D%3D",
+    "location": "San Jose, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-16 03:53 UTC"
+  },
+  {
+    "title": "Data Analyst",
+    "company": "Galapagos Federal Systems",
+    "link": "https://www.linkedin.com/jobs/view/data-analyst-at-galapagos-federal-systems-4453948367?position=8&pageNum=0&refId=dBAuAeJcUItmTBHIOF3glw%3D%3D&trackingId=jkp22jzerEEFlG4PaV1aMA%3D%3D",
+    "location": "Washington, DC",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-16 03:53 UTC"
+  },
+  {
+    "title": "Senior Data Analyst",
+    "company": "VillageCare",
+    "link": "https://www.linkedin.com/jobs/view/senior-data-analyst-at-villagecare-4455139028?position=11&pageNum=0&refId=dBAuAeJcUItmTBHIOF3glw%3D%3D&trackingId=%2B77pQyXVYltzZSQx8wSjyA%3D%3D",
+    "location": "New York, NY",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-16 03:53 UTC"
+  },
+  {
+    "title": "Senior Data Analyst",
+    "company": "SWBC",
+    "link": "https://www.linkedin.com/jobs/view/senior-data-analyst-at-swbc-4426900739?position=12&pageNum=0&refId=dBAuAeJcUItmTBHIOF3glw%3D%3D&trackingId=KTBFsxnxJERQDVIyh1JhDw%3D%3D",
+    "location": "San Antonio, TX",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-16 03:53 UTC"
+  },
+  {
+    "title": "AI Engineer",
+    "company": "Zions Bancorporation",
+    "link": "https://www.linkedin.com/jobs/view/ai-engineer-at-zions-bancorporation-4450010383?position=11&pageNum=0&refId=CKPTpdV%2BnfYFwa1HMHY%2BlQ%3D%3D&trackingId=e%2F6XayZ10D2rmrwZDOMDig%3D%3D",
+    "location": "Midvale, UT",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-16 03:53 UTC"
+  },
+  {
+    "title": "Research Scientist/Engineer, Biological Safety",
+    "company": "Anthropic",
+    "link": "https://www.linkedin.com/jobs/view/research-scientist-engineer-biological-safety-at-anthropic-4407084902?position=4&pageNum=0&refId=OzopAaoCU7XYMKUFZc2YDA%3D%3D&trackingId=9du4MB7NH7H39hugp9w2BQ%3D%3D",
+    "location": "San Francisco, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-16 03:53 UTC"
+  },
+  {
     "title": "Data Scientist, Datacenter",
     "company": "Microsoft",
     "link": "https://www.linkedin.com/jobs/view/data-scientist-datacenter-at-microsoft-4455112073?position=12&pageNum=0&refId=ZE4ULBTKMWhcpJjEP85Jkw%3D%3D&trackingId=DUt7b9fTIQeo21wo%2Fl%2FOuQ%3D%3D",
@@ -2918,85 +2998,5 @@
     "h1b_signal": false,
     "summary": "",
     "found_at": "2026-08-13 10:15 UTC"
-  },
-  {
-    "title": "Data Analyst III (Healthcare Analytics)",
-    "company": "Health Net Health Plan of Oregon, Inc.",
-    "link": "https://www.linkedin.com/jobs/view/data-analyst-iii-healthcare-analytics-at-health-net-health-plan-of-oregon-inc-4450428188?position=8&pageNum=0&refId=55JqflObciEhnecm7NNBGw%3D%3D&trackingId=CmvENnJZ%2F2zZ%2FKWYe6GHGA%3D%3D",
-    "location": "Missouri, United States",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-13 10:15 UTC"
-  },
-  {
-    "title": "Product Analyst II",
-    "company": "Edward Jones",
-    "link": "https://www.linkedin.com/jobs/view/product-analyst-ii-at-edward-jones-4452763973?position=12&pageNum=0&refId=xdIfrpsHvXg6FR853xz3Ig%3D%3D&trackingId=uIDnPyOmR4NTDwF9eDlUqw%3D%3D",
-    "location": "Tempe, AZ",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-13 10:15 UTC"
-  },
-  {
-    "title": "Data Scientist",
-    "company": "McCormick & Company",
-    "link": "https://www.linkedin.com/jobs/view/data-scientist-at-mccormick-company-4452770087?position=12&pageNum=0&refId=Ak46V7%2FRshN70pDMSK5XTg%3D%3D&trackingId=kbKEQsj%2BEPCcMVLADjfG8Q%3D%3D",
-    "location": "Hunt Valley, MD",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-13 07:44 UTC"
-  },
-  {
-    "title": "Data Analyst",
-    "company": "MeeBoss",
-    "link": "https://www.linkedin.com/jobs/view/data-analyst-at-meeboss-4453601427?position=10&pageNum=0&refId=Wkt5Mkgbit1ZqFQ1o8Oo5w%3D%3D&trackingId=ApUDTGAlMKjaJQQYHpRHbQ%3D%3D",
-    "location": "Satellite Beach, FL",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-13 07:44 UTC"
-  },
-  {
-    "title": "Data and Visualization Analyst, Student Success (Data Analyst)",
-    "company": "Georgia Institute of Technology",
-    "link": "https://www.linkedin.com/jobs/view/data-and-visualization-analyst-student-success-data-analyst-at-georgia-institute-of-technology-4453159211?position=12&pageNum=0&refId=Wkt5Mkgbit1ZqFQ1o8Oo5w%3D%3D&trackingId=F%2FiTNeVtg8ZsUKR1XXQbJg%3D%3D",
-    "location": "Atlanta Metropolitan Area",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-13 07:44 UTC"
-  },
-  {
-    "title": "Data Science Analyst/Engineer",
-    "company": "NYU Langone Health",
-    "link": "https://www.linkedin.com/jobs/view/data-science-analyst-engineer-at-nyu-langone-health-4452762213?position=2&pageNum=0&refId=xLVbEcNANdCEZ%2B3P3dIYtQ%3D%3D&trackingId=%2FMx9c%2Brd7n%2FHKoxYwFua5A%3D%3D",
-    "location": "New York, NY",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-13 07:44 UTC"
-  },
-  {
-    "title": "Product Analyst, Entry Level",
-    "company": "Jobright.ai",
-    "link": "https://www.linkedin.com/jobs/view/product-analyst-entry-level-at-jobright-ai-4452758518?position=5&pageNum=0&refId=bh66AS7iAhbGrk%2BxsuYcYg%3D%3D&trackingId=cR7B5DSWy2NJ74vshWdgOQ%3D%3D",
-    "location": "United States",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-13 07:44 UTC"
-  },
-  {
-    "title": "Senior Data Scientist / Analyst, Product",
-    "company": "Polymarket",
-    "link": "https://www.linkedin.com/jobs/view/senior-data-scientist-analyst-product-at-polymarket-4450177134?position=7&pageNum=0&refId=bh66AS7iAhbGrk%2BxsuYcYg%3D%3D&trackingId=I%2F6MNeQ0dupt5I1ltUwcug%3D%3D",
-    "location": "New York, United States",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-13 07:44 UTC"
   }
 ]
