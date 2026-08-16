@@ -1,5 +1,95 @@
 [
   {
+    "title": "Research Data Analyst - Policy",
+    "company": "ETS",
+    "link": "https://www.linkedin.com/jobs/view/research-data-analyst-policy-at-ets-4435893053?position=12&pageNum=0&refId=pav4W5Z0zc6KMDZsqAMtsA%3D%3D&trackingId=XqSIJ1YsU5HJST9qJgA5vA%3D%3D",
+    "location": "Washington, NJ",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-16 18:37 UTC"
+  },
+  {
+    "title": "AI Engineer x3",
+    "company": "Aventis Solutions",
+    "link": "https://www.linkedin.com/jobs/view/ai-engineer-x3-at-aventis-solutions-4455193234?position=1&pageNum=0&refId=dJ88qbuH5gWDblbivOwaHQ%3D%3D&trackingId=r44pguyI5mqf3NRWUr2ccQ%3D%3D",
+    "location": "Miami, FL",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-16 18:37 UTC"
+  },
+  {
+    "title": "Applied AI Engineer",
+    "company": "Ramp",
+    "link": "https://www.linkedin.com/jobs/view/applied-ai-engineer-at-ramp-4387493455?position=11&pageNum=0&refId=dJ88qbuH5gWDblbivOwaHQ%3D%3D&trackingId=BdQSbMcjALOvlarrJov5%2Fg%3D%3D",
+    "location": "New York, NY",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-16 18:37 UTC"
+  },
+  {
+    "title": "Senior Palantir Data Engineer",
+    "company": "Unissant",
+    "link": "https://www.linkedin.com/jobs/view/senior-palantir-data-engineer-at-unissant-4455147020?position=1&pageNum=0&refId=59IW5g7qjaUMPVrF2jycaw%3D%3D&trackingId=CBJyJttktztMzAuGVEKIDQ%3D%3D",
+    "location": "Herndon, VA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-16 18:37 UTC"
+  },
+  {
+    "title": "Senior Data Engineer, Databricks",
+    "company": "Colas USA",
+    "link": "https://www.linkedin.com/jobs/view/senior-data-engineer-databricks-at-colas-usa-4451730807?position=2&pageNum=0&refId=59IW5g7qjaUMPVrF2jycaw%3D%3D&trackingId=MKV5E0vYdcYn4kXNHVNcIQ%3D%3D",
+    "location": "Denver, CO",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-16 18:37 UTC"
+  },
+  {
+    "title": "Senior Principal Snowflake Data Engineer",
+    "company": "IT Engagements, Inc.",
+    "link": "https://www.linkedin.com/jobs/view/senior-principal-snowflake-data-engineer-at-it-engagements-inc-4455144092?position=6&pageNum=0&refId=59IW5g7qjaUMPVrF2jycaw%3D%3D&trackingId=wPwNSC4wunNWfcCqPpLePA%3D%3D",
+    "location": "New York, NY",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-16 18:37 UTC"
+  },
+  {
+    "title": "Sr Business Intelligence Analyst-Analytics Engineering",
+    "company": "The Trade Desk",
+    "link": "https://www.linkedin.com/jobs/view/sr-business-intelligence-analyst-analytics-engineering-at-the-trade-desk-4407624169?position=10&pageNum=0&refId=6QOVS%2BauEPHCR0ja7VZO5w%3D%3D&trackingId=GQ3EQssErMexVpxu%2FYHJuw%3D%3D",
+    "location": "New York, United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-16 18:37 UTC"
+  },
+  {
+    "title": "Python AI Engineer",
+    "company": "BeaconFire Inc.",
+    "link": "https://www.linkedin.com/jobs/view/python-ai-engineer-at-beaconfire-inc-4450833533?position=5&pageNum=0&refId=ztk9ZVRnvOd%2F%2BZvYrtwjkw%3D%3D&trackingId=A7diOQB7hot6TWtKL1mL3A%3D%3D",
+    "location": "Austin, Texas Metropolitan Area",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-16 18:37 UTC"
+  },
+  {
+    "title": "Sr. Data Scientist",
+    "company": "Align Technology",
+    "link": "https://www.linkedin.com/jobs/view/sr-data-scientist-at-align-technology-4387709241?position=6&pageNum=0&refId=2qDkJPzMq0TNXPPs%2FHkotg%3D%3D&trackingId=nH6CY4815XtBJYFp66RQ2g%3D%3D",
+    "location": "San Jose, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-16 18:37 UTC"
+  },
+  {
     "title": "Senior Data Scientist",
     "company": "Databricks",
     "link": "https://www.linkedin.com/jobs/view/senior-data-scientist-at-databricks-4424834466?position=2&pageNum=0&refId=B3JPyDBnjCXX0IdHSI8EIw%3D%3D&trackingId=4IxTqeBdqYfu0%2Bzr28DdMA%3D%3D",
@@ -2904,96 +2994,6 @@
     "company": "CFS",
     "link": "https://www.linkedin.com/jobs/view/data-analyst-at-cfs-4450190553?position=7&pageNum=0&refId=6a6HtwWLfuxmF3XZGbGHGQ%3D%3D&trackingId=9P7IDQ%2B8dyB1fr4wXzKqWA%3D%3D",
     "location": "Grand Rapids, MI",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-13 21:53 UTC"
-  },
-  {
-    "title": "Business Intelligence Analyst",
-    "company": "Mainz Brady Group",
-    "link": "https://www.linkedin.com/jobs/view/business-intelligence-analyst-at-mainz-brady-group-4452989827?position=9&pageNum=0&refId=6a6HtwWLfuxmF3XZGbGHGQ%3D%3D&trackingId=re04mGjth%2F%2FZTBOzv%2BvwHw%3D%3D",
-    "location": "Anchorage, AK",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-13 21:53 UTC"
-  },
-  {
-    "title": "Business Data Analyst II",
-    "company": "DHL Supply Chain",
-    "link": "https://www.linkedin.com/jobs/view/business-data-analyst-ii-at-dhl-supply-chain-4450760800?position=10&pageNum=0&refId=6a6HtwWLfuxmF3XZGbGHGQ%3D%3D&trackingId=TAG2RHrDmad7bBgGYT%2B7OQ%3D%3D",
-    "location": "Wichita, KS",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-13 21:53 UTC"
-  },
-  {
-    "title": "Sr. Analytics Engineer",
-    "company": "Total Wine & More",
-    "link": "https://www.linkedin.com/jobs/view/sr-analytics-engineer-at-total-wine-more-4441026423?position=10&pageNum=0&refId=aK93ZykuPymcCDVyFjjRtg%3D%3D&trackingId=cYZs9edPtm8i3uGcfDoGnQ%3D%3D",
-    "location": "Bethesda, MD",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-13 21:53 UTC"
-  },
-  {
-    "title": "Pediatrics Data Analyst",
-    "company": "Boston Medical Center (BMC)",
-    "link": "https://www.linkedin.com/jobs/view/pediatrics-data-analyst-at-boston-medical-center-bmc-4454313113?position=8&pageNum=0&refId=a60IC7u93cjxhq8ks%2FvVrg%3D%3D&trackingId=MrrzT%2FQq6UfTllyb2ObuqQ%3D%3D",
-    "location": "Boston, MA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-13 21:53 UTC"
-  },
-  {
-    "title": "Data Scientist",
-    "company": "HCA Healthcare",
-    "link": "https://www.linkedin.com/jobs/view/data-scientist-at-hca-healthcare-4454315216?position=3&pageNum=0&refId=APuY7Gwit%2FEaiqcpW%2FfUBQ%3D%3D&trackingId=07GsITE7vESORK%2B4Mbgdtg%3D%3D",
-    "location": "Nashville, TN",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-13 21:53 UTC"
-  },
-  {
-    "title": "Healthcare Navigation Data Scientist -Virtual",
-    "company": "Alight Solutions",
-    "link": "https://www.linkedin.com/jobs/view/healthcare-navigation-data-scientist-virtual-at-alight-solutions-4450829608?position=4&pageNum=0&refId=APuY7Gwit%2FEaiqcpW%2FfUBQ%3D%3D&trackingId=suIH%2F6ZuQhbazYilQtRRpA%3D%3D",
-    "location": "Illinois, United States",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-13 21:53 UTC"
-  },
-  {
-    "title": "Data Science Analyst II",
-    "company": "The University of Texas at Austin",
-    "link": "https://www.linkedin.com/jobs/view/data-science-analyst-ii-at-the-university-of-texas-at-austin-4454098247?position=5&pageNum=0&refId=APuY7Gwit%2FEaiqcpW%2FfUBQ%3D%3D&trackingId=qnp9GQ7TehsnP9SlVvd7EQ%3D%3D",
-    "location": "Austin, TX",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-13 21:53 UTC"
-  },
-  {
-    "title": "Applied Real World Data ScientistNew\nDenver (Remote)",
-    "company": "Evio Access",
-    "link": "https://www.linkedin.com/jobs/view/applied-real-world-data-scientistnew%0Adenver-remote-at-evio-access-4454326100?position=9&pageNum=0&refId=APuY7Gwit%2FEaiqcpW%2FfUBQ%3D%3D&trackingId=6%2BDbfG9tZjqIKHBtrZGMAg%3D%3D",
-    "location": "Denver, NC",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-13 21:53 UTC"
-  },
-  {
-    "title": "Product Analyst, AI & UX Optimization",
-    "company": "Afficiency",
-    "link": "https://www.linkedin.com/jobs/view/product-analyst-ai-ux-optimization-at-afficiency-4453235508?position=1&pageNum=0&refId=s6Xpc%2BXkIZFtwOfgD7J55w%3D%3D&trackingId=GoHaYzPvAk6Z9g%2B5eSsYFA%3D%3D",
-    "location": "New York, NY",
     "source": "LinkedIn",
     "h1b_signal": false,
     "summary": "",
