@@ -1,5 +1,85 @@
 [
   {
+    "title": "Staff, Data Scientist",
+    "company": "Walmart Global Tech",
+    "link": "https://www.linkedin.com/jobs/view/staff-data-scientist-at-walmart-global-tech-4423197667?position=10&pageNum=0&refId=0rVmf%2FG6%2Bm4YzUL3zBUvEg%3D%3D&trackingId=dfnsW7KP%2BglL3ASAIr1DGQ%3D%3D",
+    "location": "Sunnyvale, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-16 06:51 UTC"
+  },
+  {
+    "title": "Staff Machine Learning Engineer",
+    "company": "Micron Technology",
+    "link": "https://www.linkedin.com/jobs/view/staff-machine-learning-engineer-at-micron-technology-4416527967?position=12&pageNum=0&refId=d5Gy6DiiEFJyZVXrUpXfJw%3D%3D&trackingId=2OAydTZAB70x%2B96f%2FsJEug%3D%3D",
+    "location": "Boise, ID",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-16 06:51 UTC"
+  },
+  {
+    "title": "Data Analyst",
+    "company": "HAVI Belgi\u00eb",
+    "link": "https://www.linkedin.com/jobs/view/data-analyst-at-havi-belgi%C3%AB-4453967458?position=6&pageNum=0&refId=BE1dQ1zF57x4L2ODXEvMnQ%3D%3D&trackingId=r%2FfQUs70FyaQe6VYgcgW5w%3D%3D",
+    "location": "Chicago, IL",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-16 06:51 UTC"
+  },
+  {
+    "title": "AI Engineer - Reinforcement Learning",
+    "company": "Logical Intelligence",
+    "link": "https://www.linkedin.com/jobs/view/ai-engineer-reinforcement-learning-at-logical-intelligence-4455164184?position=8&pageNum=0&refId=ltDMgS6M1GiRvzhRib%2FbJQ%3D%3D&trackingId=MXbZgFm6viuhsqrhIgEVow%3D%3D",
+    "location": "San Francisco Bay Area",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-16 06:51 UTC"
+  },
+  {
+    "title": "Data Engineer - Project Delivery Specialist",
+    "company": "Deloitte",
+    "link": "https://www.linkedin.com/jobs/view/data-engineer-project-delivery-specialist-at-deloitte-4418062085?position=12&pageNum=0&refId=0NM0lCsuAdoiFOSD8i4phg%3D%3D&trackingId=eFnsSZXrblfuulvfwTM1XA%3D%3D",
+    "location": "San Jose, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-16 06:51 UTC"
+  },
+  {
+    "title": "Senior Machine Learning Engineer, Ads ML Platform",
+    "company": "Reddit, Inc.",
+    "link": "https://www.linkedin.com/jobs/view/senior-machine-learning-engineer-ads-ml-platform-at-reddit-inc-4445296393?position=8&pageNum=0&refId=uu5qrKH2ZFIV0n5RzHDFPw%3D%3D&trackingId=No4vvDaWIqXaCsuzPnk6ew%3D%3D",
+    "location": "New York, NY",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-16 06:51 UTC"
+  },
+  {
+    "title": "ML Engineer",
+    "company": "Tata Consultancy Services",
+    "link": "https://www.linkedin.com/jobs/view/ml-engineer-at-tata-consultancy-services-4444616199?position=11&pageNum=0&refId=uu5qrKH2ZFIV0n5RzHDFPw%3D%3D&trackingId=oKkm6%2FLFA33%2F9TceiOstcw%3D%3D",
+    "location": "Malvern, PA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-16 06:51 UTC"
+  },
+  {
+    "title": "Data Engineer",
+    "company": "Tabs",
+    "link": "https://www.linkedin.com/jobs/view/data-engineer-at-tabs-4455175438?position=11&pageNum=0&refId=ISKnfNKcU%2FV0aNTy%2BbgleQ%3D%3D&trackingId=KjdL1Z%2BuvVJ3EA%2BzN24IDg%3D%3D",
+    "location": "New York, NY",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-16 06:51 UTC"
+  },
+  {
     "title": "Data Scientist",
     "company": "Sapphire Partners",
     "link": "https://www.linkedin.com/jobs/view/data-scientist-at-sapphire-partners-4455116634?position=11&pageNum=0&refId=yFbwiL%2B1ui6SKuqoBhXN6g%3D%3D&trackingId=BmZUbZ%2Be5HvXktVXPtdPWw%3D%3D",
@@ -2918,85 +2998,5 @@
     "h1b_signal": false,
     "summary": "",
     "found_at": "2026-08-13 13:27 UTC"
-  },
-  {
-    "title": "Product Analyst - Workplace Security & Safety",
-    "company": "Selby Jennings",
-    "link": "https://www.linkedin.com/jobs/view/product-analyst-workplace-security-safety-at-selby-jennings-4454015414?position=9&pageNum=0&refId=c8aIlGYVkNkWL3HvIhSnxg%3D%3D&trackingId=BLHTKfMAgp3DJ6sQrqq4qg%3D%3D",
-    "location": "New York, NY",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-13 13:27 UTC"
-  },
-  {
-    "title": "Research Scientist, AI Networking (PhD)",
-    "company": "Meta",
-    "link": "https://www.linkedin.com/jobs/view/research-scientist-ai-networking-phd-at-meta-4444251957?position=6&pageNum=0&refId=bQtdm2AlVO5JzIL04rmiiQ%3D%3D&trackingId=3bO4OiqGBKLFnialppHz%2Fw%3D%3D",
-    "location": "Menlo Park, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-13 13:27 UTC"
-  },
-  {
-    "title": "Staff Machine Learning Engineer",
-    "company": "PayPal",
-    "link": "https://www.linkedin.com/jobs/view/staff-machine-learning-engineer-at-paypal-4453382174?position=7&pageNum=0&refId=vwJBrL14qlXXUe7qA5zVzg%3D%3D&trackingId=epOT4vIyLi2VPItf0vagkg%3D%3D",
-    "location": "San Jose, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-13 10:15 UTC"
-  },
-  {
-    "title": "Founding Machine Learning Engineer",
-    "company": "Invention Co",
-    "link": "https://www.linkedin.com/jobs/view/founding-machine-learning-engineer-at-invention-co-4453368149?position=11&pageNum=0&refId=vwJBrL14qlXXUe7qA5zVzg%3D%3D&trackingId=rIv3Wl8xmHicF4UGc%2B7o%2Fw%3D%3D",
-    "location": "San Jose, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-13 10:15 UTC"
-  },
-  {
-    "title": "AI Engineer",
-    "company": "Atos",
-    "link": "https://www.linkedin.com/jobs/view/ai-engineer-at-atos-4450157862?position=12&pageNum=0&refId=C2NApfTtTWhNlZKhFmUStw%3D%3D&trackingId=yWx1x2yV8QONGnEG0OOSUQ%3D%3D",
-    "location": "United States",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-13 10:15 UTC"
-  },
-  {
-    "title": "Analytics Engineer II",
-    "company": "Mariner",
-    "link": "https://www.linkedin.com/jobs/view/analytics-engineer-ii-at-mariner-4453389250?position=5&pageNum=0&refId=QOkj3N4H8%2BOEbUw9IwAn6Q%3D%3D&trackingId=%2BAoX25n5q4J1cx1eTb%2FOmQ%3D%3D",
-    "location": "Overland Park, KS",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-13 10:15 UTC"
-  },
-  {
-    "title": "Data Analytics Engineer",
-    "company": "BankUnited",
-    "link": "https://www.linkedin.com/jobs/view/data-analytics-engineer-at-bankunited-4434353812?position=6&pageNum=0&refId=QOkj3N4H8%2BOEbUw9IwAn6Q%3D%3D&trackingId=Jxd6qR4jP9kyXV48m2sSGA%3D%3D",
-    "location": "Miami Lakes, FL",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-13 10:15 UTC"
-  },
-  {
-    "title": "Data Analyst, Quality Standards & Assessment Orlando Health Lakeland | Watson Cl",
-    "company": "Orlando Health",
-    "link": "https://www.linkedin.com/jobs/view/data-analyst-quality-standards-assessment-orlando-health-lakeland-watson-clinic-at-orlando-health-4452777329?position=2&pageNum=0&refId=55JqflObciEhnecm7NNBGw%3D%3D&trackingId=Arxrtd4FZH940hY%2FMlL7FA%3D%3D",
-    "location": "Orlando, FL",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-13 10:15 UTC"
   }
 ]
