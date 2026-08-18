@@ -1,5 +1,45 @@
 [
   {
+    "title": "Data Scientist",
+    "company": "Minerva",
+    "link": "https://www.linkedin.com/jobs/view/data-scientist-at-minerva-4455553602?position=1&pageNum=0&refId=40xKoStLwlVibCD6a35Ajg%3D%3D&trackingId=rXgXW9cxTJUGABDZwMhNXA%3D%3D",
+    "location": "New York, NY",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-18 03:50 UTC"
+  },
+  {
+    "title": "Machine Learning Engineer",
+    "company": "UST",
+    "link": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-ust-4452521867?position=12&pageNum=0&refId=sSxbF8VXYs5eNAdk76VJkQ%3D%3D&trackingId=6SwaXhCwxNC3b7oG34CjVQ%3D%3D",
+    "location": "Oregon, United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-18 03:50 UTC"
+  },
+  {
+    "title": "Data Engineer, Data Products",
+    "company": "Minerva",
+    "link": "https://www.linkedin.com/jobs/view/data-engineer-data-products-at-minerva-4455556578?position=4&pageNum=0&refId=gOo99NbhxhlLHFlhXwhkfA%3D%3D&trackingId=6M0jaioVujpGTDF4Rs0qtg%3D%3D",
+    "location": "New York, NY",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-18 03:50 UTC"
+  },
+  {
+    "title": "Data Scientist, Seller Fulfillment Services (SFS)",
+    "company": "Amazon",
+    "link": "https://www.amazon.jobs/en/jobs/10504464/data-scientist-seller-fulfillment-services-sfs",
+    "location": "IN, KA, Bengaluru",
+    "source": "Amazon Careers",
+    "h1b_signal": true,
+    "summary": "If you have ever bought or sold anything on Amazon, you have touched Amazon Marketplace. Amazon\u2019s Marketplace business is one of the largest in the world. We are now in 23 countries. We are growing fa",
+    "found_at": "2026-08-18 03:50 UTC"
+  },
+  {
     "title": "Applied AI Engineer",
     "company": "CHAOS Industries",
     "link": "https://www.linkedin.com/jobs/view/applied-ai-engineer-at-chaos-industries-4454409907?position=12&pageNum=0&refId=XVBUSbrrE%2Fj5Nyu3tHBofA%3D%3D&trackingId=X5XeCMVSq%2BGQ1WZYV0Id6Q%3D%3D",
@@ -2954,46 +2994,6 @@
     "company": "Valmet",
     "link": "https://fi.linkedin.com/jobs/view/data-scientist-at-valmet-4453144523?position=9&pageNum=0&refId=7MkyEBbAzDVSsLeF5oOKKA%3D%3D&trackingId=0%2F0kzzDYkz%2BRqFwdN5Qotg%3D%3D",
     "location": "Tampere, Pirkanmaa, Finland",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-14 21:31 UTC"
-  },
-  {
-    "title": "Data Scientist",
-    "company": "DuluxGroup",
-    "link": "https://au.linkedin.com/jobs/view/data-scientist-at-duluxgroup-4451393386?position=10&pageNum=0&refId=7MkyEBbAzDVSsLeF5oOKKA%3D%3D&trackingId=OSMqEq8PGQe8EcsrmXJUIQ%3D%3D",
-    "location": "Clayton, Victoria, Australia",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-14 21:31 UTC"
-  },
-  {
-    "title": "Data Scientist",
-    "company": "HUB International",
-    "link": "https://ca.linkedin.com/jobs/view/data-scientist-at-hub-international-4452173646?position=11&pageNum=0&refId=7MkyEBbAzDVSsLeF5oOKKA%3D%3D&trackingId=3i%2FPw%2Fndev283a4xFj1eNQ%3D%3D",
-    "location": "Red Deer, Alberta, Canada",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-14 21:31 UTC"
-  },
-  {
-    "title": "Data Scientist",
-    "company": "NielsenIQ",
-    "link": "https://cn.linkedin.com/jobs/view/data-scientist-at-nielseniq-4426810049?position=12&pageNum=0&refId=7MkyEBbAzDVSsLeF5oOKKA%3D%3D&trackingId=UG9JmbeCh6WbsqREUTGaUw%3D%3D",
-    "location": "Shanghai, Shanghai, China",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-14 21:31 UTC"
-  },
-  {
-    "title": "AI Engineer",
-    "company": "Space Capital",
-    "link": "https://www.linkedin.com/jobs/view/ai-engineer-at-space-capital-4451248757?position=6&pageNum=0&refId=gYo7lcIONgRc3AF6ypeRmw%3D%3D&trackingId=XcNVlEEh66DKcfQPDCcyMw%3D%3D",
-    "location": "Bellevue, WA",
     "source": "LinkedIn",
     "h1b_signal": false,
     "summary": "",
