@@ -1,6 +1,76 @@
 [
   {
     "title": "Data Scientist",
+    "company": "Precision Technologies",
+    "link": "https://www.linkedin.com/jobs/view/data-scientist-at-precision-technologies-4454268387?position=12&pageNum=0&refId=XJDYXY0inDv8XsMzCyqe5Q%3D%3D&trackingId=z4YgLoaEZvhdTCa%2BalxEQA%3D%3D",
+    "location": "Texas, United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-18 09:40 UTC"
+  },
+  {
+    "title": "Machine Learning Engineer II",
+    "company": "Expedia Group",
+    "link": "https://www.linkedin.com/jobs/view/machine-learning-engineer-ii-at-expedia-group-4452563784?position=5&pageNum=0&refId=%2F7RbOycp5vxVGVPompNgEA%3D%3D&trackingId=B2rCN0xmXKPHXmnrBqYtKg%3D%3D",
+    "location": "San Jose, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-18 09:40 UTC"
+  },
+  {
+    "title": "Machine Learning Engineer",
+    "company": "The Best Job Board",
+    "link": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-the-best-job-board-4452543912?position=7&pageNum=0&refId=%2F7RbOycp5vxVGVPompNgEA%3D%3D&trackingId=gIbxNM9ufbSS8klmTOHAFQ%3D%3D",
+    "location": "San Mateo, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-18 09:40 UTC"
+  },
+  {
+    "title": "Senior Machine Learning Engineer, Infrastructure",
+    "company": "Patreon",
+    "link": "https://www.linkedin.com/jobs/view/senior-machine-learning-engineer-infrastructure-at-patreon-4454410129?position=2&pageNum=0&refId=XRpvLOS8gzOE8esQUxDPkA%3D%3D&trackingId=hKWIyz6jXwn6IckkAnIeww%3D%3D",
+    "location": "San Francisco, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-18 09:40 UTC"
+  },
+  {
+    "title": "Founding Data Analytics Engineer",
+    "company": "Broccoli AI",
+    "link": "https://www.linkedin.com/jobs/view/founding-data-analytics-engineer-at-broccoli-ai-4455584590?position=3&pageNum=0&refId=YDlX6rfw67EC%2BPIYYiyhtQ%3D%3D&trackingId=tRqXhwco8ZK428ZkCJyEFw%3D%3D",
+    "location": "San Francisco, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-18 09:40 UTC"
+  },
+  {
+    "title": "Data Analytics Engineer",
+    "company": "U.S. Bank",
+    "link": "https://www.linkedin.com/jobs/view/data-analytics-engineer-at-u-s-bank-4454418592?position=12&pageNum=0&refId=YDlX6rfw67EC%2BPIYYiyhtQ%3D%3D&trackingId=9SD%2BqkVgvkPmNnPjqbjcIg%3D%3D",
+    "location": "Irving, TX",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-18 09:40 UTC"
+  },
+  {
+    "title": "Senior Data Scientist, AI Program, CNGS NBS (New Business & New Seller) Amazon B",
+    "company": "Amazon",
+    "link": "https://www.amazon.jobs/en/jobs/10504610/senior-data-scientist-ai-program-cngs-nbs-new-business-new-seller-amazon-business",
+    "location": "CN, 31, Shanghai",
+    "source": "Amazon Careers",
+    "h1b_signal": true,
+    "summary": "Team & Project Overview The NBS Data Central team powers analytics, data science, and AI capabilities for Worldwide Global Selling (WWGS). We build scalable data products, and insight-generation syste",
+    "found_at": "2026-08-18 09:40 UTC"
+  },
+  {
+    "title": "Data Scientist",
     "company": "Guidehouse",
     "link": "https://www.linkedin.com/jobs/view/data-scientist-at-guidehouse-4455396468?position=3&pageNum=0&refId=ndN2q7lDQtklV7lVTrlS0Q%3D%3D&trackingId=2OrmBnu4ITj%2Fsw6sFO%2Fs8A%3D%3D",
     "location": "McLean, VA",
@@ -2928,75 +2998,5 @@
     "h1b_signal": false,
     "summary": "",
     "found_at": "2026-08-15 03:46 UTC"
-  },
-  {
-    "title": "Applied Scientist I, Grocery, Retail & In-Store Experience (GRAISE)",
-    "company": "Amazon",
-    "link": "https://www.amazon.jobs/en/jobs/10502983/applied-scientist-i-grocery-retail-in-store-experience-graise",
-    "location": "IN, KA, Bengaluru",
-    "source": "Amazon Careers",
-    "h1b_signal": true,
-    "summary": "We are looking for a talented Applied Scientist to join our team. In this role, you will design, develop, and deploy machine learning and computer vision models that solve real-world problems at scale",
-    "found_at": "2026-08-15 03:46 UTC"
-  },
-  {
-    "title": "Data Scientist",
-    "company": "M Science",
-    "link": "https://www.linkedin.com/jobs/view/data-scientist-at-m-science-4453715623?position=1&pageNum=0&refId=y%2BlGv6hKTUmnabiBnX9QkQ%3D%3D&trackingId=WTK8NCEtI0YxOVmiBYw2Dg%3D%3D",
-    "location": "New York City Metropolitan Area",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-15 01:40 UTC"
-  },
-  {
-    "title": "(USA) Data Scientist III",
-    "company": "Walmart",
-    "link": "https://www.linkedin.com/jobs/view/usa-data-scientist-iii-at-walmart-4451289075?position=6&pageNum=0&refId=y%2BlGv6hKTUmnabiBnX9QkQ%3D%3D&trackingId=clZn3wx9wtf1qcaESnR41A%3D%3D",
-    "location": "Sunnyvale, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-15 01:40 UTC"
-  },
-  {
-    "title": "Data Scientist",
-    "company": "Envision",
-    "link": "https://www.linkedin.com/jobs/view/data-scientist-at-envision-4454560919?position=9&pageNum=0&refId=y%2BlGv6hKTUmnabiBnX9QkQ%3D%3D&trackingId=61AQX%2BU1sDY7aGVlY%2FLScw%3D%3D",
-    "location": "St Louis, MO",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-15 01:40 UTC"
-  },
-  {
-    "title": "(USA) Staff, Machine Learning Engineer",
-    "company": "Walmart",
-    "link": "https://www.linkedin.com/jobs/view/usa-staff-machine-learning-engineer-at-walmart-4451273218?position=8&pageNum=0&refId=zNcC9ouYV4t5dwkDNFPpfQ%3D%3D&trackingId=VLOoA1WdTcPdWB0MvQl%2Fug%3D%3D",
-    "location": "Sunnyvale, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-15 01:40 UTC"
-  },
-  {
-    "title": "Machine Learning Engineer",
-    "company": "Samsung Semiconductor",
-    "link": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-samsung-semiconductor-4454828194?position=12&pageNum=0&refId=zNcC9ouYV4t5dwkDNFPpfQ%3D%3D&trackingId=zf2PFmUvEhpdb4PqO4km8w%3D%3D",
-    "location": "Taylor, TX",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-15 01:40 UTC"
-  },
-  {
-    "title": "Data Analyst 2",
-    "company": "iTradeNetwork, Inc.",
-    "link": "https://www.linkedin.com/jobs/view/data-analyst-2-at-itradenetwork-inc-4453715809?position=4&pageNum=0&refId=AoCypuLoL2vrEO4aLZJrgg%3D%3D&trackingId=FRqbisUjTDDmemIPxJeKHQ%3D%3D",
-    "location": "San Francisco Bay Area",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-15 01:40 UTC"
   }
 ]
