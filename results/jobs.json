@@ -1,5 +1,35 @@
 [
   {
+    "title": "Machine Learning Engineer",
+    "company": "Conduit",
+    "link": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-conduit-4456161338?position=3&pageNum=0&refId=JNV1hA2bRmjQbhr6r0TWQw%3D%3D&trackingId=u94ilRfhGRtZWCCfmEhsvQ%3D%3D",
+    "location": "San Francisco, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-19 06:55 UTC"
+  },
+  {
+    "title": "Data Engineer",
+    "company": "CVS Health",
+    "link": "https://www.linkedin.com/jobs/view/data-engineer-at-cvs-health-4455732129?position=9&pageNum=0&refId=%2BeZe%2FK2Z99pI%2B3dxx98ekg%3D%3D&trackingId=NkVR%2FqQovSLnFq3E0N7JAA%3D%3D",
+    "location": "Irving, TX",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-19 06:55 UTC"
+  },
+  {
+    "title": "Data Scientist - Statistics/ML - Remote",
+    "company": "Molina Healthcare",
+    "link": "https://www.linkedin.com/jobs/view/data-scientist-statistics-ml-remote-at-molina-healthcare-4456146301?position=6&pageNum=0&refId=cw74HIZo9NlkCvxa3f1PxA%3D%3D&trackingId=G%2B%2F7CJOGh1HwbDxe4uTMPg%3D%3D",
+    "location": "United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-19 06:55 UTC"
+  },
+  {
     "title": "Optimization Data Analyst",
     "company": "Adyen",
     "link": "https://www.linkedin.com/jobs/view/optimization-data-analyst-at-adyen-4454948101?position=9&pageNum=0&refId=QKxc0Epm1mmz8FqSZY1YEw%3D%3D&trackingId=SUuYNMePShtfbzPwF4T%2BFw%3D%3D",
@@ -2964,36 +2994,6 @@
     "company": "Tata Consultancy Services",
     "link": "https://www.linkedin.com/jobs/view/senior-data-engineer-at-tata-consultancy-services-4444399892?position=11&pageNum=0&refId=flzw9uS3rrJ3R%2BZL06svxw%3D%3D&trackingId=kTHnt6mc7c0xPe3aNLb2RQ%3D%3D",
     "location": "Irving, TX",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-16 09:33 UTC"
-  },
-  {
-    "title": "BI Developer",
-    "company": "Robert Half",
-    "link": "https://www.linkedin.com/jobs/view/bi-developer-at-robert-half-4455128206?position=12&pageNum=0&refId=DMH4MJmEg2dQ2z58WVHYAQ%3D%3D&trackingId=Sc%2Fa925uYj8eliH3Qik1kw%3D%3D",
-    "location": "Frisco, TX",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-16 09:33 UTC"
-  },
-  {
-    "title": "Senior Data Analyst Engineer- FinOps",
-    "company": "Edward Jones",
-    "link": "https://www.linkedin.com/jobs/view/senior-data-analyst-engineer-finops-at-edward-jones-4453953272?position=2&pageNum=0&refId=byzmVGgz%2BD1M1WHZVt14bw%3D%3D&trackingId=dor5Gd0DZAH%2FaVZ62Ry9sA%3D%3D",
-    "location": "Tempe, AZ",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-16 09:33 UTC"
-  },
-  {
-    "title": "Senior Analytics Engineer, Product Analytics",
-    "company": "Ibotta",
-    "link": "https://www.linkedin.com/jobs/view/senior-analytics-engineer-product-analytics-at-ibotta-4445223998?position=5&pageNum=0&refId=byzmVGgz%2BD1M1WHZVt14bw%3D%3D&trackingId=Og9mJinCJ7zff3BT5Y7rKg%3D%3D",
-    "location": "Denver, CO",
     "source": "LinkedIn",
     "h1b_signal": false,
     "summary": "",
