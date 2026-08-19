@@ -1,5 +1,55 @@
 [
   {
+    "title": "Forward Deployed Engineer (Training)",
+    "company": "Baseten",
+    "link": "https://www.linkedin.com/jobs/view/forward-deployed-engineer-training-at-baseten-4456151967?position=13&pageNum=0&refId=v11lR%2F596YsDxHYoXE8N0Q%3D%3D&trackingId=w0uVrCAJ9ffl%2FteilSUlUw%3D%3D",
+    "location": "San Francisco, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-19 09:40 UTC"
+  },
+  {
+    "title": "Data Engineer, AWS GDSP A&I",
+    "company": "Amazon Web Services (AWS)",
+    "link": "https://www.linkedin.com/jobs/view/data-engineer-aws-gdsp-a-i-at-amazon-web-services-aws-4455794635?position=4&pageNum=0&refId=TO%2FjJFaBOwm8JG8yHjnf6Q%3D%3D&trackingId=k89T5%2BBCrSKkFYciqGWiTA%3D%3D",
+    "location": "Austin, TX",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-19 09:40 UTC"
+  },
+  {
+    "title": "Sr. Analytics Engineer",
+    "company": "Backblaze",
+    "link": "https://www.linkedin.com/jobs/view/sr-analytics-engineer-at-backblaze-4456131380?position=12&pageNum=0&refId=TO%2FjJFaBOwm8JG8yHjnf6Q%3D%3D&trackingId=UQf%2Bp1g%2BaDEcsCWb%2FpEkOA%3D%3D",
+    "location": "United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-19 09:40 UTC"
+  },
+  {
+    "title": "QC & Data Analyst",
+    "company": "Flourish Research",
+    "link": "https://www.linkedin.com/jobs/view/qc-data-analyst-at-flourish-research-4456180192?position=4&pageNum=0&refId=SogSn6bnDlVumtKFRgz7Rg%3D%3D&trackingId=E9gDm22x%2FSab7yhMqcKyJw%3D%3D",
+    "location": "San Antonio, TX",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-19 09:40 UTC"
+  },
+  {
+    "title": "Data Scientist",
+    "company": "Waystar",
+    "link": "https://www.linkedin.com/jobs/view/data-scientist-at-waystar-4369701255?position=2&pageNum=0&refId=kBqkaOa7qyb5btjsojwQjg%3D%3D&trackingId=qBaAYVRVootbNOo%2BLL39XQ%3D%3D",
+    "location": "Atlanta, GA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-19 09:40 UTC"
+  },
+  {
     "title": "Machine Learning Engineer",
     "company": "Conduit",
     "link": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-conduit-4456161338?position=3&pageNum=0&refId=JNV1hA2bRmjQbhr6r0TWQw%3D%3D&trackingId=u94ilRfhGRtZWCCfmEhsvQ%3D%3D",
@@ -2948,55 +2998,5 @@
     "h1b_signal": false,
     "summary": "",
     "found_at": "2026-08-16 12:52 UTC"
-  },
-  {
-    "title": "Research Scientist \u2013 Power System Operation",
-    "company": "Hitachi Energy",
-    "link": "https://www.linkedin.com/jobs/view/research-scientist-%E2%80%93-power-system-operation-at-hitachi-energy-4427902390?position=10&pageNum=0&refId=3UIWUir82t4zeVCHWzXY3A%3D%3D&trackingId=3wBD5vVJTHKV6AT25jETFg%3D%3D",
-    "location": "Raleigh, NC",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-16 12:52 UTC"
-  },
-  {
-    "title": "Data Engineer",
-    "company": "TempWorks Software, Inc",
-    "link": "https://www.linkedin.com/jobs/view/data-engineer-at-tempworks-software-inc-4451740459?position=6&pageNum=0&refId=flzw9uS3rrJ3R%2BZL06svxw%3D%3D&trackingId=tdt6xG0H33eoblHHGl%2BS3Q%3D%3D",
-    "location": "Minneapolis, MN",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-16 09:33 UTC"
-  },
-  {
-    "title": "Sr. Data Engineer",
-    "company": "NinjaTrader",
-    "link": "https://www.linkedin.com/jobs/view/sr-data-engineer-at-ninjatrader-4432826596?position=7&pageNum=0&refId=flzw9uS3rrJ3R%2BZL06svxw%3D%3D&trackingId=FUHJUwEboSAGPdrGOZ0S4A%3D%3D",
-    "location": "Chicago, IL",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-16 09:33 UTC"
-  },
-  {
-    "title": "Data Engineer",
-    "company": "Nscale",
-    "link": "https://www.linkedin.com/jobs/view/data-engineer-at-nscale-4398571999?position=8&pageNum=0&refId=flzw9uS3rrJ3R%2BZL06svxw%3D%3D&trackingId=6ZNuIhHbN5%2FBTRUtVIj3Iw%3D%3D",
-    "location": "New York, NY",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-16 09:33 UTC"
-  },
-  {
-    "title": "Senior Data Engineer",
-    "company": "Tata Consultancy Services",
-    "link": "https://www.linkedin.com/jobs/view/senior-data-engineer-at-tata-consultancy-services-4444399892?position=11&pageNum=0&refId=flzw9uS3rrJ3R%2BZL06svxw%3D%3D&trackingId=kTHnt6mc7c0xPe3aNLb2RQ%3D%3D",
-    "location": "Irving, TX",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-16 09:33 UTC"
   }
 ]
