@@ -1,5 +1,135 @@
 [
   {
+    "title": "Machine Learning Engineer",
+    "company": "Find Data Science Jobs",
+    "link": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-find-data-science-jobs-4457528167?position=6&pageNum=0&refId=f80z6Ur54TT13a%2Bmu1ELmQ%3D%3D&trackingId=clr5tm4rCtIlnJeOWBSlLw%3D%3D",
+    "location": "San Francisco, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-22 12:52 UTC"
+  },
+  {
+    "title": "AI Engineer",
+    "company": "HAVI",
+    "link": "https://www.linkedin.com/jobs/view/ai-engineer-at-havi-4409918130?position=9&pageNum=0&refId=f80z6Ur54TT13a%2Bmu1ELmQ%3D%3D&trackingId=LtmJMeouhDXUBGT3I1LR%2Bw%3D%3D",
+    "location": "Chicago, IL",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-22 12:52 UTC"
+  },
+  {
+    "title": "Data Analyst",
+    "company": "Procter & Gamble",
+    "link": "https://www.linkedin.com/jobs/view/data-analyst-at-procter-gamble-4457815200?position=1&pageNum=0&refId=iLYlMCmFb778AiTLTTe3qQ%3D%3D&trackingId=MfSfXcIYsyqmLYl%2Fzxsmrw%3D%3D",
+    "location": "United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-22 12:52 UTC"
+  },
+  {
+    "title": "Principal AI Engineer",
+    "company": "Midcontinent Independent System Operator (MISO)",
+    "link": "https://www.linkedin.com/jobs/view/principal-ai-engineer-at-midcontinent-independent-system-operator-miso-4427361399?position=2&pageNum=0&refId=byO46X0cMQPWCS0UHamEBg%3D%3D&trackingId=qie7WlB8lrtw8PmtW4EGPw%3D%3D",
+    "location": "Greater Indianapolis",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-22 12:52 UTC"
+  },
+  {
+    "title": "Data Engineer",
+    "company": "Find Data Science Jobs",
+    "link": "https://www.linkedin.com/jobs/view/data-engineer-at-find-data-science-jobs-4457814371?position=10&pageNum=0&refId=xFTC9Yt1xuX0YlgDzG3LDA%3D%3D&trackingId=jBV2JKZApMrhACF3PFHwMA%3D%3D",
+    "location": "Dallas, TX",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-22 12:52 UTC"
+  },
+  {
+    "title": "Senior Analytics Engineer, Marketing Sciences",
+    "company": "SimplePractice",
+    "link": "https://www.linkedin.com/jobs/view/senior-analytics-engineer-marketing-sciences-at-simplepractice-4457504266?position=9&pageNum=0&refId=J5Tsa3kLO3MvKGTErtvemg%3D%3D&trackingId=s1g3xpc6zWv7JnOxeOeEYA%3D%3D",
+    "location": "United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-22 12:52 UTC"
+  },
+  {
+    "title": "Senior Analytics Engineer",
+    "company": "Vanta",
+    "link": "https://www.linkedin.com/jobs/view/senior-analytics-engineer-at-vanta-4446934329?position=12&pageNum=0&refId=J5Tsa3kLO3MvKGTErtvemg%3D%3D&trackingId=cH9ubJaYMgHckoSMR1YoRg%3D%3D",
+    "location": "United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-22 12:52 UTC"
+  },
+  {
+    "title": "Data Analyst II, Clinical",
+    "company": "Sundayy",
+    "link": "https://www.linkedin.com/jobs/view/data-analyst-ii-clinical-at-sundayy-4457819202?position=7&pageNum=0&refId=F9pWDwSpxaEvKkOw8X%2FXAw%3D%3D&trackingId=NFk3i8KWbf802vyKF%2BGrHw%3D%3D",
+    "location": "United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-22 12:52 UTC"
+  },
+  {
+    "title": "QC & Data Analyst",
+    "company": "Find Data Science Jobs",
+    "link": "https://www.linkedin.com/jobs/view/qc-data-analyst-at-find-data-science-jobs-4457804485?position=8&pageNum=0&refId=F9pWDwSpxaEvKkOw8X%2FXAw%3D%3D&trackingId=o9zqdO503h4LE5IbK9xmBA%3D%3D",
+    "location": "San Antonio, TX",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-22 12:52 UTC"
+  },
+  {
+    "title": "Data Scientist III",
+    "company": "Kaiser Permanente",
+    "link": "https://www.linkedin.com/jobs/view/data-scientist-iii-at-kaiser-permanente-4456641925?position=2&pageNum=0&refId=vmksDaObKbKXghi9bI%2BCQw%3D%3D&trackingId=PS9VL4aaNL48kYMBc%2BI6Hw%3D%3D",
+    "location": "Fulton, MD",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-22 12:52 UTC"
+  },
+  {
+    "title": "Forward Deploy Data Scientist",
+    "company": "Find Data Science Jobs",
+    "link": "https://www.linkedin.com/jobs/view/forward-deploy-data-scientist-at-find-data-science-jobs-4457545086?position=10&pageNum=0&refId=vmksDaObKbKXghi9bI%2BCQw%3D%3D&trackingId=96HGItE459UlAjqm54I0YA%3D%3D",
+    "location": "Greater Boston",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-22 12:52 UTC"
+  },
+  {
+    "title": "Research Scientist",
+    "company": "Find Data Science Jobs",
+    "link": "https://www.linkedin.com/jobs/view/research-scientist-at-find-data-science-jobs-4457599520?position=1&pageNum=0&refId=ZhzYZTrm0FE7nkly704LrA%3D%3D&trackingId=SJ0FS8HFOsirpbP2iyj%2BdA%3D%3D",
+    "location": "Redwood City, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-22 12:52 UTC"
+  },
+  {
+    "title": "AI Research Scientist, CoreML - Monetization AI",
+    "company": "Meta",
+    "link": "https://www.linkedin.com/jobs/view/ai-research-scientist-coreml-monetization-ai-at-meta-4203648310?position=11&pageNum=0&refId=ZhzYZTrm0FE7nkly704LrA%3D%3D&trackingId=PKKStaJhej9QblJL6nYyYg%3D%3D",
+    "location": "Sunnyvale, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-22 12:52 UTC"
+  },
+  {
     "title": "AI Data Scientist Lead",
     "company": "JPMorganChase",
     "link": "https://www.linkedin.com/jobs/view/ai-data-scientist-lead-at-jpmorganchase-4457597947?position=9&pageNum=0&refId=jlUl0mZ1chWvJUKlQDuM4g%3D%3D&trackingId=khAL32gHEuXlAjnUuDIBdw%3D%3D",
@@ -2868,135 +2998,5 @@
     "h1b_signal": false,
     "summary": "",
     "found_at": "2026-08-20 06:56 UTC"
-  },
-  {
-    "title": "Analytics Engineer",
-    "company": "Oscilar",
-    "link": "https://www.linkedin.com/jobs/view/analytics-engineer-at-oscilar-4419479248?position=8&pageNum=0&refId=MzCNIlykAd331lI%2FkJvQ2g%3D%3D&trackingId=jvTuktlRtvOGTb5fRzXX7w%3D%3D",
-    "location": "United States",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-20 06:56 UTC"
-  },
-  {
-    "title": "Data Analytics Engineer",
-    "company": "RemoteHunter",
-    "link": "https://www.linkedin.com/jobs/view/data-analytics-engineer-at-remotehunter-4455460463?position=9&pageNum=0&refId=MzCNIlykAd331lI%2FkJvQ2g%3D%3D&trackingId=%2F%2F6j8jUMbMgiLo8RND0nyw%3D%3D",
-    "location": "United States",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-20 06:56 UTC"
-  },
-  {
-    "title": "Senior Analytics Engineer",
-    "company": "RemoteHunter",
-    "link": "https://www.linkedin.com/jobs/view/senior-analytics-engineer-at-remotehunter-4455459330?position=11&pageNum=0&refId=MzCNIlykAd331lI%2FkJvQ2g%3D%3D&trackingId=uGl5P6kAyCFZ4YLjg29UHA%3D%3D",
-    "location": "United States",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-20 06:56 UTC"
-  },
-  {
-    "title": "Clinical Data Analyst RN- Quality Improvement",
-    "company": "UnityPoint Health",
-    "link": "https://www.linkedin.com/jobs/view/clinical-data-analyst-rn-quality-improvement-at-unitypoint-health-4453852069?position=4&pageNum=0&refId=31pNCOgewmHHs67qg%2B1QOA%3D%3D&trackingId=L9LkxI8h6WJojumvA6Q3Bw%3D%3D",
-    "location": "Des Moines, IA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-20 06:56 UTC"
-  },
-  {
-    "title": "Epic Clinical Business Intelligence Analyst - Intermediate (On-Site)",
-    "company": "UT Health San Antonio",
-    "link": "https://www.linkedin.com/jobs/view/epic-clinical-business-intelligence-analyst-intermediate-on-site-at-ut-health-san-antonio-4453470849?position=10&pageNum=0&refId=31pNCOgewmHHs67qg%2B1QOA%3D%3D&trackingId=b2sZNDQI0CVb0hmUMPZOGA%3D%3D",
-    "location": "San Antonio, TX",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-20 06:56 UTC"
-  },
-  {
-    "title": "Lead Data Analyst Healthcare Analytics",
-    "company": "Centene Corporation",
-    "link": "https://www.linkedin.com/jobs/view/lead-data-analyst-healthcare-analytics-at-centene-corporation-4456400361?position=12&pageNum=0&refId=31pNCOgewmHHs67qg%2B1QOA%3D%3D&trackingId=nxDYn3DnAguq2osfBVYoQA%3D%3D",
-    "location": "Florida, United States",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-20 06:56 UTC"
-  },
-  {
-    "title": "Product Analyst",
-    "company": "Travoom",
-    "link": "https://www.linkedin.com/jobs/view/product-analyst-at-travoom-4453496828?position=4&pageNum=0&refId=EwCBvQX1SRKf9ai%2BGK2kfA%3D%3D&trackingId=SR%2Bh0huj%2BzL0%2B2zfjqileA%3D%3D",
-    "location": "United States",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-20 06:56 UTC"
-  },
-  {
-    "title": "Senior Product Analyst",
-    "company": "Jobgether",
-    "link": "https://www.linkedin.com/jobs/view/senior-product-analyst-at-jobgether-4454994879?position=5&pageNum=0&refId=EwCBvQX1SRKf9ai%2BGK2kfA%3D%3D&trackingId=XoMWAD6DGqzw58gX20jdow%3D%3D",
-    "location": "United States",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-20 06:56 UTC"
-  },
-  {
-    "title": "Senior Business Intelligence Analyst \u2013 Product Analytics",
-    "company": "ZoomInfo",
-    "link": "https://www.linkedin.com/jobs/view/senior-business-intelligence-analyst-%E2%80%93-product-analytics-at-zoominfo-4428877838?position=8&pageNum=0&refId=EwCBvQX1SRKf9ai%2BGK2kfA%3D%3D&trackingId=9jvPSv7WH2HE41onIYZalA%3D%3D",
-    "location": "United States",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-20 06:56 UTC"
-  },
-  {
-    "title": "Staff Data Scientist - Product",
-    "company": "Apollo.io",
-    "link": "https://www.linkedin.com/jobs/view/staff-data-scientist-product-at-apollo-io-4429139704?position=11&pageNum=0&refId=EwCBvQX1SRKf9ai%2BGK2kfA%3D%3D&trackingId=kbnDeWS2qd3ErBuxBUUfJQ%3D%3D",
-    "location": "United States",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-20 06:56 UTC"
-  },
-  {
-    "title": "Data Scientist, Discover",
-    "company": "Google",
-    "link": "https://www.linkedin.com/jobs/view/data-scientist-discover-at-google-4455406316?position=12&pageNum=0&refId=EwCBvQX1SRKf9ai%2BGK2kfA%3D%3D&trackingId=QFmGG2ZrrfFrlAQ%2FUv3q4w%3D%3D",
-    "location": "New York, NY",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-20 06:56 UTC"
-  },
-  {
-    "title": "Senior Machine Learning Engineer",
-    "company": "Entrata",
-    "link": "https://www.linkedin.com/jobs/view/senior-machine-learning-engineer-at-entrata-4455421950?position=2&pageNum=0&refId=m5W57l7mJLI0rF1bcLxEnA%3D%3D&trackingId=7nUwe9XqKcDv7Ds4LIxoZA%3D%3D",
-    "location": "Lehi, UT",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-20 03:52 UTC"
-  },
-  {
-    "title": "Senior ML Engineer",
-    "company": "Haystack",
-    "link": "https://www.linkedin.com/jobs/view/senior-ml-engineer-at-haystack-4456361315?position=5&pageNum=0&refId=m5W57l7mJLI0rF1bcLxEnA%3D%3D&trackingId=71646z0gLj%2FCZpf1ghoNFw%3D%3D",
-    "location": "Washington, DC",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-20 03:52 UTC"
   }
 ]
