@@ -1,5 +1,65 @@
 [
   {
+    "title": "Applied AI Engineer",
+    "company": "NVIDIA AI",
+    "link": "https://www.linkedin.com/jobs/view/applied-ai-engineer-at-nvidia-ai-4456574544?position=3&pageNum=0&refId=K%2BTWvL2siMVKbpDIUwzn2Q%3D%3D&trackingId=0mdRbPirxp1i5WyYV0P8cA%3D%3D",
+    "location": "Santa Clara, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-25 09:42 UTC"
+  },
+  {
+    "title": "ML/AI Engineer",
+    "company": "Radley James",
+    "link": "https://www.linkedin.com/jobs/view/ml-ai-engineer-at-radley-james-4458576911?position=4&pageNum=0&refId=K%2BTWvL2siMVKbpDIUwzn2Q%3D%3D&trackingId=cAhbf7EGP%2BQRCGYfZpe7Og%3D%3D",
+    "location": "San Francisco, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-25 09:42 UTC"
+  },
+  {
+    "title": "Data Analyst",
+    "company": "State of Oklahoma",
+    "link": "https://www.linkedin.com/jobs/view/data-analyst-at-state-of-oklahoma-4457178703?position=7&pageNum=0&refId=rU03UNj1yN4kyf1z8tTsBg%3D%3D&trackingId=v57jxsjlZMe0LsoTQQ1PNA%3D%3D",
+    "location": "Oklahoma County, OK",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-25 09:42 UTC"
+  },
+  {
+    "title": "Agentic AI Engineer",
+    "company": "NTT DATA North America",
+    "link": "https://www.linkedin.com/jobs/view/agentic-ai-engineer-at-ntt-data-north-america-4411622521?position=6&pageNum=0&refId=LeeT%2BULTmwFQdClC1c5%2FDw%3D%3D&trackingId=QcbUn8JszTrTv0eVjAf8qg%3D%3D",
+    "location": "Los Angeles Metropolitan Area",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-25 09:42 UTC"
+  },
+  {
+    "title": "Senior Data Analyst Engineer",
+    "company": "Woodforest Acceptance Solutions",
+    "link": "https://www.linkedin.com/jobs/view/senior-data-analyst-engineer-at-woodforest-acceptance-solutions-4457182548?position=10&pageNum=0&refId=I9EZxm%2B25sT6%2Fmz0bHm3IQ%3D%3D&trackingId=wH2x4j7qOTbNe0VVkHa3jA%3D%3D",
+    "location": "The Woodlands, TX",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-25 09:42 UTC"
+  },
+  {
+    "title": "Data Engineer III, Amazon 1P Credito, Payments",
+    "company": "Amazon",
+    "link": "https://www.amazon.jobs/en/jobs/10513258/data-engineer-iii-amazon-1p-credito-payments",
+    "location": "BR, SP, Sao Paulo",
+    "source": "Amazon Careers",
+    "h1b_signal": true,
+    "summary": "Do you feel the challenge and the adrenaline kick when a huge data-set stares you in the face and you know that somewhere inside are hidden very important business insights that can fundamentally alte",
+    "found_at": "2026-08-25 09:42 UTC"
+  },
+  {
     "title": "Staff Machine Learning Engineer, Financial Connections",
     "company": "Stripe",
     "link": "https://www.linkedin.com/jobs/view/staff-machine-learning-engineer-financial-connections-at-stripe-4458578088?position=1&pageNum=0&refId=Ty9quLgdilien8AxpbWBfg%3D%3D&trackingId=wBYWubCuuwhSjupRlBquxA%3D%3D",
@@ -2938,65 +2998,5 @@
     "h1b_signal": false,
     "summary": "",
     "found_at": "2026-08-23 03:55 UTC"
-  },
-  {
-    "title": "Data Analyst (NY)",
-    "company": "Excellence Community Schools",
-    "link": "https://www.linkedin.com/jobs/view/data-analyst-ny-at-excellence-community-schools-4430733599?position=11&pageNum=0&refId=6UrppJ%2B6XKPvnnGu2JEtUw%3D%3D&trackingId=3EhEXPANQalgUEh2akCg3g%3D%3D",
-    "location": "Bronx, NY",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-23 03:55 UTC"
-  },
-  {
-    "title": "Data Analyst",
-    "company": "PPLIED",
-    "link": "https://www.linkedin.com/jobs/view/data-analyst-at-pplied-4455061358?position=12&pageNum=0&refId=6UrppJ%2B6XKPvnnGu2JEtUw%3D%3D&trackingId=IHjFGPoUmwboU%2FWIDDLp3w%3D%3D",
-    "location": "United States",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-23 03:55 UTC"
-  },
-  {
-    "title": "Data Scientist - Law Enforcement Analytics & Program",
-    "company": "Meta",
-    "link": "https://www.linkedin.com/jobs/view/data-scientist-law-enforcement-analytics-program-at-meta-4445512500?position=10&pageNum=0&refId=OtBbr9zYQ9KKegJHoLdZxA%3D%3D&trackingId=vKN8wnQtq7HxI9KxTfv68w%3D%3D",
-    "location": "New York, NY",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-23 01:49 UTC"
-  },
-  {
-    "title": "AI Data Scientist - Senior Associate",
-    "company": "JPMorganChase",
-    "link": "https://www.linkedin.com/jobs/view/ai-data-scientist-senior-associate-at-jpmorganchase-4457804168?position=11&pageNum=0&refId=OtBbr9zYQ9KKegJHoLdZxA%3D%3D&trackingId=cbYtssmoNfDyH36b3cG50Q%3D%3D",
-    "location": "New York, NY",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-23 01:49 UTC"
-  },
-  {
-    "title": "Experienced Data Scientist",
-    "company": "Boeing",
-    "link": "https://www.linkedin.com/jobs/view/experienced-data-scientist-at-boeing-4445533125?position=12&pageNum=0&refId=OtBbr9zYQ9KKegJHoLdZxA%3D%3D&trackingId=a20gyvScnUHs38JKkSqQvg%3D%3D",
-    "location": "Hazelwood, MO",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-23 01:49 UTC"
-  },
-  {
-    "title": "Senior Machine Learning Engineer II - FlightAware (Remote)",
-    "company": "Collins Aerospace",
-    "link": "https://www.linkedin.com/jobs/view/senior-machine-learning-engineer-ii-flightaware-remote-at-collins-aerospace-4457810888?position=12&pageNum=0&refId=joAtAZbnKva4jYrGByf5MQ%3D%3D&trackingId=e1ZeCWksCUmRLkqWKY3RLQ%3D%3D",
-    "location": "Albany, NY",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-23 01:49 UTC"
   }
 ]
