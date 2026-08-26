@@ -1,5 +1,75 @@
 [
   {
+    "title": "Generative AI Engineer",
+    "company": "VOLTO Consulting",
+    "link": "https://www.linkedin.com/jobs/view/generative-ai-engineer-at-volto-consulting-4457626183?position=11&pageNum=0&refId=Pu44jBFHL2iO%2BMVgeqJf9A%3D%3D&trackingId=eN3G08CFFvpY7JmJl09IqA%3D%3D",
+    "location": "Irving, TX",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-26 09:50 UTC"
+  },
+  {
+    "title": "AI/ML Engineer",
+    "company": "Ascendion",
+    "link": "https://www.linkedin.com/jobs/view/ai-ml-engineer-at-ascendion-4457606117?position=12&pageNum=0&refId=Pu44jBFHL2iO%2BMVgeqJf9A%3D%3D&trackingId=hWT4hf%2BYN%2BNA%2FBcu5Y%2BJpw%3D%3D",
+    "location": "Columbus, OH",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-26 09:50 UTC"
+  },
+  {
+    "title": "Data Engineer",
+    "company": "Veridic Solutions",
+    "link": "https://www.linkedin.com/jobs/view/data-engineer-at-veridic-solutions-4457630512?position=12&pageNum=0&refId=PTxwy3hotl%2BtvYPyo8soRw%3D%3D&trackingId=sAjsud8dejCBrpw8W6cyyQ%3D%3D",
+    "location": "McKinney, TX",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-26 09:50 UTC"
+  },
+  {
+    "title": "Business Intelligence Analyst",
+    "company": "Enlyte",
+    "link": "https://www.linkedin.com/jobs/view/business-intelligence-analyst-at-enlyte-4457660221?position=6&pageNum=0&refId=PCEdZbF7NLkIFzWsK4Dl5A%3D%3D&trackingId=piN6c%2Bnz3kPHnHAIeCFNpA%3D%3D",
+    "location": "United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-26 09:50 UTC"
+  },
+  {
+    "title": "Sr Data Scientist - Remote",
+    "company": "Optum",
+    "link": "https://www.linkedin.com/jobs/view/sr-data-scientist-remote-at-optum-4459151951?position=8&pageNum=0&refId=JgTVTm85e8eL9vzIIDkGPw%3D%3D&trackingId=jqea182VeE6mDl1Opkv7Pg%3D%3D",
+    "location": "Minnetonka, MN",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-26 09:50 UTC"
+  },
+  {
+    "title": "Research Scientist,Meta Recommendation System Core modeling",
+    "company": "Meta",
+    "link": "https://www.linkedin.com/jobs/view/research-scientist-meta-recommendation-system-core-modeling-at-meta-4457225721?position=1&pageNum=0&refId=xA1nTNsXrdYBftMtklHbWw%3D%3D&trackingId=Zk8tylgMU9o5kU292xKCgg%3D%3D",
+    "location": "Menlo Park, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-26 09:50 UTC"
+  },
+  {
+    "title": "Research Scientist 5 \u2014 Content Representation Models (CRM)",
+    "company": "Netflix",
+    "link": "https://www.linkedin.com/jobs/view/research-scientist-5-%E2%80%94-content-representation-models-crm-at-netflix-4428967914?position=9&pageNum=0&refId=xA1nTNsXrdYBftMtklHbWw%3D%3D&trackingId=WCcuBuZh8LNluhYixA9qeQ%3D%3D",
+    "location": "Los Gatos, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-08-26 09:50 UTC"
+  },
+  {
     "title": "Data Scientist",
     "company": "Rocket",
     "link": "https://www.linkedin.com/jobs/view/data-scientist-at-rocket-4457208180?position=5&pageNum=0&refId=u9C2WE%2B08aEnEUzByp74%2FQ%3D%3D&trackingId=A45wX%2Fk7u4mK8bNJK2YiHw%3D%3D",
@@ -2928,75 +2998,5 @@
     "h1b_signal": false,
     "summary": "",
     "found_at": "2026-08-24 07:11 UTC"
-  },
-  {
-    "title": "Machine Learning Engineer, Speech LLM Training",
-    "company": "Jobright.ai",
-    "link": "https://www.linkedin.com/jobs/view/machine-learning-engineer-speech-llm-training-at-jobright-ai-4456817788?position=6&pageNum=0&refId=%2B0OU%2Fx4BUpGBeavpvHMiOg%3D%3D&trackingId=QnW%2BnJPIROwDHV1DtLL8eA%3D%3D",
-    "location": "San Francisco, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-24 07:11 UTC"
-  },
-  {
-    "title": "Data Engineer - Remote",
-    "company": "Sentara Health",
-    "link": "https://www.linkedin.com/jobs/view/data-engineer-remote-at-sentara-health-4430041179?position=12&pageNum=0&refId=6RNgaAPsvgrt0AbN7QELQA%3D%3D&trackingId=Zx9irm2Zocqnx4Ppca34hQ%3D%3D",
-    "location": "Virginia Beach, VA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-24 07:11 UTC"
-  },
-  {
-    "title": "Quality Data Scientist",
-    "company": "BioSpace",
-    "link": "https://www.linkedin.com/jobs/view/quality-data-scientist-at-biospace-4458175033?position=4&pageNum=0&refId=VfcvsaA0Db%2FolfhP5LK%2FCw%3D%3D&trackingId=j%2FUcX3qgIU%2BKqkiN4VgTOA%3D%3D",
-    "location": "North Chicago, IL",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-24 07:11 UTC"
-  },
-  {
-    "title": "Research Scientist - LLM",
-    "company": "Retell",
-    "link": "https://www.linkedin.com/jobs/view/research-scientist-llm-at-retell-4399734283?position=10&pageNum=0&refId=H%2F9%2FL0Zxntp3VVz12QMJRw%3D%3D&trackingId=OxUXbkA49N39BagHURzzPw%3D%3D",
-    "location": "San Francisco Bay Area",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-24 07:11 UTC"
-  },
-  {
-    "title": "Data Scientist, Patterns",
-    "company": "Tellwise",
-    "link": "https://www.linkedin.com/jobs/view/data-scientist-patterns-at-tellwise-4456823046?position=6&pageNum=0&refId=FRTsrLZHwZZZThyGvF7StQ%3D%3D&trackingId=7mxC%2F7NywX30wOW1MqgxKw%3D%3D",
-    "location": "San Francisco, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-24 03:59 UTC"
-  },
-  {
-    "title": "Principle Data Scientist",
-    "company": "The Coca-Cola Company",
-    "link": "https://www.linkedin.com/jobs/view/principle-data-scientist-at-the-coca-cola-company-4458157064?position=7&pageNum=0&refId=FRTsrLZHwZZZThyGvF7StQ%3D%3D&trackingId=K5KwKhBHsrbKez9CQhnovg%3D%3D",
-    "location": "Atlanta, GA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-24 03:59 UTC"
-  },
-  {
-    "title": "Lead Data Scientist",
-    "company": "Safelite",
-    "link": "https://www.linkedin.com/jobs/view/lead-data-scientist-at-safelite-4430265550?position=9&pageNum=0&refId=FRTsrLZHwZZZThyGvF7StQ%3D%3D&trackingId=VKbmkHkNeZFUQB%2B%2F%2FG48gw%3D%3D",
-    "location": "Columbus, OH",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-08-24 03:59 UTC"
   }
 ]
