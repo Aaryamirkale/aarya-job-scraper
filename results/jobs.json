@@ -1,6 +1,56 @@
 [
   {
     "title": "Sr Data Scientist",
+    "company": "ComEd",
+    "link": "https://www.linkedin.com/jobs/view/sr-data-scientist-at-comed-4467016052?position=3&pageNum=0&refId=1uuX16dOU8jh35es7q2wyw%3D%3D&trackingId=%2FX%2Bq7%2BczCWXajj3NIV6T%2Fw%3D%3D",
+    "location": "Oakbrook Terrace, IL",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-09-14 04:34 UTC"
+  },
+  {
+    "title": "AI Machine Learning Engineer",
+    "company": "Live Well Homecare",
+    "link": "https://www.linkedin.com/jobs/view/ai-machine-learning-engineer-at-live-well-homecare-4466770140?position=12&pageNum=0&refId=0FM%2FHhdmM8zLVYaJtqzyoA%3D%3D&trackingId=19K88MjIWWvZFkhNhQhXyA%3D%3D",
+    "location": "Raymond, OH",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-09-14 04:34 UTC"
+  },
+  {
+    "title": "Healthcare Data Engineer IV",
+    "company": "University of Utah",
+    "link": "https://www.linkedin.com/jobs/view/healthcare-data-engineer-iv-at-university-of-utah-4465499749?position=5&pageNum=0&refId=POFwJnX3QIVThhVMWU4YEA%3D%3D&trackingId=gBCbsl7169OM6Vvq7epsXA%3D%3D",
+    "location": "Salt Lake City, UT",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-09-14 04:34 UTC"
+  },
+  {
+    "title": "Senior Data Analyst",
+    "company": "Rackner",
+    "link": "https://www.linkedin.com/jobs/view/senior-data-analyst-at-rackner-4467000784?position=6&pageNum=0&refId=SXrMd3Ds7Ki%2FGr4Ey3F%2BuQ%3D%3D&trackingId=SPTRQ%2BB7Yjs5gejpvsNx6w%3D%3D",
+    "location": "United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-09-14 04:34 UTC"
+  },
+  {
+    "title": "Sr. Data Scientist",
+    "company": "BioSpace",
+    "link": "https://www.linkedin.com/jobs/view/sr-data-scientist-at-biospace-4467034291?position=6&pageNum=0&refId=hrB%2Bll6AfTiE17iiDilzcg%3D%3D&trackingId=RRX3MeXGog5415bJ03JMOw%3D%3D",
+    "location": "Thousand Oaks, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-09-14 04:34 UTC"
+  },
+  {
+    "title": "Sr Data Scientist",
     "company": "Exelon",
     "link": "https://www.linkedin.com/jobs/view/sr-data-scientist-at-exelon-4466794529?position=2&pageNum=0&refId=RS2XHPg7Cd8NuAp90jLDoQ%3D%3D&trackingId=LXljBSlzMtVf7boBZFXDvg%3D%3D",
     "location": "Villa Park, IL",
@@ -2944,56 +2994,6 @@
     "company": "ServiceNow",
     "link": "https://www.linkedin.com/jobs/view/senior-ml-engineer-at-servicenow-4465611870?position=8&pageNum=0&refId=VOCLPSEHWrDc%2FlvRvb44sg%3D%3D&trackingId=mbcJ61G0Di4%2FfGPsAqk4vA%3D%3D",
     "location": "Santa Clara, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-09-10 11:04 UTC"
-  },
-  {
-    "title": "Data Engineer, AWS DC Central Operations",
-    "company": "Amazon Web Services (AWS)",
-    "link": "https://www.linkedin.com/jobs/view/data-engineer-aws-dc-central-operations-at-amazon-web-services-aws-4465608577?position=3&pageNum=0&refId=kvPRHnQkQICgsYXD%2FMv%2Ffw%3D%3D&trackingId=R5DVTlMphtvO%2BNV1g88m4g%3D%3D",
-    "location": "Seattle, WA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-09-10 11:04 UTC"
-  },
-  {
-    "title": "Data Engineer",
-    "company": "Data Surge",
-    "link": "https://www.linkedin.com/jobs/view/data-engineer-at-data-surge-4463075275?position=9&pageNum=0&refId=kvPRHnQkQICgsYXD%2FMv%2Ffw%3D%3D&trackingId=6gvI%2B%2BIMst%2BAsjBinaexlg%3D%3D",
-    "location": "Arlington, VA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-09-10 11:04 UTC"
-  },
-  {
-    "title": "Senior Data Engineer",
-    "company": "Adobe",
-    "link": "https://www.linkedin.com/jobs/view/senior-data-engineer-at-adobe-4446015660?position=11&pageNum=0&refId=kvPRHnQkQICgsYXD%2FMv%2Ffw%3D%3D&trackingId=2Fs1tXq%2FS1%2Fk71qSNENpHQ%3D%3D",
-    "location": "San Francisco, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-09-10 11:04 UTC"
-  },
-  {
-    "title": "Senior Data Analyst",
-    "company": "National Grid",
-    "link": "https://www.linkedin.com/jobs/view/senior-data-analyst-at-national-grid-4463081050?position=1&pageNum=0&refId=mC91JdvZ4aB37Jy1fzPeWg%3D%3D&trackingId=bFalPGyjvwN5nR%2FfdKGMKw%3D%3D",
-    "location": "Hicksville, NY",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-09-10 11:04 UTC"
-  },
-  {
-    "title": "Data Analyst",
-    "company": "Albany International Corp.",
-    "link": "https://www.linkedin.com/jobs/view/data-analyst-at-albany-international-corp-4443632249?position=11&pageNum=0&refId=mC91JdvZ4aB37Jy1fzPeWg%3D%3D&trackingId=il0ksveC4Pq%2BXmI%2FXsLgLw%3D%3D",
-    "location": "Salt Lake City, UT",
     "source": "LinkedIn",
     "h1b_signal": false,
     "summary": "",
