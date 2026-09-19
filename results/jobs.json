@@ -1,5 +1,65 @@
 [
   {
+    "title": "Senior Machine Learning Engineer, Voice AI",
+    "company": "Together AI",
+    "link": "https://www.linkedin.com/jobs/view/senior-machine-learning-engineer-voice-ai-at-together-ai-4392131915?position=11&pageNum=0&refId=hTXm5SWE0%2Fw%2B5WCKfKRfiw%3D%3D&trackingId=BQnJDNFWP4M3XmyT8AKBnA%3D%3D",
+    "location": "San Francisco, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-09-19 22:51 UTC"
+  },
+  {
+    "title": "Data Analyst I",
+    "company": "Stirista",
+    "link": "https://www.linkedin.com/jobs/view/data-analyst-i-at-stirista-4459428833?position=12&pageNum=0&refId=buiHC6MYhYzHzj7zc6fbgw%3D%3D&trackingId=3PjbRQon6lKwWj3weBKVaQ%3D%3D",
+    "location": "San Antonio, Texas Metropolitan Area",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-09-19 22:51 UTC"
+  },
+  {
+    "title": "Data Engineer III",
+    "company": "Seminole Hard Rock Support Services",
+    "link": "https://www.linkedin.com/jobs/view/data-engineer-iii-at-seminole-hard-rock-support-services-4460354808?position=10&pageNum=0&refId=SN6wout3rj14L27X%2FxhCUQ%3D%3D&trackingId=EeB207y5lGigF9fXjWz5zQ%3D%3D",
+    "location": "Davie, FL",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-09-19 22:51 UTC"
+  },
+  {
+    "title": "Lead Data Engineer",
+    "company": "Atticus",
+    "link": "https://www.linkedin.com/jobs/view/lead-data-engineer-at-atticus-4404238044?position=12&pageNum=0&refId=SN6wout3rj14L27X%2FxhCUQ%3D%3D&trackingId=MNp5wQ09pZrO8G%2BhQeGg3Q%3D%3D",
+    "location": "Los Angeles, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-09-19 22:51 UTC"
+  },
+  {
+    "title": "Analytics Engineer",
+    "company": "National Trench Safety",
+    "link": "https://www.linkedin.com/jobs/view/analytics-engineer-at-national-trench-safety-4449214367?position=11&pageNum=0&refId=zNnRoQZmTjxB59pCmPtZRQ%3D%3D&trackingId=YPF3Wo8CTEC7wF0enfzXlQ%3D%3D",
+    "location": "Houston, TX",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-09-19 22:51 UTC"
+  },
+  {
+    "title": "Senior Data Scientist, CompBio",
+    "company": "insitro",
+    "link": "https://www.linkedin.com/jobs/view/senior-data-scientist-compbio-at-insitro-4460535535?position=12&pageNum=0&refId=TG7fFZWvlO%2BbNCjicVeL5Q%3D%3D&trackingId=dcIkr6rEfeMLq6XbCeJPdg%3D%3D",
+    "location": "South San Francisco, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-09-19 22:51 UTC"
+  },
+  {
     "title": "Senior Associate, Data Scientist - Credit Card Innovation",
     "company": "Capital One",
     "link": "https://www.linkedin.com/jobs/view/senior-associate-data-scientist-credit-card-innovation-at-capital-one-4469547093?position=3&pageNum=0&refId=TJ7SSHLj6hnr%2FlpiSz%2Bd%2Bw%3D%3D&trackingId=INeC4Cbmr7EgJTB16rCpEw%3D%3D",
@@ -2938,65 +2998,5 @@
     "h1b_signal": false,
     "summary": "",
     "found_at": "2026-09-15 21:09 UTC"
-  },
-  {
-    "title": "Applied Scientist II, Foundation Model",
-    "company": "Amazon",
-    "link": "https://www.amazon.jobs/en/jobs/10543793/applied-scientist-ii-foundation-model",
-    "location": "US, CA, Sunnyvale",
-    "source": "Amazon Careers",
-    "h1b_signal": true,
-    "summary": "Industrial is seeking exceptional talent to help develop the next generation of advanced robotics systems that will transform automation at Amazon's scale. We're building revolutionary robotic systems",
-    "found_at": "2026-09-15 21:09 UTC"
-  },
-  {
-    "title": " AI Platform Data Engineer, Ring Decision Science, Ring Decision Science",
-    "company": "Amazon",
-    "link": "https://www.amazon.jobs/en/jobs/10543908/ai-platform-data-engineer-ring-decision-science-ring-decision-science",
-    "location": "US, CA, Hawthorne",
-    "source": "Amazon Careers",
-    "h1b_signal": true,
-    "summary": "We seek an AI Platform Builder\u2014a Data Engineer focused on developing Platforms and Agentic AI solution\u2014who embraces prompt-driven development with strong technical, analytical, communication, and stak",
-    "found_at": "2026-09-15 21:09 UTC"
-  },
-  {
-    "title": "Data Engineer, Data : Science Engineering, AWS Marketing",
-    "company": "Amazon",
-    "link": "https://www.amazon.jobs/en/jobs/10543787/data-engineer-data-science-engineering-aws-marketing",
-    "location": "US, WA, Seattle",
-    "source": "Amazon Careers",
-    "h1b_signal": true,
-    "summary": "Within AWS Marketing the Data Science Engineering (D:SE) team builds and operates the marketing data platform that fuels attribution models, ROI measurement, customer journey analytics, and campaign o",
-    "found_at": "2026-09-15 21:09 UTC"
-  },
-  {
-    "title": "Data Scientist 3",
-    "company": "Sentar Inc.",
-    "link": "https://www.linkedin.com/jobs/view/data-scientist-3-at-sentar-inc-4466524771?position=3&pageNum=0&refId=%2FTN%2Bj%2BQ2MRDWeZanT8xZJw%3D%3D&trackingId=7NGEZH9EvhR8MLuCLRevBg%3D%3D",
-    "location": "Fort Meade, MD",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-09-15 16:46 UTC"
-  },
-  {
-    "title": "Senior Associate, Data Scientist -  Consumer Credit Risk Models and Data",
-    "company": "Capital One",
-    "link": "https://www.linkedin.com/jobs/view/senior-associate-data-scientist-consumer-credit-risk-models-and-data-at-capital-one-4448835101?position=6&pageNum=0&refId=%2FTN%2Bj%2BQ2MRDWeZanT8xZJw%3D%3D&trackingId=sKwAWHTyHs2vX3K%2FgKL98g%3D%3D",
-    "location": "McLean, VA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-09-15 16:46 UTC"
-  },
-  {
-    "title": "Senior Machine Learning Engineer",
-    "company": "Attentive",
-    "link": "https://www.linkedin.com/jobs/view/senior-machine-learning-engineer-at-attentive-4372110325?position=5&pageNum=0&refId=fAzc1s51InpbIM9%2BbvUPlw%3D%3D&trackingId=sPDsp68ClZlHM3XQhYNkcg%3D%3D",
-    "location": "San Francisco, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-09-15 16:46 UTC"
   }
 ]
