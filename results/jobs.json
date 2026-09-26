@@ -1,5 +1,115 @@
 [
   {
+    "title": "Sr. Data Scientist, Core",
+    "company": "Pinterest",
+    "link": "https://www.linkedin.com/jobs/view/sr-data-scientist-core-at-pinterest-4387655091?position=5&pageNum=0&refId=hmnebQGrnK14NwX%2B%2FlCIcQ%3D%3D&trackingId=GDC5%2FwVrd4cIpxWig%2BXj5g%3D%3D",
+    "location": "San Francisco, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-09-26 16:13 UTC"
+  },
+  {
+    "title": "Data Scientist II",
+    "company": "Republic Services",
+    "link": "https://www.linkedin.com/jobs/view/data-scientist-ii-at-republic-services-4462339114?position=8&pageNum=0&refId=hmnebQGrnK14NwX%2B%2FlCIcQ%3D%3D&trackingId=pftCeFTS5a1PuC8a80Vq6g%3D%3D",
+    "location": "Phoenix, AZ",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-09-26 16:13 UTC"
+  },
+  {
+    "title": "Associate Data Scientist",
+    "company": "Billtrust",
+    "link": "https://www.linkedin.com/jobs/view/associate-data-scientist-at-billtrust-4434363514?position=9&pageNum=0&refId=hmnebQGrnK14NwX%2B%2FlCIcQ%3D%3D&trackingId=s1UML3Wi9gzlPEHbbWTcsg%3D%3D",
+    "location": "Hamilton Township, NJ",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-09-26 16:13 UTC"
+  },
+  {
+    "title": "Senior Product Data Scientist",
+    "company": "MaintainX",
+    "link": "https://www.linkedin.com/jobs/view/senior-product-data-scientist-at-maintainx-4462346033?position=10&pageNum=0&refId=hmnebQGrnK14NwX%2B%2FlCIcQ%3D%3D&trackingId=k3CAPoCo7PipH2vWfemChw%3D%3D",
+    "location": "San Francisco, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-09-26 16:13 UTC"
+  },
+  {
+    "title": "Machine Learning Engineer IV, Data",
+    "company": "ACV Auctions",
+    "link": "https://www.linkedin.com/jobs/view/machine-learning-engineer-iv-data-at-acv-auctions-4436399816?position=10&pageNum=0&refId=otZXTb3NAOczGvpixbnDgA%3D%3D&trackingId=6nLHITgIQQ%2BRNmVG4tK19Q%3D%3D",
+    "location": "Buffalo, NY",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-09-26 16:13 UTC"
+  },
+  {
+    "title": "Senior Machine Learning Engineer",
+    "company": "Murata",
+    "link": "https://www.linkedin.com/jobs/view/senior-machine-learning-engineer-at-murata-4470551288?position=11&pageNum=0&refId=otZXTb3NAOczGvpixbnDgA%3D%3D&trackingId=n5feSY4JYSNpTq1N2SoBxg%3D%3D",
+    "location": "San Diego, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-09-26 16:13 UTC"
+  },
+  {
+    "title": "Data Engineer",
+    "company": "AnaVation LLC",
+    "link": "https://www.linkedin.com/jobs/view/data-engineer-at-anavation-llc-4472052675?position=12&pageNum=0&refId=60Ns1D912vDVphPXpjKVBA%3D%3D&trackingId=klfbj9mR7nJd0wN4X8DUJw%3D%3D",
+    "location": "Huntsville, AL",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-09-26 16:13 UTC"
+  },
+  {
+    "title": "Senior Product Analytics Engineer",
+    "company": "Wealth.com",
+    "link": "https://www.linkedin.com/jobs/view/senior-product-analytics-engineer-at-wealth-com-4454780582?position=11&pageNum=0&refId=FtCudSP2bBmgnL7ixGDZbw%3D%3D&trackingId=Wduxd0IcymKinEpy5J6TKQ%3D%3D",
+    "location": "New York, NY",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-09-26 16:13 UTC"
+  },
+  {
+    "title": "Data Analyst Sr - Periop",
+    "company": "Seattle Children's",
+    "link": "https://www.linkedin.com/jobs/view/data-analyst-sr-periop-at-seattle-children-s-4463719670?position=2&pageNum=0&refId=mPTOZQgHC1gkqxqaDnw6JQ%3D%3D&trackingId=wuibsoH2Q5S5PFb9AaimnQ%3D%3D",
+    "location": "Seattle, WA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-09-26 16:13 UTC"
+  },
+  {
+    "title": "Data Engineer",
+    "company": "Netrolynx AI",
+    "link": "https://www.linkedin.com/jobs/view/data-engineer-at-netrolynx-ai-4472284313?position=4&pageNum=0&refId=mPTOZQgHC1gkqxqaDnw6JQ%3D%3D&trackingId=Nitq5mHh8BB2xKgbClWO6g%3D%3D",
+    "location": "United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-09-26 16:13 UTC"
+  },
+  {
+    "title": "Principal Data Scientist, Medical Imaging",
+    "company": "Formation Bio",
+    "link": "https://www.linkedin.com/jobs/view/principal-data-scientist-medical-imaging-at-formation-bio-4273999709?position=9&pageNum=0&refId=tUJtUYCe0mDgXFDoINZ2lA%3D%3D&trackingId=D0cLqWhj19xs0ybfaIvylQ%3D%3D",
+    "location": "New York, NY",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-09-26 16:13 UTC"
+  },
+  {
     "title": "Staff Data Scientist,  ML (Credit Risk)",
     "company": "Robinhood",
     "link": "https://www.linkedin.com/jobs/view/staff-data-scientist-ml-credit-risk-at-robinhood-4423190496?position=8&pageNum=0&refId=mKYuL0C0PmRTaRXiEnaa1Q%3D%3D&trackingId=mBkyggWxIRbEE7tz0F0%2FNQ%3D%3D",
@@ -2888,115 +2998,5 @@
     "h1b_signal": false,
     "summary": "",
     "found_at": "2026-09-21 23:58 UTC"
-  },
-  {
-    "title": "Senior Data Analyst",
-    "company": "Guidehouse",
-    "link": "https://www.linkedin.com/jobs/view/senior-data-analyst-at-guidehouse-4469979646?position=10&pageNum=0&refId=1L2JZb1fLi0oyz%2BAPzn37g%3D%3D&trackingId=nykdoYApG%2BPmXfH%2F0m66Iw%3D%3D",
-    "location": "McLean, VA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-09-21 23:58 UTC"
-  },
-  {
-    "title": "Senior Staff Machine Learning Engineer",
-    "company": "ServiceNow",
-    "link": "https://www.linkedin.com/jobs/view/senior-staff-machine-learning-engineer-at-servicenow-4468151466?position=7&pageNum=0&refId=ERxgZjgWHxQSEfrh%2FHG2VQ%3D%3D&trackingId=9EPEUJI4RvQpXleD0B5%2B3g%3D%3D",
-    "location": "Santa Clara, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-09-21 23:59 UTC"
-  },
-  {
-    "title": "Senior Machine Learning Engineer, Perception - Autonomous Driving",
-    "company": "NVIDIA AI",
-    "link": "https://www.linkedin.com/jobs/view/senior-machine-learning-engineer-perception-autonomous-driving-at-nvidia-ai-4467679794?position=9&pageNum=0&refId=ERxgZjgWHxQSEfrh%2FHG2VQ%3D%3D&trackingId=YCDVaKFoevuqlyvD84MGgg%3D%3D",
-    "location": "Santa Clara, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-09-21 23:59 UTC"
-  },
-  {
-    "title": "AI Engineer",
-    "company": "Brunswick Group",
-    "link": "https://www.linkedin.com/jobs/view/ai-engineer-at-brunswick-group-4469990432?position=11&pageNum=0&refId=ERxgZjgWHxQSEfrh%2FHG2VQ%3D%3D&trackingId=XgcV%2BDzinMM1sonfbHI30Q%3D%3D",
-    "location": "Dallas, TX",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-09-21 23:59 UTC"
-  },
-  {
-    "title": "Founding Machine Learning Engineer",
-    "company": "Mira",
-    "link": "https://www.linkedin.com/jobs/view/founding-machine-learning-engineer-at-mira-4467674888?position=12&pageNum=0&refId=ERxgZjgWHxQSEfrh%2FHG2VQ%3D%3D&trackingId=U796ejC%2BBZDvKnAywR6sTw%3D%3D",
-    "location": "San Francisco Bay Area",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-09-21 23:59 UTC"
-  },
-  {
-    "title": "Data Engineer I",
-    "company": "The Larry H. Miller Company",
-    "link": "https://www.linkedin.com/jobs/view/data-engineer-i-at-the-larry-h-miller-company-4469990648?position=1&pageNum=0&refId=q7PHDpDfS18AMEq14vUjuQ%3D%3D&trackingId=V%2BRHhk7OB2LQJWrZTo1YiQ%3D%3D",
-    "location": "Sandy, UT",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-09-21 23:59 UTC"
-  },
-  {
-    "title": "Business Intelligence Analyst II",
-    "company": "Cincinnati Children's",
-    "link": "https://www.linkedin.com/jobs/view/business-intelligence-analyst-ii-at-cincinnati-children-s-4469985407?position=7&pageNum=0&refId=l2q16u4gEzKv8cBW9bQcbA%3D%3D&trackingId=iXLixbkXmz8IutHm9%2FkbJQ%3D%3D",
-    "location": "Cincinnati, OH",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-09-21 23:59 UTC"
-  },
-  {
-    "title": "Analytics Engineer, Mid Level",
-    "company": "Jobright.ai",
-    "link": "https://www.linkedin.com/jobs/view/analytics-engineer-mid-level-at-jobright-ai-4468193105?position=6&pageNum=0&refId=X9OeDPgw1eH6AUq5xWph4w%3D%3D&trackingId=purvbUHRcNGgnu7a1xLQmQ%3D%3D",
-    "location": "United States",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-09-21 23:59 UTC"
-  },
-  {
-    "title": "Senior Analytics Engineer / Senior Consultant",
-    "company": "Amplytico",
-    "link": "https://www.linkedin.com/jobs/view/senior-analytics-engineer-senior-consultant-at-amplytico-4469992097?position=12&pageNum=0&refId=X9OeDPgw1eH6AUq5xWph4w%3D%3D&trackingId=P%2BLfRh%2Fk%2BoHf4cj2mWLljA%3D%3D",
-    "location": "San Francisco Bay Area",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-09-21 23:59 UTC"
-  },
-  {
-    "title": "Data Analyst TMS",
-    "company": "Brigham and Women's Hospital",
-    "link": "https://www.linkedin.com/jobs/view/data-analyst-tms-at-brigham-and-women-s-hospital-4468143886?position=2&pageNum=0&refId=1S6uSoVyDiEb5uuXEXy5lw%3D%3D&trackingId=HRutFW2F2F3Eh3%2FGnHe9VA%3D%3D",
-    "location": "Boston, MA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-09-21 23:59 UTC"
-  },
-  {
-    "title": "Data Analyst",
-    "company": "Driscoll Children's Hospital",
-    "link": "https://www.linkedin.com/jobs/view/data-analyst-at-driscoll-children-s-hospital-4468156260?position=6&pageNum=0&refId=1S6uSoVyDiEb5uuXEXy5lw%3D%3D&trackingId=V1Pj56m9BlqNSeC%2FtHg5aw%3D%3D",
-    "location": "Corpus Christi, TX",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-09-21 23:59 UTC"
   }
 ]
