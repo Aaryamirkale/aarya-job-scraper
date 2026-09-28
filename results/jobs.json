@@ -1,5 +1,95 @@
 [
   {
+    "title": "Principal Machine Learning Engineer",
+    "company": "Thrive Market",
+    "link": "https://www.linkedin.com/jobs/view/principal-machine-learning-engineer-at-thrive-market-4472479427?position=2&pageNum=0&refId=dsautAZanj8oKI4HuLKTjw%3D%3D&trackingId=4xWQmPKw8hXQtxsMUjcFFA%3D%3D",
+    "location": "Los Angeles, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-09-28 05:01 UTC"
+  },
+  {
+    "title": "Founding Machine Learning Engineer",
+    "company": "Stealth Startup",
+    "link": "https://www.linkedin.com/jobs/view/founding-machine-learning-engineer-at-stealth-startup-4470831428?position=7&pageNum=0&refId=dsautAZanj8oKI4HuLKTjw%3D%3D&trackingId=%2FuF6dDVJWSucaNLeoA3OIw%3D%3D",
+    "location": "San Francisco Bay Area",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-09-28 05:01 UTC"
+  },
+  {
+    "title": "Data Analyst",
+    "company": "Coulter Services",
+    "link": "https://www.linkedin.com/jobs/view/data-analyst-at-coulter-services-4471097840?position=9&pageNum=0&refId=asBmWghLBsBuUBMa1sibvw%3D%3D&trackingId=FDd9dP9gCI33VBemOL%2F3BA%3D%3D",
+    "location": "Cheriton, VA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-09-28 05:01 UTC"
+  },
+  {
+    "title": "BI Developer",
+    "company": "Haystack",
+    "link": "https://www.linkedin.com/jobs/view/bi-developer-at-haystack-4470808171?position=8&pageNum=0&refId=LL7upOglKKC3icOAiVigwg%3D%3D&trackingId=vNhaft6PD%2BHANzEjPQgwhg%3D%3D",
+    "location": "Newark, NJ",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-09-28 05:01 UTC"
+  },
+  {
+    "title": "Strategic Data & Analytics Engineer (Cloud Data & Agentic Infrastructure)",
+    "company": "Shift Paradigm",
+    "link": "https://www.linkedin.com/jobs/view/strategic-data-analytics-engineer-cloud-data-agentic-infrastructure-at-shift-paradigm-4472479420?position=6&pageNum=0&refId=7UnL%2FlQ9ZtuZmhc64DKapw%3D%3D&trackingId=0FR9ckeAUErxw%2Fh9xg%2BBcQ%3D%3D",
+    "location": "United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-09-28 05:01 UTC"
+  },
+  {
+    "title": "Growth Data Engineer",
+    "company": "Jobright.ai",
+    "link": "https://www.linkedin.com/jobs/view/growth-data-engineer-at-jobright-ai-4471322227?position=12&pageNum=0&refId=7UnL%2FlQ9ZtuZmhc64DKapw%3D%3D&trackingId=ZgBq7c8mCvceSlsgZBJPrQ%3D%3D",
+    "location": "San Francisco, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-09-28 05:01 UTC"
+  },
+  {
+    "title": "Research Data Analyst, TIPQC",
+    "company": "Vanderbilt University Medical Center",
+    "link": "https://www.linkedin.com/jobs/view/research-data-analyst-tipqc-at-vanderbilt-university-medical-center-4470824674?position=3&pageNum=0&refId=6Okcz8zyIQcmHo0LjOTcYg%3D%3D&trackingId=5Xfs1af0F1a3wpi4aYX5SA%3D%3D",
+    "location": "Nashville Metropolitan Area",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-09-28 05:01 UTC"
+  },
+  {
+    "title": "Principal Research Scientist, Robotics",
+    "company": "Samsung Research America (SRA)",
+    "link": "https://www.linkedin.com/jobs/view/principal-research-scientist-robotics-at-samsung-research-america-sra-4441830803?position=11&pageNum=0&refId=H4WnkSXjkz3UQYZBnJ%2FvBw%3D%3D&trackingId=d7yMtz%2Fa1hOOm46Ihcge4w%3D%3D",
+    "location": "Mountain View, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-09-28 05:01 UTC"
+  },
+  {
+    "title": "Applied Scientist II, RBS Tech",
+    "company": "Amazon",
+    "link": "https://www.amazon.jobs/en/jobs/10561089/applied-scientist-ii-rbs-tech",
+    "location": "IN, KA, Bengaluru",
+    "source": "Amazon Careers",
+    "h1b_signal": true,
+    "summary": "RBS (Retail Business Services) Tech team works towards enhancing the customer experience (CX) and their trust in product data by providing technologies to find and fix Amazon CX defects at scale. Our",
+    "found_at": "2026-09-28 05:01 UTC"
+  },
+  {
     "title": "Data Scientist - Mid",
     "company": "Amentum",
     "link": "https://www.linkedin.com/jobs/view/data-scientist-mid-at-amentum-4444981391?position=11&pageNum=0&refId=h8xIfD%2BrejgBFEhtie1i%2FA%3D%3D&trackingId=msO094N5nSLNjmf%2BQgzyQg%3D%3D",
@@ -2908,95 +2998,5 @@
     "h1b_signal": false,
     "summary": "",
     "found_at": "2026-09-23 11:19 UTC"
-  },
-  {
-    "title": "Applied Scientist, Prime Video - Content Reasoning, Enrichment & Localization",
-    "company": "Amazon",
-    "link": "https://www.amazon.jobs/en/jobs/10557476/applied-scientist-prime-video-content-reasoning-enrichment-localization",
-    "location": "US, WA, Seattle",
-    "source": "Amazon Careers",
-    "h1b_signal": true,
-    "summary": "Prime Video is a first-stop entertainment destination offering customers a vast collection of premium programming in one app available across thousands of devices. Prime members can customize their vi",
-    "found_at": "2026-09-23 11:19 UTC"
-  },
-  {
-    "title": "Applied Scientist I, Amazon Shipping",
-    "company": "Amazon",
-    "link": "https://www.amazon.jobs/en/jobs/10557374/applied-scientist-i-amazon-shipping",
-    "location": "IN, HR, Gurugram",
-    "source": "Amazon Careers",
-    "h1b_signal": true,
-    "summary": "Building large-scale forecasting and optimization systems that power Amazon\u2019s global transportation network and directly impact customer experience and cost. Key job responsibilities 1. Guide model an",
-    "found_at": "2026-09-23 11:19 UTC"
-  },
-  {
-    "title": "Senior Applied Scientist, Real-Time Conversational AI , AGI",
-    "company": "Amazon",
-    "link": "https://www.amazon.jobs/en/jobs/10557469/senior-applied-scientist-real-time-conversational-ai-agi",
-    "location": "US, CA, Sunnyvale",
-    "source": "Amazon Careers",
-    "h1b_signal": true,
-    "summary": "We are looking for a Senior Applied Scientist to help drive the research and development of real-time multimodal conversational AI. You will contribute across two focus areas: advancing foundation mod",
-    "found_at": "2026-09-23 11:19 UTC"
-  },
-  {
-    "title": "Senior Data Scientist",
-    "company": "TeamWorx Security",
-    "link": "https://www.linkedin.com/jobs/view/senior-data-scientist-at-teamworx-security-4470671038?position=3&pageNum=0&refId=iCWotxg11sf%2F5hZV1HrlBw%3D%3D&trackingId=KZat1bvIs6UJmfWZpwLrFw%3D%3D",
-    "location": "Columbia, MD",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-09-23 04:27 UTC"
-  },
-  {
-    "title": "Sr. Data Scientist",
-    "company": "Skyworks Solutions, Inc.",
-    "link": "https://www.linkedin.com/jobs/view/sr-data-scientist-at-skyworks-solutions-inc-4470650631?position=5&pageNum=0&refId=iCWotxg11sf%2F5hZV1HrlBw%3D%3D&trackingId=amEeHxbsVRsu6CQoMr0%2FsA%3D%3D",
-    "location": "Irvine, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-09-23 04:27 UTC"
-  },
-  {
-    "title": "Data Scientist II",
-    "company": "Parsons Corporation",
-    "link": "https://www.linkedin.com/jobs/view/data-scientist-ii-at-parsons-corporation-4470652045?position=6&pageNum=0&refId=iCWotxg11sf%2F5hZV1HrlBw%3D%3D&trackingId=jmgooQeK%2FMzl41SRFyhUIw%3D%3D",
-    "location": "Washington, DC",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-09-23 04:27 UTC"
-  },
-  {
-    "title": "Sr. Data Scientist | Remote | $155-175K",
-    "company": "Vaco by Highspring",
-    "link": "https://www.linkedin.com/jobs/view/sr-data-scientist-remote-%24155-175k-at-vaco-by-highspring-4470465630?position=8&pageNum=0&refId=iCWotxg11sf%2F5hZV1HrlBw%3D%3D&trackingId=%2BYdenJrNvURutnFyQpbp3w%3D%3D",
-    "location": "Tampa, FL",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-09-23 04:27 UTC"
-  },
-  {
-    "title": "Principal Associate, Data Science - US Card (Upmarket Segments)",
-    "company": "Capital One",
-    "link": "https://www.linkedin.com/jobs/view/principal-associate-data-science-us-card-upmarket-segments-at-capital-one-4470436810?position=9&pageNum=0&refId=iCWotxg11sf%2F5hZV1HrlBw%3D%3D&trackingId=RDtdPhElleR1OqGSsJ%2B21A%3D%3D",
-    "location": "McLean, VA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-09-23 04:27 UTC"
-  },
-  {
-    "title": "Staff Product Data Scientist, ML Resource Efficiency",
-    "company": "Google",
-    "link": "https://www.linkedin.com/jobs/view/staff-product-data-scientist-ml-resource-efficiency-at-google-4469025329?position=12&pageNum=0&refId=iCWotxg11sf%2F5hZV1HrlBw%3D%3D&trackingId=QtOmt7XnUOOFoa45aqQv4Q%3D%3D",
-    "location": "Sunnyvale, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-09-23 04:27 UTC"
   }
 ]
