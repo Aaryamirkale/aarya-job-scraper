@@ -1,5 +1,55 @@
 [
   {
+    "title": "Data Analyst",
+    "company": "CBRE",
+    "link": "https://www.linkedin.com/jobs/view/data-analyst-at-cbre-4474529143?position=5&pageNum=0&refId=4kzQheL%2BqbkI8M1D4zvYUA%3D%3D&trackingId=9kc0DmfqT%2FIgOwuXlT6%2FKA%3D%3D",
+    "location": "Spring House, PA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-10-02 00:38 UTC"
+  },
+  {
+    "title": "Sr. Data Engineer (Snowflake)",
+    "company": "Sammons Financial Group Companies",
+    "link": "https://www.linkedin.com/jobs/view/sr-data-engineer-snowflake-at-sammons-financial-group-companies-4474530898?position=3&pageNum=0&refId=aamLYZ5bDc5Y9wlmEDSZ7g%3D%3D&trackingId=bPmH3ucnEVRPvbFiM0w8lg%3D%3D",
+    "location": "Chicago, IL",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-10-02 00:38 UTC"
+  },
+  {
+    "title": "Data Analyst, Shared Services",
+    "company": "Upperline Health",
+    "link": "https://www.linkedin.com/jobs/view/data-analyst-shared-services-at-upperline-health-4472982275?position=6&pageNum=0&refId=ZZhDJRvjkz2GQbDmaE2yMg%3D%3D&trackingId=%2FvOibTe8IeWxnyI6ocx46w%3D%3D",
+    "location": "United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-10-02 00:38 UTC"
+  },
+  {
+    "title": "Corporate - Healthcare Data Analyst II (Hybrid in Denver)",
+    "company": "CarePoint Health",
+    "link": "https://www.linkedin.com/jobs/view/corporate-healthcare-data-analyst-ii-hybrid-in-denver-at-carepoint-health-4472985310?position=7&pageNum=0&refId=ZZhDJRvjkz2GQbDmaE2yMg%3D%3D&trackingId=4rADP5hp6zSbsRXMnwC2Lw%3D%3D",
+    "location": "Colorado, United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-10-02 00:38 UTC"
+  },
+  {
+    "title": "Applied Scientist, AgentCore Science",
+    "company": "Amazon Web Services (AWS)",
+    "link": "https://www.linkedin.com/jobs/view/applied-scientist-agentcore-science-at-amazon-web-services-aws-4474546783?position=7&pageNum=0&refId=n9unuQq2yoJWVo3ELdDWtg%3D%3D&trackingId=XV4uOmI5bAKsek5K8NFgiQ%3D%3D",
+    "location": "New York, NY",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-10-02 00:38 UTC"
+  },
+  {
     "title": "Sr Data Scientist, Alexa For Shopping",
     "company": "Amazon",
     "link": "https://www.linkedin.com/jobs/view/sr-data-scientist-alexa-for-shopping-at-amazon-4455900586?position=4&pageNum=0&refId=cs6CD72XJr02HWsxum46JA%3D%3D&trackingId=hKEzqcs4o3BU%2FBxIiMyWEg%3D%3D",
@@ -2944,56 +2994,6 @@
     "company": "Synechron",
     "link": "https://www.linkedin.com/jobs/view/senior-data-engineer-at-synechron-4470815524?position=2&pageNum=0&refId=tCtr6JeyIpeMsJVXM9u8gQ%3D%3D&trackingId=twMLv1R8pYl5BpmYX6%2FE8w%3D%3D",
     "location": "Charlotte, NC",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-09-27 21:13 UTC"
-  },
-  {
-    "title": "Senior Data Engineer",
-    "company": "CoreWeave",
-    "link": "https://www.linkedin.com/jobs/view/senior-data-engineer-at-coreweave-4461830414?position=10&pageNum=0&refId=tCtr6JeyIpeMsJVXM9u8gQ%3D%3D&trackingId=d7UKw1l8kOsi51R3ZrG6jg%3D%3D",
-    "location": "San Francisco, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-09-27 21:13 UTC"
-  },
-  {
-    "title": "Data Engineer 4 (Python, AWS, Spark, Kafka, SQL, Snowflake, Databricks, GenAI)",
-    "company": "Capital One",
-    "link": "https://www.linkedin.com/jobs/view/data-engineer-4-python-aws-spark-kafka-sql-snowflake-databricks-genai-at-capital-one-4472438893?position=12&pageNum=0&refId=tCtr6JeyIpeMsJVXM9u8gQ%3D%3D&trackingId=2xHG5H7b1b5gMM3I%2BCZfRA%3D%3D",
-    "location": "McLean, VA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-09-27 21:13 UTC"
-  },
-  {
-    "title": "Data Analyst (Remote Work)",
-    "company": "Torentify",
-    "link": "https://www.linkedin.com/jobs/view/data-analyst-remote-work-at-torentify-4472453711?position=6&pageNum=0&refId=yPuHhTlUnpZv7%2FN0u%2FXrXg%3D%3D&trackingId=sUzM7KG9Mueku8KhxMwAPQ%3D%3D",
-    "location": "United States",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-09-27 21:13 UTC"
-  },
-  {
-    "title": "Data Analyst",
-    "company": "TEK Sapient",
-    "link": "https://www.linkedin.com/jobs/view/data-analyst-at-tek-sapient-4471099449?position=7&pageNum=0&refId=yPuHhTlUnpZv7%2FN0u%2FXrXg%3D%3D&trackingId=05WfMlxAAdVXayz77MEd3Q%3D%3D",
-    "location": "United States",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-09-27 21:13 UTC"
-  },
-  {
-    "title": "Machine Learning Engineer",
-    "company": "AgileGrid Solutions",
-    "link": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-agilegrid-solutions-4472464225?position=6&pageNum=0&refId=XC%2FMGPzZYh%2F%2BfBE%2BkLFJBg%3D%3D&trackingId=9Mo5z9rzoVDtj7nYl3Gu8w%3D%3D",
-    "location": "United States",
     "source": "LinkedIn",
     "h1b_signal": false,
     "summary": "",
