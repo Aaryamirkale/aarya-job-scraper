@@ -1,5 +1,95 @@
 [
   {
+    "title": "Senior Machine Learning Engineer",
+    "company": "Oracle",
+    "link": "https://www.linkedin.com/jobs/view/senior-machine-learning-engineer-at-oracle-4463927298?position=6&pageNum=0&refId=vxB6uJ2%2FDHCxq9JvN1gnIA%3D%3D&trackingId=uBmhVYltFpo7BNK4kkv3ig%3D%3D",
+    "location": "Austin, TX",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-10-03 11:29 UTC"
+  },
+  {
+    "title": "Sr Data Engineer - Databricks",
+    "company": "Georgia-Pacific LLC",
+    "link": "https://www.linkedin.com/jobs/view/sr-data-engineer-databricks-at-georgia-pacific-llc-4473185856?position=11&pageNum=0&refId=GUbyP6ILk8xGyWcuqtoMZA%3D%3D&trackingId=xf8mQDQ9c7mLB4UTMdfjNw%3D%3D",
+    "location": "Atlanta, GA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-10-03 11:29 UTC"
+  },
+  {
+    "title": "Staff Data Engineer",
+    "company": "Dexcom",
+    "link": "https://www.linkedin.com/jobs/view/staff-data-engineer-at-dexcom-4446368700?position=12&pageNum=0&refId=GUbyP6ILk8xGyWcuqtoMZA%3D%3D&trackingId=%2B9XCRUb8z%2FdQcSQklne3%2Fw%3D%3D",
+    "location": "San Diego, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-10-03 11:29 UTC"
+  },
+  {
+    "title": "Data Analyst II (Remote)",
+    "company": "Torentify",
+    "link": "https://www.linkedin.com/jobs/view/data-analyst-ii-remote-at-torentify-4475099611?position=5&pageNum=0&refId=T%2FLIVyYt7If%2BbXwg5AB%2BcQ%3D%3D&trackingId=4uE8sS2iTfWSRQBh%2BGRu5w%3D%3D",
+    "location": "United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-10-03 11:29 UTC"
+  },
+  {
+    "title": "Senior BI / Analytics Engineer",
+    "company": "Prosum",
+    "link": "https://www.linkedin.com/jobs/view/senior-bi-analytics-engineer-at-prosum-4466308789?position=4&pageNum=0&refId=3NGbat5ZH1VRcg%2BwaET1cA%3D%3D&trackingId=H0xrv1ue%2FJ1q94iPon6KGA%3D%3D",
+    "location": "Los Angeles Metropolitan Area",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-10-03 11:29 UTC"
+  },
+  {
+    "title": "CD&A Data Scientist, Obesity - Senior Associate",
+    "company": "Amgen",
+    "link": "https://www.linkedin.com/jobs/view/cd-a-data-scientist-obesity-senior-associate-at-amgen-4475302632?position=4&pageNum=0&refId=5hfAX2pi4gwypCIct2rBPQ%3D%3D&trackingId=U6UGo84CXVYQKJIM5kPv1Q%3D%3D",
+    "location": "Thousand Oaks, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-10-03 11:29 UTC"
+  },
+  {
+    "title": "Product Data Analyst II",
+    "company": "Checkr, Inc.",
+    "link": "https://www.linkedin.com/jobs/view/product-data-analyst-ii-at-checkr-inc-4466385261?position=1&pageNum=0&refId=e%2FLTV8miHoLzvEVmy%2F9pmA%3D%3D&trackingId=kwvNriZfiZ26cX7A6HLe1w%3D%3D",
+    "location": "San Francisco, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-10-03 11:29 UTC"
+  },
+  {
+    "title": "Product Analyst",
+    "company": "Wiraa",
+    "link": "https://www.linkedin.com/jobs/view/product-analyst-at-wiraa-4475309609?position=11&pageNum=0&refId=e%2FLTV8miHoLzvEVmy%2F9pmA%3D%3D&trackingId=mgIH2jMZ0NVsQTL4%2Bmzy2w%3D%3D",
+    "location": "United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-10-03 11:29 UTC"
+  },
+  {
+    "title": "Sr Applied Scientist, Ring AI",
+    "company": "Ring",
+    "link": "https://www.linkedin.com/jobs/view/sr-applied-scientist-ring-ai-at-ring-4475011016?position=12&pageNum=0&refId=IlwjXTCFmmUW%2FYB4t7BAOg%3D%3D&trackingId=G8g4XLNOQAeA%2BfkQXbdxEQ%3D%3D",
+    "location": "Sunnyvale, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-10-03 11:29 UTC"
+  },
+  {
     "title": "Senior Data Scientist (Healthtech)",
     "company": "Carex Consulting Group",
     "link": "https://www.linkedin.com/jobs/view/senior-data-scientist-healthtech-at-carex-consulting-group-4473404047?position=9&pageNum=0&refId=LqHMxQVVNzyB6ytMth%2BFrg%3D%3D&trackingId=p8dyhUJQ%2BCYT9Oksooxz7w%3D%3D",
@@ -2908,95 +2998,5 @@
     "h1b_signal": false,
     "summary": "",
     "found_at": "2026-09-29 05:26 UTC"
-  },
-  {
-    "title": "Data Analyst II, Customer Reporting",
-    "company": "Spring Health",
-    "link": "https://www.linkedin.com/jobs/view/data-analyst-ii-customer-reporting-at-spring-health-4471232411?position=4&pageNum=0&refId=ydME4dTib1yCFJdvxQww3Q%3D%3D&trackingId=lhlRcqWpkJisSHl5Rk9W%2BA%3D%3D",
-    "location": "San Francisco, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-09-29 05:26 UTC"
-  },
-  {
-    "title": "Senior Data Analyst",
-    "company": "Titan Technologies",
-    "link": "https://www.linkedin.com/jobs/view/senior-data-analyst-at-titan-technologies-4471561294?position=12&pageNum=0&refId=ydME4dTib1yCFJdvxQww3Q%3D%3D&trackingId=gs1C8X258PJWUqfLyB7DqQ%3D%3D",
-    "location": "Fort Liberty, NC",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-09-29 05:26 UTC"
-  },
-  {
-    "title": "Senior Data Analyst - Consumer Experience Reporting - Remote",
-    "company": "RemoteHunter",
-    "link": "https://www.linkedin.com/jobs/view/senior-data-analyst-consumer-experience-reporting-remote-at-remotehunter-4473072742?position=4&pageNum=0&refId=SYcussGwJmirdCwNxh0l4A%3D%3D&trackingId=VI%2BEVVFF3OoUQds9nNR6sQ%3D%3D",
-    "location": "United States",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-09-29 05:26 UTC"
-  },
-  {
-    "title": "Senior Business Intelligence Analyst",
-    "company": "RxVantage",
-    "link": "https://www.linkedin.com/jobs/view/senior-business-intelligence-analyst-at-rxvantage-4442117175?position=5&pageNum=0&refId=SYcussGwJmirdCwNxh0l4A%3D%3D&trackingId=bmr2W1PBfwi%2BzyYVuw9OaQ%3D%3D",
-    "location": "Texas, United States",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-09-29 05:26 UTC"
-  },
-  {
-    "title": "Business Intelligence Analyst",
-    "company": "Enlyte",
-    "link": "https://www.linkedin.com/jobs/view/business-intelligence-analyst-at-enlyte-4471905084?position=7&pageNum=0&refId=SYcussGwJmirdCwNxh0l4A%3D%3D&trackingId=gAiWDx7qlYSBYSckeklblw%3D%3D",
-    "location": "United States",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-09-29 05:26 UTC"
-  },
-  {
-    "title": "Business Analytics and Network Strategy - Data Analyst I",
-    "company": "NBH Bank",
-    "link": "https://www.linkedin.com/jobs/view/business-analytics-and-network-strategy-data-analyst-i-at-nbh-bank-4473046763?position=9&pageNum=0&refId=SYcussGwJmirdCwNxh0l4A%3D%3D&trackingId=l05D2xNZiR76kUx6il5%2FaQ%3D%3D",
-    "location": "Kansas City, MO",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-09-29 05:26 UTC"
-  },
-  {
-    "title": "Sr. Product Analyst, Telematics",
-    "company": "The Hartford",
-    "link": "https://www.linkedin.com/jobs/view/sr-product-analyst-telematics-at-the-hartford-4471229145?position=3&pageNum=0&refId=mwdB36PcYdczsIk0whBtdA%3D%3D&trackingId=jv8WsNmpyQz4KbUh5lLYFA%3D%3D",
-    "location": "Columbus, OH",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-09-29 05:26 UTC"
-  },
-  {
-    "title": "Staff Data Scientist",
-    "company": "Way",
-    "link": "https://www.linkedin.com/jobs/view/staff-data-scientist-at-way-4472774130?position=7&pageNum=0&refId=TJmhFfuCMCpbFEGdGFZwnw%3D%3D&trackingId=rjqEsrlbpVN0p6lm2UqIow%3D%3D",
-    "location": "San Francisco Bay Area",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-09-28 21:10 UTC"
-  },
-  {
-    "title": "Data Scientist II, Prime Air",
-    "company": "Amazon Science",
-    "link": "https://www.linkedin.com/jobs/view/data-scientist-ii-prime-air-at-amazon-science-4470863352?position=9&pageNum=0&refId=TJmhFfuCMCpbFEGdGFZwnw%3D%3D&trackingId=vOn2Zjt%2BXpOboa2nepeDtA%3D%3D",
-    "location": "Seattle, WA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-09-28 21:10 UTC"
   }
 ]
