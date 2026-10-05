@@ -1,5 +1,55 @@
 [
   {
+    "title": "Data Scientist",
+    "company": "So Jobs",
+    "link": "https://www.linkedin.com/jobs/view/data-scientist-at-so-jobs-4473600219?position=12&pageNum=0&refId=N58Td%2Fe4l6lm7zt9vXwDUg%3D%3D&trackingId=8NbQXaOfoZwW2Y6s8g3olQ%3D%3D",
+    "location": "Chicago, IL",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-10-05 05:15 UTC"
+  },
+  {
+    "title": "Data Analyst I",
+    "company": "Cambium Assessment",
+    "link": "https://www.linkedin.com/jobs/view/data-analyst-i-at-cambium-assessment-4474223537?position=3&pageNum=0&refId=Xt8RO5%2FpFiKIlOnrk2EuDQ%3D%3D&trackingId=YPvbAXCn7sL%2BZ5Gz%2F9utHA%3D%3D",
+    "location": "United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-10-05 05:15 UTC"
+  },
+  {
+    "title": "AI Engineer",
+    "company": "BlueCargo",
+    "link": "https://www.linkedin.com/jobs/view/ai-engineer-at-bluecargo-4474229441?position=9&pageNum=0&refId=v7rYUx%2FWMGp04PZlc%2FFCow%3D%3D&trackingId=PPMrggoRk3vTu6pkSy4hCw%3D%3D",
+    "location": "Los Angeles, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-10-05 05:15 UTC"
+  },
+  {
+    "title": "Senior/Staff Analytics Engineer",
+    "company": "Render",
+    "link": "https://www.linkedin.com/jobs/view/senior-staff-analytics-engineer-at-render-4473493899?position=5&pageNum=0&refId=CtJjOE1PmdOyItkakvCL2Q%3D%3D&trackingId=xu3topCkKSC71CCSzngxrQ%3D%3D",
+    "location": "United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-10-05 05:15 UTC"
+  },
+  {
+    "title": "Senior Analytics Engineer, Full-stack",
+    "company": "Hercules",
+    "link": "https://www.linkedin.com/jobs/view/senior-analytics-engineer-full-stack-at-hercules-4475530296?position=8&pageNum=0&refId=CtJjOE1PmdOyItkakvCL2Q%3D%3D&trackingId=SuINSEXmAC5LWEgx313hyQ%3D%3D",
+    "location": "San Francisco, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-10-05 05:15 UTC"
+  },
+  {
     "title": "Machine Learning Engineer, Recommendations - USDS E-commerce Alliance",
     "company": "TikTok USDS Joint Venture",
     "link": "https://www.linkedin.com/jobs/view/machine-learning-engineer-recommendations-usds-e-commerce-alliance-at-tiktok-usds-joint-venture-4475395812?position=6&pageNum=0&refId=DiebKFmyVNNe1N3BmfShBg%3D%3D&trackingId=bi%2BJxeuWuhPBPn0u9Om5%2FA%3D%3D",
@@ -2944,56 +2994,6 @@
     "company": "NVIDIA",
     "link": "https://www.linkedin.com/jobs/view/senior-business-intelligence-analyst-corporate-finance-at-nvidia-4471984082?position=7&pageNum=0&refId=5FFYUlRhHUG0l9gz%2BpkpmA%3D%3D&trackingId=sFKMDlqqRvKCOnw7x5qnhA%3D%3D",
     "location": "Santa Clara, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-09-30 09:32 UTC"
-  },
-  {
-    "title": "Data Analyst II",
-    "company": "Jobgether",
-    "link": "https://www.linkedin.com/jobs/view/data-analyst-ii-at-jobgether-4472118925?position=9&pageNum=0&refId=5FFYUlRhHUG0l9gz%2BpkpmA%3D%3D&trackingId=%2FNpyDmgpEa6xSpNU%2F1e49g%3D%3D",
-    "location": "United States",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-09-30 09:32 UTC"
-  },
-  {
-    "title": "Machine Learning Engineer III",
-    "company": "Expedia Group",
-    "link": "https://www.linkedin.com/jobs/view/machine-learning-engineer-iii-at-expedia-group-4472107934?position=8&pageNum=0&refId=9a0BzO%2Bmla8GbuXCmFyZrQ%3D%3D&trackingId=twQL%2BMp0D9AX1Dk2FSubLA%3D%3D",
-    "location": "San Jose, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-09-30 09:32 UTC"
-  },
-  {
-    "title": "Data Engineer / Data Analyst",
-    "company": "NXP Semiconductors",
-    "link": "https://www.linkedin.com/jobs/view/data-engineer-data-analyst-at-nxp-semiconductors-4473724763?position=1&pageNum=0&refId=aMIKNE5hCRA%2FUB039TVr6g%3D%3D&trackingId=kKzMmdwnWoCUEsTWK7PCXA%3D%3D",
-    "location": "Austin, TX",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-09-30 09:32 UTC"
-  },
-  {
-    "title": "Data Engineer, Studios Analytics",
-    "company": "Amazon",
-    "link": "https://www.linkedin.com/jobs/view/data-engineer-studios-analytics-at-amazon-4473576095?position=7&pageNum=0&refId=aMIKNE5hCRA%2FUB039TVr6g%3D%3D&trackingId=MGo7zVf%2BB5cQUZ%2FL1vMF4A%3D%3D",
-    "location": "Culver City, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-09-30 09:32 UTC"
-  },
-  {
-    "title": "Analytics Engineer",
-    "company": "TalentHop",
-    "link": "https://www.linkedin.com/jobs/view/analytics-engineer-at-talenthop-4472131995?position=8&pageNum=0&refId=aMIKNE5hCRA%2FUB039TVr6g%3D%3D&trackingId=gQrLmczJBZEe8Oo1undjFA%3D%3D",
-    "location": "United States",
     "source": "LinkedIn",
     "h1b_signal": false,
     "summary": "",
