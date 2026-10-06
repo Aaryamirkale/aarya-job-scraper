@@ -1,5 +1,115 @@
 [
   {
+    "title": "Data Scientist",
+    "company": "Confido",
+    "link": "https://www.linkedin.com/jobs/view/data-scientist-at-confido-4458286874?position=4&pageNum=0&refId=nT2JQXmB4%2Fra6PtoQZyJyw%3D%3D&trackingId=kUkpSENHj8sq0paD3IrbnA%3D%3D",
+    "location": "New York, NY",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-10-06 13:13 UTC"
+  },
+  {
+    "title": "Data Analyst",
+    "company": "ATC",
+    "link": "https://www.linkedin.com/jobs/view/data-analyst-at-atc-4474288316?position=12&pageNum=0&refId=ovzUHf4UPhVAUNT9nSKmgA%3D%3D&trackingId=fQz0O%2F4qdgpICbJrtU1njQ%3D%3D",
+    "location": "New York, United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-10-06 13:13 UTC"
+  },
+  {
+    "title": "MRT-C Data Analyst",
+    "company": "Nisga'a CIOPS",
+    "link": "https://www.linkedin.com/jobs/view/mrt-c-data-analyst-at-nisga-a-ciops-4476108950?position=13&pageNum=0&refId=ovzUHf4UPhVAUNT9nSKmgA%3D%3D&trackingId=ERRxmcIKnvvF749MRsrODg%3D%3D",
+    "location": "Colorado Springs, CO",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-10-06 13:13 UTC"
+  },
+  {
+    "title": "Senior Applied AI Engineer",
+    "company": "Front",
+    "link": "https://www.linkedin.com/jobs/view/senior-applied-ai-engineer-at-front-4476137421?position=8&pageNum=0&refId=h%2BCBVGAZRqICbzZ5XvIQ4Q%3D%3D&trackingId=3p1InQnlwLbLqQM5%2BxZqOw%3D%3D",
+    "location": "San Francisco, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-10-06 13:13 UTC"
+  },
+  {
+    "title": "Data Engineer",
+    "company": "Bloom Healthcare",
+    "link": "https://www.linkedin.com/jobs/view/data-engineer-at-bloom-healthcare-4467443012?position=11&pageNum=0&refId=fDClQPQvr785D3aV6ifrAg%3D%3D&trackingId=ypKZSzqY%2Bih9s4t0IFcpfw%3D%3D",
+    "location": "Lakewood, CO",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-10-06 13:13 UTC"
+  },
+  {
+    "title": "Data Analyst - Power BI (WFH)",
+    "company": "Torentify",
+    "link": "https://www.linkedin.com/jobs/view/data-analyst-power-bi-wfh-at-torentify-4476182537?position=3&pageNum=0&refId=DpI5VvAde%2BBWyKhEqNvDgQ%3D%3D&trackingId=RzPMEAYqmTZ2N01ofyJetQ%3D%3D",
+    "location": "United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-10-06 13:13 UTC"
+  },
+  {
+    "title": "Data Analyst",
+    "company": "Howden",
+    "link": "https://www.linkedin.com/jobs/view/data-analyst-at-howden-4474681525?position=8&pageNum=0&refId=DpI5VvAde%2BBWyKhEqNvDgQ%3D%3D&trackingId=wUDQKZARW3ZhVnPeo4tIMw%3D%3D",
+    "location": "Chicago, IL",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-10-06 13:13 UTC"
+  },
+  {
+    "title": "Data Scientist, Data & AI",
+    "company": "Emory Healthcare",
+    "link": "https://www.linkedin.com/jobs/view/data-scientist-data-ai-at-emory-healthcare-4476157869?position=3&pageNum=0&refId=KYDqB7TSKrPIX1wmxRCb3A%3D%3D&trackingId=c7CZhj4DSIyMEDc6Uz2O%2BQ%3D%3D",
+    "location": "Atlanta, GA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-10-06 13:13 UTC"
+  },
+  {
+    "title": "Data Scientist, Product",
+    "company": "Replit",
+    "link": "https://www.linkedin.com/jobs/view/data-scientist-product-at-replit-4411253059?position=10&pageNum=0&refId=5T8HUVmnT2rB7du7%2Fg8Dzw%3D%3D&trackingId=kG2T22Dvk1AmFiWn02batA%3D%3D",
+    "location": "Foster City, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-10-06 13:13 UTC"
+  },
+  {
+    "title": "Senior Product Data Scientist, Discover Experience",
+    "company": "Google",
+    "link": "https://www.linkedin.com/jobs/view/senior-product-data-scientist-discover-experience-at-google-4474692823?position=11&pageNum=0&refId=5T8HUVmnT2rB7du7%2Fg8Dzw%3D%3D&trackingId=s2ml2ZAnApdeTgu09zPaew%3D%3D",
+    "location": "Mountain View, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-10-06 13:13 UTC"
+  },
+  {
+    "title": "Research Scientist, Robotics & AI",
+    "company": "Dexmate",
+    "link": "https://www.linkedin.com/jobs/view/research-scientist-robotics-ai-at-dexmate-4375106746?position=8&pageNum=0&refId=c54ui7WcfEUd%2FBNFLCD1oA%3D%3D&trackingId=K%2BGdFOlzB1NCng7dhGkWWQ%3D%3D",
+    "location": "Fremont, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-10-06 13:13 UTC"
+  },
+  {
     "title": "Senior Mission Data Scientist",
     "company": "Haystack",
     "link": "https://www.linkedin.com/jobs/view/senior-mission-data-scientist-at-haystack-4474021572?position=2&pageNum=0&refId=zeZN%2FVa9xSWnAoeXJpBH6A%3D%3D&trackingId=vHMsQGkXhrIRDPLdV9MDYw%3D%3D",
@@ -2888,115 +2998,5 @@
     "h1b_signal": false,
     "summary": "",
     "found_at": "2026-10-01 20:16 UTC"
-  },
-  {
-    "title": "Senior Business Intelligence Analyst \u2013 Product Analytics",
-    "company": "ZoomInfo",
-    "link": "https://www.linkedin.com/jobs/view/senior-business-intelligence-analyst-%E2%80%93-product-analytics-at-zoominfo-4428877838?position=9&pageNum=0&refId=EXYzhodCE151xNf9go5sqA%3D%3D&trackingId=0hjuR1RExsoKB8AeIbI%2Bpg%3D%3D",
-    "location": "United States",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-10-01 20:16 UTC"
-  },
-  {
-    "title": "Applied Scientist, Fauna",
-    "company": "Amazon",
-    "link": "https://www.linkedin.com/jobs/view/applied-scientist-fauna-at-amazon-4455773999?position=1&pageNum=0&refId=6R6B2oIuFqCQnVaxY9HeSA%3D%3D&trackingId=rNsu1ZM7WW9ojivwJ9dTIw%3D%3D",
-    "location": "Sunnyvale, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-10-01 20:16 UTC"
-  },
-  {
-    "title": "Sr. Applied Scientist, Fauna",
-    "company": "Amazon",
-    "link": "https://www.linkedin.com/jobs/view/sr-applied-scientist-fauna-at-amazon-4455919751?position=4&pageNum=0&refId=6R6B2oIuFqCQnVaxY9HeSA%3D%3D&trackingId=rQXUnX%2FHM5DFkQBK192IMQ%3D%3D",
-    "location": "Sunnyvale, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-10-01 20:16 UTC"
-  },
-  {
-    "title": "Senior Research Scientist, Foundational Audio",
-    "company": "Google",
-    "link": "https://www.linkedin.com/jobs/view/senior-research-scientist-foundational-audio-at-google-4472589333?position=5&pageNum=0&refId=6R6B2oIuFqCQnVaxY9HeSA%3D%3D&trackingId=LHh3YFQcBEPiAmmp2CW79Q%3D%3D",
-    "location": "Mountain View, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-10-01 20:16 UTC"
-  },
-  {
-    "title": "Research Scientist \u2013 Computer Vision (3D Environment Reconstruction)",
-    "company": "Mecka",
-    "link": "https://www.linkedin.com/jobs/view/research-scientist-%E2%80%93-computer-vision-3d-environment-reconstruction-at-mecka-4474522228?position=11&pageNum=0&refId=6R6B2oIuFqCQnVaxY9HeSA%3D%3D&trackingId=hVHcuM4qvRM575bT4bHHOw%3D%3D",
-    "location": "New York, United States",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-10-01 20:16 UTC"
-  },
-  {
-    "title": "Campaign Analytics, Data Analyst",
-    "company": "FanDuel",
-    "link": "https://www.fanduel.careers/open-positions?gh_jid=8055746",
-    "location": "New York City",
-    "source": "Direct (FanDuel)",
-    "h1b_signal": true,
-    "summary": "<p><strong>THE POSITION<br></strong>Our roster has an opening with your name on it</p>\n<p>FanDuel is looking for a Data Analyst to support our recently established Generosity Intelligence team. In thi",
-    "found_at": "2026-10-01 20:17 UTC"
-  },
-  {
-    "title": "Sr. Applied Scientist, Prime Video - Title Lifecycle Presentation",
-    "company": "Amazon",
-    "link": "https://www.amazon.jobs/en/jobs/10567257/sr-applied-scientist-prime-video-title-lifecycle-presentation",
-    "location": "US, WA, Seattle",
-    "source": "Amazon Careers",
-    "h1b_signal": true,
-    "summary": "Prime Video is a first-stop entertainment destination offering customers a vast collection of premium programming in one app available across thousands of devices. Prime members can customize their vi",
-    "found_at": "2026-10-01 20:17 UTC"
-  },
-  {
-    "title": "Sr Applied Scientist, WW Prime , WW Prime - AI/ML Science",
-    "company": "Amazon",
-    "link": "https://www.amazon.jobs/en/jobs/10566944/sr-applied-scientist-ww-prime-ww-prime-ai-ml-science",
-    "location": "US, WA, Seattle",
-    "source": "Amazon Careers",
-    "h1b_signal": true,
-    "summary": "Interested in modeling and understanding customer behavior through machine learning, artificial intelligence, and data mining over TB scale data with huge business impact on millions of customers? Joi",
-    "found_at": "2026-10-01 20:17 UTC"
-  },
-  {
-    "title": "Applied Scientist I, Ads Trust Science",
-    "company": "Amazon",
-    "link": "https://www.amazon.jobs/en/jobs/10566528/applied-scientist-i-ads-trust-science",
-    "location": "IN, KA, Bengaluru",
-    "source": "Amazon Careers",
-    "h1b_signal": true,
-    "summary": "Applied Scientist I, Ads Trust Science, Bangalore Every ad that reaches a customer through Amazon DSP has passed through a system you'll help build. The Ads Trust Science team protects one of the worl",
-    "found_at": "2026-10-01 20:17 UTC"
-  },
-  {
-    "title": "Data Scientist I",
-    "company": "HDR",
-    "link": "https://www.linkedin.com/jobs/view/data-scientist-i-at-hdr-4454904120?position=9&pageNum=0&refId=coGkSZOPXi0kWu47L5ANhw%3D%3D&trackingId=2vGLgNvbyjablE0U13%2FN%2FQ%3D%3D",
-    "location": "Phoenix, AZ",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-10-01 12:56 UTC"
-  },
-  {
-    "title": "Senior Data Scientist, ML\u2014 Fraud Detection & Effectiveness",
-    "company": "Adobe",
-    "link": "https://www.linkedin.com/jobs/view/senior-data-scientist-ml%E2%80%94-fraud-detection-effectiveness-at-adobe-4464130483?position=10&pageNum=0&refId=coGkSZOPXi0kWu47L5ANhw%3D%3D&trackingId=fOVbs1cpyLEM7BqXLRMeOw%3D%3D",
-    "location": "San Jose, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-10-01 12:56 UTC"
   }
 ]
