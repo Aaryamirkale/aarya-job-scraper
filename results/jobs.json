@@ -1,5 +1,85 @@
 [
   {
+    "title": "Data Scientist-Sr",
+    "company": "Iron EagleX, Inc.",
+    "link": "https://www.linkedin.com/jobs/view/data-scientist-sr-at-iron-eaglex-inc-4475780652?position=5&pageNum=0&refId=jsMEoWsEPfvdvbAT%2Fg0tAA%3D%3D&trackingId=4XvJq7OEN5d2kXgEDJ947Q%3D%3D",
+    "location": "Tampa, FL",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-10-08 10:20 UTC"
+  },
+  {
+    "title": "Sr. Data Analyst",
+    "company": "Foot Locker",
+    "link": "https://www.linkedin.com/jobs/view/sr-data-analyst-at-foot-locker-4474805020?position=12&pageNum=0&refId=8gICKUuVmP8ZuZV9fyz%2FXw%3D%3D&trackingId=Gxs1M4uKvtpSYo9G1YqH9Q%3D%3D",
+    "location": "New York, NY",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-10-08 10:20 UTC"
+  },
+  {
+    "title": "Data Engineer II, Creator Services",
+    "company": "Amazon Game Studios",
+    "link": "https://www.linkedin.com/jobs/view/data-engineer-ii-creator-services-at-amazon-game-studios-4476948829?position=2&pageNum=0&refId=%2BI35kCVVwEaiMp6V%2FT1TkA%3D%3D&trackingId=ZPFG%2FCaw5hsKh8Jsoy53fQ%3D%3D",
+    "location": "Culver City, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-10-08 10:20 UTC"
+  },
+  {
+    "title": "Senior Data Engineer",
+    "company": "General Dynamics Information Technology",
+    "link": "https://www.linkedin.com/jobs/view/senior-data-engineer-at-general-dynamics-information-technology-4449060583?position=6&pageNum=0&refId=%2BI35kCVVwEaiMp6V%2FT1TkA%3D%3D&trackingId=%2FkKg%2BPcw4uO4RhT%2BMBNKLA%3D%3D",
+    "location": "Sterling, VA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-10-08 10:20 UTC"
+  },
+  {
+    "title": "Senior Data Engineer",
+    "company": "TalentLNX",
+    "link": "https://www.linkedin.com/jobs/view/senior-data-engineer-at-talentlnx-4475485739?position=12&pageNum=0&refId=%2BI35kCVVwEaiMp6V%2FT1TkA%3D%3D&trackingId=2eZbjNDLqEVmDRNSKSsY5A%3D%3D",
+    "location": "Pittsburgh, PA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-10-08 10:20 UTC"
+  },
+  {
+    "title": "Data Analyst",
+    "company": "Central Florida Health Care, Inc.",
+    "link": "https://www.linkedin.com/jobs/view/data-analyst-at-central-florida-health-care-inc-4476976600?position=10&pageNum=0&refId=nkqjgIMaqPWKtQjcCi3ipQ%3D%3D&trackingId=aAweB7Opzd39yBUtSHjQRw%3D%3D",
+    "location": "Winter Haven, FL",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-10-08 10:20 UTC"
+  },
+  {
+    "title": "Business Intelligence Analyst",
+    "company": "The Phoenix Group\u00ae",
+    "link": "https://www.linkedin.com/jobs/view/business-intelligence-analyst-at-the-phoenix-group%C2%AE-4477118689?position=12&pageNum=0&refId=nkqjgIMaqPWKtQjcCi3ipQ%3D%3D&trackingId=vwYBT1BmjmkbRwp8YXbuIQ%3D%3D",
+    "location": "New York City Metropolitan Area",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-10-08 10:20 UTC"
+  },
+  {
+    "title": "Applied Scientist, SSG Science",
+    "company": "Amazon",
+    "link": "https://www.amazon.jobs/en/jobs/10572900/applied-scientist-ssg-science",
+    "location": "IN, KA, Bengaluru",
+    "source": "Amazon Careers",
+    "h1b_signal": true,
+    "summary": "Amazon Devices is an inventive research and development company that designs and engineer high-profile devices like the Kindle family of products, Fire Tablets, Fire TV, Health Wellness, Amazon Echo &",
+    "found_at": "2026-10-08 10:20 UTC"
+  },
+  {
     "title": "Senior Data Scientist - Equities",
     "company": "Balyasny Asset Management L.P.",
     "link": "https://www.linkedin.com/jobs/view/senior-data-scientist-equities-at-balyasny-asset-management-l-p-4457132972?position=12&pageNum=0&refId=v3wYitCApZ9V7ugeoHsIeg%3D%3D&trackingId=GjHCl78BjcPVR179dXr1gg%3D%3D",
@@ -2918,85 +2998,5 @@
     "h1b_signal": false,
     "summary": "",
     "found_at": "2026-10-03 23:42 UTC"
-  },
-  {
-    "title": "Research Scientist I",
-    "company": "Dignity Health",
-    "link": "https://www.linkedin.com/jobs/view/research-scientist-i-at-dignity-health-4473446717?position=12&pageNum=0&refId=0DHN9t9G%2BjrQ%2B9rqaeybSg%3D%3D&trackingId=oeT%2FULOyM06pyelYWpatqw%3D%3D",
-    "location": "Phoenix, AZ",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-10-03 23:42 UTC"
-  },
-  {
-    "title": "Senior Data Scientist, AWS Central Econ and Science",
-    "company": "Amazon Web Services (AWS)",
-    "link": "https://www.linkedin.com/jobs/view/senior-data-scientist-aws-central-econ-and-science-at-amazon-web-services-aws-4475066063?position=6&pageNum=0&refId=dGN0TPRJZGNKn5WQVo4DMQ%3D%3D&trackingId=zuHu9HHNBAF35IvEDi9H%2Fw%3D%3D",
-    "location": "San Francisco, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-10-03 20:55 UTC"
-  },
-  {
-    "title": "Data Scientist",
-    "company": "PNC",
-    "link": "https://www.linkedin.com/jobs/view/data-scientist-at-pnc-4475324748?position=8&pageNum=0&refId=dGN0TPRJZGNKn5WQVo4DMQ%3D%3D&trackingId=ZtJNsCzJxMyb5Vby2rhBRg%3D%3D",
-    "location": "Pittsburgh, PA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-10-03 20:55 UTC"
-  },
-  {
-    "title": "Senior Associate, Data Scientist - Applied AI (Financial Services)",
-    "company": "Capital One",
-    "link": "https://www.linkedin.com/jobs/view/senior-associate-data-scientist-applied-ai-financial-services-at-capital-one-4475333302?position=9&pageNum=0&refId=dGN0TPRJZGNKn5WQVo4DMQ%3D%3D&trackingId=mae3WK%2BDl9RPBgD2JW6bbQ%3D%3D",
-    "location": "McLean, VA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-10-03 20:55 UTC"
-  },
-  {
-    "title": "Senior Data Scientist",
-    "company": "GeoYeti, a division of Bcore",
-    "link": "https://www.linkedin.com/jobs/view/senior-data-scientist-at-geoyeti-a-division-of-bcore-4473835362?position=10&pageNum=0&refId=dGN0TPRJZGNKn5WQVo4DMQ%3D%3D&trackingId=o9fxy7wc8OZm2nkWmk8RGQ%3D%3D",
-    "location": "Springfield, VA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-10-03 20:55 UTC"
-  },
-  {
-    "title": "Senior Data Engineer | AWS | Data Lake",
-    "company": "Onward Legal Innovation",
-    "link": "https://www.linkedin.com/jobs/view/senior-data-engineer-aws-data-lake-at-onward-legal-innovation-4473451049?position=11&pageNum=0&refId=GNAgOVGdOZNl6OonnC2wkw%3D%3D&trackingId=dfw4iklJm%2Fze%2BZdsepHwAQ%3D%3D",
-    "location": "New York, NY",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-10-03 20:55 UTC"
-  },
-  {
-    "title": "Business Intelligence Analyst",
-    "company": "Continental",
-    "link": "https://www.linkedin.com/jobs/view/business-intelligence-analyst-at-continental-4466401432?position=8&pageNum=0&refId=9Hh9v0VNJoj6q9AWUu4l5Q%3D%3D&trackingId=%2F9qhyNsvP%2F0qQjATuN43Xg%3D%3D",
-    "location": "Sterling Heights, MI",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-10-03 20:55 UTC"
-  },
-  {
-    "title": "Business Reporting Data Analyst",
-    "company": "Come Near",
-    "link": "https://www.linkedin.com/jobs/view/business-reporting-data-analyst-at-come-near-4473808078?position=12&pageNum=0&refId=9Hh9v0VNJoj6q9AWUu4l5Q%3D%3D&trackingId=0CckQVJ3f69LDU%2FHORURdA%3D%3D",
-    "location": "United States",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-10-03 20:55 UTC"
   }
 ]
