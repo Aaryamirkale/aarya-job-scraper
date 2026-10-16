@@ -1,5 +1,115 @@
 [
   {
+    "title": "Data Scientist I, PXT Central Science",
+    "company": "Amazon Science",
+    "link": "https://www.linkedin.com/jobs/view/data-scientist-i-pxt-central-science-at-amazon-science-4477721885?position=9&pageNum=0&refId=BX%2FDh62HWZxyCKgNf2lEdw%3D%3D&trackingId=Qts4Xg1LcemNz%2BfotCJbPA%3D%3D",
+    "location": "Arlington, VA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-10-16 23:25 UTC"
+  },
+  {
+    "title": "Data Scientist",
+    "company": "Reyes Holdings",
+    "link": "https://www.linkedin.com/jobs/view/data-scientist-at-reyes-holdings-4480553538?position=12&pageNum=0&refId=BX%2FDh62HWZxyCKgNf2lEdw%3D%3D&trackingId=jcye8G86%2FWxroAwF0cIIvw%3D%3D",
+    "location": "Rosemont, IL",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-10-16 23:25 UTC"
+  },
+  {
+    "title": "Data Analyst",
+    "company": "Christian Community Health Center",
+    "link": "https://www.linkedin.com/jobs/view/data-analyst-at-christian-community-health-center-4480550855?position=4&pageNum=0&refId=J%2BqQjV%2Bz%2B1j9ubPTdAkeNA%3D%3D&trackingId=ZF3e4XcqUVvAFeqAsu3BRQ%3D%3D",
+    "location": "South Holland, IL",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-10-16 23:25 UTC"
+  },
+  {
+    "title": "Data Analyst (Secret Cleared)",
+    "company": "CGI",
+    "link": "https://www.linkedin.com/jobs/view/data-analyst-secret-cleared-at-cgi-4480391860?position=10&pageNum=0&refId=J%2BqQjV%2Bz%2B1j9ubPTdAkeNA%3D%3D&trackingId=QQDCQgHyaG00TqkqqppfIQ%3D%3D",
+    "location": "Arlington, VA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-10-16 23:25 UTC"
+  },
+  {
+    "title": "Staff Machine Learning Engineer - Rider Intelligence",
+    "company": "Uber",
+    "link": "https://www.linkedin.com/jobs/view/staff-machine-learning-engineer-rider-intelligence-at-uber-4480556285?position=4&pageNum=0&refId=GtPTRlgz6k9SGbJNTkLfPg%3D%3D&trackingId=wrbC7aGeDP1Bfb3sROmurg%3D%3D",
+    "location": "Seattle, WA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-10-16 23:25 UTC"
+  },
+  {
+    "title": "Software Data Engineer",
+    "company": "Booz Allen Hamilton",
+    "link": "https://www.linkedin.com/jobs/view/software-data-engineer-at-booz-allen-hamilton-4480549774?position=1&pageNum=0&refId=wL2TCodb69rlrzwoQIQC%2BQ%3D%3D&trackingId=tYTmNXAL7BjoW1Olj1T%2B7A%3D%3D",
+    "location": "Honolulu, HI",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-10-16 23:25 UTC"
+  },
+  {
+    "title": "Data Engineer",
+    "company": "University of Tennessee Foundation, Inc.",
+    "link": "https://www.linkedin.com/jobs/view/data-engineer-at-university-of-tennessee-foundation-inc-4480545797?position=7&pageNum=0&refId=wL2TCodb69rlrzwoQIQC%2BQ%3D%3D&trackingId=Vqag6Wza2hNZdfm8Y0CyIA%3D%3D",
+    "location": "Knoxville, TN",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-10-16 23:25 UTC"
+  },
+  {
+    "title": "Data Engineer",
+    "company": "Lowenstein Sandler LLP",
+    "link": "https://www.linkedin.com/jobs/view/data-engineer-at-lowenstein-sandler-llp-4480541078?position=8&pageNum=0&refId=wL2TCodb69rlrzwoQIQC%2BQ%3D%3D&trackingId=BgUjPEnQ2VgFulmD1VeYxg%3D%3D",
+    "location": "Roseland, NJ",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-10-16 23:25 UTC"
+  },
+  {
+    "title": "Data Engineer",
+    "company": "GM Financial",
+    "link": "https://www.linkedin.com/jobs/view/data-engineer-at-gm-financial-4479635016?position=9&pageNum=0&refId=wL2TCodb69rlrzwoQIQC%2BQ%3D%3D&trackingId=KcQbLi9cugVQpbuwHuNFIQ%3D%3D",
+    "location": "Arlington, TX",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-10-16 23:25 UTC"
+  },
+  {
+    "title": "Senior Data Analyst",
+    "company": "Berkshire Hathaway GUARD Insurance Companies",
+    "link": "https://www.linkedin.com/jobs/view/senior-data-analyst-at-berkshire-hathaway-guard-insurance-companies-4472084119?position=12&pageNum=0&refId=aSwBhuSKq6qjvpZW3Pji6Q%3D%3D&trackingId=%2FgfvWED0ij93GglfW6FXVQ%3D%3D",
+    "location": "Greater Phoenix Area",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-10-16 23:25 UTC"
+  },
+  {
+    "title": "Senior Applied Scientist, Fauna",
+    "company": "Amazon Science",
+    "link": "https://www.linkedin.com/jobs/view/senior-applied-scientist-fauna-at-amazon-science-4477741151?position=2&pageNum=0&refId=gVyd%2BZlHtEEzVeibIsF95w%3D%3D&trackingId=EbXWi8gQmQGWQeRCTp3phA%3D%3D",
+    "location": "Sunnyvale, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-10-16 23:25 UTC"
+  },
+  {
     "title": "Data Scientist",
     "company": "Federal Reserve Bank of Atlanta",
     "link": "https://www.linkedin.com/jobs/view/data-scientist-at-federal-reserve-bank-of-atlanta-4480541058?position=6&pageNum=0&refId=SPuRZEvxiEUIXVgYfWZiNA%3D%3D&trackingId=xdRUDoEilNWKVIJrUcyIYg%3D%3D",
@@ -2888,115 +2998,5 @@
     "h1b_signal": false,
     "summary": "",
     "found_at": "2026-10-12 21:11 UTC"
-  },
-  {
-    "title": "Data Analyst, Senior- Winship Cancer Institute",
-    "company": "Emory University",
-    "link": "https://www.linkedin.com/jobs/view/data-analyst-senior-winship-cancer-institute-at-emory-university-4475240912?position=7&pageNum=0&refId=0iENHc3pI0A9U1Q5KzGlLQ%3D%3D&trackingId=HM4bddVdzCUzIux0M7rcVg%3D%3D",
-    "location": "Atlanta, GA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-10-12 21:11 UTC"
-  },
-  {
-    "title": "Healthcare Data Analyst",
-    "company": "KGS Technology Group, Inc",
-    "link": "https://www.linkedin.com/jobs/view/healthcare-data-analyst-at-kgs-technology-group-inc-4477918039?position=11&pageNum=0&refId=0iENHc3pI0A9U1Q5KzGlLQ%3D%3D&trackingId=p%2FrRXoD%2BWB6FJFhkX8CqXg%3D%3D",
-    "location": "Alpharetta, GA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-10-12 21:11 UTC"
-  },
-  {
-    "title": "Senior Applied Research Scientist - Foundation Models",
-    "company": "Ambient.ai",
-    "link": "https://www.linkedin.com/jobs/view/senior-applied-research-scientist-foundation-models-at-ambient-ai-4462031379?position=4&pageNum=0&refId=fjZI3PIqEHgQs%2FObSd23Xw%3D%3D&trackingId=Y%2Bnzk2lpYxuvtlqBlkNPRw%3D%3D",
-    "location": "San Francisco Bay Area",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-10-12 21:11 UTC"
-  },
-  {
-    "title": "Senior Data Scientist - Flex Pay",
-    "company": "Upgrade",
-    "link": "https://job-boards.greenhouse.io/upgrade/jobs/4739106005",
-    "location": "San Francisco",
-    "source": "Direct (Upgrade)",
-    "h1b_signal": true,
-    "summary": "<p><span style=\"color: #000000;\"><strong>About the Role:</strong></span></p>\n<p><span style=\"color: #000000;\"><br>We are seeking a highly analytical and results-driven Data Scientist to join our buy n",
-    "found_at": "2026-10-12 21:11 UTC"
-  },
-  {
-    "title": "Applied Scientist, Labs, SCOT Forecasting and Labs",
-    "company": "Amazon",
-    "link": "https://www.amazon.jobs/en/jobs/10575779/applied-scientist-labs-scot-forecasting-and-labs",
-    "location": "US, WA, Bellevue",
-    "source": "Amazon Careers",
-    "h1b_signal": true,
-    "summary": "At Amazon, our SCOT Labs team owns and operates the experimentation platform that powers randomized controlled trials (RCTs) across Supply Chain Optimization Technologies (SCOT). We are the scientific",
-    "found_at": "2026-10-12 21:11 UTC"
-  },
-  {
-    "title": " Applied Scientist, Fauna Robotics",
-    "company": "Amazon",
-    "link": "https://www.amazon.jobs/en/jobs/10576134/applied-scientist-fauna-robotics",
-    "location": "US, CA, Sunnyvale",
-    "source": "Amazon Careers",
-    "h1b_signal": true,
-    "summary": "Robots are about to step out of the movies and into our homes. If you're excited about this robotics revolution, come join Amazon's Fauna Robotics. As an Applied Scientist in this org, you'll push the",
-    "found_at": "2026-10-12 21:11 UTC"
-  },
-  {
-    "title": "Senior Machine Learning Engineer II (EO/IR Image Analysis)",
-    "company": "Rocket Lab",
-    "link": "https://www.linkedin.com/jobs/view/senior-machine-learning-engineer-ii-eo-ir-image-analysis-at-rocket-lab-4475671465?position=5&pageNum=0&refId=RwBbO5107hwXJfqbtSGa6A%3D%3D&trackingId=rodVdXTDNMa%2Batr1q%2BGn3w%3D%3D",
-    "location": "Los Angeles, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-10-12 10:34 UTC"
-  },
-  {
-    "title": "ML Engineer",
-    "company": "Fonzi AI",
-    "link": "https://www.linkedin.com/jobs/view/ml-engineer-at-fonzi-ai-4477259936?position=12&pageNum=0&refId=RwBbO5107hwXJfqbtSGa6A%3D%3D&trackingId=XZTRhkFK%2BkB4bfKWS1O%2FWg%3D%3D",
-    "location": "San Francisco Bay Area",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-10-12 10:34 UTC"
-  },
-  {
-    "title": "Data Analyst",
-    "company": "Children's Hospital of Philadelphia",
-    "link": "https://www.linkedin.com/jobs/view/data-analyst-at-children-s-hospital-of-philadelphia-4477271715?position=4&pageNum=0&refId=VSKPsHmP318gUv9v5s2JlA%3D%3D&trackingId=hRbdqVmdncxYEE4T45c1Kg%3D%3D",
-    "location": "Philadelphia, PA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-10-12 10:34 UTC"
-  },
-  {
-    "title": "Data Analyst II\u2013 WFH",
-    "company": "Torentify",
-    "link": "https://www.linkedin.com/jobs/view/data-analyst-ii%E2%80%93-wfh-at-torentify-4478382777?position=8&pageNum=0&refId=VSKPsHmP318gUv9v5s2JlA%3D%3D&trackingId=cFFi72Lq5BAwnnH5RpRYHg%3D%3D",
-    "location": "United States",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-10-12 10:34 UTC"
-  },
-  {
-    "title": "Sr. Lead Data Analyst",
-    "company": "The Best Job Board",
-    "link": "https://www.linkedin.com/jobs/view/sr-lead-data-analyst-at-the-best-job-board-4478388224?position=10&pageNum=0&refId=VSKPsHmP318gUv9v5s2JlA%3D%3D&trackingId=DGqsvVMV%2BQ%2BN3lR1j%2Frm4Q%3D%3D",
-    "location": "Charlotte, TX",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-10-12 10:34 UTC"
   }
 ]
