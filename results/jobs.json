@@ -1,5 +1,65 @@
 [
   {
+    "title": "Senior Data Scientist",
+    "company": "SAIC",
+    "link": "https://www.linkedin.com/jobs/view/senior-data-scientist-at-saic-4480427138?position=11&pageNum=0&refId=OPjONOVnrCsb0T7oqB%2FQVQ%3D%3D&trackingId=Qb%2FyZ0s2ksdCqO2iTbbUSA%3D%3D",
+    "location": "Huntsville, AL",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-10-20 08:23 UTC"
+  },
+  {
+    "title": "AI/ML Engineer - Senior Level",
+    "company": "USAA",
+    "link": "https://www.linkedin.com/jobs/view/ai-ml-engineer-senior-level-at-usaa-4480409561?position=5&pageNum=0&refId=mx4TF5BDpxBqBBtZArIvrA%3D%3D&trackingId=21MFqAXwQN51y6kIfYvk7w%3D%3D",
+    "location": "San Antonio, TX",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-10-20 08:23 UTC"
+  },
+  {
+    "title": "Data Engineer - IT Enterprise Data Management",
+    "company": "MaineHealth",
+    "link": "https://www.linkedin.com/jobs/view/data-engineer-it-enterprise-data-management-at-mainehealth-4480430812?position=10&pageNum=0&refId=5XfAKaFqlCW%2BRFw37LLZgQ%3D%3D&trackingId=280r57nOMRTb272FH332CA%3D%3D",
+    "location": "Westbrook, ME",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-10-20 08:23 UTC"
+  },
+  {
+    "title": "SAS Data Scientist I \u2013 Health Data Research - DC",
+    "company": "NORC at the University of Chicago",
+    "link": "https://www.linkedin.com/jobs/view/sas-data-scientist-i-%E2%80%93-health-data-research-dc-at-norc-at-the-university-of-chicago-4470072328?position=7&pageNum=0&refId=VIAvQ7LWWtjFsxNIf4euCw%3D%3D&trackingId=RyFXJeVC4ZoVMY4zg2edcA%3D%3D",
+    "location": "Washington, DC",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-10-20 08:23 UTC"
+  },
+  {
+    "title": "Data Analyst - Research Data Management",
+    "company": "Sanford Health",
+    "link": "https://www.linkedin.com/jobs/view/data-analyst-research-data-management-at-sanford-health-4481508236?position=9&pageNum=0&refId=VIAvQ7LWWtjFsxNIf4euCw%3D%3D&trackingId=MHhETFtfy4o1q6BqKQV%2BBg%3D%3D",
+    "location": "Fargo, ND",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-10-20 08:23 UTC"
+  },
+  {
+    "title": "Senior Data Analyst, Data Feeds",
+    "company": "YipitData",
+    "link": "https://www.linkedin.com/jobs/view/senior-data-analyst-data-feeds-at-yipitdata-4478640474?position=4&pageNum=0&refId=tNd3WS9ZpVRHfPQYdRUhIA%3D%3D&trackingId=dVfdn5gR3SsWPp1JGVUcSw%3D%3D",
+    "location": "New York, NY",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-10-20 08:23 UTC"
+  },
+  {
     "title": "Data Scientist",
     "company": "FIS",
     "link": "https://www.linkedin.com/jobs/view/data-scientist-at-fis-4481294365?position=7&pageNum=0&refId=AAS56qQ6w%2BPkcfrSJPiwXw%3D%3D&trackingId=fJZkDik0YnemgCY5lymgYw%3D%3D",
@@ -2937,66 +2997,6 @@
     "source": "LinkedIn",
     "h1b_signal": false,
     "summary": "",
-    "found_at": "2026-10-15 16:46 UTC"
-  },
-  {
-    "title": "Data Scientist",
-    "company": "Access Labs",
-    "link": "https://www.linkedin.com/jobs/view/data-scientist-at-access-labs-4453167044?position=7&pageNum=0&refId=4r%2BFdYM0sYcyqefijmBpJA%3D%3D&trackingId=MfpmnLNPWkUW0ihOD8yR3g%3D%3D",
-    "location": "North Palm Beach, FL",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-10-15 16:46 UTC"
-  },
-  {
-    "title": "Product Analyst",
-    "company": "RevSpring",
-    "link": "https://www.linkedin.com/jobs/view/product-analyst-at-revspring-4479836785?position=3&pageNum=0&refId=jvIf%2BL6UEEO3vHpCGLII5Q%3D%3D&trackingId=zafgDsoeeBO5ZogE6bJOAw%3D%3D",
-    "location": "Columbus, OH",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-10-15 16:46 UTC"
-  },
-  {
-    "title": "Research Scientist, Gemini Commercial Intelligence, DeepMind",
-    "company": "Google DeepMind",
-    "link": "https://www.linkedin.com/jobs/view/research-scientist-gemini-commercial-intelligence-deepmind-at-google-deepmind-4479130712?position=9&pageNum=0&refId=FbeQFRCSeHC0H6jlq5Zn%2Bg%3D%3D&trackingId=dPuGG2IpdxTzRIMAYTIiWg%3D%3D",
-    "location": "Mountain View, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-10-15 16:46 UTC"
-  },
-  {
-    "title": "Applied AI Researcher, Multi-Agent Systems",
-    "company": "Distyl",
-    "link": "https://www.linkedin.com/jobs/view/applied-ai-researcher-multi-agent-systems-at-distyl-4412864071?position=10&pageNum=0&refId=FbeQFRCSeHC0H6jlq5Zn%2Bg%3D%3D&trackingId=Qr3BAKyfkK65ugCy7K6oYQ%3D%3D",
-    "location": "San Francisco, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-10-15 16:46 UTC"
-  },
-  {
-    "title": "Staff+ Research Scientist, Multi-Agent",
-    "company": "Anthropic",
-    "link": "https://www.linkedin.com/jobs/view/staff%2B-research-scientist-multi-agent-at-anthropic-4469638357?position=12&pageNum=0&refId=FbeQFRCSeHC0H6jlq5Zn%2Bg%3D%3D&trackingId=JO7sVLHFjVzfzAIV0We88Q%3D%3D",
-    "location": "San Francisco, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-10-15 16:46 UTC"
-  },
-  {
-    "title": "Data Engineer, Amazon Prime",
-    "company": "Amazon",
-    "link": "https://www.amazon.jobs/en/jobs/10579730/data-engineer-amazon-prime",
-    "location": "US, WA, Seattle",
-    "source": "Amazon Careers",
-    "h1b_signal": true,
-    "summary": "Amazon Prime's Member Experience organization leads Research & Development for Amazon Prime. The program serves over 300 million members across 25 countries and is key to Amazon's customer growth and",
     "found_at": "2026-10-15 16:46 UTC"
   }
 ]
