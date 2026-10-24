@@ -1,5 +1,25 @@
 [
   {
+    "title": "AI Engineer",
+    "company": "Virtusa",
+    "link": "https://www.linkedin.com/jobs/view/ai-engineer-at-virtusa-4481014465?position=6&pageNum=0&refId=elLRVoexE3YMF0AqKeLzlg%3D%3D&trackingId=ahDTUqTMK5wOb3%2FrWqlNHw%3D%3D",
+    "location": "Dallas, TX",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-10-24 10:43 UTC"
+  },
+  {
+    "title": "Sr AI/ML Engineer",
+    "company": "Optum",
+    "link": "https://www.linkedin.com/jobs/view/sr-ai-ml-engineer-at-optum-4483149719?position=8&pageNum=0&refId=elLRVoexE3YMF0AqKeLzlg%3D%3D&trackingId=2ZLJRXBBxuy%2FGjR8MpRJLw%3D%3D",
+    "location": "Eden Prairie, MN",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-10-24 10:43 UTC"
+  },
+  {
     "title": "Senior Data Engineer (Enterprise Operations)",
     "company": "The Aerospace Corporation",
     "link": "https://www.linkedin.com/jobs/view/senior-data-engineer-enterprise-operations-at-the-aerospace-corporation-4481017189?position=4&pageNum=0&refId=0Z8FZ1iO%2BKlC7swdokaR5A%3D%3D&trackingId=FzTNpXGmBNlieEbLPYHbww%3D%3D",
@@ -2974,26 +2994,6 @@
     "company": "Ladders",
     "link": "https://www.linkedin.com/jobs/view/senior-healthcare-data-analyst-at-ladders-4478257971?position=6&pageNum=0&refId=ey2lsP8oVQd4JxzBZbFy9Q%3D%3D&trackingId=uETq2oP9OVTtx%2BdpVFqgTg%3D%3D",
     "location": "United States",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-10-19 12:50 UTC"
-  },
-  {
-    "title": "Senior Data Analyst, GTM",
-    "company": "Ladders",
-    "link": "https://www.linkedin.com/jobs/view/senior-data-analyst-gtm-at-ladders-4478266698?position=9&pageNum=0&refId=ey2lsP8oVQd4JxzBZbFy9Q%3D%3D&trackingId=1jZT2meK5pyz5s67uYKYwg%3D%3D",
-    "location": "United States",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-10-19 12:50 UTC"
-  },
-  {
-    "title": "Business Intelligence Analyst - Data Engineering",
-    "company": "Medpace",
-    "link": "https://www.linkedin.com/jobs/view/business-intelligence-analyst-data-engineering-at-medpace-4368261634?position=11&pageNum=0&refId=ey2lsP8oVQd4JxzBZbFy9Q%3D%3D&trackingId=qfiWN%2FNthEo4W9HHW4kl7Q%3D%3D",
-    "location": "Cincinnati, OH",
     "source": "LinkedIn",
     "h1b_signal": false,
     "summary": "",
