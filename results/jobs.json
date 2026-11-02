@@ -1,5 +1,125 @@
 [
   {
+    "title": "Staff Data Engineer",
+    "company": "Atticus",
+    "link": "https://www.linkedin.com/jobs/view/staff-data-engineer-at-atticus-4404238044?position=1&pageNum=0&refId=vOR%2FIWRWlNTSGYMShYbi%2Fg%3D%3D&trackingId=8Hqg0otItJ8Egndi9KdP1Q%3D%3D",
+    "location": "Los Angeles, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-11-02 00:29 UTC"
+  },
+  {
+    "title": "Data Engineer I",
+    "company": "Discount Tire",
+    "link": "https://www.linkedin.com/jobs/view/data-engineer-i-at-discount-tire-4485972339?position=2&pageNum=0&refId=vOR%2FIWRWlNTSGYMShYbi%2Fg%3D%3D&trackingId=znZM6lpvZ1SXZjNs%2BpxWhg%3D%3D",
+    "location": "South Bend, IN",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-11-02 00:29 UTC"
+  },
+  {
+    "title": "Data Engineer/ETL Developer with Security Clearance",
+    "company": "Saalex Solutions - A Saalex Company",
+    "link": "https://www.linkedin.com/jobs/view/data-engineer-etl-developer-with-security-clearance-at-saalex-solutions-a-saalex-company-4483979699?position=3&pageNum=0&refId=vOR%2FIWRWlNTSGYMShYbi%2Fg%3D%3D&trackingId=0jDb%2FGgf%2FwFtj6BEDxKWDQ%3D%3D",
+    "location": "Lexington Park, MD",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-11-02 00:29 UTC"
+  },
+  {
+    "title": "Data Engineer",
+    "company": "Gridware",
+    "link": "https://www.linkedin.com/jobs/view/data-engineer-at-gridware-4418756789?position=4&pageNum=0&refId=vOR%2FIWRWlNTSGYMShYbi%2Fg%3D%3D&trackingId=h9kcQ2uDxC4thsips9S8WA%3D%3D",
+    "location": "San Francisco Bay Area",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-11-02 00:29 UTC"
+  },
+  {
+    "title": "Data Engineer II, WW Ops Finance S&A",
+    "company": "Amazon",
+    "link": "https://www.linkedin.com/jobs/view/data-engineer-ii-ww-ops-finance-s-a-at-amazon-4469273262?position=5&pageNum=0&refId=vOR%2FIWRWlNTSGYMShYbi%2Fg%3D%3D&trackingId=XTAppaD9Ay0FHODCFmyQ3g%3D%3D",
+    "location": "Bellevue, WA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-11-02 00:29 UTC"
+  },
+  {
+    "title": "Senior Data Engineer",
+    "company": "EliseAI",
+    "link": "https://www.linkedin.com/jobs/view/senior-data-engineer-at-eliseai-4369939207?position=7&pageNum=0&refId=vOR%2FIWRWlNTSGYMShYbi%2Fg%3D%3D&trackingId=JwsFqagpmH1a5MN7XBTGpA%3D%3D",
+    "location": "San Francisco, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-11-02 00:29 UTC"
+  },
+  {
+    "title": "Data Engineer II, PXT EXR-Ops Tech",
+    "company": "Amazon",
+    "link": "https://www.linkedin.com/jobs/view/data-engineer-ii-pxt-exr-ops-tech-at-amazon-4469211577?position=8&pageNum=0&refId=vOR%2FIWRWlNTSGYMShYbi%2Fg%3D%3D&trackingId=F%2FJ7qfGmI0FSoVTcKLNJug%3D%3D",
+    "location": "Bellevue, WA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-11-02 00:29 UTC"
+  },
+  {
+    "title": "Sr Data Engineer 1",
+    "company": "Exelon",
+    "link": "https://www.linkedin.com/jobs/view/sr-data-engineer-1-at-exelon-4485968451?position=9&pageNum=0&refId=vOR%2FIWRWlNTSGYMShYbi%2Fg%3D%3D&trackingId=Pc2udOaMkBHIyfmWVWUOzQ%3D%3D",
+    "location": "Oakbrook Terrace, IL",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-11-02 00:29 UTC"
+  },
+  {
+    "title": "Senior Data Engineer",
+    "company": "Regal",
+    "link": "https://www.linkedin.com/jobs/view/senior-data-engineer-at-regal-4466917142?position=11&pageNum=0&refId=vOR%2FIWRWlNTSGYMShYbi%2Fg%3D%3D&trackingId=0SEve9YsD1HV1%2BI6%2BCE5rw%3D%3D",
+    "location": "Knoxville, TN",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-11-02 00:29 UTC"
+  },
+  {
+    "title": "Product Analyst",
+    "company": "RemoteHunter",
+    "link": "https://www.linkedin.com/jobs/view/product-analyst-at-remotehunter-4485408916?position=3&pageNum=0&refId=L01vjJVN6xJssDF2aoOhAg%3D%3D&trackingId=LOGfI05oCtVhsLveqMYN2g%3D%3D",
+    "location": "United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-11-02 00:30 UTC"
+  },
+  {
+    "title": "Data Scientist, Product & Operation Analytics - USDS",
+    "company": "TikTok USDS Joint Venture",
+    "link": "https://www.linkedin.com/jobs/view/data-scientist-product-operation-analytics-usds-at-tiktok-usds-joint-venture-4485994441?position=9&pageNum=0&refId=L01vjJVN6xJssDF2aoOhAg%3D%3D&trackingId=uEqk47HSrabb0l4ANlnahQ%3D%3D",
+    "location": "Los Angeles, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-11-02 00:30 UTC"
+  },
+  {
+    "title": "Senior Data Scientist, Product Analytics - USDS",
+    "company": "TikTok USDS Joint Venture",
+    "link": "https://www.linkedin.com/jobs/view/senior-data-scientist-product-analytics-usds-at-tiktok-usds-joint-venture-4485984785?position=10&pageNum=0&refId=L01vjJVN6xJssDF2aoOhAg%3D%3D&trackingId=mT%2FVD%2BEkxd%2BXgRYvmw%2B3yw%3D%3D",
+    "location": "San Jose, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-11-02 00:30 UTC"
+  },
+  {
     "title": "Data Scientist III (AmSec), Veritas",
     "company": "Amazon Science",
     "link": "https://www.linkedin.com/jobs/view/data-scientist-iii-amsec-veritas-at-amazon-science-4483957434?position=9&pageNum=0&refId=7XyiRsur7f0llHFzh1tWgA%3D%3D&trackingId=1vAudDvniFxqpafss69PAw%3D%3D",
@@ -2874,126 +2994,6 @@
     "company": "American Modern Insurance Group",
     "link": "https://www.linkedin.com/jobs/view/principal-ai-data-scientist-at-american-modern-insurance-group-4484417225?position=12&pageNum=0&refId=mF7EwSAdLbRPdpLJxc5IDg%3D%3D&trackingId=PKttqWLOHt%2FXePuP4MeiNA%3D%3D",
     "location": "Cincinnati Metropolitan Area",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-10-28 05:16 UTC"
-  },
-  {
-    "title": "Machine Learning Engineer",
-    "company": "Engramme",
-    "link": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-engramme-4484249784?position=8&pageNum=0&refId=FIgGdeiTycOKh4k%2FDeBGwA%3D%3D&trackingId=l5qFICYcFoG4HkZOfYdNag%3D%3D",
-    "location": "San Francisco, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-10-28 05:16 UTC"
-  },
-  {
-    "title": "Data Analyst",
-    "company": "Crew",
-    "link": "https://www.linkedin.com/jobs/view/data-analyst-at-crew-4484255781?position=4&pageNum=0&refId=C5Bblmr%2BkWuxuG79JEMnJQ%3D%3D&trackingId=mgbXOsHqhPM0caTbORf3Wg%3D%3D",
-    "location": "Nashville, TN",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-10-28 05:16 UTC"
-  },
-  {
-    "title": "Sr AI Engineer - Advanced AI (applied ML, Gen AI, ML ops)",
-    "company": "Target",
-    "link": "https://www.linkedin.com/jobs/view/sr-ai-engineer-advanced-ai-applied-ml-gen-ai-ml-ops-at-target-4484274149?position=4&pageNum=0&refId=8p1999P3%2FH2fay63sHGBbA%3D%3D&trackingId=ls3tc1t%2Fqj1W5phyMsf7Kg%3D%3D",
-    "location": "Brooklyn Park, MN",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-10-28 05:16 UTC"
-  },
-  {
-    "title": "Associate Data Engineer",
-    "company": "Optum",
-    "link": "https://www.linkedin.com/jobs/view/associate-data-engineer-at-optum-4484278455?position=9&pageNum=0&refId=ZN%2BhtqbgcaBwClI%2Bg6YzmA%3D%3D&trackingId=JP9JLLo57PuQo5meux9yAQ%3D%3D",
-    "location": "Eden Prairie, MN",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-10-28 05:16 UTC"
-  },
-  {
-    "title": "Sr. Analytics Engineer/ Data Scientist",
-    "company": "Laurel",
-    "link": "https://www.linkedin.com/jobs/view/sr-analytics-engineer-data-scientist-at-laurel-4484004343?position=10&pageNum=0&refId=J0qyoq7cDYZZlf3h2BfCNQ%3D%3D&trackingId=VreOpvCQonCDO9udfpPoKw%3D%3D",
-    "location": "San Francisco, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-10-28 05:16 UTC"
-  },
-  {
-    "title": "Data Analytics Engineer- Remote",
-    "company": "Harbor Freight Tools",
-    "link": "https://www.linkedin.com/jobs/view/data-analytics-engineer-remote-at-harbor-freight-tools-4482270014?position=11&pageNum=0&refId=J0qyoq7cDYZZlf3h2BfCNQ%3D%3D&trackingId=oRo3PbC4LyNQBaA4uJ%2BE3g%3D%3D",
-    "location": "Calabasas, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-10-28 05:16 UTC"
-  },
-  {
-    "title": "Research Data Analyst/Developer-EPIC EHR Platform",
-    "company": "Shepherd Center",
-    "link": "https://www.linkedin.com/jobs/view/research-data-analyst-developer-epic-ehr-platform-at-shepherd-center-4483815304?position=9&pageNum=0&refId=YqjdBrmSAXrGv9Rwn9thNg%3D%3D&trackingId=dBsMPG15rTnaSrsygPE56Q%3D%3D",
-    "location": "Atlanta, GA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-10-28 05:16 UTC"
-  },
-  {
-    "title": "Clinical EHR Data Analyst",
-    "company": "Surgery Partners, Inc",
-    "link": "https://www.linkedin.com/jobs/view/clinical-ehr-data-analyst-at-surgery-partners-inc-4483692628?position=12&pageNum=0&refId=YqjdBrmSAXrGv9Rwn9thNg%3D%3D&trackingId=7dBzPkaghLMvk57gMmNB6Q%3D%3D",
-    "location": "Durango, CO",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-10-28 05:16 UTC"
-  },
-  {
-    "title": "Clinical AI Data Scientist",
-    "company": "Ascension",
-    "link": "https://www.linkedin.com/jobs/view/clinical-ai-data-scientist-at-ascension-4483837563?position=1&pageNum=0&refId=56XQZ6zYPLEO9SCtQeiRqQ%3D%3D&trackingId=0FJKLvPNTYOOs4Qjj3e%2BGw%3D%3D",
-    "location": "St Louis, MO",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-10-28 05:16 UTC"
-  },
-  {
-    "title": "Senior Data Scientist Immunotherapy Platform",
-    "company": "UT MD Anderson",
-    "link": "https://www.linkedin.com/jobs/view/senior-data-scientist-immunotherapy-platform-at-ut-md-anderson-4484256235?position=2&pageNum=0&refId=56XQZ6zYPLEO9SCtQeiRqQ%3D%3D&trackingId=S5EUisx%2Frf0GVQJEiHNrng%3D%3D",
-    "location": "Houston, TX",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-10-28 05:16 UTC"
-  },
-  {
-    "title": "Senior Data Analyst, Product Analytics",
-    "company": "Current",
-    "link": "https://www.linkedin.com/jobs/view/senior-data-analyst-product-analytics-at-current-4484285244?position=1&pageNum=0&refId=8%2F3LbWZwGjIn0nkwgaD3iQ%3D%3D&trackingId=XAkTG5wj09A9oSJbSpHPvg%3D%3D",
-    "location": "New York, NY",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-10-28 05:16 UTC"
-  },
-  {
-    "title": "Senior Data Analyst",
-    "company": "Stable Kernel",
-    "link": "https://www.linkedin.com/jobs/view/senior-data-analyst-at-stable-kernel-4484277159?position=10&pageNum=0&refId=8%2F3LbWZwGjIn0nkwgaD3iQ%3D%3D&trackingId=Wf1wVbngXZ6xw52KXOwS1w%3D%3D",
-    "location": "Atlanta, GA",
     "source": "LinkedIn",
     "h1b_signal": false,
     "summary": "",
