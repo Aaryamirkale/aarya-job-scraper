@@ -1,5 +1,275 @@
 [
   {
+    "title": "Data Scientist Senior",
+    "company": "Elevance Health",
+    "link": "https://www.linkedin.com/jobs/view/data-scientist-senior-at-elevance-health-4485791364?position=6&pageNum=0&refId=QpBONDldkrXeOg0Y05KDJQ%3D%3D&trackingId=0752RAv9iE6EYiBS40%2BlPw%3D%3D",
+    "location": "Indianapolis, IN",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-11-03 06:19 UTC"
+  },
+  {
+    "title": "Staff Applied Data Scientist, Pricing",
+    "company": "Coinbase",
+    "link": "https://www.linkedin.com/jobs/view/staff-applied-data-scientist-pricing-at-coinbase-4486494480?position=10&pageNum=0&refId=QpBONDldkrXeOg0Y05KDJQ%3D%3D&trackingId=0G29NNkezmOn8zp%2B4IJ6xA%3D%3D",
+    "location": "Miami, FL",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-11-03 06:19 UTC"
+  },
+  {
+    "title": "Senior Data Scientist, Product",
+    "company": "Scribe",
+    "link": "https://www.linkedin.com/jobs/view/senior-data-scientist-product-at-scribe-4486810131?position=12&pageNum=0&refId=QpBONDldkrXeOg0Y05KDJQ%3D%3D&trackingId=cEMqHEc%2F1DXT%2ByQmeqaquw%3D%3D",
+    "location": "San Francisco, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-11-03 06:19 UTC"
+  },
+  {
+    "title": "Data Analyst",
+    "company": "MaximaTek",
+    "link": "https://www.linkedin.com/jobs/view/data-analyst-at-maximatek-4486452172?position=1&pageNum=0&refId=MqsZxsM9DMJ3MktAjVS0AQ%3D%3D&trackingId=MCF0TuEgD9LWRUYtjCLPQw%3D%3D",
+    "location": "Chicago, IL",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-11-03 06:19 UTC"
+  },
+  {
+    "title": "Senior Data Analyst",
+    "company": "Technical and Project Engineering (TAPE), LLC",
+    "link": "https://www.linkedin.com/jobs/view/senior-data-analyst-at-technical-and-project-engineering-tape-llc-4486433764?position=2&pageNum=0&refId=MqsZxsM9DMJ3MktAjVS0AQ%3D%3D&trackingId=rcWgqKP%2FR00cNncsOor27g%3D%3D",
+    "location": "Leavenworth, KS",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-11-03 06:19 UTC"
+  },
+  {
+    "title": "Clinical Data Analyst",
+    "company": "Ascension",
+    "link": "https://www.linkedin.com/jobs/view/clinical-data-analyst-at-ascension-4486025076?position=3&pageNum=0&refId=MqsZxsM9DMJ3MktAjVS0AQ%3D%3D&trackingId=NAsUXIKr7UwFBjqfZdkoJA%3D%3D",
+    "location": "Cedar Park, TX",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-11-03 06:19 UTC"
+  },
+  {
+    "title": "Data Analyst I",
+    "company": "Guidehouse",
+    "link": "https://www.linkedin.com/jobs/view/data-analyst-i-at-guidehouse-4486474280?position=5&pageNum=0&refId=MqsZxsM9DMJ3MktAjVS0AQ%3D%3D&trackingId=6IIa4S%2BGC%2BRfY28uzxhTSw%3D%3D",
+    "location": "McLean, VA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-11-03 06:19 UTC"
+  },
+  {
+    "title": "Enterprise Data Analyst",
+    "company": "MP Materials",
+    "link": "https://www.linkedin.com/jobs/view/enterprise-data-analyst-at-mp-materials-4486810203?position=10&pageNum=0&refId=MqsZxsM9DMJ3MktAjVS0AQ%3D%3D&trackingId=Fj6B1yCxIuQyJPGSx4eT2g%3D%3D",
+    "location": "Las Vegas, NV",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-11-03 06:19 UTC"
+  },
+  {
+    "title": "Senior Data Analyst, Medical Group, Remote",
+    "company": "TalentHop",
+    "link": "https://www.linkedin.com/jobs/view/senior-data-analyst-medical-group-remote-at-talenthop-4484391793?position=11&pageNum=0&refId=MqsZxsM9DMJ3MktAjVS0AQ%3D%3D&trackingId=y%2FxPEONamkzk9owrpAiwPA%3D%3D",
+    "location": "United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-11-03 06:19 UTC"
+  },
+  {
+    "title": "Data Analyst / Chicago Local",
+    "company": "Motion Recruitment",
+    "link": "https://www.linkedin.com/jobs/view/data-analyst-chicago-local-at-motion-recruitment-4486454561?position=12&pageNum=0&refId=MqsZxsM9DMJ3MktAjVS0AQ%3D%3D&trackingId=v3qzFNt04rkpmqUGQFf%2B%2BQ%3D%3D",
+    "location": "Chicago, IL",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-11-03 06:19 UTC"
+  },
+  {
+    "title": "AI Engineer",
+    "company": "AbbVie",
+    "link": "https://www.linkedin.com/jobs/view/ai-engineer-at-abbvie-4485789372?position=1&pageNum=0&refId=6lrwu4Nt8yqIJyxD5RV%2FbA%3D%3D&trackingId=AcTBdLaCMAnFLv3gDhXKUg%3D%3D",
+    "location": "North Chicago, IL",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-11-03 06:19 UTC"
+  },
+  {
+    "title": "AI/ML Engineer",
+    "company": "Arup",
+    "link": "https://www.linkedin.com/jobs/view/ai-ml-engineer-at-arup-4486821142?position=11&pageNum=0&refId=6lrwu4Nt8yqIJyxD5RV%2FbA%3D%3D&trackingId=TJF0%2FYWtNgnTuxx4m6CFdw%3D%3D",
+    "location": "New York, NY",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-11-03 06:19 UTC"
+  },
+  {
+    "title": "Machine Learning Engineer",
+    "company": "Verneek",
+    "link": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-verneek-4486473218?position=12&pageNum=0&refId=6lrwu4Nt8yqIJyxD5RV%2FbA%3D%3D&trackingId=tcUsp5OZI0hv1ad1D4A%2B7g%3D%3D",
+    "location": "New York, NY",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-11-03 06:19 UTC"
+  },
+  {
+    "title": "Data Engineer - Advanced",
+    "company": "ExxonMobil",
+    "link": "https://www.linkedin.com/jobs/view/data-engineer-advanced-at-exxonmobil-4486469957?position=3&pageNum=0&refId=KiiN05h%2BZ%2Brea%2B7L%2Bn9jGg%3D%3D&trackingId=uJv7k1cEunJsc85Uf65X5w%3D%3D",
+    "location": "Spring, TX",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-11-03 06:19 UTC"
+  },
+  {
+    "title": "Data Engineer",
+    "company": "Stuller, Inc.",
+    "link": "https://www.linkedin.com/jobs/view/data-engineer-at-stuller-inc-4485794550?position=4&pageNum=0&refId=KiiN05h%2BZ%2Brea%2B7L%2Bn9jGg%3D%3D&trackingId=e2ZoDbL18y6c5ebGBydbOg%3D%3D",
+    "location": "Lafayette, Louisiana Metropolitan Area",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-11-03 06:19 UTC"
+  },
+  {
+    "title": "Senior Data Engineer",
+    "company": "Oats Overnight",
+    "link": "https://www.linkedin.com/jobs/view/senior-data-engineer-at-oats-overnight-4486482088?position=5&pageNum=0&refId=KiiN05h%2BZ%2Brea%2B7L%2Bn9jGg%3D%3D&trackingId=UtRZD7qYLDw5pfu%2F4eOcEw%3D%3D",
+    "location": "Phoenix, AZ",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-11-03 06:19 UTC"
+  },
+  {
+    "title": "Senior Data Engineer",
+    "company": "Womble Bond Dickinson (US) LLP",
+    "link": "https://www.linkedin.com/jobs/view/senior-data-engineer-at-womble-bond-dickinson-us-llp-4484613371?position=10&pageNum=0&refId=KiiN05h%2BZ%2Brea%2B7L%2Bn9jGg%3D%3D&trackingId=fi2MiqsUjTauBpz4VmImPQ%3D%3D",
+    "location": "San Diego Metropolitan Area",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-11-03 06:19 UTC"
+  },
+  {
+    "title": "Senior Data Engineer, Data Analytics",
+    "company": "Agility Robotics",
+    "link": "https://www.linkedin.com/jobs/view/senior-data-engineer-data-analytics-at-agility-robotics-4486466298?position=11&pageNum=0&refId=KiiN05h%2BZ%2Brea%2B7L%2Bn9jGg%3D%3D&trackingId=uSShXlqHGNI4yUaDUkG8uQ%3D%3D",
+    "location": "Fremont, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-11-03 06:19 UTC"
+  },
+  {
+    "title": "BI Analyst",
+    "company": "PrePass",
+    "link": "https://www.linkedin.com/jobs/view/bi-analyst-at-prepass-4485786517?position=1&pageNum=0&refId=7fTmUda9O7ucWOd5H8UuKg%3D%3D&trackingId=etUA1%2FK%2FbB4StT705lUMdg%3D%3D",
+    "location": "Phoenix, AZ",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-11-03 06:19 UTC"
+  },
+  {
+    "title": "Al ML Engineer",
+    "company": "CGI",
+    "link": "https://www.linkedin.com/jobs/view/al-ml-engineer-at-cgi-4477462498?position=11&pageNum=0&refId=OERjGNm57HDB1%2BDvS9DVQA%3D%3D&trackingId=mnY0hjTQtIr%2BDRXDFA6E4g%3D%3D",
+    "location": "Lafayette, LA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-11-03 06:19 UTC"
+  },
+  {
+    "title": "Staff Analytics Engineer, GTM",
+    "company": "Scribe",
+    "link": "https://www.linkedin.com/jobs/view/staff-analytics-engineer-gtm-at-scribe-4486496794?position=4&pageNum=0&refId=%2FXduhSbdj49dOcBuF%2BB9iQ%3D%3D&trackingId=L2RpvswUsNs3It7B0bG%2BXg%3D%3D",
+    "location": "San Francisco, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-11-03 06:19 UTC"
+  },
+  {
+    "title": "Developer - Analytics Engineer - Level 2",
+    "company": "Duke Health",
+    "link": "https://www.linkedin.com/jobs/view/developer-analytics-engineer-level-2-at-duke-health-4485780173?position=6&pageNum=0&refId=%2FXduhSbdj49dOcBuF%2BB9iQ%3D%3D&trackingId=mgAcjWi%2F6WR5DDvwUxqyiw%3D%3D",
+    "location": "Durham, NC",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-11-03 06:19 UTC"
+  },
+  {
+    "title": "Data Analyst",
+    "company": "The Geneva Foundation",
+    "link": "https://www.linkedin.com/jobs/view/data-analyst-at-the-geneva-foundation-4483159759?position=9&pageNum=0&refId=UcpPO5hNLAgZ50YV5spA6g%3D%3D&trackingId=b6V0Bxo8N84PooiXorGthA%3D%3D",
+    "location": "Silver Spring, MD",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-11-03 06:19 UTC"
+  },
+  {
+    "title": "Senior Data Scientist",
+    "company": "Grifols",
+    "link": "https://www.linkedin.com/jobs/view/senior-data-scientist-at-grifols-4486470472?position=3&pageNum=0&refId=8IelEbR5D%2F%2B1UdaH9RC8AQ%3D%3D&trackingId=vV%2Bsb4yf7EgiQzMIfAnuuA%3D%3D",
+    "location": "San Carlos, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-11-03 06:19 UTC"
+  },
+  {
+    "title": "Product Analyst, Agent Source, Travel Experience & Commerce",
+    "company": "BCD Travel",
+    "link": "https://www.linkedin.com/jobs/view/product-analyst-agent-source-travel-experience-commerce-at-bcd-travel-4486496735?position=2&pageNum=0&refId=TrofMw%2FxcwqkC%2B66gD3pgg%3D%3D&trackingId=UfzN%2FQIAstAPD4QMGs48ow%3D%3D",
+    "location": "United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-11-03 06:19 UTC"
+  },
+  {
+    "title": "Data Science Associate",
+    "company": "Onyx Odds",
+    "link": "https://www.linkedin.com/jobs/view/data-science-associate-at-onyx-odds-4486454777?position=11&pageNum=0&refId=TrofMw%2FxcwqkC%2B66gD3pgg%3D%3D&trackingId=P77Os8Gq41W2sAXhVSl3kQ%3D%3D",
+    "location": "New York, NY",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-11-03 06:19 UTC"
+  },
+  {
+    "title": "Research Scientist, Gate Measurement, Quantum AI",
+    "company": "Google",
+    "link": "https://www.linkedin.com/jobs/view/research-scientist-gate-measurement-quantum-ai-at-google-4485781385?position=3&pageNum=0&refId=IpMYgYB%2Ffsh1wHa%2FS8c3wA%3D%3D&trackingId=oGSPdxBJxKb8Xk9BV2MXjA%3D%3D",
+    "location": "Goleta, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-11-03 06:19 UTC"
+  },
+  {
     "title": "Senior Data Scientist - Enterprise Credit",
     "company": "Bank of America",
     "link": "https://www.linkedin.com/jobs/view/senior-data-scientist-enterprise-credit-at-bank-of-america-4486402923?position=4&pageNum=0&refId=h4PjmGg7HLB87i1ikWQsfg%3D%3D&trackingId=nG2lAP0cBalyq3EkVVNReA%3D%3D",
@@ -2728,275 +2998,5 @@
     "h1b_signal": false,
     "summary": "",
     "found_at": "2026-10-29 18:21 UTC"
-  },
-  {
-    "title": "Senior Data Engineer",
-    "company": "UnitedHealthcare",
-    "link": "https://www.linkedin.com/jobs/view/senior-data-engineer-at-unitedhealthcare-4484936748?position=2&pageNum=0&refId=kzcV042ozFU6WBa0ur9HkQ%3D%3D&trackingId=A%2FHDpyhEkiisVoFtigZBLQ%3D%3D",
-    "location": "Eden Prairie, MN",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-10-29 18:21 UTC"
-  },
-  {
-    "title": "Data Engineer, Global Logistics Product Analytics Team",
-    "company": "Amazon",
-    "link": "https://www.linkedin.com/jobs/view/data-engineer-global-logistics-product-analytics-team-at-amazon-4484721723?position=3&pageNum=0&refId=kzcV042ozFU6WBa0ur9HkQ%3D%3D&trackingId=3glDdag7UakaXb3eialruw%3D%3D",
-    "location": "Bellevue, WA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-10-29 18:21 UTC"
-  },
-  {
-    "title": "Data Engineer I - Cloud Data Modernization - AWS, Databricks, DBT, SQL, AI",
-    "company": "Travelers",
-    "link": "https://www.linkedin.com/jobs/view/data-engineer-i-cloud-data-modernization-aws-databricks-dbt-sql-ai-at-travelers-4475498462?position=4&pageNum=0&refId=kzcV042ozFU6WBa0ur9HkQ%3D%3D&trackingId=E5jZ3%2F9P8W%2FWuuJACUwZCw%3D%3D",
-    "location": "Hartford, CT",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-10-29 18:21 UTC"
-  },
-  {
-    "title": "Data Engineer - Data Software Engineering and Cloud Platforms, Early Career",
-    "company": "General Motors",
-    "link": "https://www.linkedin.com/jobs/view/data-engineer-data-software-engineering-and-cloud-platforms-early-career-at-general-motors-4468299637?position=6&pageNum=0&refId=kzcV042ozFU6WBa0ur9HkQ%3D%3D&trackingId=%2BXzmdwY2SyIGBq5qLsX%2FQg%3D%3D",
-    "location": "Warren, MI",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-10-29 18:21 UTC"
-  },
-  {
-    "title": "Data Engineer I (Onsite)",
-    "company": "Tyson Foods",
-    "link": "https://www.linkedin.com/jobs/view/data-engineer-i-onsite-at-tyson-foods-4482531865?position=12&pageNum=0&refId=kzcV042ozFU6WBa0ur9HkQ%3D%3D&trackingId=9mKRMc3s3nlkiCw5KzLE4w%3D%3D",
-    "location": "Springdale, AR",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-10-29 18:21 UTC"
-  },
-  {
-    "title": "Data Scientist",
-    "company": "Deloitte",
-    "link": "https://www.linkedin.com/jobs/view/data-scientist-at-deloitte-4475758693?position=10&pageNum=0&refId=AmHX9XItIpZQd3wK1cGWBA%3D%3D&trackingId=bz5gLJni9mbsmsRnxc3D3Q%3D%3D",
-    "location": "Arlington, VA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-10-29 18:21 UTC"
-  },
-  {
-    "title": "Data and Analytics Engineering Lead, Reinsurance",
-    "company": "Marsh",
-    "link": "https://www.linkedin.com/jobs/view/data-and-analytics-engineering-lead-reinsurance-at-marsh-4458235880?position=11&pageNum=0&refId=AmHX9XItIpZQd3wK1cGWBA%3D%3D&trackingId=w%2FnAQTHol%2BkUmOXMJFyHpQ%3D%3D",
-    "location": "Norwalk, CT",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-10-29 18:21 UTC"
-  },
-  {
-    "title": "Data Engineer Sr \u2013 Home Lending Data Delivery - Columbus, OH",
-    "company": "Huntington National Bank",
-    "link": "https://www.linkedin.com/jobs/view/data-engineer-sr-%E2%80%93-home-lending-data-delivery-columbus-oh-at-huntington-national-bank-4468280902?position=12&pageNum=0&refId=AmHX9XItIpZQd3wK1cGWBA%3D%3D&trackingId=A%2F5L2bd3WhQhGjZaIXSRnw%3D%3D",
-    "location": "Columbus, OH",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-10-29 18:21 UTC"
-  },
-  {
-    "title": "Senior Healthcare Data Analyst",
-    "company": "Compass Health Center",
-    "link": "https://www.linkedin.com/jobs/view/senior-healthcare-data-analyst-at-compass-health-center-4474458039?position=3&pageNum=0&refId=ntf47Pk4GuEihviDeNlqKg%3D%3D&trackingId=0ge%2BDMZxdEMMCDcqKYwq9A%3D%3D",
-    "location": "Chicago, IL",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-10-29 18:21 UTC"
-  },
-  {
-    "title": "Data Analyst III Healthcare Analytics",
-    "company": "Centene Corporation",
-    "link": "https://www.linkedin.com/jobs/view/data-analyst-iii-healthcare-analytics-at-centene-corporation-4484996395?position=6&pageNum=0&refId=ntf47Pk4GuEihviDeNlqKg%3D%3D&trackingId=s%2BcvaHJHep1FI3vaTCg8hQ%3D%3D",
-    "location": "Michigan, United States",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-10-29 18:21 UTC"
-  },
-  {
-    "title": "Clinical Data Scientist",
-    "company": "Unlearn.AI",
-    "link": "https://www.linkedin.com/jobs/view/clinical-data-scientist-at-unlearn-ai-4443432078?position=2&pageNum=0&refId=unX3z2xKrC6R3c%2FE4KV1xg%3D%3D&trackingId=Fe2ihIED1jq5tmDzkYjNdQ%3D%3D",
-    "location": "San Francisco, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-10-29 18:21 UTC"
-  },
-  {
-    "title": "Research Scientist",
-    "company": "Brigham and Women's Hospital",
-    "link": "https://www.linkedin.com/jobs/view/research-scientist-at-brigham-and-women-s-hospital-4484983549?position=6&pageNum=0&refId=unX3z2xKrC6R3c%2FE4KV1xg%3D%3D&trackingId=LfQLQvkCwv1GwctXQhva9Q%3D%3D",
-    "location": "Boston, MA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-10-29 18:21 UTC"
-  },
-  {
-    "title": "SENIOR DATA SCIENTIST",
-    "company": "County of Los Angeles",
-    "link": "https://www.linkedin.com/jobs/view/senior-data-scientist-at-county-of-los-angeles-4484776412?position=7&pageNum=0&refId=unX3z2xKrC6R3c%2FE4KV1xg%3D%3D&trackingId=Ye9u4wV%2BgJHvVx2vGnu1cA%3D%3D",
-    "location": "Los Angeles County, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-10-29 18:21 UTC"
-  },
-  {
-    "title": "Senior Scientist, Data Science - R&D DDSAI - Therapeutics Development & Supply (",
-    "company": "Johnson & Johnson",
-    "link": "https://www.linkedin.com/jobs/view/senior-scientist-data-science-r-d-ddsai-therapeutics-development-supply-tds-at-johnson-johnson-4484743932?position=9&pageNum=0&refId=unX3z2xKrC6R3c%2FE4KV1xg%3D%3D&trackingId=ruGRDPKvKAAbc5%2FlXYuVng%3D%3D",
-    "location": "Spring House, PA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-10-29 18:21 UTC"
-  },
-  {
-    "title": "Associate Data Scientist (College Grad 2027)",
-    "company": "Solace",
-    "link": "https://www.linkedin.com/jobs/view/associate-data-scientist-college-grad-2027-at-solace-4459420342?position=12&pageNum=0&refId=unX3z2xKrC6R3c%2FE4KV1xg%3D%3D&trackingId=h2PEH6QXzIvROG2FNWx85w%3D%3D",
-    "location": "Redwood City, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-10-29 18:21 UTC"
-  },
-  {
-    "title": "Senior Product Analyst",
-    "company": "PURE Insurance",
-    "link": "https://www.linkedin.com/jobs/view/senior-product-analyst-at-pure-insurance-4468267307?position=10&pageNum=0&refId=2RRWvIQiWkq1PHl6O83qsg%3D%3D&trackingId=IFTWj%2FKLyT6SU1OsCXVVXg%3D%3D",
-    "location": "Chicago, IL",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-10-29 18:21 UTC"
-  },
-  {
-    "title": "Product Analyst (Systems) Remote/Hybrid",
-    "company": "DaVita Kidney Care",
-    "link": "https://www.linkedin.com/jobs/view/product-analyst-systems-remote-hybrid-at-davita-kidney-care-4459614085?position=11&pageNum=0&refId=2RRWvIQiWkq1PHl6O83qsg%3D%3D&trackingId=1bfUIMfGPmRZf%2FKt7RyoIQ%3D%3D",
-    "location": "Denver, CO",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-10-29 18:21 UTC"
-  },
-  {
-    "title": "Research Scientist, Modeling of Readout and Reset, Quantum",
-    "company": "Google",
-    "link": "https://www.linkedin.com/jobs/view/research-scientist-modeling-of-readout-and-reset-quantum-at-google-4475436413?position=6&pageNum=0&refId=VufxO9w0maHdKPYZ3MyTag%3D%3D&trackingId=VPB%2B%2B26KLVntdHxr9zwOyg%3D%3D",
-    "location": "Los Angeles, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-10-29 18:21 UTC"
-  },
-  {
-    "title": "Applied Scientist, Amazon Robotics",
-    "company": "Amazon",
-    "link": "https://www.linkedin.com/jobs/view/applied-scientist-amazon-robotics-at-amazon-4476951678?position=8&pageNum=0&refId=VufxO9w0maHdKPYZ3MyTag%3D%3D&trackingId=FKS2i0udCsmY2LyJAm9YUQ%3D%3D",
-    "location": "Sunnyvale, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-10-29 18:21 UTC"
-  },
-  {
-    "title": "Research Scientist III - Materials Discovery Research Insititute",
-    "company": "UL Research Institutes",
-    "link": "https://www.linkedin.com/jobs/view/research-scientist-iii-materials-discovery-research-insititute-at-ul-research-institutes-4448670329?position=10&pageNum=0&refId=VufxO9w0maHdKPYZ3MyTag%3D%3D&trackingId=49mN5CPPJZsgQhS4GF58%2FA%3D%3D",
-    "location": "Skokie, IL",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-10-29 18:21 UTC"
-  },
-  {
-    "title": "Principal Applied Scientist, QEC SW, MQS Center for Quantum Computing",
-    "company": "Amazon",
-    "link": "https://www.amazon.jobs/en/jobs/10592430/principal-applied-scientist-qec-sw-mqs-center-for-quantum-computing",
-    "location": "US, CA, San Francisco",
-    "source": "Amazon Careers",
-    "h1b_signal": true,
-    "summary": "The Models, Quantum, and Silicon (MQS) Center for Quantum Computing (CQC) is a multi-disciplinary team of scientists, engineers, and technicians, on a mission to develop a fault-tolerant quantum compu",
-    "found_at": "2026-10-29 18:22 UTC"
-  },
-  {
-    "title": "Senior Applied Scientist, Computer Vision and Robotics, Amazon Robotics",
-    "company": "Amazon",
-    "link": "https://www.amazon.jobs/en/jobs/10592196/senior-applied-scientist-computer-vision-and-robotics-amazon-robotics",
-    "location": "US, MA, North Reading",
-    "source": "Amazon Careers",
-    "h1b_signal": true,
-    "summary": "Come shape the future of robotic sensing hardware by building the computer vision and ML systems that define how every robot in Amazon's global fulfillment network sees, senses, and understands the wo",
-    "found_at": "2026-10-29 18:22 UTC"
-  },
-  {
-    "title": "Generative AI Engineer III - Federal Health",
-    "company": "Deloitte",
-    "link": "https://www.linkedin.com/jobs/view/generative-ai-engineer-iii-federal-health-at-deloitte-4484784133?position=12&pageNum=0&refId=Nx%2BgODotqJKYAjYQIcUFmg%3D%3D&trackingId=k%2Fed3f%2Bhg103TJyCe8yAjw%3D%3D",
-    "location": "Arlington, VA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-10-29 09:44 UTC"
-  },
-  {
-    "title": "Sr Staff Analytics Engineer",
-    "company": "GE Vernova",
-    "link": "https://www.linkedin.com/jobs/view/sr-staff-analytics-engineer-at-ge-vernova-4484764522?position=11&pageNum=0&refId=s8mGHINI%2Bd48NZjRusmsgA%3D%3D&trackingId=2mSkh4nt5KY7weKyR3ARTA%3D%3D",
-    "location": "Greenville, SC",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-10-29 09:44 UTC"
-  },
-  {
-    "title": "Senior Health Data Analyst - Compass",
-    "company": "Veeva Systems",
-    "link": "https://www.linkedin.com/jobs/view/senior-health-data-analyst-compass-at-veeva-systems-4444682051?position=10&pageNum=0&refId=EPjg0XqQFbXKuw9S%2B6O3VQ%3D%3D&trackingId=DxglEPtxXhhxdBv1sbE3vw%3D%3D",
-    "location": "New York, NY",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-10-29 09:44 UTC"
-  },
-  {
-    "title": "Data Analyst, Senior - USA Remote",
-    "company": "Torentify",
-    "link": "https://www.linkedin.com/jobs/view/data-analyst-senior-usa-remote-at-torentify-4484906356?position=6&pageNum=0&refId=N1wu%2BuoYamlhm%2F1aTDXN6A%3D%3D&trackingId=Jj8fbZCTwoLhse9CRZx0Rg%3D%3D",
-    "location": "United States",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-10-29 09:44 UTC"
-  },
-  {
-    "title": "Applied Scientist - Fault-Tolerant Quantum Computing, Amazon Braket",
-    "company": "Amazon Web Services (AWS)",
-    "link": "https://www.linkedin.com/jobs/view/applied-scientist-fault-tolerant-quantum-computing-amazon-braket-at-amazon-web-services-aws-4476719162?position=11&pageNum=0&refId=Nnj8%2FarCzasWGfJ6WkCb7Q%3D%3D&trackingId=KhbrWfvp95Q00rJHyh%2F1Xg%3D%3D",
-    "location": "New York, NY",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-10-29 09:44 UTC"
   }
 ]
