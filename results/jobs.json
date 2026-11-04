@@ -1,5 +1,95 @@
 [
   {
+    "title": "Sr Data Scientist, Alexa For Shopping",
+    "company": "Amazon",
+    "link": "https://www.linkedin.com/jobs/view/sr-data-scientist-alexa-for-shopping-at-amazon-4455900586?position=9&pageNum=0&refId=nw0T0i2HCOLoxz8bSgdfgw%3D%3D&trackingId=OBNk35Rf1d%2FJ4sagkQE4%2Fw%3D%3D",
+    "location": "Seattle, WA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-11-04 14:14 UTC"
+  },
+  {
+    "title": "Medicaid Data Analyst - Management Analyst 4",
+    "company": "Minnesota Department of Human Services",
+    "link": "https://www.linkedin.com/jobs/view/medicaid-data-analyst-management-analyst-4-at-minnesota-department-of-human-services-4486351954?position=9&pageNum=0&refId=wFFdhRDvZXDArNy4khFyMA%3D%3D&trackingId=%2FLztmrmGsmFP7N7ZO6gpVA%3D%3D",
+    "location": "St Paul, MN",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-11-04 14:14 UTC"
+  },
+  {
+    "title": "Senior AI Engineer",
+    "company": "Arine",
+    "link": "https://www.linkedin.com/jobs/view/senior-ai-engineer-at-arine-4487208908?position=5&pageNum=0&refId=I01jfsFnkU5exmf7SsvRVA%3D%3D&trackingId=B9ZncZGgt5s1%2BNEClybHWA%3D%3D",
+    "location": "San Francisco, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-11-04 14:14 UTC"
+  },
+  {
+    "title": "AI Engineer",
+    "company": "Avathon",
+    "link": "https://www.linkedin.com/jobs/view/ai-engineer-at-avathon-4378704273?position=10&pageNum=0&refId=I01jfsFnkU5exmf7SsvRVA%3D%3D&trackingId=nVHrnNcqHesh7trNfB8cnw%3D%3D",
+    "location": "Pleasanton, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-11-04 14:14 UTC"
+  },
+  {
+    "title": "BI Analyst III - Enrollment Management",
+    "company": "Utah Valley University",
+    "link": "https://www.linkedin.com/jobs/view/bi-analyst-iii-enrollment-management-at-utah-valley-university-4486378140?position=5&pageNum=0&refId=7muJktq%2FMwRloj9fAtIlCw%3D%3D&trackingId=YdvJZ9T%2Bfb7IJt%2FY4nb5bQ%3D%3D",
+    "location": "Orem, UT",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-11-04 14:14 UTC"
+  },
+  {
+    "title": "Senior Product Data Analyst",
+    "company": "Slack",
+    "link": "https://www.linkedin.com/jobs/view/senior-product-data-analyst-at-slack-4487262196?position=5&pageNum=0&refId=mYWIlMoJnD75NN0cpLBJ3g%3D%3D&trackingId=6QZ%2Fvu8B406Sdwi3tw4LbA%3D%3D",
+    "location": "Denver, CO",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-11-04 14:14 UTC"
+  },
+  {
+    "title": "Senior Product Data Analyst",
+    "company": "Salesforce",
+    "link": "https://www.linkedin.com/jobs/view/senior-product-data-analyst-at-salesforce-4487237530?position=6&pageNum=0&refId=mYWIlMoJnD75NN0cpLBJ3g%3D%3D&trackingId=tqB8%2BwGrqviiDZ5MZyhacg%3D%3D",
+    "location": "Denver, CO",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-11-04 14:14 UTC"
+  },
+  {
+    "title": "(USA) Principal, Data Analyst",
+    "company": "Walmart",
+    "link": "https://www.linkedin.com/jobs/view/usa-principal-data-analyst-at-walmart-4437637535?position=8&pageNum=0&refId=mYWIlMoJnD75NN0cpLBJ3g%3D%3D&trackingId=KyBF0j1W83mdGm7WrmIUVQ%3D%3D",
+    "location": "Sunnyvale, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-11-04 14:14 UTC"
+  },
+  {
+    "title": "AI research scientist",
+    "company": "WRITER",
+    "link": "https://www.linkedin.com/jobs/view/ai-research-scientist-at-writer-4487098966?position=7&pageNum=0&refId=%2FMft7UpSYgq64GmTeYnh%2FA%3D%3D&trackingId=KjtryLYmoMQQZOc9pp6lRQ%3D%3D",
+    "location": "San Francisco, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-11-04 14:14 UTC"
+  },
+  {
     "title": "Data Scientist",
     "company": "Hospital for Special Surgery",
     "link": "https://www.linkedin.com/jobs/view/data-scientist-at-hospital-for-special-surgery-4487068828?position=7&pageNum=0&refId=GhyvzuRJnLOYPLvWn1urgg%3D%3D&trackingId=QSUbRMCMK9YHJQgfo3IMAw%3D%3D",
@@ -2908,95 +2998,5 @@
     "h1b_signal": false,
     "summary": "",
     "found_at": "2026-10-30 17:55 UTC"
-  },
-  {
-    "title": "Data Analyst (Full Time)",
-    "company": "North Country Healthcare",
-    "link": "https://www.linkedin.com/jobs/view/data-analyst-full-time-at-north-country-healthcare-4485359574?position=4&pageNum=0&refId=qvsjBHZQc4dCJ6MBH6FOWg%3D%3D&trackingId=VINwUAIRwJF4lae6R%2B8KrQ%3D%3D",
-    "location": "Lancaster, NH",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-10-30 17:55 UTC"
-  },
-  {
-    "title": "Research Data Scientist I",
-    "company": "Cleveland Clinic",
-    "link": "https://www.linkedin.com/jobs/view/research-data-scientist-i-at-cleveland-clinic-4484862615?position=1&pageNum=0&refId=pzUGjPqDORSy4r6qkkICbA%3D%3D&trackingId=XnRI%2F0OyWOvR23FHUcBECQ%3D%3D",
-    "location": "Cleveland, OH",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-10-30 17:55 UTC"
-  },
-  {
-    "title": "Associate Principal Data Scientist - Early Cardiovascular, Renal and Metabolism",
-    "company": "AstraZeneca",
-    "link": "https://www.linkedin.com/jobs/view/associate-principal-data-scientist-early-cardiovascular-renal-and-metabolism-at-astrazeneca-4484856605?position=3&pageNum=0&refId=pzUGjPqDORSy4r6qkkICbA%3D%3D&trackingId=l9N5OS2DapVj8EtB%2FDvWTQ%3D%3D",
-    "location": "Boston, MA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-10-30 17:55 UTC"
-  },
-  {
-    "title": "Senior Data Scientist",
-    "company": "Veeva Systems",
-    "link": "https://www.linkedin.com/jobs/view/senior-data-scientist-at-veeva-systems-4484830769?position=6&pageNum=0&refId=pzUGjPqDORSy4r6qkkICbA%3D%3D&trackingId=JPXYi%2BtNL7ci%2BuA6ihZB5A%3D%3D",
-    "location": "New York, NY",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-10-30 17:55 UTC"
-  },
-  {
-    "title": "Senior Data Analyst, Sellers",
-    "company": "Realtor.com",
-    "link": "https://www.linkedin.com/jobs/view/senior-data-analyst-sellers-at-realtor-com-4485378554?position=7&pageNum=0&refId=%2FeYbvRqwfmXYdok%2FAzt%2BDw%3D%3D&trackingId=6XO9T18fl3li8uqT%2FbVC%2Bg%3D%3D",
-    "location": "Austin, TX",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-10-30 17:55 UTC"
-  },
-  {
-    "title": "Lead Data Analyst - New Games",
-    "company": "Tripledot Studios",
-    "link": "https://www.linkedin.com/jobs/view/lead-data-analyst-new-games-at-tripledot-studios-4485363647?position=10&pageNum=0&refId=%2FeYbvRqwfmXYdok%2FAzt%2BDw%3D%3D&trackingId=uCy%2Bpf5Lyc3jHSwJqWJ0gA%3D%3D",
-    "location": "Dallas, TX",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-10-30 17:55 UTC"
-  },
-  {
-    "title": "Applied Scientist, Amazon Robotics",
-    "company": "Amazon Science",
-    "link": "https://www.linkedin.com/jobs/view/applied-scientist-amazon-robotics-at-amazon-science-4483439191?position=7&pageNum=0&refId=wbqcZA1a9z5iX4SxrkDgZQ%3D%3D&trackingId=0uxQMQrX51tMij8hL1ehfQ%3D%3D",
-    "location": "Sunnyvale, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-10-30 17:55 UTC"
-  },
-  {
-    "title": "Data Scientist III (AmSec), Veritas",
-    "company": "Amazon",
-    "link": "https://www.amazon.jobs/en/jobs/10593621/data-scientist-iii-amsec-veritas",
-    "location": "US, WA, Seattle",
-    "source": "Amazon Careers",
-    "h1b_signal": true,
-    "summary": "At Amazon, we are obsessed with customer trust. Amazon Security enables Amazon's business leaders to build and operate securely while protecting the confidentiality and integrity of Amazon and custome",
-    "found_at": "2026-10-30 17:56 UTC"
-  },
-  {
-    "title": "Principal Applied Scientist, Frontier AI Assets , Frontier AI Assets ",
-    "company": "Amazon",
-    "link": "https://www.amazon.jobs/en/jobs/10593588/principal-applied-scientist-frontier-ai-assets-frontier-ai-assets",
-    "location": "US, CA, Sunnyvale",
-    "source": "Amazon Careers",
-    "h1b_signal": true,
-    "summary": "The Frontier AI Assets (FAI) team is looking for a passionate, talented, and inventive Principal Applied Scientist with a strong deep learning and reinforcement learning background to build the traini",
-    "found_at": "2026-10-30 17:56 UTC"
   }
 ]
