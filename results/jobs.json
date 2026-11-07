@@ -1,5 +1,105 @@
 [
   {
+    "title": "Staff Machine Learning Engineer - Rider Intelligence",
+    "company": "Uber",
+    "link": "https://www.linkedin.com/jobs/view/staff-machine-learning-engineer-rider-intelligence-at-uber-4480556285?position=11&pageNum=0&refId=VSys%2F3cytahfXyajHIo9EQ%3D%3D&trackingId=tM5lDgOndLX3dpnc9kM9lA%3D%3D",
+    "location": "Seattle, WA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-11-07 12:48 UTC"
+  },
+  {
+    "title": "Data Analyst",
+    "company": "CACI International Inc",
+    "link": "https://www.linkedin.com/jobs/view/data-analyst-at-caci-international-inc-4486642559?position=8&pageNum=0&refId=%2FUH5d89yisfdLqeRMCpqEA%3D%3D&trackingId=mv%2FSL1O4rj3Ln55lXW7uTw%3D%3D",
+    "location": "Millington, TN",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-11-07 12:48 UTC"
+  },
+  {
+    "title": "Data Analyst at Desler",
+    "company": "MeeBoss",
+    "link": "https://www.linkedin.com/jobs/view/data-analyst-at-desler-at-meeboss-4488439596?position=11&pageNum=0&refId=%2FUH5d89yisfdLqeRMCpqEA%3D%3D&trackingId=mqSOzsL1dOWgqZOpoernAA%3D%3D",
+    "location": "United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-11-07 12:48 UTC"
+  },
+  {
+    "title": "Principal Data Engineer",
+    "company": "Archer",
+    "link": "https://www.linkedin.com/jobs/view/principal-data-engineer-at-archer-4487601383?position=6&pageNum=0&refId=HMfm6zExBvytt6ksvWQ3iQ%3D%3D&trackingId=zKharBZqdIsuPI07HOQCmw%3D%3D",
+    "location": "Denver, CO",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-11-07 12:48 UTC"
+  },
+  {
+    "title": "Data Engineer - Finance AI (PySpark)",
+    "company": "Target",
+    "link": "https://www.linkedin.com/jobs/view/data-engineer-finance-ai-pyspark-at-target-4488700098?position=7&pageNum=0&refId=HMfm6zExBvytt6ksvWQ3iQ%3D%3D&trackingId=NBWIZs5CUSPJwan%2BmngKCQ%3D%3D",
+    "location": "Brooklyn Park, MN",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-11-07 12:48 UTC"
+  },
+  {
+    "title": "Senior Data Engineer",
+    "company": "Plaid",
+    "link": "https://www.linkedin.com/jobs/view/senior-data-engineer-at-plaid-4462760959?position=12&pageNum=0&refId=HMfm6zExBvytt6ksvWQ3iQ%3D%3D&trackingId=iCXLDNwsK9VmxMmqoKvasg%3D%3D",
+    "location": "San Francisco Bay Area",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-11-07 12:48 UTC"
+  },
+  {
+    "title": "Senior Clinical Data Analyst",
+    "company": "CareMore Health",
+    "link": "https://www.linkedin.com/jobs/view/senior-clinical-data-analyst-at-caremore-health-4450830611?position=7&pageNum=0&refId=YpkJ3jtnd5wXQrkBYs4bmg%3D%3D&trackingId=n%2FtcjxEB2f9Wu1Utvn9jVQ%3D%3D",
+    "location": "California, United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-11-07 12:49 UTC"
+  },
+  {
+    "title": "Data Scientist",
+    "company": "Siemens Healthineers",
+    "link": "https://www.linkedin.com/jobs/view/data-scientist-at-siemens-healthineers-4486605892?position=11&pageNum=0&refId=q0D35yZMcE2PEUnlPULmRQ%3D%3D&trackingId=Sua%2BaLYjuq4PYkupeLSREg%3D%3D",
+    "location": "Malvern, PA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-11-07 12:49 UTC"
+  },
+  {
+    "title": "Data Scientist",
+    "company": "Lightning AI",
+    "link": "https://www.linkedin.com/jobs/view/data-scientist-at-lightning-ai-4452794329?position=11&pageNum=0&refId=3DfOFyNZh4SPcuVZbJ6VMg%3D%3D&trackingId=fb2lbl57ohCqITi2VW2F%2Bg%3D%3D",
+    "location": "New York, NY",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-11-07 12:49 UTC"
+  },
+  {
+    "title": "International Private Bank - Digital Product Analyst - GFG & LATAM",
+    "company": "JPMorganChase",
+    "link": "https://www.linkedin.com/jobs/view/international-private-bank-digital-product-analyst-gfg-latam-at-jpmorganchase-4480562496?position=12&pageNum=0&refId=3DfOFyNZh4SPcuVZbJ6VMg%3D%3D&trackingId=2WdM7LVx1q%2FrbR8uzh4ouw%3D%3D",
+    "location": "New York, NY",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-11-07 12:49 UTC"
+  },
+  {
     "title": "Senior Data Scientist",
     "company": "ExtraHop",
     "link": "https://www.linkedin.com/jobs/view/senior-data-scientist-at-extrahop-4465866012?position=4&pageNum=0&refId=pAo%2FSRsRsZ19lPkGnXRvyw%3D%3D&trackingId=Ti6H8Ldyllwc1zmHmKEt9g%3D%3D",
@@ -2894,106 +2994,6 @@
     "company": "Siemens",
     "link": "https://www.linkedin.com/jobs/view/senior-business-data-analyst-at-siemens-4477581972?position=2&pageNum=0&refId=Gv%2BvuZpOHncW%2F6lqHl8%2BCQ%3D%3D&trackingId=ZXU5Qj1j0UMB16dmjk1Ygg%3D%3D",
     "location": "Raleigh, NC",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-11-02 21:39 UTC"
-  },
-  {
-    "title": "Data Analyst",
-    "company": "Fidelity Investments",
-    "link": "https://www.linkedin.com/jobs/view/data-analyst-at-fidelity-investments-4486451137?position=8&pageNum=0&refId=Gv%2BvuZpOHncW%2F6lqHl8%2BCQ%3D%3D&trackingId=DBzAMcAvyazMyPqKYxEtoQ%3D%3D",
-    "location": "Merrimack, NH",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-11-02 21:39 UTC"
-  },
-  {
-    "title": "Auto BI Data Analyst",
-    "company": "American Family Insurance",
-    "link": "https://www.linkedin.com/jobs/view/auto-bi-data-analyst-at-american-family-insurance-4486414211?position=10&pageNum=0&refId=Gv%2BvuZpOHncW%2F6lqHl8%2BCQ%3D%3D&trackingId=2mNcC7lO58LWz3sbIz%2Bfyw%3D%3D",
-    "location": "Madison, WI",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-11-02 21:39 UTC"
-  },
-  {
-    "title": "Senior Data Analyst",
-    "company": "Auctane",
-    "link": "https://www.linkedin.com/jobs/view/senior-data-analyst-at-auctane-4469943284?position=12&pageNum=0&refId=Gv%2BvuZpOHncW%2F6lqHl8%2BCQ%3D%3D&trackingId=%2BDPqghCCZfTCWst562AM%2Bg%3D%3D",
-    "location": "Austin, TX",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-11-02 21:39 UTC"
-  },
-  {
-    "title": "MLOps Engineer {Minimum 06+ years overall experience (After Graduation/Bachelors",
-    "company": "Voto Consulting LLC",
-    "link": "https://www.linkedin.com/jobs/view/mlops-engineer-minimum-06%2B-years-overall-experience-after-graduation-bachelors-not-counting-internships-at-voto-consulting-llc-4485767152?position=1&pageNum=0&refId=f3QGU7%2BZdafYJVhbijQbnA%3D%3D&trackingId=LnRFusMv7miFRWsfK36CPg%3D%3D",
-    "location": "Chicago, IL",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-11-02 21:39 UTC"
-  },
-  {
-    "title": "MLOPs Engineer (CVT - 007)",
-    "company": "SageCor Solutions",
-    "link": "https://www.linkedin.com/jobs/view/mlops-engineer-cvt-007-at-sagecor-solutions-4486412780?position=10&pageNum=0&refId=f3QGU7%2BZdafYJVhbijQbnA%3D%3D&trackingId=GONpkrPIH6uhzAg2Km4R%2FA%3D%3D",
-    "location": "Annapolis Junction, MD",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-11-02 21:39 UTC"
-  },
-  {
-    "title": "Analytics Engineer",
-    "company": "Till Financial",
-    "link": "https://www.linkedin.com/jobs/view/analytics-engineer-at-till-financial-4484384567?position=4&pageNum=0&refId=U%2BCQpbf3LLXzzWXxDzhQyw%3D%3D&trackingId=pZRKrlP2geaH9QtA7qDXsA%3D%3D",
-    "location": "Brooklyn, NY",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-11-02 21:39 UTC"
-  },
-  {
-    "title": "Data Analytics Engineer",
-    "company": "Shaw Industries",
-    "link": "https://www.linkedin.com/jobs/view/data-analytics-engineer-at-shaw-industries-4484376837?position=5&pageNum=0&refId=U%2BCQpbf3LLXzzWXxDzhQyw%3D%3D&trackingId=iD9IDwsgNpNZE4meNFJhjw%3D%3D",
-    "location": "Dalton, GA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-11-02 21:39 UTC"
-  },
-  {
-    "title": "Senior Data Analytics Engineer",
-    "company": "Vanderbilt University",
-    "link": "https://www.linkedin.com/jobs/view/senior-data-analytics-engineer-at-vanderbilt-university-4484378345?position=12&pageNum=0&refId=U%2BCQpbf3LLXzzWXxDzhQyw%3D%3D&trackingId=f91W9g5O8BnJqM00h2i%2FAQ%3D%3D",
-    "location": "Nashville, TN",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-11-02 21:39 UTC"
-  },
-  {
-    "title": "Data Analyst",
-    "company": "Expo Experts",
-    "link": "https://www.linkedin.com/jobs/view/data-analyst-at-expo-experts-4486413465?position=1&pageNum=0&refId=EFlE%2Bo%2B%2BLhI2dE8%2B985yKw%3D%3D&trackingId=wTxGtvJWX7AFlntU%2FAts0g%3D%3D",
-    "location": "Austin, Texas Metropolitan Area",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-11-02 21:39 UTC"
-  },
-  {
-    "title": "Data Analyst",
-    "company": "Strategic Employment Partners (SEP)",
-    "link": "https://www.linkedin.com/jobs/view/data-analyst-at-strategic-employment-partners-sep-4486409038?position=3&pageNum=0&refId=EFlE%2Bo%2B%2BLhI2dE8%2B985yKw%3D%3D&trackingId=ffQyyqPggvlIwfIyftxoVA%3D%3D",
-    "location": "Westchester, IL",
     "source": "LinkedIn",
     "h1b_signal": false,
     "summary": "",
