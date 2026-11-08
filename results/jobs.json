@@ -1,5 +1,45 @@
 [
   {
+    "title": "Machine Learning Engineer, Public Sector",
+    "company": "FDE Times",
+    "link": "https://www.linkedin.com/jobs/view/machine-learning-engineer-public-sector-at-fde-times-4486682659?position=1&pageNum=0&refId=fXYYi4EOC%2BrIlvbWi72dDA%3D%3D&trackingId=fe6uqgPcD0Mo3zGKLP8HlQ%3D%3D",
+    "location": "Honolulu Metropolitan Area",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-11-08 10:05 UTC"
+  },
+  {
+    "title": "Senior Healthcare Data Analyst",
+    "company": "Tecsa",
+    "link": "https://www.linkedin.com/jobs/view/senior-healthcare-data-analyst-at-tecsa-4488718162?position=12&pageNum=0&refId=6RybAurpR8Fr%2F8bWO35FnQ%3D%3D&trackingId=c%2FaFLyQIlZpfHBg7VA3PHA%3D%3D",
+    "location": "Illinois, United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-11-08 10:05 UTC"
+  },
+  {
+    "title": "Associate Research Scientist",
+    "company": "Thermo Fisher Scientific",
+    "link": "https://www.linkedin.com/jobs/view/associate-research-scientist-at-thermo-fisher-scientific-4486690020?position=11&pageNum=0&refId=llqb%2BPeU9gWFmEEEA%2F2iAw%3D%3D&trackingId=4mkv8W89o%2BlBdUlM1TBLIw%3D%3D",
+    "location": "Collegeville, PA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-11-08 10:05 UTC"
+  },
+  {
+    "title": "Staff Research Scientist, AI Agents & LLMs",
+    "company": "FDE Times",
+    "link": "https://www.linkedin.com/jobs/view/staff-research-scientist-ai-agents-llms-at-fde-times-4486689442?position=12&pageNum=0&refId=llqb%2BPeU9gWFmEEEA%2F2iAw%3D%3D&trackingId=m%2BtPugJEqDxHBo7u2vonTw%3D%3D",
+    "location": "Bellevue, WA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-11-08 10:05 UTC"
+  },
+  {
     "title": "Senior Data Analyst - Remote",
     "company": "UnitedHealth Group",
     "link": "https://www.linkedin.com/jobs/view/senior-data-analyst-remote-at-unitedhealth-group-4488733993?position=6&pageNum=0&refId=%2FObzyDnJcOP70jt%2B6iEhvQ%3D%3D&trackingId=OleeHJ%2BHYnSpNHNpHmvyDQ%3D%3D",
@@ -2958,45 +2998,5 @@
     "h1b_signal": false,
     "summary": "",
     "found_at": "2026-11-03 06:19 UTC"
-  },
-  {
-    "title": "Senior Data Scientist - Enterprise Credit",
-    "company": "Bank of America",
-    "link": "https://www.linkedin.com/jobs/view/senior-data-scientist-enterprise-credit-at-bank-of-america-4486402923?position=4&pageNum=0&refId=h4PjmGg7HLB87i1ikWQsfg%3D%3D&trackingId=nG2lAP0cBalyq3EkVVNReA%3D%3D",
-    "location": "Phoenix, AZ",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-11-02 21:39 UTC"
-  },
-  {
-    "title": "Senior Data Scientist",
-    "company": "Boeing Intelligence & Analytics",
-    "link": "https://www.linkedin.com/jobs/view/senior-data-scientist-at-boeing-intelligence-analytics-4475947292?position=9&pageNum=0&refId=h4PjmGg7HLB87i1ikWQsfg%3D%3D&trackingId=Tl%2BUBcSr%2BYg4HHIQSyVL%2Fg%3D%3D",
-    "location": "Annapolis Junction, MD",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-11-02 21:39 UTC"
-  },
-  {
-    "title": "Principal Data Scientist, AI Foundations",
-    "company": "Capital One",
-    "link": "https://www.linkedin.com/jobs/view/principal-data-scientist-ai-foundations-at-capital-one-4361125673?position=11&pageNum=0&refId=h4PjmGg7HLB87i1ikWQsfg%3D%3D&trackingId=cWQwsW4A3%2BWKDiCpMiLLkQ%3D%3D",
-    "location": "McLean, VA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-11-02 21:39 UTC"
-  },
-  {
-    "title": "Lead Data Scientist II",
-    "company": "Best Egg",
-    "link": "https://www.linkedin.com/jobs/view/lead-data-scientist-ii-at-best-egg-4460509265?position=12&pageNum=0&refId=h4PjmGg7HLB87i1ikWQsfg%3D%3D&trackingId=K3J6pe%2FJHpC%2FKzfEf%2B4aPg%3D%3D",
-    "location": "New Castle County, DE",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-11-02 21:39 UTC"
   }
 ]
