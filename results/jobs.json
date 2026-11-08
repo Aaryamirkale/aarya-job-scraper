@@ -1,5 +1,105 @@
 [
   {
+    "title": "Sr Data Scientist Commercial Analytics - Corporate",
+    "company": "Tech Ladies\u00ae",
+    "link": "https://www.linkedin.com/jobs/view/sr-data-scientist-commercial-analytics-corporate-at-tech-ladies%C2%AE-4487654038?position=12&pageNum=0&refId=StXu63goikX9JAoDk9iMEA%3D%3D&trackingId=jHE%2B3I0G4va4dPn1%2F0eKWA%3D%3D",
+    "location": "Las Vegas, NV",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-11-08 21:55 UTC"
+  },
+  {
+    "title": "Senior ML Engineer",
+    "company": "FDE Times",
+    "link": "https://www.linkedin.com/jobs/view/senior-ml-engineer-at-fde-times-4486695116?position=6&pageNum=0&refId=TYDVFbRyxRCvNjnDcGEFig%3D%3D&trackingId=U16z3aLQrDzShkBg8mi3Kw%3D%3D",
+    "location": "Palo Alto, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-11-08 21:55 UTC"
+  },
+  {
+    "title": "Data Engineer- Greater Tampa",
+    "company": "MaxHealth",
+    "link": "https://www.linkedin.com/jobs/view/data-engineer-greater-tampa-at-maxhealth-4488807168?position=9&pageNum=0&refId=WeFMZ1kwdyjIWldvHLpX8w%3D%3D&trackingId=rA%2FJdAERBYK7JTd3EQc8Aw%3D%3D",
+    "location": "Tampa, FL",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-11-08 21:55 UTC"
+  },
+  {
+    "title": "Staff Data Engineer",
+    "company": "ProFocus Technology",
+    "link": "https://www.linkedin.com/jobs/view/staff-data-engineer-at-profocus-technology-4462313450?position=10&pageNum=0&refId=WeFMZ1kwdyjIWldvHLpX8w%3D%3D&trackingId=Za4RN9f3b3G6rusMStJt7A%3D%3D",
+    "location": "Salt Lake County, UT",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-11-08 21:55 UTC"
+  },
+  {
+    "title": "Data Engineer I",
+    "company": "Murphy USA",
+    "link": "https://www.linkedin.com/jobs/view/data-engineer-i-at-murphy-usa-4469511755?position=11&pageNum=0&refId=WeFMZ1kwdyjIWldvHLpX8w%3D%3D&trackingId=K5znJdR1cchmJxTAaabroQ%3D%3D",
+    "location": "El Dorado, AR",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-11-08 21:55 UTC"
+  },
+  {
+    "title": "Staff Data Engineer, Data Platform",
+    "company": "Turo",
+    "link": "https://www.linkedin.com/jobs/view/staff-data-engineer-data-platform-at-turo-4472091946?position=12&pageNum=0&refId=WeFMZ1kwdyjIWldvHLpX8w%3D%3D&trackingId=P5418DyoDKJvNeIz1D1aYA%3D%3D",
+    "location": "San Francisco, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-11-08 21:55 UTC"
+  },
+  {
+    "title": "AWS Forward Deployed Engineer - GPS",
+    "company": "Deloitte",
+    "link": "https://www.linkedin.com/jobs/view/aws-forward-deployed-engineer-gps-at-deloitte-4463663874?position=12&pageNum=0&refId=5EsclFyUJpzmD5bp6YN83g%3D%3D&trackingId=5VAlyX4c7cFcJnOd4WWabA%3D%3D",
+    "location": "Nashville, TN",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-11-08 21:55 UTC"
+  },
+  {
+    "title": "Business Intelligence Analytics Engineer III",
+    "company": "Robert Half",
+    "link": "https://www.linkedin.com/jobs/view/business-intelligence-analytics-engineer-iii-at-robert-half-4472208727?position=6&pageNum=0&refId=BihDwqO%2FZ0Tof0K6t9OlrQ%3D%3D&trackingId=B2hlhM21Wi2RfJ1tsyMB%2FQ%3D%3D",
+    "location": "San Ramon, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-11-08 21:55 UTC"
+  },
+  {
+    "title": "Full Stack Data Analyst - GTM (USA Only, 100% Remote)",
+    "company": "Close",
+    "link": "https://www.linkedin.com/jobs/view/full-stack-data-analyst-gtm-usa-only-100%25-remote-at-close-4463379858?position=12&pageNum=0&refId=AkFonrLmIdk%2B%2BMwJzP3eJw%3D%3D&trackingId=IBqubA5Qyel1ATN9iSlSlA%3D%3D",
+    "location": "United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-11-08 21:55 UTC"
+  },
+  {
+    "title": "Research Scientist- School of Medicine, Pulmonary",
+    "company": "Emory University",
+    "link": "https://www.linkedin.com/jobs/view/research-scientist-school-of-medicine-pulmonary-at-emory-university-4487116367?position=2&pageNum=0&refId=nz%2BPVxPyTBmvfBhs0Rk%2Fwg%3D%3D&trackingId=iS2YmsWyvoiVszr0nk7aig%3D%3D",
+    "location": "Atlanta, GA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-11-08 21:55 UTC"
+  },
+  {
     "title": "Research Data Scientist - Artificial Intelligence in Medicine Research Center - ",
     "company": "Cedars-Sinai",
     "link": "https://www.linkedin.com/jobs/view/research-data-scientist-artificial-intelligence-in-medicine-research-center-agarwal-lab-at-cedars-sinai-4477790752?position=6&pageNum=0&refId=v72bW%2FlrOUcvYGMXwTD%2BNA%3D%3D&trackingId=2JVhRlJYs2eC0DYPv%2BIGsg%3D%3D",
@@ -2898,105 +2998,5 @@
     "h1b_signal": false,
     "summary": "",
     "found_at": "2026-11-03 16:56 UTC"
-  },
-  {
-    "title": "Senior Data Engineer - Finance",
-    "company": "Circle",
-    "link": "https://www.linkedin.com/jobs/view/senior-data-engineer-finance-at-circle-4484639127?position=5&pageNum=0&refId=1X63yiurMtUKDGVf%2B7d8qg%3D%3D&trackingId=EeYKwr2yr3EDJqL2PxKXCA%3D%3D",
-    "location": "Salt Lake City Metropolitan Area",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-11-03 16:56 UTC"
-  },
-  {
-    "title": "Data Engineer II - Data Platform (Remote-Raleigh NC, Dallas TX, Phoenix AZ)",
-    "company": "First Citizens Bank",
-    "link": "https://www.linkedin.com/jobs/view/data-engineer-ii-data-platform-remote-raleigh-nc-dallas-tx-phoenix-az-at-first-citizens-bank-4486818190?position=10&pageNum=0&refId=1X63yiurMtUKDGVf%2B7d8qg%3D%3D&trackingId=JpnZNTXlssw8wpECHtKFcw%3D%3D",
-    "location": "Raleigh, NC",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-11-03 16:56 UTC"
-  },
-  {
-    "title": "Databricks Data Engineer",
-    "company": "OldRex Technologies",
-    "link": "https://www.linkedin.com/jobs/view/databricks-data-engineer-at-oldrex-technologies-4486895080?position=12&pageNum=0&refId=1X63yiurMtUKDGVf%2B7d8qg%3D%3D&trackingId=%2BXoj%2Fl27LLK7IBJ6rF0DIQ%3D%3D",
-    "location": "Washington, DC",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-11-03 16:56 UTC"
-  },
-  {
-    "title": "Data Analyst",
-    "company": "C.H. Robinson",
-    "link": "https://www.linkedin.com/jobs/view/data-analyst-at-c-h-robinson-4486054495?position=6&pageNum=0&refId=4cbszSAs9W9OhfWfyFBCwg%3D%3D&trackingId=cJn6ZBuz5dY5nvu55rMW3Q%3D%3D",
-    "location": "Eden Prairie, MN",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-11-03 16:56 UTC"
-  },
-  {
-    "title": "Analytics Engineer II",
-    "company": "EchoStar Corporation",
-    "link": "https://www.linkedin.com/jobs/view/analytics-engineer-ii-at-echostar-corporation-4465160231?position=1&pageNum=0&refId=MzOJzCcu%2B3wgpj9r0sY0Sw%3D%3D&trackingId=a17%2BFUP3v3HqqbtqeEvESg%3D%3D",
-    "location": "Englewood, CO",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-11-03 16:56 UTC"
-  },
-  {
-    "title": "Data & Analytics Engineer",
-    "company": "Revelyst",
-    "link": "https://www.linkedin.com/jobs/view/data-analytics-engineer-at-revelyst-4486048182?position=7&pageNum=0&refId=MzOJzCcu%2B3wgpj9r0sY0Sw%3D%3D&trackingId=B7G0I%2FHEi1C84FZNulsj%2FQ%3D%3D",
-    "location": "Irvine, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-11-03 16:56 UTC"
-  },
-  {
-    "title": "Analytics Engineer",
-    "company": "Casey's",
-    "link": "https://www.linkedin.com/jobs/view/analytics-engineer-at-casey-s-4475227877?position=12&pageNum=0&refId=MzOJzCcu%2B3wgpj9r0sY0Sw%3D%3D&trackingId=UVwVQcANGgur0VCVc9VGYQ%3D%3D",
-    "location": "Ankeny, IA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-11-03 16:56 UTC"
-  },
-  {
-    "title": "Research Scientist I",
-    "company": "Charles River Laboratories",
-    "link": "https://www.linkedin.com/jobs/view/research-scientist-i-at-charles-river-laboratories-4486825359?position=2&pageNum=0&refId=FRrRXs13706ph%2FUvcZGdJw%3D%3D&trackingId=yi1VuUJAMBZhPjEIrMQQ8A%3D%3D",
-    "location": "Mattawan, MI",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-11-03 16:56 UTC"
-  },
-  {
-    "title": "Applied Scientist II, Kiro Science",
-    "company": "Amazon Web Services (AWS)",
-    "link": "https://www.linkedin.com/jobs/view/applied-scientist-ii-kiro-science-at-amazon-web-services-aws-4486858727?position=9&pageNum=0&refId=FRrRXs13706ph%2FUvcZGdJw%3D%3D&trackingId=gxvHq5NAMqSXfUqk0YN%2B4w%3D%3D",
-    "location": "Santa Clara, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-11-03 16:56 UTC"
-  },
-  {
-    "title": "AI Engineer - RL Manipulation, RIVR",
-    "company": "Amazon",
-    "link": "https://www.amazon.jobs/en/jobs/10595360/ai-engineer-rl-manipulation-rivr",
-    "location": "CH, Zurich",
-    "source": "Amazon Careers",
-    "h1b_signal": true,
-    "summary": "Are you passionate about pushing the boundaries of what robots can do? Amazon is looking for a creative and driven Applied Scientist to help build intelligent robotic manipulation systems powered by r",
-    "found_at": "2026-11-03 16:57 UTC"
   }
 ]
