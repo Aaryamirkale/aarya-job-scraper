@@ -1,5 +1,45 @@
 [
   {
+    "title": "Data Engineers",
+    "company": "University of Utah",
+    "link": "https://www.linkedin.com/jobs/view/data-engineers-at-university-of-utah-4487673734?position=8&pageNum=0&refId=Vd7WgROlVf%2FEblo0i3r2EA%3D%3D&trackingId=3h1ddZ36fCiFJoAQ9MaIFw%3D%3D",
+    "location": "Salt Lake City, UT",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-11-09 05:52 UTC"
+  },
+  {
+    "title": "Senior Data Engineer \u2014 AI-Native Data Platform",
+    "company": "Aarden AI",
+    "link": "https://www.linkedin.com/jobs/view/senior-data-engineer-%E2%80%94-ai-native-data-platform-at-aarden-ai-4488801671?position=12&pageNum=0&refId=Vd7WgROlVf%2FEblo0i3r2EA%3D%3D&trackingId=cRSXORmSUAkXYawDpHjGig%3D%3D",
+    "location": "Seattle, WA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-11-09 05:52 UTC"
+  },
+  {
+    "title": "Communications Data Analyst",
+    "company": "Chevron",
+    "link": "https://www.linkedin.com/jobs/view/communications-data-analyst-at-chevron-4486668909?position=10&pageNum=0&refId=%2FvqtZt8AdgghO%2Fvr4%2F%2FR4A%3D%3D&trackingId=8nqo11BjslFeZl%2FFP%2FmhBw%3D%3D",
+    "location": "Houston, TX",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-11-09 05:52 UTC"
+  },
+  {
+    "title": "Robotics - Applied Scientist II Intern / Co-op - 2027 (Robotics, Perception, Man",
+    "company": "Amazon",
+    "link": "https://www.amazon.jobs/en/jobs/10599510/robotics-applied-scientist-ii-intern-co-op-2027-robotics-perception-manipulation-locomotion-planning-hri-and-more-amazon-development-center-taiwan",
+    "location": "TW, TPE, Hsinchu City",
+    "source": "Amazon Careers",
+    "h1b_signal": true,
+    "summary": "Are you passionate about robotics and research? Do you want to solve real customer problems through innovative technology? Do you enjoy working on scalable research and projects in a collaborative tea",
+    "found_at": "2026-11-09 05:52 UTC"
+  },
+  {
     "title": "Sr Data Scientist Commercial Analytics - Corporate",
     "company": "Tech Ladies\u00ae",
     "link": "https://www.linkedin.com/jobs/view/sr-data-scientist-commercial-analytics-corporate-at-tech-ladies%C2%AE-4487654038?position=12&pageNum=0&refId=StXu63goikX9JAoDk9iMEA%3D%3D&trackingId=jHE%2B3I0G4va4dPn1%2F0eKWA%3D%3D",
@@ -2954,46 +2994,6 @@
     "company": "Capital One",
     "link": "https://www.linkedin.com/jobs/view/machine-learning-engineer-5-ic-at-capital-one-4486894472?position=1&pageNum=0&refId=%2FpktqMDSbQwOhSsWXryA7Q%3D%3D&trackingId=5Jji8M5FHasKV9OMrAHA4Q%3D%3D",
     "location": "Richmond, VA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-11-03 16:56 UTC"
-  },
-  {
-    "title": "ML Engineer / ML Platform Engineer",
-    "company": "Tap Growth ai",
-    "link": "https://www.linkedin.com/jobs/view/ml-engineer-ml-platform-engineer-at-tap-growth-ai-4486061456?position=2&pageNum=0&refId=%2FpktqMDSbQwOhSsWXryA7Q%3D%3D&trackingId=GEwEOMwMjLAExkTzuh%2BjLA%3D%3D",
-    "location": "Austin, TX",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-11-03 16:56 UTC"
-  },
-  {
-    "title": "ML Engineer / ML Platform Engineer",
-    "company": "RAPSYS TECHNOLOGIES PTE LTD",
-    "link": "https://www.linkedin.com/jobs/view/ml-engineer-ml-platform-engineer-at-rapsys-technologies-pte-ltd-4486056561?position=8&pageNum=0&refId=%2FpktqMDSbQwOhSsWXryA7Q%3D%3D&trackingId=AgSV35Gz8wE8YuWXFrZJwg%3D%3D",
-    "location": "Austin, TX",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-11-03 16:56 UTC"
-  },
-  {
-    "title": "Senior Machine Learning Engineer - USDS Shop Ads",
-    "company": "Tech Ladies\u00ae",
-    "link": "https://www.linkedin.com/jobs/view/senior-machine-learning-engineer-usds-shop-ads-at-tech-ladies%C2%AE-4486059169?position=10&pageNum=0&refId=%2FpktqMDSbQwOhSsWXryA7Q%3D%3D&trackingId=8nV%2F1Zo7J6UGwmZHfpIVyQ%3D%3D",
-    "location": "Los Angeles, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-11-03 16:56 UTC"
-  },
-  {
-    "title": "AI Engineer II",
-    "company": "Kansas City National Security Campus",
-    "link": "https://www.linkedin.com/jobs/view/ai-engineer-ii-at-kansas-city-national-security-campus-4468766625?position=6&pageNum=0&refId=3QYKgZiR0O7HPCQGb5ojWA%3D%3D&trackingId=vTvWkvILgbxP2SrHWbysOQ%3D%3D",
-    "location": "Kansas City, MO",
     "source": "LinkedIn",
     "h1b_signal": false,
     "summary": "",
