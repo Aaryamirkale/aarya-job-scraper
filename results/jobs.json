@@ -1,5 +1,75 @@
 [
   {
+    "title": "Machine Learning Engineer III, Data",
+    "company": "ACV Auctions",
+    "link": "https://www.linkedin.com/jobs/view/machine-learning-engineer-iii-data-at-acv-auctions-4475096668?position=11&pageNum=0&refId=EAyhW1JAVFcKwCNCieNAyg%3D%3D&trackingId=1ffceYiZX6m5KGZ2FQ5HTg%3D%3D",
+    "location": "Buffalo, NY",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-11-14 22:13 UTC"
+  },
+  {
+    "title": "Data Analyst",
+    "company": "Wesley Health Centers - JWCH Institute, Inc.",
+    "link": "https://www.linkedin.com/jobs/view/data-analyst-at-wesley-health-centers-jwch-institute-inc-4491097439?position=5&pageNum=0&refId=C2PSvUW4mwi%2FBgHp%2FgyqRw%3D%3D&trackingId=yhwLNhkHgktLqnIul91hLw%3D%3D",
+    "location": "Los Angeles, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-11-14 22:13 UTC"
+  },
+  {
+    "title": "Enterprise Data Engineer in Information Technology",
+    "company": "UTHealth Houston",
+    "link": "https://www.linkedin.com/jobs/view/enterprise-data-engineer-in-information-technology-at-uthealth-houston-4491033581?position=12&pageNum=0&refId=iXG%2FA63eL5xmTB4FK4kYLQ%3D%3D&trackingId=L2LY6XyNdAN77KzAqNf0pw%3D%3D",
+    "location": "Houston, TX",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-11-14 22:13 UTC"
+  },
+  {
+    "title": "BI Analytics Engineer",
+    "company": "Stord",
+    "link": "https://www.linkedin.com/jobs/view/bi-analytics-engineer-at-stord-4481002554?position=12&pageNum=0&refId=eUN8yBzksUIFGuukU5yHDg%3D%3D&trackingId=c8AdO%2F01WO0iUL4oNo9ZvA%3D%3D",
+    "location": "Atlanta, GA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-11-14 22:13 UTC"
+  },
+  {
+    "title": "Staff MLOps Engineer",
+    "company": "HCA Healthcare",
+    "link": "https://www.linkedin.com/jobs/view/staff-mlops-engineer-at-hca-healthcare-4436427188?position=10&pageNum=0&refId=1fDCX6hy8fUSCpJKPDSq5A%3D%3D&trackingId=bsgQ8u2%2BBZPVEkjYeUwKcA%3D%3D",
+    "location": "Nashville, TN",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-11-14 22:13 UTC"
+  },
+  {
+    "title": "Data Scientist (PGC) - TikTok",
+    "company": "TikTok",
+    "link": "https://www.linkedin.com/jobs/view/data-scientist-pgc-tiktok-at-tiktok-4489885943?position=11&pageNum=0&refId=Yk1GoolMZN8h8eR2R7XQ0g%3D%3D&trackingId=0YKA39Z2SYqfWA8oHAO4Kw%3D%3D",
+    "location": "San Jose, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-11-14 22:13 UTC"
+  },
+  {
+    "title": "Principal Quantum Error Correction Research Scientist, Applied Research",
+    "company": "NVIDIA",
+    "link": "https://www.linkedin.com/jobs/view/principal-quantum-error-correction-research-scientist-applied-research-at-nvidia-4489891814?position=8&pageNum=0&refId=zaoBHOb8egdROnctQ6jZCw%3D%3D&trackingId=SvpuYZScABrJ6IEDwyZ0EQ%3D%3D",
+    "location": "Redmond, WA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-11-14 22:13 UTC"
+  },
+  {
     "title": "Machine Learning Engineer 4 - Machine Learning Foundations (MLX)",
     "company": "Capital One",
     "link": "https://www.linkedin.com/jobs/view/machine-learning-engineer-4-machine-learning-foundations-mlx-at-capital-one-4483320821?position=1&pageNum=0&refId=8RcKgv%2BLboywPKxuc9jRNw%3D%3D&trackingId=g%2FWjeDyqsMOmVHZofC8VjQ%3D%3D",
@@ -2924,76 +2994,6 @@
     "company": "Penn Medicine, University of Pennsylvania Health System",
     "link": "https://www.linkedin.com/jobs/view/lead-data-engineer-penndna-people-at-penn-medicine-university-of-pennsylvania-health-system-4487968808?position=4&pageNum=0&refId=bU2u2TVnh2J51eXM%2BJwEKg%3D%3D&trackingId=Hpnr286rWxIBXbu0yoy%2B2A%3D%3D",
     "location": "Philadelphia, PA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-11-10 01:24 UTC"
-  },
-  {
-    "title": "Senior Data Engineer Databricks",
-    "company": "Inceed",
-    "link": "https://www.linkedin.com/jobs/view/senior-data-engineer-databricks-at-inceed-4487964784?position=6&pageNum=0&refId=bU2u2TVnh2J51eXM%2BJwEKg%3D%3D&trackingId=Swnz7W8puBqaOSoNYABREA%3D%3D",
-    "location": "Greenwood Village, CO",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-11-10 01:24 UTC"
-  },
-  {
-    "title": "Data Engineer II",
-    "company": "Fanatics",
-    "link": "https://www.linkedin.com/jobs/view/data-engineer-ii-at-fanatics-4487182366?position=9&pageNum=0&refId=bU2u2TVnh2J51eXM%2BJwEKg%3D%3D&trackingId=OAT8VrodIhUmZ9m8zTmGkQ%3D%3D",
-    "location": "New York, NY",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-11-10 01:24 UTC"
-  },
-  {
-    "title": "Senior Data Engineer (Remote - US)",
-    "company": "ebbo",
-    "link": "https://www.linkedin.com/jobs/view/senior-data-engineer-remote-us-at-ebbo-4489152432?position=10&pageNum=0&refId=bU2u2TVnh2J51eXM%2BJwEKg%3D%3D&trackingId=cqOH3U6D7OWT%2FMrjycw7hg%3D%3D",
-    "location": "Rocky Hill, CT",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-11-10 01:24 UTC"
-  },
-  {
-    "title": "Data Engineer, Market Data",
-    "company": "MIO Partners, Inc.",
-    "link": "https://www.linkedin.com/jobs/view/data-engineer-market-data-at-mio-partners-inc-4488882832?position=12&pageNum=0&refId=bU2u2TVnh2J51eXM%2BJwEKg%3D%3D&trackingId=S5dOqO8aq4l2Yn6U0M84ag%3D%3D",
-    "location": "New York, United States",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-11-10 01:24 UTC"
-  },
-  {
-    "title": "Senior Business Intelligence Analyst",
-    "company": "Blue Cross NC",
-    "link": "https://www.linkedin.com/jobs/view/senior-business-intelligence-analyst-at-blue-cross-nc-4487931147?position=4&pageNum=0&refId=XDb8VRnptDk%2FqSiwTfd7Bw%3D%3D&trackingId=tf3PsPE1tk3dnvAv%2Bh42Ow%3D%3D",
-    "location": "Raleigh-Durham-Chapel Hill Area",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-11-10 01:24 UTC"
-  },
-  {
-    "title": "Sr Business Intelligence Analyst (Financial)",
-    "company": "LaSalle Intelligent Solutions",
-    "link": "https://www.linkedin.com/jobs/view/sr-business-intelligence-analyst-financial-at-lasalle-intelligent-solutions-4489115324?position=6&pageNum=0&refId=XDb8VRnptDk%2FqSiwTfd7Bw%3D%3D&trackingId=IFv8rA%2BDz%2Bj5fyFcZA8mbQ%3D%3D",
-    "location": "Chicago, IL",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-11-10 01:24 UTC"
-  },
-  {
-    "title": "Data Analyst (Remote)",
-    "company": "RemoteHunter",
-    "link": "https://www.linkedin.com/jobs/view/data-analyst-remote-at-remotehunter-4487942962?position=10&pageNum=0&refId=XDb8VRnptDk%2FqSiwTfd7Bw%3D%3D&trackingId=Q2%2FoRy6aG%2FYSVB01cYIEeA%3D%3D",
-    "location": "United States",
     "source": "LinkedIn",
     "h1b_signal": false,
     "summary": "",
