@@ -1,5 +1,145 @@
 [
   {
+    "title": "Staff Data Scientist",
+    "company": "Global Partners LP",
+    "link": "https://www.linkedin.com/jobs/view/staff-data-scientist-at-global-partners-lp-4454685361?position=10&pageNum=0&refId=ZtNmsP6oStfx3ZGf0yKNbg%3D%3D&trackingId=iDeo7QHuDK9ykZEr8tycpw%3D%3D",
+    "location": "Auburndale, MA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-11-16 10:54 UTC"
+  },
+  {
+    "title": "Manager, Data Scientist - Card Mainstreet",
+    "company": "Capital One",
+    "link": "https://www.linkedin.com/jobs/view/manager-data-scientist-card-mainstreet-at-capital-one-4466093575?position=12&pageNum=0&refId=ZtNmsP6oStfx3ZGf0yKNbg%3D%3D&trackingId=ZeYOGSFTqiYZ52SqSTmYvw%3D%3D",
+    "location": "McLean, VA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-11-16 10:54 UTC"
+  },
+  {
+    "title": "ML Engineer",
+    "company": "Fonzi AI",
+    "link": "https://www.linkedin.com/jobs/view/ml-engineer-at-fonzi-ai-4490247205?position=12&pageNum=0&refId=yeGuqLh36yNUFlNy490Kmw%3D%3D&trackingId=B5bCmp5aG6aX75Rop1XKkg%3D%3D",
+    "location": "San Francisco Bay Area",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-11-16 10:54 UTC"
+  },
+  {
+    "title": "Senior Data Analyst",
+    "company": "Abbott",
+    "link": "https://www.linkedin.com/jobs/view/senior-data-analyst-at-abbott-4491298107?position=2&pageNum=0&refId=MHDvyZc103ah%2Fy2Yk1184g%3D%3D&trackingId=awKwUJEcj9mc3vCS9e00zw%3D%3D",
+    "location": "Irving, TX",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-11-16 10:54 UTC"
+  },
+  {
+    "title": "Senior Data Analyst",
+    "company": "House Buyers of America, Inc.",
+    "link": "https://www.linkedin.com/jobs/view/senior-data-analyst-at-house-buyers-of-america-inc-4489725152?position=3&pageNum=0&refId=MHDvyZc103ah%2Fy2Yk1184g%3D%3D&trackingId=YK4nxS4t1cIqF6YlOh9U%2FQ%3D%3D",
+    "location": "Tysons Corner, VA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-11-16 10:54 UTC"
+  },
+  {
+    "title": "Founding Machine Learning Engineer",
+    "company": "Solstice",
+    "link": "https://www.linkedin.com/jobs/view/founding-machine-learning-engineer-at-solstice-4491276827?position=7&pageNum=0&refId=I5GFmypYkgATG17fZkv%2BMw%3D%3D&trackingId=u4MCKCoimyjukSqpzexi4A%3D%3D",
+    "location": "New York, NY",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-11-16 10:54 UTC"
+  },
+  {
+    "title": "Senior Machine Learning Engineer \u2013 End-to-End Autonomous Driving",
+    "company": "Qualcomm",
+    "link": "https://www.linkedin.com/jobs/view/senior-machine-learning-engineer-%E2%80%93-end-to-end-autonomous-driving-at-qualcomm-4482645313?position=9&pageNum=0&refId=I5GFmypYkgATG17fZkv%2BMw%3D%3D&trackingId=vy3%2FKYKibLJNyMXdvEJVlw%3D%3D",
+    "location": "San Diego, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-11-16 10:54 UTC"
+  },
+  {
+    "title": "Snowflake Advanced AI Engineer",
+    "company": "Accenture",
+    "link": "https://www.linkedin.com/jobs/view/snowflake-advanced-ai-engineer-at-accenture-4490270347?position=12&pageNum=0&refId=I5GFmypYkgATG17fZkv%2BMw%3D%3D&trackingId=2xqKvtsMGtkbdUwfyYKpBQ%3D%3D",
+    "location": "Cincinnati, OH",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-11-16 10:54 UTC"
+  },
+  {
+    "title": "Data Engineer - Amway North America Market",
+    "company": "Amway",
+    "link": "https://www.linkedin.com/jobs/view/data-engineer-amway-north-america-market-at-amway-4464251131?position=11&pageNum=0&refId=3vY3AAlnBO2boBkuS0f2uw%3D%3D&trackingId=d7jys2obiM0h8Z%2Bbrq%2FVPA%3D%3D",
+    "location": "Ada, MI",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-11-16 10:54 UTC"
+  },
+  {
+    "title": "Sr Data Engineer (Data Architecture and Modeling)",
+    "company": "Skydance",
+    "link": "https://www.linkedin.com/jobs/view/sr-data-engineer-data-architecture-and-modeling-at-skydance-4438644544?position=3&pageNum=0&refId=VLKC%2F2ziiLeHX1S3S7YYXw%3D%3D&trackingId=1M0mu1r8ZM%2BsvsKSJhzaPw%3D%3D",
+    "location": "New York, NY",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-11-16 10:54 UTC"
+  },
+  {
+    "title": "Environmental Data Engineer, AWS Environmental",
+    "company": "Amazon Web Services (AWS)",
+    "link": "https://www.linkedin.com/jobs/view/environmental-data-engineer-aws-environmental-at-amazon-web-services-aws-4475057420?position=12&pageNum=0&refId=VLKC%2F2ziiLeHX1S3S7YYXw%3D%3D&trackingId=Hjbp1cHTpjYSGArX%2BY9hrA%3D%3D",
+    "location": "Austin, TX",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-11-16 10:54 UTC"
+  },
+  {
+    "title": "Clinical Outcomes AI Data Analyst",
+    "company": "Children's Hospital of Philadelphia",
+    "link": "https://www.linkedin.com/jobs/view/clinical-outcomes-ai-data-analyst-at-children-s-hospital-of-philadelphia-4490246981?position=3&pageNum=0&refId=wBgr0yzYqH65%2FIXgc0u%2F2w%3D%3D&trackingId=EPpeHgF0sew59r%2FeWHM%2BpA%3D%3D",
+    "location": "Philadelphia, PA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-11-16 10:54 UTC"
+  },
+  {
+    "title": "PKPD & PMx  Data Scientist \u2013 PK Data Delivery",
+    "company": "BioSpace",
+    "link": "https://www.linkedin.com/jobs/view/pkpd-pmx-data-scientist-%E2%80%93-pk-data-delivery-at-biospace-4491278971?position=9&pageNum=0&refId=wBgr0yzYqH65%2FIXgc0u%2F2w%3D%3D&trackingId=ry248EykogJAQz2OymfMZw%3D%3D",
+    "location": "Indianapolis, IN",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-11-16 10:54 UTC"
+  },
+  {
+    "title": "Data Engineer, Amazon Operations Finance Standardisation and Automation",
+    "company": "Amazon",
+    "link": "https://www.amazon.jobs/en/jobs/10605597/data-engineer-amazon-operations-finance-standardisation-and-automation",
+    "location": "IN, TS, Hyderabad",
+    "source": "Amazon Careers",
+    "h1b_signal": true,
+    "summary": "As a Data Engineer in Data Infrastructure and Strategy group, you will play a key role in transforming the way Operations Finance teams access and analyse the data. You will work to advance 3 Year Dat",
+    "found_at": "2026-11-16 10:55 UTC"
+  },
+  {
     "title": "Data Engineer",
     "company": "eNGINE",
     "link": "https://www.linkedin.com/jobs/view/data-engineer-at-engine-4490757060?position=4&pageNum=0&refId=hvuBF4wgWfoNn15mpFkmoA%3D%3D&trackingId=jIS8YERRx%2F%2FhIeMscXGw7A%3D%3D",
@@ -2854,146 +2994,6 @@
     "company": "Northrop Grumman",
     "link": "https://www.linkedin.com/jobs/view/sr-principal-data-scientist-%E2%80%93-machine-learning-and-predictive-analytics-at-northrop-grumman-4489468039?position=7&pageNum=0&refId=qfcmHHv7AP0LwQvZq2il1Q%3D%3D&trackingId=q53CYAkJnmtemuny9paIdA%3D%3D",
     "location": "San Diego, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-11-10 19:35 UTC"
-  },
-  {
-    "title": "Data Scientist I, NEST",
-    "company": "AbilityLinks",
-    "link": "https://www.linkedin.com/jobs/view/data-scientist-i-nest-at-abilitylinks-4488320504?position=11&pageNum=0&refId=qfcmHHv7AP0LwQvZq2il1Q%3D%3D&trackingId=YMQyMEFspqqUKpxdyxvhMQ%3D%3D",
-    "location": "Bellevue, WA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-11-10 19:35 UTC"
-  },
-  {
-    "title": "Senior Data Scientist \u2013 Payment Accuracy",
-    "company": "CVS Health",
-    "link": "https://www.linkedin.com/jobs/view/senior-data-scientist-%E2%80%93-payment-accuracy-at-cvs-health-4489178760?position=12&pageNum=0&refId=qfcmHHv7AP0LwQvZq2il1Q%3D%3D&trackingId=6sQgTPhT79SSCtDH5s0W0g%3D%3D",
-    "location": "New York, NY",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-11-10 19:35 UTC"
-  },
-  {
-    "title": "Machine Learning Engineer, Transaction Risk",
-    "company": "Stripe",
-    "link": "https://www.linkedin.com/jobs/view/machine-learning-engineer-transaction-risk-at-stripe-4489610106?position=2&pageNum=0&refId=T8RoCaKJ6zsIy51j2G26yA%3D%3D&trackingId=QCMdDl0J8Cxx%2BINXDlrRyg%3D%3D",
-    "location": "Seattle, WA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-11-10 19:35 UTC"
-  },
-  {
-    "title": "Machine Learning Engineer",
-    "company": "Harnham",
-    "link": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-harnham-4489482895?position=5&pageNum=0&refId=T8RoCaKJ6zsIy51j2G26yA%3D%3D&trackingId=OmnWkwL9QzNCBXgC7nQxMQ%3D%3D",
-    "location": "Austin, Texas Metropolitan Area",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-11-10 19:35 UTC"
-  },
-  {
-    "title": "Senior Machine Learning Engineer",
-    "company": "Moralis",
-    "link": "https://www.linkedin.com/jobs/view/senior-machine-learning-engineer-at-moralis-4487492041?position=9&pageNum=0&refId=T8RoCaKJ6zsIy51j2G26yA%3D%3D&trackingId=Dw90ze3IONQvP4Y9DhWCNA%3D%3D",
-    "location": "San Francisco Bay Area",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-11-10 19:35 UTC"
-  },
-  {
-    "title": "Senior Data Analyst",
-    "company": "TalentHop",
-    "link": "https://www.linkedin.com/jobs/view/senior-data-analyst-at-talenthop-4487493217?position=10&pageNum=0&refId=QZX3rlRKO%2Fpr1weUR2kBAw%3D%3D&trackingId=Y0NwBptxqpNEHKlp%2BdBizQ%3D%3D",
-    "location": "United States",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-11-10 19:35 UTC"
-  },
-  {
-    "title": "AI Engineer",
-    "company": "Consumer Cellular, Inc.",
-    "link": "https://www.linkedin.com/jobs/view/ai-engineer-at-consumer-cellular-inc-4487801858?position=5&pageNum=0&refId=rS%2Bx9QMlcczXkf19hf3ZZA%3D%3D&trackingId=TTqOkFZHoAjTXHTXtQnbQg%3D%3D",
-    "location": "Scottsdale, AZ",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-11-10 19:35 UTC"
-  },
-  {
-    "title": "AI Engineer, Multimodal LLMs",
-    "company": "Eloquent AI",
-    "link": "https://www.linkedin.com/jobs/view/ai-engineer-multimodal-llms-at-eloquent-ai-4489445503?position=6&pageNum=0&refId=rS%2Bx9QMlcczXkf19hf3ZZA%3D%3D&trackingId=vxBSJ7YXc5Cd%2Fbn%2B8uhIlg%3D%3D",
-    "location": "San Francisco, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-11-10 19:35 UTC"
-  },
-  {
-    "title": "Sr Agentic AI Engineer I - Global Servicing Technology",
-    "company": "American Express",
-    "link": "https://www.linkedin.com/jobs/view/sr-agentic-ai-engineer-i-global-servicing-technology-at-american-express-4432906627?position=7&pageNum=0&refId=rS%2Bx9QMlcczXkf19hf3ZZA%3D%3D&trackingId=MbKvpuC1E%2BjFyipQgSn4AA%3D%3D",
-    "location": "Sunrise, FL",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-11-10 19:35 UTC"
-  },
-  {
-    "title": "AI Engineer, Agent",
-    "company": "Eloquent AI",
-    "link": "https://www.linkedin.com/jobs/view/ai-engineer-agent-at-eloquent-ai-4489452275?position=8&pageNum=0&refId=rS%2Bx9QMlcczXkf19hf3ZZA%3D%3D&trackingId=7ToGHyYaFT5ny7oq8YclvQ%3D%3D",
-    "location": "San Francisco, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-11-10 19:35 UTC"
-  },
-  {
-    "title": "Staff Applied AI Engineer",
-    "company": "FUTURE MODERN",
-    "link": "https://www.linkedin.com/jobs/view/staff-applied-ai-engineer-at-future-modern-4487033049?position=11&pageNum=0&refId=rS%2Bx9QMlcczXkf19hf3ZZA%3D%3D&trackingId=3LXcQcJPhhHPpbiVD26qUg%3D%3D",
-    "location": "New York, NY",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-11-10 19:35 UTC"
-  },
-  {
-    "title": "AI/ML Engineer III, Enterprise AI",
-    "company": "Ahold Delhaize USA",
-    "link": "https://www.linkedin.com/jobs/view/ai-ml-engineer-iii-enterprise-ai-at-ahold-delhaize-usa-4489607734?position=12&pageNum=0&refId=rS%2Bx9QMlcczXkf19hf3ZZA%3D%3D&trackingId=UCvQcOok59iAcsUnk%2For0A%3D%3D",
-    "location": "Chicago, IL",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-11-10 19:35 UTC"
-  },
-  {
-    "title": "Senior Data Engineer, DX",
-    "company": "Tech Ladies\u00ae",
-    "link": "https://www.linkedin.com/jobs/view/senior-data-engineer-dx-at-tech-ladies%C2%AE-4488366814?position=1&pageNum=0&refId=HOXxb4Ah1wQvLYUy2E9gDA%3D%3D&trackingId=%2BFkemeTiMy1t6TkH7tAz%2Bg%3D%3D",
-    "location": "Salt Lake City, UT",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-11-10 19:35 UTC"
-  },
-  {
-    "title": "Data Engineer",
-    "company": "Acrisure",
-    "link": "https://www.linkedin.com/jobs/view/data-engineer-at-acrisure-4488358644?position=9&pageNum=0&refId=HOXxb4Ah1wQvLYUy2E9gDA%3D%3D&trackingId=TaWK1IVtO%2FLXG8WxhAlQJQ%3D%3D",
-    "location": "Austin, TX",
     "source": "LinkedIn",
     "h1b_signal": false,
     "summary": "",
