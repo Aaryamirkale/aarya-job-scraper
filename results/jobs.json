@@ -1,5 +1,95 @@
 [
   {
+    "title": "Senior Data Scientist",
+    "company": "Archer",
+    "link": "https://www.linkedin.com/jobs/view/senior-data-scientist-at-archer-4492565135?position=11&pageNum=0&refId=PpVYG%2Fu6ZITT0o3iAh8wmA%3D%3D&trackingId=Qqanb4U3C3iHVVBjOC3kCA%3D%3D",
+    "location": "Nashville, TN",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-11-21 02:03 UTC"
+  },
+  {
+    "title": "Sr. Machine Learning Engineer",
+    "company": "PayPal",
+    "link": "https://www.linkedin.com/jobs/view/sr-machine-learning-engineer-at-paypal-4493220476?position=2&pageNum=0&refId=VDzLFwTLj2m1Ghpaer5LZA%3D%3D&trackingId=L05DrT%2BSGwGkGgC480i%2Fqg%3D%3D",
+    "location": "San Jose, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-11-21 02:03 UTC"
+  },
+  {
+    "title": "Machine Learning Engineer, Level 5",
+    "company": "Snap Inc.",
+    "link": "https://www.linkedin.com/jobs/view/machine-learning-engineer-level-5-at-snap-inc-4493224698?position=10&pageNum=0&refId=VDzLFwTLj2m1Ghpaer5LZA%3D%3D&trackingId=fFJ%2BbK983fTssa%2BGbqpVkg%3D%3D",
+    "location": "Sunnyvale, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-11-21 02:03 UTC"
+  },
+  {
+    "title": "Product Data Analyst",
+    "company": "SANY America",
+    "link": "https://www.linkedin.com/jobs/view/product-data-analyst-at-sany-america-4493211286?position=4&pageNum=0&refId=h8cc6yqOEul3UiqFYiqHtg%3D%3D&trackingId=nC1iFy7gP6AkvTldPCglbw%3D%3D",
+    "location": "Peachtree City, GA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-11-21 02:03 UTC"
+  },
+  {
+    "title": "Product Analyst, Member Experience",
+    "company": "NMDP",
+    "link": "https://www.linkedin.com/jobs/view/product-analyst-member-experience-at-nmdp-4492853714?position=5&pageNum=0&refId=h8cc6yqOEul3UiqFYiqHtg%3D%3D&trackingId=U7GcjmlLUEoB%2FX1RFgGf3A%3D%3D",
+    "location": "United States",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-11-21 02:03 UTC"
+  },
+  {
+    "title": "Multi Asset Product Analyst",
+    "company": "T. Rowe Price",
+    "link": "https://www.linkedin.com/jobs/view/multi-asset-product-analyst-at-t-rowe-price-4491933296?position=7&pageNum=0&refId=h8cc6yqOEul3UiqFYiqHtg%3D%3D&trackingId=gRzAKxyJQk4u3e7I5IKwqw%3D%3D",
+    "location": "Baltimore, MD",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-11-21 02:03 UTC"
+  },
+  {
+    "title": "Member of Technical Staff, Analytics Engineer",
+    "company": "Profound",
+    "link": "https://www.linkedin.com/jobs/view/member-of-technical-staff-analytics-engineer-at-profound-4474846395?position=8&pageNum=0&refId=h8cc6yqOEul3UiqFYiqHtg%3D%3D&trackingId=pbiVMG%2FC8qIJ0KEqNYbOAQ%3D%3D",
+    "location": "New York, NY",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-11-21 02:03 UTC"
+  },
+  {
+    "title": "Data Science Associate",
+    "company": "Onyx Odds",
+    "link": "https://www.linkedin.com/jobs/view/data-science-associate-at-onyx-odds-4486454777?position=10&pageNum=0&refId=h8cc6yqOEul3UiqFYiqHtg%3D%3D&trackingId=bZ%2Bn2y%2FptglpxSnQsKXzOg%3D%3D",
+    "location": "New York, NY",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-11-21 02:03 UTC"
+  },
+  {
+    "title": "RESEARCH SCIENTIST - Chemistry",
+    "company": "Scripps Research",
+    "link": "https://www.linkedin.com/jobs/view/research-scientist-chemistry-at-scripps-research-4492997783?position=1&pageNum=0&refId=qsNIN8tH8iiLUsrYkFPD2A%3D%3D&trackingId=wxHYnQywIc3yfUIsvg1rjA%3D%3D",
+    "location": "San Diego, CA",
+    "source": "LinkedIn",
+    "h1b_signal": false,
+    "summary": "",
+    "found_at": "2026-11-21 02:03 UTC"
+  },
+  {
     "title": "Principal Associate, Data Scientist - Card Finance Innovation Team",
     "company": "Capital One",
     "link": "https://www.linkedin.com/jobs/view/principal-associate-data-scientist-card-finance-innovation-team-at-capital-one-4440982573?position=4&pageNum=0&refId=Y9HABRGBnDGPD7dcIJFhNw%3D%3D&trackingId=9wZoObc1sfFzuL%2B1qZ6FKQ%3D%3D",
@@ -2904,96 +2994,6 @@
     "company": "Walmart Data Ventures",
     "link": "https://www.linkedin.com/jobs/view/usa-principal-data-scientist-at-walmart-data-ventures-4434801764?position=11&pageNum=0&refId=ZWI2FEmB2eg%2Bv%2BVOw5fIYQ%3D%3D&trackingId=oJ5v1lEqOrCpKAd4rywQJw%3D%3D",
     "location": "Bentonville, AR",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-11-15 20:16 UTC"
-  },
-  {
-    "title": "Senior Data Scientist, AI for Business Functions",
-    "company": "Micron Technology",
-    "link": "https://www.linkedin.com/jobs/view/senior-data-scientist-ai-for-business-functions-at-micron-technology-4446065516?position=12&pageNum=0&refId=ZWI2FEmB2eg%2Bv%2BVOw5fIYQ%3D%3D&trackingId=wdYavmywRscMAQzrjaoqVw%3D%3D",
-    "location": "Boise, ID",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-11-15 20:16 UTC"
-  },
-  {
-    "title": "Senior Machine Learning Engineer",
-    "company": "Tech Ladies\u00ae",
-    "link": "https://www.linkedin.com/jobs/view/senior-machine-learning-engineer-at-tech-ladies%C2%AE-4490239227?position=12&pageNum=0&refId=hGtXYaLq%2BzoBnrlNFzbcjg%3D%3D&trackingId=ZdgW0L8j3DM7eacG%2BlTZNA%3D%3D",
-    "location": "San Francisco, CA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-11-15 20:16 UTC"
-  },
-  {
-    "title": "Senior Data Analyst",
-    "company": "First Chicago Insurance Company",
-    "link": "https://www.linkedin.com/jobs/view/senior-data-analyst-at-first-chicago-insurance-company-4491267368?position=1&pageNum=0&refId=S3FgE%2BZiaVozHBYB65CfJg%3D%3D&trackingId=nPK5lorbYVetrLqMpouhwg%3D%3D",
-    "location": "Chicago, IL",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-11-15 20:16 UTC"
-  },
-  {
-    "title": "Senior Data Analyst - Enterprise Services",
-    "company": "Tech Ladies\u00ae",
-    "link": "https://www.linkedin.com/jobs/view/senior-data-analyst-enterprise-services-at-tech-ladies%C2%AE-4490232377?position=7&pageNum=0&refId=S3FgE%2BZiaVozHBYB65CfJg%3D%3D&trackingId=oyaM6WwUpdoD%2F5vSxtyzYQ%3D%3D",
-    "location": "McLean, VA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-11-15 20:16 UTC"
-  },
-  {
-    "title": "Senior Data Analyst",
-    "company": "Range",
-    "link": "https://www.linkedin.com/jobs/view/senior-data-analyst-at-range-4454637686?position=11&pageNum=0&refId=S3FgE%2BZiaVozHBYB65CfJg%3D%3D&trackingId=pgCAgar2cbFJ1VN2XY2IMw%3D%3D",
-    "location": "McLean, VA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-11-15 20:16 UTC"
-  },
-  {
-    "title": "Machine Learning Engineer, Core Engineering",
-    "company": "Pinterest",
-    "link": "https://www.linkedin.com/jobs/view/machine-learning-engineer-core-engineering-at-pinterest-4182358258?position=10&pageNum=0&refId=zZX4Fq%2Fn2D%2FDIrB4jgz7TA%3D%3D&trackingId=%2F%2BB3EkDjezpDEzTza1hKKA%3D%3D",
-    "location": "Seattle, WA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-11-15 20:16 UTC"
-  },
-  {
-    "title": "Data Engineer",
-    "company": "Wingstop Restaurants Inc.",
-    "link": "https://www.linkedin.com/jobs/view/data-engineer-at-wingstop-restaurants-inc-4454132755?position=7&pageNum=0&refId=ajdvdh4yTPK0hbQWf3HWOg%3D%3D&trackingId=ETATDbXZpLfkIlp8K%2FHtMQ%3D%3D",
-    "location": "Dallas, TX",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-11-15 20:16 UTC"
-  },
-  {
-    "title": "Data Engineer II - Supply Chain",
-    "company": "Ahold Delhaize USA",
-    "link": "https://www.linkedin.com/jobs/view/data-engineer-ii-supply-chain-at-ahold-delhaize-usa-4483313815?position=8&pageNum=0&refId=ajdvdh4yTPK0hbQWf3HWOg%3D%3D&trackingId=lkYAJYDe3E5hJFOMjULVdg%3D%3D",
-    "location": "Quincy, MA",
-    "source": "LinkedIn",
-    "h1b_signal": false,
-    "summary": "",
-    "found_at": "2026-11-15 20:16 UTC"
-  },
-  {
-    "title": "Staff Data Engineer",
-    "company": "Tech Ladies\u00ae",
-    "link": "https://www.linkedin.com/jobs/view/staff-data-engineer-at-tech-ladies%C2%AE-4490236305?position=9&pageNum=0&refId=ajdvdh4yTPK0hbQWf3HWOg%3D%3D&trackingId=1kNWneHt79E9bRpGdWvU3A%3D%3D",
-    "location": "San Diego, CA",
     "source": "LinkedIn",
     "h1b_signal": false,
     "summary": "",
